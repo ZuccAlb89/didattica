@@ -1,0 +1,11 @@
+---
+title: "Didattica"
+---
+
+# Lezioni
+
+Raccolta del materiale didattico e delle presentazioni.
+
+## Corsi
+
+Le diverse attività didattiche saranno organizzate per corso.

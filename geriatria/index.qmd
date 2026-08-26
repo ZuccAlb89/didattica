@@ -1,0 +1,13 @@
+---
+title: "Geriatria"
+---
+
+# Geriatria
+
+Materiale didattico del corso di Geriatria.
+
+## Lezioni
+
+### Educazione Professionale
+
+- [Invecchiamento e fragilità](01-invecchiamento-fragilita.qmd)
