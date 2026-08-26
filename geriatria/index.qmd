@@ -10,4 +10,4 @@ Materiale didattico del corso di Geriatria.
 
 ### Educazione Professionale
 
-- [Invecchiamento e fragilità](01-invecchiamento-fragilita.qmd)
+- [Invecchiamento e fragilità](educazione-professionale/01_invecchiamento_fragilita.qmd)
