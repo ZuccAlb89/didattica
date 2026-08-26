@@ -1,0 +1,95 @@
+---
+title: "Valutazione Multidimensionale"
+subtitle: "Corso di geriatria - Educazione Professionale"
+author: "Alberto Zucchelli"
+format:
+  clean-revealjs:
+    slide-number: c/t
+    transition: fade
+    incremental: true
+    width: 1280
+    height: 720
+    margin: 0.06
+    footer: "alberto.zucchelli@unibs.it"
+---
+
+## Recap
+
+Nella lezione precedente:
+
+- L'età cronologica non è sufficiente
+- Il modello bio-psico-sociale come lente
+- La fragilità come vulnerabilità con i suoi problemi
+  - Standardizzazione
+  - Esclusione
+
+::: {.fragment}
+[Valutazione dei bisogni!]{.alert}
+:::
+
+## VMD
+La Valutazione Multidimensionale è il processo utilizzato per:
+
+- indagare i bisogni
+- comunicare all'interno del team di cura
+- pianificare un intervento
+- valutarne l'efficacia
+
+## VMD
+*Multidimensionale* perché valuta diversi aspetti della salute
+
+Uno degli approcci proposti è il "5M":
+
+- **M**ind
+- **M**obility
+- **M**edications
+- **M**ulticomplexity
+- [**M**atters the most]{.alert} 
+
+## Il modello 5M
+
+| Mind | Mobility | Medications | Multicomplexity | Matters the most |
+|---|---|---|---|---|
+| Cognizione, delirium, memoria, depressione | Cammino, cadute, autonomia | Eventi avversi, revisione terapeutica, farmaci | Problemi sociali, economici, molte malattie | Volontà e aspettative |
+
+
+- Per ogni aspetto ho scale specifiche per standardizzazione
+- Il modello è una [guida]{.alert}, non una rigida gerarchia
+- La valutazione finale **deve** essere [globale]{.alert}
+
+## Caso clinico: la sig.ra M {.smaller .scrollable #caso-5m}
+
+
+La *sig.ra M* ha 85 anni e vive sola in un vecchio edificio disposto su due piani. Esce molto raramente di casa. Una nipote la visita tre o quattro volte alla settimana e rappresenta il suo principale riferimento familiare.
+
+La sig.ra M riesce ancora a svolgere alcuni piccoli lavori domestici, ma necessita dell’aiuto della nipote per le attività più impegnative. È la nipote, infatti, a occuparsi della lavatrice, della maggior parte delle pulizie, della spesa e del pagamento delle bollette. La sig.ra M prepara autonomamente la cena, generalmente una minestra, oppure riscalda cibi precotti portati dalla nipote.
+
+Recentemente è stata ricoverata in ospedale per sette giorni. Dopo la dimissione ha sviluppato una marcata difficoltà nel salire le scale e non riesce più a raggiungere la camera da letto al piano superiore. Per questo motivo è stata sistemata una branda nel soggiorno al piano terra.
+
+Anche la vasca da bagno si trova al piano superiore: non potendovi più accedere, la sig.ra M si lava parzialmente nel piccolo bagno di servizio al piano terra, con l’aiuto della nipote.
+
+La nipote riferisce inoltre una crescente difficoltà nella gestione della terapia farmacologica. Alla dimissione sono stati modificati tre principi attivi, è stata introdotta una terapia sedativa per l’agitazione comparsa durante il ricovero e la metformina è stata sostituita con insulina.
+
+Da allora la sig.ra M ha iniziato a fare confusione con i farmaci. In almeno un’occasione la nipote ha riscontrato un episodio di ipoglicemia dovuto a un’errata somministrazione dell’insulina.
+
+Da qualche tempo la sig.ra M appare inoltre particolarmente “spenta”. Ha perso interesse per attività che in precedenza occupavano una parte importante delle sue giornate: cuciva spesso per il pronipote ed era un’appassionata lettrice di romanzi gialli.
+
+Anche la situazione della nipote è diventata più complessa. Riferisce di sentirsi molto stanca: il figlio sta attraversando difficoltà scolastiche e il marito è stato recentemente licenziato. Ha provato a discutere con la sig.ra M la possibilità di coinvolgere una badante o di attivare servizi domiciliari.
+
+La sig.ra M risponde:
+
+> «Io voglio soprattutto riuscire a rimanere qui a casa mia. Non voglio diventare un peso per mia nipote. E vorrei riuscire almeno a tornare a cucire».
+
+## Attività
+
+- Aprite il caso clinico e leggetelo
+
+- In gruppo, identificate gli elementi del caso riferibili a:
+  - Mind
+  - Mobility
+  - Multicomplexity
+  - Medications
+  - Matters the most
+
+- Identificate almeno 2 aree di bisogno che necessitano di valutazione approfondita e gestione.
+  - Perché?
