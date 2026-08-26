@@ -8,4 +8,6 @@ Raccolta del materiale didattico e delle presentazioni.
 
 ## Corsi
 
-Le diverse attività didattiche saranno organizzate per corso.
+### Area clinica
+
+- [Geriatria](geriatria/index.qmd)
