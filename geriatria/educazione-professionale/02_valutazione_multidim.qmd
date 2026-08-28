@@ -11,6 +11,7 @@ format:
     height: 720
     margin: 0.06
     footer: "alberto.zucchelli@unibs.it"
+    preview-links: true
 ---
 
 ## Recap
@@ -19,16 +20,17 @@ Nella lezione precedente:
 
 - L'età cronologica non è sufficiente
 - Il modello bio-psico-sociale come lente
-- La fragilità come vulnerabilità con i suoi problemi
-  - Standardizzazione
-  - Esclusione
+- La fragilità come vulnerabilità, con i suoi problemi:
+  - standardizzazione
+  - esclusione
 
 ::: {.fragment}
 [Valutazione dei bisogni!]{.alert}
 :::
 
 ## VMD
-La Valutazione Multidimensionale è il processo utilizzato per:
+
+La **Valutazione Multidimensionale** è il processo utilizzato per:
 
 - indagare i bisogni
 - comunicare all'interno del team di cura
@@ -36,51 +38,32 @@ La Valutazione Multidimensionale è il processo utilizzato per:
 - valutarne l'efficacia
 
 ## VMD
-*Multidimensionale* perché valuta diversi aspetti della salute
 
-Uno degli approcci proposti è il "5M":
+*Multidimensionale* perché valuta diversi aspetti della salute.
+
+Uno degli approcci proposti è quello delle **5M**:
 
 - **M**ind
 - **M**obility
 - **M**edications
 - **M**ulticomplexity
-- [**M**atters the most]{.alert} 
+- [What **M**atters Most]{.alert}
 
 ## Il modello 5M
 
-| Mind | Mobility | Medications | Multicomplexity | Matters the most |
+| Mind | Mobility | Medications | Multicomplexity | What Matters Most |
 |---|---|---|---|---|
-| Cognizione, delirium, memoria, depressione | Cammino, cadute, autonomia | Eventi avversi, revisione terapeutica, farmaci | Problemi sociali, economici, molte malattie | Volontà e aspettative |
+| Cognizione, delirium, memoria, depressione | Cammino, cadute, autonomia | Eventi avversi, revisione terapeutica, farmaci | Multimorbidità, problemi sociali, economici e assistenziali | Priorità, obiettivi e preferenze |
 
-
-- Per ogni aspetto ho scale specifiche per standardizzazione
+- Per ogni aspetto esistono strumenti e scale che aiutano a **standardizzare** la valutazione
 - Il modello è una [guida]{.alert}, non una rigida gerarchia
 - La valutazione finale **deve** essere [globale]{.alert}
 
-## Caso clinico: la sig.ra M {.smaller .scrollable #caso-5m}
-
-
-La *sig.ra M* ha 85 anni e vive sola in un vecchio edificio disposto su due piani. Esce molto raramente di casa. Una nipote la visita tre o quattro volte alla settimana e rappresenta il suo principale riferimento familiare.
-
-La sig.ra M riesce ancora a svolgere alcuni piccoli lavori domestici, ma necessita dell’aiuto della nipote per le attività più impegnative. È la nipote, infatti, a occuparsi della lavatrice, della maggior parte delle pulizie, della spesa e del pagamento delle bollette. La sig.ra M prepara autonomamente la cena, generalmente una minestra, oppure riscalda cibi precotti portati dalla nipote.
-
-Recentemente è stata ricoverata in ospedale per sette giorni. Dopo la dimissione ha sviluppato una marcata difficoltà nel salire le scale e non riesce più a raggiungere la camera da letto al piano superiore. Per questo motivo è stata sistemata una branda nel soggiorno al piano terra.
-
-Anche la vasca da bagno si trova al piano superiore: non potendovi più accedere, la sig.ra M si lava parzialmente nel piccolo bagno di servizio al piano terra, con l’aiuto della nipote.
-
-La nipote riferisce inoltre una crescente difficoltà nella gestione della terapia farmacologica. Alla dimissione sono stati modificati tre principi attivi, è stata introdotta una terapia sedativa per l’agitazione comparsa durante il ricovero e la metformina è stata sostituita con insulina.
-
-Da allora la sig.ra M ha iniziato a fare confusione con i farmaci. In almeno un’occasione la nipote ha riscontrato un episodio di ipoglicemia dovuto a un’errata somministrazione dell’insulina.
-
-Da qualche tempo la sig.ra M appare inoltre particolarmente “spenta”. Ha perso interesse per attività che in precedenza occupavano una parte importante delle sue giornate: cuciva spesso per il pronipote ed era un’appassionata lettrice di romanzi gialli.
-
-Anche la situazione della nipote è diventata più complessa. Riferisce di sentirsi molto stanca: il figlio sta attraversando difficoltà scolastiche e il marito è stato recentemente licenziato. Ha provato a discutere con la sig.ra M la possibilità di coinvolgere una badante o di attivare servizi domiciliari.
-
-La sig.ra M risponde:
-
-> «Io voglio soprattutto riuscire a rimanere qui a casa mia. Non voglio diventare un peso per mia nipote. E vorrei riuscire almeno a tornare a cucire».
-
 ## Attività
+
+:::: {.columns}
+
+::: {.column width="70%"}
 
 - Aprite il caso clinico e leggetelo
 
@@ -89,7 +72,203 @@ La sig.ra M risponde:
   - Mobility
   - Multicomplexity
   - Medications
-  - Matters the most
+  - What Matters Most
 
-- Identificate almeno 2 aree di bisogno che necessitano di valutazione approfondita e gestione.
-  - Perché?
+- Identificate almeno **2 aree di bisogno** che richiedono una valutazione più approfondita
+  - [Perché?]{.alert}
+
+:::
+
+::: {.column width="30%"}
+
+![](images/qr_sigraM_casoclinico.png){width="70%" fig-align="center"}
+
+:::
+
+::::
+
+## Le scale
+
+L'idea generale è:
+
+- raccolta delle informazioni *standardizzata*
+- valutazione e azione *personalizzate*
+
+## Le scale
+
+Esistono **numerosissime** scale di valutazione.
+
+È bene scegliere sulla base di:
+
+- **Obiettivo:** *cosa mi serve sapere e perché?*
+- **Fonte delle informazioni:** *cartella clinica, caregiver, paziente...?*
+- **Setting di applicazione:** *pronto soccorso, domicilio, reparto, RSA...?*
+- **Validazione e generalizzabilità:** *in quale popolazione e contesto è stata validata? Quali sono caratteristiche, pregi e limiti?*
+
+## Attività
+
+Ogni gruppo sceglie una scala.  
+[Evitate sovrapposizioni!]{.alert}
+
+- Leggetela e comprendetene gli item
+- Compilate il foglio di calcolo
+- Potete utilizzare Internet per cercare informazioni
+- [Uno di voi sarà poi chiamato a presentare la scala.]{.alert}
+
+![](images/qr_google_drive_folder.png){width="70%" fig-align="center"}
+
+## PAUSA
+
+### 10 minuti... {style="text-align: center;"}
+
+## L'utilizzo pratico
+
+Nella valutazione della persona, il professionista può scegliere di approfondire alcuni aspetti con scale specifiche.
+
+Ad esempio:
+
+- *Mind* = MMSE + MADRS
+- *Mobility* = Tinetti + SPPB
+- *Multicomplexity* = MNA-SF + CIRS
+- *Medications* = ACB
+
+::: {.fragment}
+I protocolli variano da setting a setting e da team a team, secondo le necessità.
+:::
+
+## L'utilizzo pratico
+
+Ogni professionista può avere necessità specifiche, ma è utile che un *core* della VMD sia condiviso e conosciuto da tutti.
+
+- Molte scale prevedono dei *cut-off*:
+  - punteggi soglia che permettono di identificare livelli differenti di rischio o compromissione
+
+::: {.fragment}
+
+Ad esempio:
+
+- Scala di Tinetti < 18 = *elevato rischio di caduta*
+- MMSE < 24 = *possibile compromissione cognitiva*
+- MNA-SF 0–7 = *malnutrizione*
+- MNA-SF 8–11 = *rischio di malnutrizione*
+
+:::
+
+## L'utilizzo pratico
+
+### Nessun punteggio, da solo, permette di fare diagnosi.
+
+::: {.fragment}
+
+Lo scopo è ottenere una visione *semi-quantitativa* delle diverse dimensioni di salute che ci interessano.
+
+:::
+
+## Attività {.smaller}
+
+Tre persone:
+
+| Scala | Sig.ra A, 86 anni | Sig.ra F, 86 anni | Sig.ra C, 86 anni |
+|---|---:|---:|---:|
+| **MMSE** | 16 | 4 | 28 |
+| **Barthel Index** | 75 | 0 | 85 |
+| **IADL perse** | 6/8 | 8/8 | 2/8 |
+| **MNA-SF** | 3 | NV | 14 |
+| **Tinetti** | 21 | 0 | 17 |
+| **CIRS-comorbilità** | 3 | 7 | 9 |
+
+::: {.fragment}
+
+- Leggete i tre profili
+- Per ciascuna persona:
+  - descrivete sinteticamente lo stato di salute
+  - identificate almeno un bisogno prioritario
+- Discutete le vostre conclusioni in gruppo
+
+:::
+
+## Dalla valutazione all'intervento
+
+La VMD non termina con un punteggio.
+
+### Serve a orientare cosa fare.
+
+Valutazione → Bisogni → Priorità → Obiettivi → Intervento → Rivalutazione
+
+## Non tutti i problemi diventano obiettivi
+
+Una buona valutazione può identificare molti problemi.
+
+Ma:
+
+- non tutto è modificabile
+- non tutto è prioritario
+- non tutto è importante allo stesso modo per la persona
+
+::: {.fragment}
+[What Matters Most orienta le priorità.]{.alert}
+:::
+
+## Tre cose diverse
+
+**Bisogno**
+
+La sig.ra M non riesce più a uscire di casa.
+
+**Obiettivo**
+
+La sig.ra M torna a uscire di casa almeno una volta alla settimana.
+
+**Intervento**
+
+Training sulle scale, accompagnamento iniziale, adattamento ambientale,
+attivazione della rete sociale...
+
+## What Matters Most {.smaller}
+
+La sig.ra M di prima diceva:
+
+> *«Io voglio soprattutto riuscire a rimanere qui a casa mia.  
+> Non voglio diventare un peso per mia nipote.  
+> E vorrei riuscire almeno a tornare a cucire.»*
+
+Per il professionista:
+
+- salire le scale
+- evitare l'ipoglicemia
+- migliorare la nutrizione
+- ridurre il rischio di caduta
+
+::: {.fragment}
+
+Per la sig.ra M:
+
+### tornare a cucire
+
+Un obiettivo significativo per la persona  
+può diventare il punto di ingresso per lavorare su più bisogni.
+
+:::
+
+## Attività: dalla VMD al progetto {.smaller .scrollable}
+
+Riprendete il caso della *sig.ra M*.
+
+![](images/qr_sigraM_casoclinico.png){width="70%" fig-align="center"}
+
+In gruppo scegliete **un bisogno prioritario**.
+
+Identificate:
+
+1. l' obiettivo 
+2. almeno **due** potenziali interventi
+3. chi potrebbe essere coinvolto
+4. come capireste se l'intervento ha funzionato
+
+
+
+## Kahoot time!
+
+### Recap finale
+
+[**Apri Kahoot ↗**](https://create.kahoot.it/share/vmd-educazione-professionale/16adf6db-0446-4948-90bc-ffc3045785b7){target="_blank" .alert}

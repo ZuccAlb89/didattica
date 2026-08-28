@@ -444,10 +444,12 @@ La valutazione della fragilità diventa un modo per
 
 ### identificare le persone anziane che più probabilmente hanno bisogni di salute complessi
 
-::: {.fragment}
+## Conclusione
 
-*Non serve a decidere chi curare.*
-:::
+### Alla prossima!
+
+[se possibile, portate tablet o laptop!] {.alert}
+
 
 <br>
 
