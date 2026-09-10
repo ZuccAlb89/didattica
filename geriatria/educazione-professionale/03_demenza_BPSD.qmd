@@ -1,0 +1,710 @@
+---
+title: "Demenze e BPSD"
+subtitle: "Riconoscere i quadri, comprendere il comportamento, progettare l’intervento"
+author: "Alberto Zucchelli"
+lang: it
+format:
+  revealjs:
+    theme: simple
+    css: styles_demenze_bpsd.css
+    width: 1280
+    height: 720
+    margin: 0.06
+    center: false
+    transition: fade
+    slide-number: c/t
+    controls: true
+    progress: true
+    incremental: false
+    footer: "Demenze e BPSD | Educazione Professionale"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Da dove partiamo
+
+::: {.big-quote}
+La demenza non è solo un “deficit di memoria”.  
+Il comportamento è un dato clinico, relazionale e ambientale da comprendere.
+:::
+
+::: {.notes}
+Apertura: chiarire subito il cambio di prospettiva. La lezione non mira a formare diagnosti, ma professionisti capaci di osservare, descrivere, contestualizzare e progettare interventi educativi/non farmacologici.
+:::
+
+## Obiettivi della lezione
+
+Al termine delle tre ore, lo studente dovrebbe saper:
+
+- distinguere invecchiamento cognitivo, MCI, demenza e delirium;
+- riconoscere le presentazioni tipiche delle principali demenze;
+- descrivere il percorso diagnostico e il contributo osservativo dell’educatore;
+- identificare e descrivere operativamente un BPSD;
+- formulare più ipotesi esplicative;
+- proporre un primo intervento non farmacologico verificabile.
+
+::: {.notes}
+Non leggere tutta la lista. Esplicitare che la competenza attesa non è “sapere la risposta giusta”, ma saper costruire un ragionamento prudente, osservabile e discutibile in équipe.
+:::
+
+## Struttura delle 3 ore
+
+| Tempo | Fuoco | Modalità |
+|---:|---|---|
+| 0–90 min | Demenze: basi, quadri, diagnosi | Caso, mini-lezione, carte, jigsaw |
+| 90–100 min | Pausa | — |
+| 100–180 min | BPSD: descrizione, interpretazione, intervento | DICE, laboratorio, microsimulazione |
+
+::: {.notes}
+Dare una mappa agli studenti. Anticipare che il caso iniziale tornerà più volte: prima come problema cognitivo, poi come comportamento apparentemente “problematico”.
+:::
+
+# Parte 1 — Demenze
+
+## Caso-stimolo
+
+::: {.casebox}
+Ore 17:30. Una signora tenta ripetutamente di uscire dalla struttura.  
+Dice: “Devo andare a prendere i bambini”.  
+Si irrita quando l’operatore prova a fermarla.
+:::
+
+**In piccoli gruppi:** separate ciò che è osservato da ciò che è interpretato.
+
+::: {.notes}
+Attività 0–10 min. Gruppi da 3–5. Dare due colonne: “osservazione” e “interpretazione”. Esempi da far emergere: osservazione = tenta di uscire, ripete una frase, si irrita; interpretazione = vuole scappare, è aggressiva, non capisce, è oppositiva. Conservare le ipotesi per la chiusura.
+:::
+
+## Osservazione ≠ interpretazione
+
+::: {.columns}
+::: {.column width="50%"}
+**Osservabile**
+
+- che cosa fa;
+- che cosa dice;
+- quando accade;
+- con chi accade;
+- che cosa succede prima e dopo.
+:::
+
+::: {.column width="50%"}
+**Interpretativo**
+
+- perché lo fa;
+- che intenzione ha;
+- che emozione prova;
+- che diagnosi spiega il comportamento;
+- che intervento “serve”.
+:::
+:::
+
+::: {.notes}
+Usare questa slide per correggere il linguaggio. “È aggressiva” diventa “ha colpito l’operatore durante l’igiene”. “È oppositiva” diventa “ha rifiutato tre volte di entrare in bagno”. Questa distinzione sarà la base della parte BPSD.
+:::
+
+## Che cos’è la demenza
+
+La demenza è una **sindrome clinica** caratterizzata da:
+
+- declino acquisito di una o più funzioni cognitive;
+- compromissione dell’autonomia rispetto al livello precedente;
+- andamento spesso cronico-progressivo;
+- forte eterogeneità di cause, presentazioni e traiettorie.
+
+::: {.notes}
+Insistere sul termine sindrome: non è una singola malattia. Collegare subito cognizione e funzione: il deficit cognitivo diventa clinicamente rilevante quando cambia il funzionamento quotidiano.
+:::
+
+## Domini cognitivi da osservare
+
+::: {.columns}
+::: {.column width="33%"}
+**Memoria**  
+nuove informazioni, appuntamenti, ripetizioni
+
+**Linguaggio**  
+parole, comprensione, denominazione
+:::
+
+::: {.column width="33%"}
+**Funzioni esecutive**  
+pianificazione, flessibilità, giudizio
+
+**Attenzione**  
+tenuta, distraibilità, fluttuazioni
+:::
+
+::: {.column width="33%"}
+**Prassie/gnosie**  
+gesti, riconoscimento, uso oggetti
+
+**Cognizione sociale**  
+comportamento, empatia, disinibizione
+:::
+:::
+
+::: {.notes}
+Non trasformare la slide in neuropsicologia dettagliata. Dare esempi educativi: gestione del denaro, uso del telefono, cucina, spostamenti, relazione con gli altri.
+:::
+
+## Un punto essenziale
+
+::: {.big-quote}
+La diagnosi non nasce da un singolo test.  
+Nasce dall’integrazione tra storia, osservazione, funzione, clinica e contesto.
+:::
+
+::: {.notes}
+Questa frase aiuta a collocare il ruolo dell’educatore: non fa diagnosi, ma produce informazioni osservazionali cruciali.
+:::
+
+## Invecchiamento, MCI, demenza, delirium
+
+| Quadro | Andamento | Funzione | Elemento chiave |
+|---|---|---|---|
+| Invecchiamento cognitivo | lento, lieve | conservata | rallentamento, non perdita di autonomia |
+| MCI | acquisito, misurabile | sostanzialmente conservata | rischio aumentato, non demenza |
+| Demenza | progressivo o a gradini | compromessa | perdita rispetto al livello precedente |
+| Delirium | acuto/fluttuante | variabile | attenzione e stato di coscienza alterati |
+
+::: {.notes}
+Chiarire che la tabella serve a orientarsi, non a diagnosticare. Delirium: sempre considerarlo davanti a cambiamento rapido, fluttuazioni, sonnolenza o peggioramento improvviso del comportamento.
+:::
+
+## Attività — carte diagnostiche
+
+**Classificate ogni situazione come:**
+
+1. compatibile con invecchiamento cognitivo;
+2. compatibile con MCI;
+3. compatibile con demenza;
+4. possibile delirium;
+5. informazioni insufficienti.
+
+Poi indicate **quali dati mancano**.
+
+::: {.notes}
+Attività 25–38 min. Preparare 6–8 carte. Metterne alcune ambigue. Esempi: “dimentica nomi ma gestisce tutto”; “da due giorni è confusa e sonnolenta”; “non paga bollette da mesi”; “ripete domande ma vive sola senza problemi”; “peggiora dopo introduzione di farmaco sedativo”. Debrief: la risposta più matura spesso è “mancano dati”.
+:::
+
+## Epidemiologia essenziale
+
+- Nel 2021 circa **57 milioni** di persone vivevano con demenza nel mondo.
+- Ogni anno si stimano quasi **10 milioni** di nuovi casi.
+- La malattia di Alzheimer contribuisce a circa **60–70%** dei casi.
+- L’impatto cresce con età, multimorbilità, disabilità e carico familiare.
+
+Fonte: [WHO Dementia fact sheet, aggiornata 2026](https://www.who.int/news-room/fact-sheets/detail/dementia)
+
+::: {.notes}
+Usare pochi numeri. L’obiettivo non è epidemiologia dettagliata, ma mostrare dimensione del problema e rilevanza per servizi educativi, famiglie, RSA, domicilio e ospedale.
+:::
+
+## Principali forme di demenza
+
+| Forma | Esordio tipico | Segnali utili |
+|---|---|---|
+| Alzheimer | memoria episodica, orientamento | progressione graduale |
+| Vascolare | funzioni esecutive, rallentamento | andamento a gradini, cerebrovasculopatia |
+| Corpi di Lewy | attenzione, visuospaziale | fluttuazioni, allucinazioni visive, parkinsonismo |
+| Frontotemporale | comportamento o linguaggio | disinibizione, apatia, perdita empatia, afasia |
+| Mista | combinata | molto frequente nell’anziano |
+
+::: {.notes}
+Sottolineare che nell’anziano reale le forme miste sono comuni. Evitare presentazioni “da manuale” troppo rigide: servono pattern probabilistici.
+:::
+
+## Alzheimer: presentazione frequente
+
+- Esordio spesso insidioso.
+- Difficoltà a fissare nuove informazioni.
+- Ripetizioni, disorientamento, perdita di oggetti.
+- Progressiva compromissione di IADL e poi BADL.
+
+::: {.notes}
+Collegare a casi concreti: farmaci dimenticati, appuntamenti, gestione del denaro, cucina, orientamento fuori casa. Non ridurre tutto alla memoria: possono comparire linguaggio, prassie, comportamento.
+:::
+
+## Demenza vascolare: cosa osservare
+
+- Rallentamento, difficoltà esecutive, ridotta iniziativa.
+- Possibile andamento a gradini.
+- Disturbi del cammino, cadute, incontinenza, segni neurologici.
+- Spesso coesiste con patologia degenerativa.
+
+::: {.notes}
+Spiegare che il profilo può essere meno “amnestico” e più esecutivo. L’educatore può osservare difficoltà nel pianificare, iniziare attività, cambiare strategia.
+:::
+
+## Corpi di Lewy: segnali distintivi
+
+- Fluttuazioni cognitive e attentivo-comportamentali.
+- Allucinazioni visive ricorrenti.
+- Parkinsonismo.
+- Disturbo comportamentale del sonno REM.
+- Elevata sensibilità a farmaci antipsicotici.
+
+::: {.notes}
+Questa è una slide importante per sicurezza clinica. Non serve approfondire terapia, ma far capire che alcuni BPSD hanno implicazioni diagnostiche e farmacologiche rilevanti.
+:::
+
+## Frontotemporale: quando il primo problema è sociale
+
+- Disinibizione o perdita del controllo sociale.
+- Apatia o inerzia.
+- Perdita di empatia.
+- Comportamenti perseverativi o ritualizzati.
+- Alterazioni alimentari.
+- Varianti linguistiche.
+
+::: {.notes}
+Qui aiutare gli studenti a non interpretare subito come “maleducazione”, “carattere” o “opposizione”. Il comportamento può essere la modalità principale di presentazione.
+:::
+
+## Attività — quattro persone, quattro esordi
+
+Ogni gruppo riceve un caso. Deve identificare:
+
+- dominio prevalente;
+- impatto funzionale;
+- possibili BPSD;
+- informazioni mancanti;
+- perché non si può formulare una diagnosi solo dal caso.
+
+::: {.notes}
+Attività 65–80 min. Jigsaw: assegnare un caso diverso a ciascun gruppo. Restituzione di un minuto. Tenere ritmo stretto: l’obiettivo è usare i pattern, non risolvere la diagnosi.
+:::
+
+## Caso A — ripetizioni e bollette
+
+78 anni. Da 18 mesi ripete spesso le stesse domande. Ha dimenticato alcune scadenze bancarie e ha smesso di cucinare piatti complessi. Si irrita quando la figlia controlla i farmaci.
+
+::: {.notes}
+Verosimilmente profilo amnestico con perdita IADL. Possibili BPSD: irritabilità, ansia, sospettosità. Dati mancanti: durata precisa, test cognitivi, depressione, farmaci, autonomia precedente, informatore, esami.
+:::
+
+## Caso B — rallentamento e cadute
+
+83 anni. Dopo diversi episodi cerebrovascolari minori è più lento, fatica a organizzare la giornata, cammina peggio e cade più spesso. La memoria non sembra il primo problema.
+
+::: {.notes}
+Profilo esecutivo/vascolare possibile. Dati mancanti: imaging, segni neurologici, delirium intercorrenti, depressione, farmaci, comorbilità, autonomia.
+:::
+
+## Caso C — vede bambini in casa
+
+81 anni. Alterna giornate lucide e giornate molto confuse. Racconta di vedere bambini in soggiorno. Ha rigidità, cammino rallentato e sogni molto agitati.
+
+::: {.notes}
+Pattern suggestivo per corpi di Lewy. Sottolineare sicurezza: attenzione a delirio, fluttuazioni e sensibilità ai farmaci. Dati mancanti: cronologia, farmaci, delirium, esame neurologico, sonno, caregiver.
+:::
+
+## Caso D — “non è più lui”
+
+69 anni. Da due anni fa battute inappropriate, mangia in modo impulsivo, trascura le convenzioni sociali e sembra poco interessato alle emozioni della moglie. La memoria è relativamente conservata.
+
+::: {.notes}
+Pattern compatibile con variante comportamentale frontotemporale. Debrief: comportamento come presentazione primaria, non solo complicanza tardiva.
+:::
+
+## Accenni al percorso diagnostico
+
+- Anamnesi diretta ed eteroanamnesi.
+- Valutazione cognitiva e funzionale.
+- Esame clinico e neurologico.
+- Revisione farmaci e comorbilità.
+- Esami ematici mirati.
+- Neuroimaging quando indicato.
+- Valutazione specialistica e follow-up.
+
+::: {.notes}
+Separare competenze: il medico integra e formula diagnosi; l’educatore osserva funzione, contesto, routine, relazioni, trigger, sicurezza e risposta agli interventi.
+:::
+
+## Che cosa documenta l’educatore
+
+::: {.columns}
+::: {.column width="50%"}
+**Funzione reale**
+
+- igiene, alimentazione, vestirsi;
+- orientamento negli spazi;
+- gestione routine;
+- iniziativa e partecipazione.
+:::
+
+::: {.column width="50%"}
+**Contesto e relazione**
+
+- quando compare il problema;
+- con quali persone;
+- in quali ambienti;
+- quali strategie aiutano o peggiorano.
+:::
+:::
+
+::: {.notes}
+Ponte verso i BPSD. La documentazione utile deve essere concreta, ripetibile e condivisibile in équipe.
+:::
+
+## Pausa
+
+::: {.big-quote}
+Quando riprendiamo, useremo gli stessi strumenti osservativi per leggere i BPSD.
+:::
+
+# Parte 2 — BPSD / NPS
+
+## Che cosa sono i BPSD
+
+I BPSD, o sintomi neuropsichiatrici, comprendono alterazioni di:
+
+- percezione;
+- pensiero;
+- umore;
+- comportamento;
+- attività motoria;
+- ritmo sonno-veglia.
+
+Non sono una sindrome unica: sono manifestazioni diverse, con cause diverse e interventi diversi.
+
+Fonte: [IPA Complete Guide to BPSD](https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf)
+
+::: {.notes}
+Evitare la formula “disturbi del comportamento” come contenitore indistinto. Chiarire che agitazione, apatia, psicosi, ansia e wandering richiedono domande diverse.
+:::
+
+## Principali manifestazioni
+
+::: {.columns}
+::: {.column width="50%"}
+- depressione;
+- ansia;
+- apatia;
+- irritabilità;
+- euforia/disinibizione;
+- alterazioni del sonno.
+:::
+
+::: {.column width="50%"}
+- deliri;
+- allucinazioni;
+- agitazione;
+- aggressività;
+- wandering;
+- vocalizzazioni;
+- rifiuto dell’assistenza.
+:::
+:::
+
+::: {.notes}
+Far dire agli studenti quali hanno visto in tirocinio. Poi ricondurre ogni esempio a una descrizione osservabile.
+:::
+
+## Perché contano
+
+I BPSD influenzano:
+
+- distress della persona;
+- burden familiare e professionale;
+- rischio di contenzione o trattamenti inappropriati;
+- accessi in pronto soccorso e istituzionalizzazione;
+- qualità della cura e sicurezza.
+
+::: {.notes}
+Qui collegare etica e pratica: il problema non è “far smettere” il comportamento, ma ridurre distress, rischio e disallineamento tra bisogni e ambiente.
+:::
+
+## Il messaggio centrale
+
+::: {.big-quote}
+Il comportamento non è una spiegazione.  
+È un dato da spiegare.
+:::
+
+::: {.notes}
+Riprendere il caso iniziale. “Vuole scappare” è una spiegazione povera. “Tenta di uscire ogni giorno alle 17:30 dicendo che deve prendere i figli” apre ipotesi su biografia, routine, ansia, ambiente, luce, stanchezza, dolore, bisogni, relazione.
+:::
+
+## Prima domanda: è un cambiamento improvviso?
+
+Se il comportamento è nuovo, rapido o fluttuante, prima di tutto considerare:
+
+- delirium;
+- dolore;
+- infezione o malattia acuta;
+- stipsi, ritenzione urinaria, disidratazione;
+- effetti farmacologici;
+- ipoacusia, ipovisione, fame, sonno, paura.
+
+::: {.notes}
+Punto di sicurezza. Prima di psicologizzare o “educativizzare”, cercare cause fisiche e delirium. L’educatore deve segnalare cambiamento rapido e fluttuazione.
+:::
+
+## Tre livelli di lettura
+
+::: {.triad}
+::: {.triad-item}
+**Episodio**  
+che cosa è successo?
+:::
+
+::: {.triad-item}
+**Ipotesi**  
+perché potrebbe essere successo?
+:::
+
+::: {.triad-item}
+**Intervento**  
+che cosa proviamo e come lo valutiamo?
+:::
+:::
+
+::: {.notes}
+Questa è la mappa per ABC, biopsicosociale e DICE. Non presentarli come modelli concorrenti, ma come strumenti in sequenza.
+:::
+
+## ABC: descrivere l’episodio
+
+| A — Antecedent | B — Behavior | C — Consequence |
+|---|---|---|
+| Che cosa accade prima? | Che cosa fa/dice la persona? | Che cosa succede dopo? |
+| Ambiente, persone, richiesta, ora | forma, durata, intensità, rischio | risposta degli operatori, effetto, rinforzi |
+
+::: {.notes}
+ABC non spiega tutto, ma costringe a rendere l’episodio osservabile. Esempio: “aggressiva durante igiene” diventa antecedente = bagno freddo, operatore nuovo, fretta; behavior = afferra il polso e urla; conseguenza = igiene sospesa, persona lasciata sola.
+:::
+
+## Matrice biopsicosociale e bisogni
+
+::: {.columns}
+::: {.column width="50%"}
+**Persona e salute**
+
+- dolore;
+- fame, sete, sonno;
+- delirium o malattia acuta;
+- farmaci;
+- stadio di demenza;
+- storia personale.
+:::
+
+::: {.column width="50%"}
+**Ambiente e relazione**
+
+- rumore, luce, temperatura;
+- richiesta troppo complessa;
+- perdita di controllo;
+- comunicazione;
+- routine;
+- significato biografico.
+:::
+:::
+
+::: {.notes}
+Usare la matrice per generare ipotesi multiple. Vietare la prima ipotesi unica. Ogni gruppo deve produrre almeno tre ipotesi alternative, non una sola.
+:::
+
+## DICE: trasformare ipotesi in cura
+
+::: {.dice}
+::: {.dice-step}
+**D — Describe**  
+descrivere il comportamento e il contesto
+:::
+
+::: {.dice-step}
+**I — Investigate**  
+cercare cause modificabili
+:::
+
+::: {.dice-step}
+**C — Create**  
+creare un piano personalizzato
+:::
+
+::: {.dice-step}
+**E — Evaluate**  
+valutare effetto e correggere
+:::
+:::
+
+Fonte: [Kales, Gitlin, Lyketsos. JAGS 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/)
+
+::: {.notes}
+DICE è utile perché chiude il ciclo. Non basta avere un’ipotesi: serve un intervento provabile e un indicatore di efficacia. Citare il caso classico dell’aggressività durante il bagno.
+:::
+
+## DICE applicato al caso iniziale
+
+| Passo | Domande |
+|---|---|
+| Describe | Esce sempre alle 17:30? Con chi? Da quale porta? Quanto dura? |
+| Investigate | Dolore? Ansia? Routine lavorativa/familiare? Sovrastimolazione? Sundowning? |
+| Create | Validazione, attività ponte, routine serale, segnale ambientale, accompagnamento sicuro |
+| Evaluate | Meno tentativi? Meno distress? Meno conflitto? Strategia sostenibile? |
+
+::: {.notes}
+Mostrare come lo stesso comportamento cambi significato aggiungendo dati. Non suggerire “chiudere la porta” come primo intervento; discutere sicurezza, libertà, proporzionalità e distress.
+:::
+
+## Interventi non farmacologici: logica
+
+Un intervento è buono se è:
+
+- coerente con l’ipotesi;
+- sicuro;
+- personalizzato;
+- praticabile dal team/famiglia;
+- verificabile;
+- modificabile se non funziona.
+
+::: {.notes}
+Evitare liste generiche di “attività”. Chiedere sempre: a quale ipotesi risponde? quale esito misuriamo? entro quanto tempo? chi lo fa?
+:::
+
+## Esempi di interventi mirati
+
+| Problema osservato | Ipotesi | Intervento possibile | Indicatore |
+|---|---|---|---|
+| Agitazione durante igiene | freddo, paura, perdita controllo | anticipare, spiegare un passo, scelta tra due opzioni | meno rifiuti/urla |
+| Wandering serale | routine biografica, ansia | attività ponte, cammino accompagnato, oggetto significativo | meno tentativi di uscita |
+| Domande ripetitive | ansia, disorientamento | risposta breve coerente, agenda visiva, rassicurazione | minore distress |
+| Apatia | attività non significativa | attività breve, nota, con successo probabile | maggiore partecipazione |
+
+::: {.notes}
+Sottolineare che l’intervento non è universale. La stessa strategia può funzionare per una persona e peggiorare un’altra.
+:::
+
+## Laboratorio — investigatori del comportamento
+
+Ogni gruppo riceve un caso e compila una scheda:
+
+1. descrizione operativa;
+2. ABC;
+3. almeno tre ipotesi;
+4. dati clinici/ambientali da raccogliere;
+5. intervento iniziale;
+6. indicatore di efficacia.
+
+::: {.notes}
+Attività 137–160 min. Consegnare una scheda cartacea o digitale. Ruoli: facilitatore, cronometrista, relatore. Far rispettare il vincolo: almeno tre ipotesi alternative e un indicatore misurabile.
+:::
+
+## Caso laboratorio 1 — rifiuto dell’igiene
+
+Una residente rifiuta la doccia, urla e stringe le braccia al petto. Accade soprattutto al mattino, con operatori diversi, in bagno comune.
+
+::: {.notes}
+Ipotesi attese: freddo, dolore, pudore, trauma/storia personale, comunicazione troppo rapida, ambiente non familiare, paura di cadere, operatore non conosciuto. Interventi: bagno caldo, tempi lenti, scelta, asciugamano coprente, stessa figura, igiene parziale, musica/oggetti personali.
+:::
+
+## Caso laboratorio 2 — agitazione serale
+
+Ogni giorno dopo le 18:00 un uomo cammina avanti e indietro, cerca la porta e chiede di tornare “al lavoro”. Se contraddetto, alza la voce.
+
+::: {.notes}
+Ipotesi: routine lavorativa, ansia, sundowning, stanchezza, rumore del cambio turno, bisogno di movimento, ricerca di ruolo. Interventi: validazione, attività di chiusura giornata, cammino accompagnato, compito significativo, riduzione stimoli.
+:::
+
+## Caso laboratorio 3 — domande ripetitive
+
+Una donna chiede ogni pochi minuti quando arriva la figlia. La figlia è già venuta al mattino. Quando le viene detto, la donna appare triste e ricomincia dopo poco.
+
+::: {.notes}
+Ipotesi: ansia, perdita memoria episodica, bisogno di attaccamento, solitudine, routine non chiara. Interventi: non ripetere “è già venuta” se aumenta distress; usare agenda visiva, messaggio scritto, telefonata programmata, attività di transizione.
+:::
+
+## Caso laboratorio 4 — aggressività nell’assistenza
+
+Durante il trasferimento letto-carrozzina un uomo spinge l’operatore e tenta di colpirlo. L’episodio compare soprattutto nei giorni in cui appare più rigido e lamenta dolore alla schiena.
+
+::: {.notes}
+Ipotesi: dolore, paura di cadere, tecnica di mobilizzazione, richiesta improvvisa, rigidità, delirium/farmaci. Qui far emergere la necessità di segnalazione clinica, analgesia, fisioterapia, tecnica corretta, anticipazione verbale e tempi più lenti.
+:::
+
+## Restituzione del laboratorio
+
+Ogni gruppo restituisce in 90 secondi:
+
+- comportamento descritto senza etichette;
+- ipotesi principale e due alternative;
+- primo intervento;
+- indicatore di efficacia.
+
+::: {.notes}
+Debrief 5–8 min. Correggere soprattutto etichette (“oppositivo”, “aggressivo”, “manipolativo”) e interventi non collegati all’ipotesi. Rinforzare formulazioni osservabili e valutabili.
+:::
+
+## Microsimulazione comunicativa
+
+Triadi:
+
+1. persona con demenza;
+2. professionista;
+3. osservatore.
+
+Scenario: la persona vuole uscire “per andare a prendere i figli”.  
+Due tentativi: prima prova, feedback, seconda prova migliorata.
+
+::: {.notes}
+Attività 160–175 min. Dare una checklist semplice: tono, distanza, validazione, non contraddire frontalmente, una richiesta alla volta, offrire scelta, sicurezza. L’osservatore dà feedback su comportamenti osservabili, non giudizi.
+:::
+
+## Checklist comunicativa
+
+- Mi avvicino frontalmente e lentamente.
+- Uso frasi brevi.
+- Riconosco l’emozione prima di correggere il contenuto.
+- Evito confronto diretto non necessario.
+- Propongo una scelta semplice.
+- Proteggo la sicurezza senza umiliare.
+- Osservo l’effetto della mia risposta.
+
+::: {.notes}
+Non presentarla come ricetta. È una base per esercitarsi. Far notare che a volte la comunicazione migliore non “risolve” subito, ma riduce escalation e distress.
+:::
+
+## Torniamo al caso iniziale
+
+::: {.casebox}
+Ore 17:30. “Devo andare a prendere i bambini”.  
+Tenta di uscire. Si irrita se fermata.
+:::
+
+**Ora formulate:**
+
+- tre dati da raccogliere;
+- due ipotesi alternative;
+- un intervento sicuro da provare;
+- un indicatore di efficacia.
+
+::: {.notes}
+Chiusura 175–180 min. Farlo come exit ticket individuale. Serve a verificare il passaggio da interpretazione unica a ragionamento strutturato.
+:::
+
+## Take home messages
+
+1. La demenza è una sindrome eterogenea, non solo memoria.
+2. Il comportamento va descritto prima di essere interpretato.
+3. Un cambiamento improvviso richiede attenzione clinica.
+4. ABC aiuta a leggere l’episodio.
+5. DICE aiuta a trasformare osservazione e ipotesi in intervento valutabile.
+
+::: {.notes}
+Chiudere con una formula semplice: “descrivere meglio significa curare meglio”.
+:::
+
+## Fonti essenziali
+
+- WHO. Dementia fact sheet, aggiornata 2026. <https://www.who.int/news-room/fact-sheets/detail/dementia>
+- NICE guideline NG97. Dementia: assessment, management and support. <https://www.nice.org.uk/guidance/ng97>
+- International Psychogeriatric Association. Complete Guide to BPSD. <https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf>
+- Kales HC, Gitlin LN, Lyketsos CG. Management of Neuropsychiatric Symptoms of Dementia in Clinical Settings. *J Am Geriatr Soc*. 2014. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/>
+
+::: {.notes}
+Questa slide può rimanere nascosta se la presentazione è troppo lunga. In alternativa usarla come slide finale per studio autonomo.
+:::
