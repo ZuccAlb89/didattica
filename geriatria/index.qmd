@@ -12,3 +12,4 @@ Materiale didattico del corso di Geriatria.
 
 - [Invecchiamento e fragilità](educazione-professionale/01_invecchiamento_fragilita.qmd)
 - [La valutazione multidimensionale](educazione-professionale/02_valutazione_multidim.qmd)
+- [Demenza e disturbi del comportamento](educazione-professionale/03_demenza_BPSD.qmd)
