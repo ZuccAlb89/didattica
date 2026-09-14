@@ -1,0 +1,14 @@
+.reveal .slides section { text-align: left; }
+.reveal .slides section > h2 { margin-bottom: .65em; }
+.big-number { color: #107895; font-size: 2.25em; font-weight: 350; line-height: 1; text-align: center; }
+.big-label { color: #5d666b; font-size: .62em; letter-spacing: .08em; margin: .15em 0 1.05em; text-align: center; text-transform: uppercase; }
+.timeline { align-items: center; color: #107895; display: flex; font-size: .72em; gap: .55em; margin: 1.3em 0; }
+.timeline span { background: #eef7f9; border-radius: .4em; padding: .55em .7em; }
+.card { background: #f4f7f8; border-left: 5px solid #107895; border-radius: .25em; box-sizing: border-box; font-size: .72em; line-height: 1.35; min-height: 7.2em; padding: .8em; }
+.card b { color: #107895; display: block; font-size: 1.2em; margin-bottom: .35em; }
+.data-strip { background: #eef7f9; border-radius: .3em; font-size: .66em; margin-top: .8em; padding: .55em .8em; text-align: center; }
+.question-box { background: #107895; border-radius: .35em; color: white; font-size: .73em; margin-top: .8em; padding: .7em 1em; }
+.reveal .callout { font-size: .66em; margin-top: 1em; }
+.reveal .smaller ul { font-size: .88em; }
+.reveal .smaller li { margin-bottom: .15em; }
+.reveal ol li { margin-bottom: .4em; }
