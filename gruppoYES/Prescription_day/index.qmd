@@ -1,0 +1,176 @@
+---
+title: "Prescription Day LTCFs 2024"
+subtitle: "Un dataset nazionale, molte domande di ricerca"
+author: "Gruppo YES · Società Italiana di Gerontologia e Geriatria"
+format:
+  clean-revealjs:
+    slide-number: c/t
+    transition: fade
+    incremental: false
+    width: 1280
+    height: 720
+    margin: 0.06
+    css: styles.css
+    footer: "Prescription Day LTCFs · gruppo YES"
+---
+
+## Lo studio, in 30 secondi
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Studio **multicentrico nazionale di prevalenza puntuale** nelle strutture residenziali italiane.
+
+<div class="timeline">
+  <span>Residenti presenti</span><b>→</b><span>1 ottobre 2024</span><b>→</b><span>terapie prescritte</span>
+</div>
+
+- Età **≥60 anni**
+- Dati clinici e farmacologici raccolti da medici e infermieri
+- eCRF REDCap standardizzata
+
+:::
+
+::: {.column width="40%"}
+
+<div class="big-number">3.400</div>
+<div class="big-label">residenti</div>
+
+<div class="big-number">82</div>
+<div class="big-label">strutture</div>
+
+:::
+
+::::
+
+## La domanda centrale
+
+### Come vengono prescritti e somministrati i farmaci nelle LTCF italiane?
+
+:::: {.columns}
+
+::: {.column width="33%"}
+<div class="card"><b>Prescrizione</b><br>Politerapia, appropriatezza, interazioni</div>
+:::
+
+::: {.column width="33%"}
+<div class="card"><b>Somministrazione</b><br>Orari, vie, ausili, compresse triturate e capsule aperte</div>
+:::
+
+::: {.column width="33%"}
+<div class="card"><b>Persona e contesto</b><br>Fragilità, funzione, nutrizione, cognizione e struttura</div>
+:::
+
+::::
+
+::: {.callout-note appearance="simple"}
+Il disegno consente di collegare, per ogni residente, **profilo clinico** e **regime farmacologico**.
+:::
+
+## Che cosa descrive il residente? {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Profilo clinico e funzionale
+
+- Età, sesso, permanenza in struttura
+- Patologie croniche e condizioni acute
+- **ADL** e numero di funzioni perse
+- **FRAIL-NH** e numero di criteri
+- Ossigenoterapia, SNG/PEG
+
+:::
+
+::: {.column width="50%"}
+
+### Nutrizione e neurocognizione
+
+- MNA-SF, BMI, calo ponderale, mobilità
+- Disfagia, problemi di masticazione e deglutizione
+- Diagnosi di demenza secondo ICD-10
+- **CDR**
+- 24 BPSD: frequenza, gravità, numero e burden
+
+:::
+
+::::
+
+## Che cosa descrive ogni farmaco? {.smaller}
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+### Una riga per prescrizione
+
+- Principio attivo e codice **ATC**
+- Dose, dosaggio e forma farmaceutica
+- Via e tempi di somministrazione
+- Apertura della capsula o triturazione della compressa
+- Ausili e note di somministrazione
+
+:::
+
+::: {.column width="45%"}
+
+### Informazioni derivate
+
+- Gerarchia ATC e descrizioni
+- Collegamento con **DrugBank**
+- Interazioni farmaco–farmaco
+- Aderenza/compliance e motivi di difficoltà
+- Possibile analisi del carico assistenziale
+
+:::
+
+::::
+
+<div class="data-strip"><b>Struttura dati:</b> base clinica wide + prescrizioni long, collegate da ID pseudonimo</div>
+
+## Un dataset, più linee di ricerca
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Pattern di politerapia e multimorbidità
+- PIM e interazioni clinicamente rilevanti
+- Complessità del regime terapeutico
+- Modifica delle forme orali solide
+
+:::
+
+::: {.column width="50%"}
+
+- Disfagia, nutrizione e somministrazione
+- Farmaci e BPSD nelle persone con demenza
+- Variabilità tra strutture e territori
+- Profili fenotipici e analisi di rete
+
+:::
+
+::::
+
+::: {.question-box}
+**La domanda per il gruppo:** quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?
+:::
+
+## Come partecipare
+
+### Cerchiamo piccoli gruppi con una domanda chiara
+
+1. **Scegliere** un tema e un outcome
+2. **Formulare** una domanda e un piano analitico essenziale
+3. **Verificare** variabili, fattibilità e sovrapposizioni
+4. **Condividere** analisi, interpretazione e scrittura
+
+::: {.callout-tip appearance="simple"}
+Punto di partenza: una proposta in poche righe — *perché conta, popolazione, esposizione, outcome, analisi prevista*.
+:::
+
+### Prescription Day LTCFs 2024
+
+**Dai dati a una collaborazione concreta.**
