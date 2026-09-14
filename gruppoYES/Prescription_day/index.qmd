@@ -158,19 +158,9 @@ Il disegno consente di collegare, per ogni residente, **profilo clinico** e **re
 **La domanda per il gruppo:** quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?
 :::
 
-## Come partecipare
-
-### Cerchiamo piccoli gruppi con una domanda chiara
-
-1. **Scegliere** un tema e un outcome
-2. **Formulare** una domanda e un piano analitico essenziale
-3. **Verificare** variabili, fattibilità e sovrapposizioni
-4. **Condividere** analisi, interpretazione e scrittura
-
-::: {.callout-tip appearance="simple"}
-Punto di partenza: una proposta in poche righe — *perché conta, popolazione, esposizione, outcome, analisi prevista*.
-:::
-
-### Prescription Day LTCFs 2024
-
-**Dai dati a una collaborazione concreta.**
+<div class="contacts">
+<strong>Contatti</strong><br>
+Alberto Zucchelli · <a href="mailto:alberto.zucchelli@unibs.it">alberto.zucchelli@unibs.it</a><br>
+Gruppo YES · <a href="mailto:gruppoyes@sigg.it">gruppoyes@sigg.it</a><br>
+Alba Malara · <a href="mailto:albamalara@gmail.com">albamalara@gmail.com</a>
+</div>
