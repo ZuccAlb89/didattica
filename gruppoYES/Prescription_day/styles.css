@@ -12,3 +12,7 @@
 .reveal .smaller ul { font-size: .88em; }
 .reveal .smaller li { margin-bottom: .15em; }
 .reveal ol li { margin-bottom: .4em; }
+
+.contacts { border-top: 1px solid #c8d9de; font-size: .56em; line-height: 1.5; margin-top: .65em; padding-top: .5em; }
+.contacts strong { color: #107895; }
+.contacts a { color: #107895; }
