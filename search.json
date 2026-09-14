@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Didattica",
-    "section": "",
-    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria"
+    "objectID": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
+    "href": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Lo studio, in 30 secondi",
+    "text": "Lo studio, in 30 secondi\n\n\nStudio multicentrico nazionale di prevalenza puntuale nelle strutture residenziali italiane.\n\nResidenti presenti→1 ottobre 2024→terapie prescritte\n\n\nEtà ≥60 anni\nDati clinici e farmacologici raccolti da medici e infermieri\neCRF REDCap standardizzata\n\n\n\n3.400\n\n\nresidenti\n\n\n82\n\n\nstrutture"
   },
   {
-    "objectID": "index.html#corsi",
-    "href": "index.html#corsi",
-    "title": "Didattica",
-    "section": "",
-    "text": "Geriatria"
+    "objectID": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
+    "href": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "La domanda centrale",
+    "text": "La domanda centrale\nCome vengono prescritti e somministrati i farmaci nelle LTCF italiane?\n\n\n\nPrescrizionePoliterapia, appropriatezza, interazioni\n\n\n\nSomministrazioneOrari, vie, ausili, compresse triturate e capsule aperte\n\n\n\nPersona e contestoFragilità, funzione, nutrizione, cognizione e struttura\n\n\n\n\n\n\n\n\nIl disegno consente di collegare, per ogni residente, profilo clinico e regime farmacologico."
+  },
+  {
+    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
+    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Che cosa descrive il residente?",
+    "text": "Che cosa descrive il residente?\n\n\nProfilo clinico e funzionale\n\nEtà, sesso, permanenza in struttura\nPatologie croniche e condizioni acute\nADL e numero di funzioni perse\nFRAIL-NH e numero di criteri\nOssigenoterapia, SNG/PEG\n\n\nNutrizione e neurocognizione\n\nMNA-SF, BMI, calo ponderale, mobilità\nDisfagia, problemi di masticazione e deglutizione\nDiagnosi di demenza secondo ICD-10\nCDR\n24 BPSD: frequenza, gravità, numero e burden"
+  },
+  {
+    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
+    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Che cosa descrive ogni farmaco?",
+    "text": "Che cosa descrive ogni farmaco?\n\n\nUna riga per prescrizione\n\nPrincipio attivo e codice ATC\nDose, dosaggio e forma farmaceutica\nVia e tempi di somministrazione\nApertura della capsula o triturazione della compressa\nAusili e note di somministrazione\n\n\nInformazioni derivate\n\nGerarchia ATC e descrizioni\nCollegamento con DrugBank\nInterazioni farmaco–farmaco\nAderenza/compliance e motivi di difficoltà\nPossibile analisi del carico assistenziale\n\n\n\nStruttura dati: base clinica wide + prescrizioni long, collegate da ID pseudonimo"
+  },
+  {
+    "objectID": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
+    "href": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Un dataset, più linee di ricerca",
+    "text": "Un dataset, più linee di ricerca\n\n\n\nPattern di politerapia e multimorbidità\nPIM e interazioni clinicamente rilevanti\nComplessità del regime terapeutico\nModifica delle forme orali solide\n\n\n\nDisfagia, nutrizione e somministrazione\nFarmaci e BPSD nelle persone con demenza\nVariabilità tra strutture e territori\nProfili fenotipici e analisi di rete\n\n\n\nLa domanda per il gruppo: quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?"
+  },
+  {
+    "objectID": "gruppoYES/Prescription_day/index.html#come-partecipare",
+    "href": "gruppoYES/Prescription_day/index.html#come-partecipare",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Come partecipare",
+    "text": "Come partecipare\nCerchiamo piccoli gruppi con una domanda chiara\n\nScegliere un tema e un outcome\nFormulare una domanda e un piano analitico essenziale\nVerificare variabili, fattibilità e sovrapposizioni\nCondividere analisi, interpretazione e scrittura\n\n\n\n\n\n\n\nPunto di partenza: una proposta in poche righe — perché conta, popolazione, esposizione, outcome, analisi prevista.\n\n\n\nPrescription Day LTCFs 2024\nDai dati a una collaborazione concreta."
   },
   {
     "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#recap",
@@ -145,6 +173,363 @@
     "title": "Valutazione Multidimensionale",
     "section": "Kahoot time!",
     "text": "Kahoot time!\nRecap finale\nApri Kahoot ↗"
+  },
+  {
+    "objectID": "geriatria/index.html",
+    "href": "geriatria/index.html",
+    "title": "Geriatria",
+    "section": "",
+    "text": "Materiale didattico del corso di Geriatria.\n\n\n\n\n\nInvecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
+  },
+  {
+    "objectID": "geriatria/index.html#lezioni",
+    "href": "geriatria/index.html#lezioni",
+    "title": "Geriatria",
+    "section": "",
+    "text": "Invecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Didattica",
+    "section": "",
+    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria"
+  },
+  {
+    "objectID": "index.html#corsi",
+    "href": "index.html#corsi",
+    "title": "Didattica",
+    "section": "",
+    "text": "Geriatria"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#da-dove-partiamo",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#da-dove-partiamo",
+    "title": "Demenze e BPSD",
+    "section": "Da dove partiamo",
+    "text": "Da dove partiamo\n\nLa demenza non è solo un “deficit di memoria”.\nIl comportamento è un dato clinico, relazionale e ambientale da comprendere.\n\n\nApertura: chiarire subito il cambio di prospettiva. La lezione non mira a formare diagnosti, ma professionisti capaci di osservare, descrivere, contestualizzare e progettare interventi educativi/non farmacologici."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#obiettivi-della-lezione",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#obiettivi-della-lezione",
+    "title": "Demenze e BPSD",
+    "section": "Obiettivi della lezione",
+    "text": "Obiettivi della lezione\nAl termine delle tre ore, lo studente dovrebbe saper:\n\ndistinguere invecchiamento cognitivo, MCI, demenza e delirium;\nriconoscere le presentazioni tipiche delle principali demenze;\ndescrivere il percorso diagnostico e il contributo osservativo dell’educatore;\nidentificare e descrivere operativamente un BPSD;\nformulare più ipotesi esplicative;\nproporre un primo intervento non farmacologico verificabile.\n\n\nNon leggere tutta la lista. Esplicitare che la competenza attesa non è “sapere la risposta giusta”, ma saper costruire un ragionamento prudente, osservabile e discutibile in équipe."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#struttura-delle-3-ore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#struttura-delle-3-ore",
+    "title": "Demenze e BPSD",
+    "section": "Struttura delle 3 ore",
+    "text": "Struttura delle 3 ore\n\n\n\n\n\n\n\n\nTempo\nFuoco\nModalità\n\n\n\n\n0–90 min\nDemenze: basi, quadri, diagnosi\nCaso, mini-lezione, carte, jigsaw\n\n\n90–100 min\nPausa\n—\n\n\n100–180 min\nBPSD: descrizione, interpretazione, intervento\nDICE, laboratorio, microsimulazione\n\n\n\n\nDare una mappa agli studenti. Anticipare che il caso iniziale tornerà più volte: prima come problema cognitivo, poi come comportamento apparentemente “problematico”."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-stimolo",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-stimolo",
+    "title": "Demenze e BPSD",
+    "section": "Caso-stimolo",
+    "text": "Caso-stimolo\n\nOre 17:30. Una signora tenta ripetutamente di uscire dalla struttura.\nDice: “Devo andare a prendere i bambini”.\nSi irrita quando l’operatore prova a fermarla.\n\nIn piccoli gruppi: separate ciò che è osservato da ciò che è interpretato.\n\nAttività 0–10 min. Gruppi da 3–5. Dare due colonne: “osservazione” e “interpretazione”. Esempi da far emergere: osservazione = tenta di uscire, ripete una frase, si irrita; interpretazione = vuole scappare, è aggressiva, non capisce, è oppositiva. Conservare le ipotesi per la chiusura."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#osservazione-interpretazione",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#osservazione-interpretazione",
+    "title": "Demenze e BPSD",
+    "section": "Osservazione ≠ interpretazione",
+    "text": "Osservazione ≠ interpretazione\n\n\nOsservabile\n\nche cosa fa;\nche cosa dice;\nquando accade;\ncon chi accade;\nche cosa succede prima e dopo.\n\n\nInterpretativo\n\nperché lo fa;\nche intenzione ha;\nche emozione prova;\nche diagnosi spiega il comportamento;\nche intervento “serve”.\n\n\n\nUsare questa slide per correggere il linguaggio. “È aggressiva” diventa “ha colpito l’operatore durante l’igiene”. “È oppositiva” diventa “ha rifiutato tre volte di entrare in bagno”. Questa distinzione sarà la base della parte BPSD."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosè-la-demenza",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosè-la-demenza",
+    "title": "Demenze e BPSD",
+    "section": "Che cos’è la demenza",
+    "text": "Che cos’è la demenza\nLa demenza è una sindrome clinica caratterizzata da:\n\ndeclino acquisito di una o più funzioni cognitive;\ncompromissione dell’autonomia rispetto al livello precedente;\nandamento spesso cronico-progressivo;\nforte eterogeneità di cause, presentazioni e traiettorie.\n\n\nInsistere sul termine sindrome: non è una singola malattia. Collegare subito cognizione e funzione: il deficit cognitivo diventa clinicamente rilevante quando cambia il funzionamento quotidiano."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#domini-cognitivi-da-osservare",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#domini-cognitivi-da-osservare",
+    "title": "Demenze e BPSD",
+    "section": "Domini cognitivi da osservare",
+    "text": "Domini cognitivi da osservare\n\n\nMemoria\nnuove informazioni, appuntamenti, ripetizioni\nLinguaggio\nparole, comprensione, denominazione\n\nFunzioni esecutive\npianificazione, flessibilità, giudizio\nAttenzione\ntenuta, distraibilità, fluttuazioni\n\nPrassie/gnosie\ngesti, riconoscimento, uso oggetti\nCognizione sociale\ncomportamento, empatia, disinibizione\n\n\nNon trasformare la slide in neuropsicologia dettagliata. Dare esempi educativi: gestione del denaro, uso del telefono, cucina, spostamenti, relazione con gli altri."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#un-punto-essenziale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#un-punto-essenziale",
+    "title": "Demenze e BPSD",
+    "section": "Un punto essenziale",
+    "text": "Un punto essenziale\n\nLa diagnosi non nasce da un singolo test.\nNasce dall’integrazione tra storia, osservazione, funzione, clinica e contesto.\n\n\nQuesta frase aiuta a collocare il ruolo dell’educatore: non fa diagnosi, ma produce informazioni osservazionali cruciali."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#invecchiamento-mci-demenza-delirium",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#invecchiamento-mci-demenza-delirium",
+    "title": "Demenze e BPSD",
+    "section": "Invecchiamento, MCI, demenza, delirium",
+    "text": "Invecchiamento, MCI, demenza, delirium\n\n\n\n\n\n\n\n\n\nQuadro\nAndamento\nFunzione\nElemento chiave\n\n\n\n\nInvecchiamento cognitivo\nlento, lieve\nconservata\nrallentamento, non perdita di autonomia\n\n\nMCI\nacquisito, misurabile\nsostanzialmente conservata\nrischio aumentato, non demenza\n\n\nDemenza\nprogressivo o a gradini\ncompromessa\nperdita rispetto al livello precedente\n\n\nDelirium\nacuto/fluttuante\nvariabile\nattenzione e stato di coscienza alterati\n\n\n\n\nChiarire che la tabella serve a orientarsi, non a diagnosticare. Delirium: sempre considerarlo davanti a cambiamento rapido, fluttuazioni, sonnolenza o peggioramento improvviso del comportamento."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-carte-diagnostiche",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-carte-diagnostiche",
+    "title": "Demenze e BPSD",
+    "section": "Attività — carte diagnostiche",
+    "text": "Attività — carte diagnostiche\nClassificate ogni situazione come:\n\ncompatibile con invecchiamento cognitivo;\ncompatibile con MCI;\ncompatibile con demenza;\npossibile delirium;\ninformazioni insufficienti.\n\nPoi indicate quali dati mancano.\n\nAttività 25–38 min. Preparare 6–8 carte. Metterne alcune ambigue. Esempi: “dimentica nomi ma gestisce tutto”; “da due giorni è confusa e sonnolenta”; “non paga bollette da mesi”; “ripete domande ma vive sola senza problemi”; “peggiora dopo introduzione di farmaco sedativo”. Debrief: la risposta più matura spesso è “mancano dati”."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#epidemiologia-essenziale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#epidemiologia-essenziale",
+    "title": "Demenze e BPSD",
+    "section": "Epidemiologia essenziale",
+    "text": "Epidemiologia essenziale\n\nNel 2021 circa 57 milioni di persone vivevano con demenza nel mondo.\nOgni anno si stimano quasi 10 milioni di nuovi casi.\nLa malattia di Alzheimer contribuisce a circa 60–70% dei casi.\nL’impatto cresce con età, multimorbilità, disabilità e carico familiare.\n\nFonte: WHO Dementia fact sheet, aggiornata 2026\n\nUsare pochi numeri. L’obiettivo non è epidemiologia dettagliata, ma mostrare dimensione del problema e rilevanza per servizi educativi, famiglie, RSA, domicilio e ospedale."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#principali-forme-di-demenza",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#principali-forme-di-demenza",
+    "title": "Demenze e BPSD",
+    "section": "Principali forme di demenza",
+    "text": "Principali forme di demenza\n\n\n\n\n\n\n\n\nForma\nEsordio tipico\nSegnali utili\n\n\n\n\nAlzheimer\nmemoria episodica, orientamento\nprogressione graduale\n\n\nVascolare\nfunzioni esecutive, rallentamento\nandamento a gradini, cerebrovasculopatia\n\n\nCorpi di Lewy\nattenzione, visuospaziale\nfluttuazioni, allucinazioni visive, parkinsonismo\n\n\nFrontotemporale\ncomportamento o linguaggio\ndisinibizione, apatia, perdita empatia, afasia\n\n\nMista\ncombinata\nmolto frequente nell’anziano\n\n\n\n\nSottolineare che nell’anziano reale le forme miste sono comuni. Evitare presentazioni “da manuale” troppo rigide: servono pattern probabilistici."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#alzheimer-presentazione-frequente",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#alzheimer-presentazione-frequente",
+    "title": "Demenze e BPSD",
+    "section": "Alzheimer: presentazione frequente",
+    "text": "Alzheimer: presentazione frequente\n\nEsordio spesso insidioso.\nDifficoltà a fissare nuove informazioni.\nRipetizioni, disorientamento, perdita di oggetti.\nProgressiva compromissione di IADL e poi BADL.\n\n\nCollegare a casi concreti: farmaci dimenticati, appuntamenti, gestione del denaro, cucina, orientamento fuori casa. Non ridurre tutto alla memoria: possono comparire linguaggio, prassie, comportamento."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-vascolare-cosa-osservare",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-vascolare-cosa-osservare",
+    "title": "Demenze e BPSD",
+    "section": "Demenza vascolare: cosa osservare",
+    "text": "Demenza vascolare: cosa osservare\n\nRallentamento, difficoltà esecutive, ridotta iniziativa.\nPossibile andamento a gradini.\nDisturbi del cammino, cadute, incontinenza, segni neurologici.\nSpesso coesiste con patologia degenerativa.\n\n\nSpiegare che il profilo può essere meno “amnestico” e più esecutivo. L’educatore può osservare difficoltà nel pianificare, iniziare attività, cambiare strategia."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#corpi-di-lewy-segnali-distintivi",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#corpi-di-lewy-segnali-distintivi",
+    "title": "Demenze e BPSD",
+    "section": "Corpi di Lewy: segnali distintivi",
+    "text": "Corpi di Lewy: segnali distintivi\n\nFluttuazioni cognitive e attentivo-comportamentali.\nAllucinazioni visive ricorrenti.\nParkinsonismo.\nDisturbo comportamentale del sonno REM.\nElevata sensibilità a farmaci antipsicotici.\n\n\nQuesta è una slide importante per sicurezza clinica. Non serve approfondire terapia, ma far capire che alcuni BPSD hanno implicazioni diagnostiche e farmacologiche rilevanti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#frontotemporale-quando-il-primo-problema-è-sociale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#frontotemporale-quando-il-primo-problema-è-sociale",
+    "title": "Demenze e BPSD",
+    "section": "Frontotemporale: quando il primo problema è sociale",
+    "text": "Frontotemporale: quando il primo problema è sociale\n\nDisinibizione o perdita del controllo sociale.\nApatia o inerzia.\nPerdita di empatia.\nComportamenti perseverativi o ritualizzati.\nAlterazioni alimentari.\nVarianti linguistiche.\n\n\nQui aiutare gli studenti a non interpretare subito come “maleducazione”, “carattere” o “opposizione”. Il comportamento può essere la modalità principale di presentazione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-quattro-persone-quattro-esordi",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-quattro-persone-quattro-esordi",
+    "title": "Demenze e BPSD",
+    "section": "Attività — quattro persone, quattro esordi",
+    "text": "Attività — quattro persone, quattro esordi\nOgni gruppo riceve un caso. Deve identificare:\n\ndominio prevalente;\nimpatto funzionale;\npossibili BPSD;\ninformazioni mancanti;\nperché non si può formulare una diagnosi solo dal caso.\n\n\nAttività 65–80 min. Jigsaw: assegnare un caso diverso a ciascun gruppo. Restituzione di un minuto. Tenere ritmo stretto: l’obiettivo è usare i pattern, non risolvere la diagnosi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-a-ripetizioni-e-bollette",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-a-ripetizioni-e-bollette",
+    "title": "Demenze e BPSD",
+    "section": "Caso A — ripetizioni e bollette",
+    "text": "Caso A — ripetizioni e bollette\n78 anni. Da 18 mesi ripete spesso le stesse domande. Ha dimenticato alcune scadenze bancarie e ha smesso di cucinare piatti complessi. Si irrita quando la figlia controlla i farmaci.\n\nVerosimilmente profilo amnestico con perdita IADL. Possibili BPSD: irritabilità, ansia, sospettosità. Dati mancanti: durata precisa, test cognitivi, depressione, farmaci, autonomia precedente, informatore, esami."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-b-rallentamento-e-cadute",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-b-rallentamento-e-cadute",
+    "title": "Demenze e BPSD",
+    "section": "Caso B — rallentamento e cadute",
+    "text": "Caso B — rallentamento e cadute\n83 anni. Dopo diversi episodi cerebrovascolari minori è più lento, fatica a organizzare la giornata, cammina peggio e cade più spesso. La memoria non sembra il primo problema.\n\nProfilo esecutivo/vascolare possibile. Dati mancanti: imaging, segni neurologici, delirium intercorrenti, depressione, farmaci, comorbilità, autonomia."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-c-vede-bambini-in-casa",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-c-vede-bambini-in-casa",
+    "title": "Demenze e BPSD",
+    "section": "Caso C — vede bambini in casa",
+    "text": "Caso C — vede bambini in casa\n81 anni. Alterna giornate lucide e giornate molto confuse. Racconta di vedere bambini in soggiorno. Ha rigidità, cammino rallentato e sogni molto agitati.\n\nPattern suggestivo per corpi di Lewy. Sottolineare sicurezza: attenzione a delirio, fluttuazioni e sensibilità ai farmaci. Dati mancanti: cronologia, farmaci, delirium, esame neurologico, sonno, caregiver."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-d-non-è-più-lui",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-d-non-è-più-lui",
+    "title": "Demenze e BPSD",
+    "section": "Caso D — “non è più lui”",
+    "text": "Caso D — “non è più lui”\n69 anni. Da due anni fa battute inappropriate, mangia in modo impulsivo, trascura le convenzioni sociali e sembra poco interessato alle emozioni della moglie. La memoria è relativamente conservata.\n\nPattern compatibile con variante comportamentale frontotemporale. Debrief: comportamento come presentazione primaria, non solo complicanza tardiva."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#accenni-al-percorso-diagnostico",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#accenni-al-percorso-diagnostico",
+    "title": "Demenze e BPSD",
+    "section": "Accenni al percorso diagnostico",
+    "text": "Accenni al percorso diagnostico\n\nAnamnesi diretta ed eteroanamnesi.\nValutazione cognitiva e funzionale.\nEsame clinico e neurologico.\nRevisione farmaci e comorbilità.\nEsami ematici mirati.\nNeuroimaging quando indicato.\nValutazione specialistica e follow-up.\n\n\nSeparare competenze: il medico integra e formula diagnosi; l’educatore osserva funzione, contesto, routine, relazioni, trigger, sicurezza e risposta agli interventi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-documenta-leducatore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-documenta-leducatore",
+    "title": "Demenze e BPSD",
+    "section": "Che cosa documenta l’educatore",
+    "text": "Che cosa documenta l’educatore\n\n\nFunzione reale\n\nigiene, alimentazione, vestirsi;\norientamento negli spazi;\ngestione routine;\niniziativa e partecipazione.\n\n\nContesto e relazione\n\nquando compare il problema;\ncon quali persone;\nin quali ambienti;\nquali strategie aiutano o peggiorano.\n\n\n\nPonte verso i BPSD. La documentazione utile deve essere concreta, ripetibile e condivisibile in équipe."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#pausa",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#pausa",
+    "title": "Demenze e BPSD",
+    "section": "Pausa",
+    "text": "Pausa\n\nQuando riprendiamo, useremo gli stessi strumenti osservativi per leggere i BPSD."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-sono-i-bpsd",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-sono-i-bpsd",
+    "title": "Demenze e BPSD",
+    "section": "Che cosa sono i BPSD",
+    "text": "Che cosa sono i BPSD\nI BPSD, o sintomi neuropsichiatrici, comprendono alterazioni di:\n\npercezione;\npensiero;\numore;\ncomportamento;\nattività motoria;\nritmo sonno-veglia.\n\nNon sono una sindrome unica: sono manifestazioni diverse, con cause diverse e interventi diversi.\nFonte: IPA Complete Guide to BPSD\n\nEvitare la formula “disturbi del comportamento” come contenitore indistinto. Chiarire che agitazione, apatia, psicosi, ansia e wandering richiedono domande diverse."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#principali-manifestazioni",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#principali-manifestazioni",
+    "title": "Demenze e BPSD",
+    "section": "Principali manifestazioni",
+    "text": "Principali manifestazioni\n\n\n\ndepressione;\nansia;\napatia;\nirritabilità;\neuforia/disinibizione;\nalterazioni del sonno.\n\n\n\ndeliri;\nallucinazioni;\nagitazione;\naggressività;\nwandering;\nvocalizzazioni;\nrifiuto dell’assistenza.\n\n\n\nFar dire agli studenti quali hanno visto in tirocinio. Poi ricondurre ogni esempio a una descrizione osservabile."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#perché-contano",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#perché-contano",
+    "title": "Demenze e BPSD",
+    "section": "Perché contano",
+    "text": "Perché contano\nI BPSD influenzano:\n\ndistress della persona;\nburden familiare e professionale;\nrischio di contenzione o trattamenti inappropriati;\naccessi in pronto soccorso e istituzionalizzazione;\nqualità della cura e sicurezza.\n\n\nQui collegare etica e pratica: il problema non è “far smettere” il comportamento, ma ridurre distress, rischio e disallineamento tra bisogni e ambiente."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#il-messaggio-centrale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#il-messaggio-centrale",
+    "title": "Demenze e BPSD",
+    "section": "Il messaggio centrale",
+    "text": "Il messaggio centrale\n\nIl comportamento non è una spiegazione.\nÈ un dato da spiegare.\n\n\nRiprendere il caso iniziale. “Vuole scappare” è una spiegazione povera. “Tenta di uscire ogni giorno alle 17:30 dicendo che deve prendere i figli” apre ipotesi su biografia, routine, ansia, ambiente, luce, stanchezza, dolore, bisogni, relazione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#prima-domanda-è-un-cambiamento-improvviso",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#prima-domanda-è-un-cambiamento-improvviso",
+    "title": "Demenze e BPSD",
+    "section": "Prima domanda: è un cambiamento improvviso?",
+    "text": "Prima domanda: è un cambiamento improvviso?\nSe il comportamento è nuovo, rapido o fluttuante, prima di tutto considerare:\n\ndelirium;\ndolore;\ninfezione o malattia acuta;\nstipsi, ritenzione urinaria, disidratazione;\neffetti farmacologici;\nipoacusia, ipovisione, fame, sonno, paura.\n\n\nPunto di sicurezza. Prima di psicologizzare o “educativizzare”, cercare cause fisiche e delirium. L’educatore deve segnalare cambiamento rapido e fluttuazione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#tre-livelli-di-lettura",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#tre-livelli-di-lettura",
+    "title": "Demenze e BPSD",
+    "section": "Tre livelli di lettura",
+    "text": "Tre livelli di lettura\n\n\nEpisodio\nche cosa è successo?\n\n\nIpotesi\nperché potrebbe essere successo?\n\n\nIntervento\nche cosa proviamo e come lo valutiamo?\n\n\n\nQuesta è la mappa per ABC, biopsicosociale e DICE. Non presentarli come modelli concorrenti, ma come strumenti in sequenza."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#abc-descrivere-lepisodio",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#abc-descrivere-lepisodio",
+    "title": "Demenze e BPSD",
+    "section": "ABC: descrivere l’episodio",
+    "text": "ABC: descrivere l’episodio\n\n\n\n\n\n\n\n\nA — Antecedent\nB — Behavior\nC — Consequence\n\n\n\n\nChe cosa accade prima?\nChe cosa fa/dice la persona?\nChe cosa succede dopo?\n\n\nAmbiente, persone, richiesta, ora\nforma, durata, intensità, rischio\nrisposta degli operatori, effetto, rinforzi\n\n\n\n\nABC non spiega tutto, ma costringe a rendere l’episodio osservabile. Esempio: “aggressiva durante igiene” diventa antecedente = bagno freddo, operatore nuovo, fretta; behavior = afferra il polso e urla; conseguenza = igiene sospesa, persona lasciata sola."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#matrice-biopsicosociale-e-bisogni",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#matrice-biopsicosociale-e-bisogni",
+    "title": "Demenze e BPSD",
+    "section": "Matrice biopsicosociale e bisogni",
+    "text": "Matrice biopsicosociale e bisogni\n\n\nPersona e salute\n\ndolore;\nfame, sete, sonno;\ndelirium o malattia acuta;\nfarmaci;\nstadio di demenza;\nstoria personale.\n\n\nAmbiente e relazione\n\nrumore, luce, temperatura;\nrichiesta troppo complessa;\nperdita di controllo;\ncomunicazione;\nroutine;\nsignificato biografico.\n\n\n\nUsare la matrice per generare ipotesi multiple. Vietare la prima ipotesi unica. Ogni gruppo deve produrre almeno tre ipotesi alternative, non una sola."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-trasformare-ipotesi-in-cura",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-trasformare-ipotesi-in-cura",
+    "title": "Demenze e BPSD",
+    "section": "DICE: trasformare ipotesi in cura",
+    "text": "DICE: trasformare ipotesi in cura\n\n\nD — Describe\ndescrivere il comportamento e il contesto\n\n\nI — Investigate\ncercare cause modificabili\n\n\nC — Create\ncreare un piano personalizzato\n\n\nE — Evaluate\nvalutare effetto e correggere\n\n\nFonte: Kales, Gitlin, Lyketsos. JAGS 2014\n\nDICE è utile perché chiude il ciclo. Non basta avere un’ipotesi: serve un intervento provabile e un indicatore di efficacia. Citare il caso classico dell’aggressività durante il bagno."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-applicato-al-caso-iniziale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-applicato-al-caso-iniziale",
+    "title": "Demenze e BPSD",
+    "section": "DICE applicato al caso iniziale",
+    "text": "DICE applicato al caso iniziale\n\n\n\n\n\n\n\nPasso\nDomande\n\n\n\n\nDescribe\nEsce sempre alle 17:30? Con chi? Da quale porta? Quanto dura?\n\n\nInvestigate\nDolore? Ansia? Routine lavorativa/familiare? Sovrastimolazione? Sundowning?\n\n\nCreate\nValidazione, attività ponte, routine serale, segnale ambientale, accompagnamento sicuro\n\n\nEvaluate\nMeno tentativi? Meno distress? Meno conflitto? Strategia sostenibile?\n\n\n\n\nMostrare come lo stesso comportamento cambi significato aggiungendo dati. Non suggerire “chiudere la porta” come primo intervento; discutere sicurezza, libertà, proporzionalità e distress."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#interventi-non-farmacologici-logica",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#interventi-non-farmacologici-logica",
+    "title": "Demenze e BPSD",
+    "section": "Interventi non farmacologici: logica",
+    "text": "Interventi non farmacologici: logica\nUn intervento è buono se è:\n\ncoerente con l’ipotesi;\nsicuro;\npersonalizzato;\npraticabile dal team/famiglia;\nverificabile;\nmodificabile se non funziona.\n\n\nEvitare liste generiche di “attività”. Chiedere sempre: a quale ipotesi risponde? quale esito misuriamo? entro quanto tempo? chi lo fa?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#esempi-di-interventi-mirati",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#esempi-di-interventi-mirati",
+    "title": "Demenze e BPSD",
+    "section": "Esempi di interventi mirati",
+    "text": "Esempi di interventi mirati\n\n\n\n\n\n\n\n\n\nProblema osservato\nIpotesi\nIntervento possibile\nIndicatore\n\n\n\n\nAgitazione durante igiene\nfreddo, paura, perdita controllo\nanticipare, spiegare un passo, scelta tra due opzioni\nmeno rifiuti/urla\n\n\nWandering serale\nroutine biografica, ansia\nattività ponte, cammino accompagnato, oggetto significativo\nmeno tentativi di uscita\n\n\nDomande ripetitive\nansia, disorientamento\nrisposta breve coerente, agenda visiva, rassicurazione\nminore distress\n\n\nApatia\nattività non significativa\nattività breve, nota, con successo probabile\nmaggiore partecipazione\n\n\n\n\nSottolineare che l’intervento non è universale. La stessa strategia può funzionare per una persona e peggiorare un’altra."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#laboratorio-investigatori-del-comportamento",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#laboratorio-investigatori-del-comportamento",
+    "title": "Demenze e BPSD",
+    "section": "Laboratorio — investigatori del comportamento",
+    "text": "Laboratorio — investigatori del comportamento\nOgni gruppo riceve un caso e compila una scheda:\n\ndescrizione operativa;\nABC;\nalmeno tre ipotesi;\ndati clinici/ambientali da raccogliere;\nintervento iniziale;\nindicatore di efficacia.\n\n\nAttività 137–160 min. Consegnare una scheda cartacea o digitale. Ruoli: facilitatore, cronometrista, relatore. Far rispettare il vincolo: almeno tre ipotesi alternative e un indicatore misurabile."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-1-rifiuto-delligiene",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-1-rifiuto-delligiene",
+    "title": "Demenze e BPSD",
+    "section": "Caso laboratorio 1 — rifiuto dell’igiene",
+    "text": "Caso laboratorio 1 — rifiuto dell’igiene\nUna residente rifiuta la doccia, urla e stringe le braccia al petto. Accade soprattutto al mattino, con operatori diversi, in bagno comune.\n\nIpotesi attese: freddo, dolore, pudore, trauma/storia personale, comunicazione troppo rapida, ambiente non familiare, paura di cadere, operatore non conosciuto. Interventi: bagno caldo, tempi lenti, scelta, asciugamano coprente, stessa figura, igiene parziale, musica/oggetti personali."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-2-agitazione-serale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-2-agitazione-serale",
+    "title": "Demenze e BPSD",
+    "section": "Caso laboratorio 2 — agitazione serale",
+    "text": "Caso laboratorio 2 — agitazione serale\nOgni giorno dopo le 18:00 un uomo cammina avanti e indietro, cerca la porta e chiede di tornare “al lavoro”. Se contraddetto, alza la voce.\n\nIpotesi: routine lavorativa, ansia, sundowning, stanchezza, rumore del cambio turno, bisogno di movimento, ricerca di ruolo. Interventi: validazione, attività di chiusura giornata, cammino accompagnato, compito significativo, riduzione stimoli."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-3-domande-ripetitive",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-3-domande-ripetitive",
+    "title": "Demenze e BPSD",
+    "section": "Caso laboratorio 3 — domande ripetitive",
+    "text": "Caso laboratorio 3 — domande ripetitive\nUna donna chiede ogni pochi minuti quando arriva la figlia. La figlia è già venuta al mattino. Quando le viene detto, la donna appare triste e ricomincia dopo poco.\n\nIpotesi: ansia, perdita memoria episodica, bisogno di attaccamento, solitudine, routine non chiara. Interventi: non ripetere “è già venuta” se aumenta distress; usare agenda visiva, messaggio scritto, telefonata programmata, attività di transizione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-4-aggressività-nellassistenza",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-laboratorio-4-aggressività-nellassistenza",
+    "title": "Demenze e BPSD",
+    "section": "Caso laboratorio 4 — aggressività nell’assistenza",
+    "text": "Caso laboratorio 4 — aggressività nell’assistenza\nDurante il trasferimento letto-carrozzina un uomo spinge l’operatore e tenta di colpirlo. L’episodio compare soprattutto nei giorni in cui appare più rigido e lamenta dolore alla schiena.\n\nIpotesi: dolore, paura di cadere, tecnica di mobilizzazione, richiesta improvvisa, rigidità, delirium/farmaci. Qui far emergere la necessità di segnalazione clinica, analgesia, fisioterapia, tecnica corretta, anticipazione verbale e tempi più lenti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#restituzione-del-laboratorio",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#restituzione-del-laboratorio",
+    "title": "Demenze e BPSD",
+    "section": "Restituzione del laboratorio",
+    "text": "Restituzione del laboratorio\nOgni gruppo restituisce in 90 secondi:\n\ncomportamento descritto senza etichette;\nipotesi principale e due alternative;\nprimo intervento;\nindicatore di efficacia.\n\n\nDebrief 5–8 min. Correggere soprattutto etichette (“oppositivo”, “aggressivo”, “manipolativo”) e interventi non collegati all’ipotesi. Rinforzare formulazioni osservabili e valutabili."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#microsimulazione-comunicativa",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#microsimulazione-comunicativa",
+    "title": "Demenze e BPSD",
+    "section": "Microsimulazione comunicativa",
+    "text": "Microsimulazione comunicativa\nTriadi:\n\npersona con demenza;\nprofessionista;\nosservatore.\n\nScenario: la persona vuole uscire “per andare a prendere i figli”.\nDue tentativi: prima prova, feedback, seconda prova migliorata.\n\nAttività 160–175 min. Dare una checklist semplice: tono, distanza, validazione, non contraddire frontalmente, una richiesta alla volta, offrire scelta, sicurezza. L’osservatore dà feedback su comportamenti osservabili, non giudizi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#checklist-comunicativa",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#checklist-comunicativa",
+    "title": "Demenze e BPSD",
+    "section": "Checklist comunicativa",
+    "text": "Checklist comunicativa\n\nMi avvicino frontalmente e lentamente.\nUso frasi brevi.\nRiconosco l’emozione prima di correggere il contenuto.\nEvito confronto diretto non necessario.\nPropongo una scelta semplice.\nProteggo la sicurezza senza umiliare.\nOsservo l’effetto della mia risposta.\n\n\nNon presentarla come ricetta. È una base per esercitarsi. Far notare che a volte la comunicazione migliore non “risolve” subito, ma riduce escalation e distress."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#torniamo-al-caso-iniziale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#torniamo-al-caso-iniziale",
+    "title": "Demenze e BPSD",
+    "section": "Torniamo al caso iniziale",
+    "text": "Torniamo al caso iniziale\n\nOre 17:30. “Devo andare a prendere i bambini”.\nTenta di uscire. Si irrita se fermata.\n\nOra formulate:\n\ntre dati da raccogliere;\ndue ipotesi alternative;\nun intervento sicuro da provare;\nun indicatore di efficacia.\n\n\nChiusura 175–180 min. Farlo come exit ticket individuale. Serve a verificare il passaggio da interpretazione unica a ragionamento strutturato."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#take-home-messages",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#take-home-messages",
+    "title": "Demenze e BPSD",
+    "section": "Take home messages",
+    "text": "Take home messages\n\nLa demenza è una sindrome eterogenea, non solo memoria.\nIl comportamento va descritto prima di essere interpretato.\nUn cambiamento improvviso richiede attenzione clinica.\nABC aiuta a leggere l’episodio.\nDICE aiuta a trasformare osservazione e ipotesi in intervento valutabile.\n\n\nChiudere con una formula semplice: “descrivere meglio significa curare meglio”."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#fonti-essenziali",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#fonti-essenziali",
+    "title": "Demenze e BPSD",
+    "section": "Fonti essenziali",
+    "text": "Fonti essenziali\n\nWHO. Dementia fact sheet, aggiornata 2026. https://www.who.int/news-room/fact-sheets/detail/dementia\nNICE guideline NG97. Dementia: assessment, management and support. https://www.nice.org.uk/guidance/ng97\nInternational Psychogeriatric Association. Complete Guide to BPSD. https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf\nKales HC, Gitlin LN, Lyketsos CG. Management of Neuropsychiatric Symptoms of Dementia in Clinical Settings. J Am Geriatr Soc. 2014. https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/\n\n\nQuesta slide può rimanere nascosta se la presentazione è troppo lunga. In alternativa usarla come slide finale per studio autonomo."
   },
   {
     "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
@@ -327,19 +712,5 @@
     "title": "Invecchiamento e fragilità",
     "section": "Conclusione",
     "text": "Conclusione\nAlla prossima!\n[se possibile, portate tablet o laptop!] {.alert}\n\nalberto.zucchelli@unibs.it"
-  },
-  {
-    "objectID": "geriatria/index.html",
-    "href": "geriatria/index.html",
-    "title": "Geriatria",
-    "section": "",
-    "text": "Materiale didattico del corso di Geriatria.\n\n\n\n\n\nInvecchiamento e fragilità\nLa valutazione multidimensionale"
-  },
-  {
-    "objectID": "geriatria/index.html#lezioni",
-    "href": "geriatria/index.html#lezioni",
-    "title": "Geriatria",
-    "section": "",
-    "text": "Invecchiamento e fragilità\nLa valutazione multidimensionale"
   }
 ]
