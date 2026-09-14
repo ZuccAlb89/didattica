@@ -11,3 +11,7 @@ Raccolta del materiale didattico e delle presentazioni.
 ### Area clinica
 
 - [Geriatria](geriatria/index.qmd)
+
+### Ricerca
+
+- [Prescription Day LTCFs 2024](gruppoYES/Prescription_day/index.qmd)
