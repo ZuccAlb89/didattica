@@ -1,0 +1,650 @@
+---
+title: "Orientarsi nella documentazione sanitaria"
+subtitle: "Capire che cosa sto guardando e dove cercare l’informazione"
+author: "Alberto Zucchelli"
+lang: it
+format:
+  clean-revealjs:
+    slide-number: c/t
+    transition: fade
+    incremental: false
+    width: 1280
+    height: 720
+    margin: 0.055
+    center: false
+    controls: true
+    progress: true
+    footer: "Medicina Interna · Orientarsi nella documentazione sanitaria"
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow, noarchive">
+        <style>
+        :root {
+          --blue: #107895;
+          --blue-light: #eaf5f7;
+          --orange: #b96b32;
+          --orange-light: #fbf1e9;
+          --grey: #5d666b;
+          --grey-light: #f3f5f6;
+        }
+        .reveal .slides section { text-align: left; }
+        .reveal .slides section > h2 { margin-bottom: .55em; }
+        .reveal h3 { color: var(--blue); }
+        .big-question, .big-statement {
+          color: var(--blue); font-weight: 600; line-height: 1.25;
+          margin: 1.1em auto; max-width: 1000px; text-align: center;
+        }
+        .big-question { font-size: 1.42em; }
+        .big-statement { font-size: 1.2em; }
+        .instruction {
+          background: var(--blue); border-radius: .35em; color: white;
+          font-size: .76em; margin: .65em 0; padding: .62em .85em;
+        }
+        .activity-tag {
+          color: var(--orange); font-size: .52em; font-weight: 700;
+          letter-spacing: .08em; margin-bottom: .25em; text-transform: uppercase;
+        }
+        .time-tag {
+          background: var(--grey-light); border-radius: 999px; color: var(--grey);
+          display: inline-block; font-size: .46em; font-weight: 600; padding: .25em .65em;
+        }
+        .doc-grid, .function-grid, .role-grid, .category-grid {
+          display: grid; gap: .5em; margin-top: .7em;
+        }
+        .doc-grid { grid-template-columns: repeat(3, 1fr); }
+        .function-grid { grid-template-columns: repeat(2, 1fr); }
+        .role-grid { grid-template-columns: repeat(4, 1fr); }
+        .category-grid { grid-template-columns: repeat(3, 1fr); }
+        .doc-card {
+          background: white; border: 1px solid #d8e0e3; border-radius: .32em;
+          box-shadow: 0 3px 10px rgba(0,0,0,.06); box-sizing: border-box;
+          font-size: .52em; line-height: 1.28; min-height: 8em; padding: .65em .75em;
+        }
+        .doc-card strong, .info-card strong, .role-card strong {
+          color: var(--blue); display: block; margin-bottom: .3em;
+        }
+        .doc-meta {
+          border-bottom: 1px solid #d9e1e4; color: var(--grey); display: block;
+          font-size: .78em; margin-bottom: .4em; padding-bottom: .3em; text-transform: uppercase;
+        }
+        .file-stack { margin: 1em auto; max-width: 820px; }
+        .file-sheet {
+          background: white; border: 1px solid #cbd5d9; border-left: 7px solid var(--blue);
+          border-radius: .3em; box-shadow: 0 5px 15px rgba(0,0,0,.07);
+          font-size: .7em; margin: -.12em 0; padding: .42em .8em;
+        }
+        .info-card, .document-column {
+          background: var(--grey-light); border-radius: .3em; box-sizing: border-box;
+          font-size: .66em; line-height: 1.3; padding: .68em .8em;
+        }
+        .role-card {
+          background: var(--blue-light); border-bottom: 4px solid var(--blue);
+          border-radius: .3em; font-size: .64em; min-height: 6em; padding: .68em; text-align: center;
+        }
+        .pathway, .process-row {
+          align-items: stretch; display: flex; gap: .22em; justify-content: center; margin: .9em 0;
+        }
+        .path-step, .process-box {
+          background: var(--grey-light); border-radius: .3em; box-sizing: border-box;
+          flex: 1; font-size: .56em; line-height: 1.25; padding: .7em .5em; text-align: center;
+        }
+        .path-step { min-height: 8.2em; }
+        .path-step strong, .process-box strong { color: var(--blue); display: block; margin-bottom: .35em; }
+        .process-box { background: var(--blue-light); border-bottom: 5px solid var(--blue); font-weight: 600; }
+        .path-arrow, .process-arrow { align-self: center; color: var(--blue); font-weight: 700; }
+        .question-list { counter-reset: item; list-style: none; margin-left: 0; }
+        .question-list li {
+          background: var(--grey-light); border-radius: .25em; margin: .22em 0;
+          padding: .34em .55em .34em 2.15em; position: relative;
+        }
+        .question-list li::before {
+          background: var(--blue); border-radius: 50%; color: white;
+          content: counter(item); counter-increment: item; font-size: .7em;
+          height: 1.45em; left: .55em; line-height: 1.45em; position: absolute;
+          text-align: center; top: .4em; width: 1.45em;
+        }
+        .takeaway {
+          background: var(--blue-light); border-left: 7px solid var(--blue);
+          border-radius: .3em; font-size: .76em; margin: .65em 0; padding: .62em .82em;
+        }
+        .warning-boundary {
+          background: var(--orange-light); border-left: 6px solid var(--orange);
+          border-radius: .3em; color: #5a3822; font-size: .66em;
+          margin-top: .6em; padding: .52em .72em;
+        }
+        .source { color: var(--grey); font-size: .4em; margin-top: .5em; }
+        .very-small { font-size: .6em; }
+        .centered { text-align: center; }
+        .reveal table { font-size: .64em; }
+        .reveal table th { background: var(--blue); color: white; }
+        .reveal table td, .reveal table th { padding: .34em .52em; }
+        </style>
+---
+
+## Che cosa sto guardando?
+
+<div class="activity-tag">Cold start · risposta individuale, poi confronto a coppie</div>
+<span class="time-tag">0–8 minuti</span>
+
+<div class="doc-grid">
+  <div class="doc-card">
+    <span class="doc-meta">Campione · 08:15</span>
+    <strong>Esame emocromocitometrico</strong>
+    Emoglobina&nbsp;&nbsp; 11,2 g/dL<br>
+    Leucociti&nbsp;&nbsp; 8,4 × 10⁹/L<br>
+    Piastrine&nbsp;&nbsp; 214 × 10⁹/L
+  </div>
+  <div class="doc-card">
+    <span class="doc-meta">Esame · 10:40</span>
+    <strong>TC torace senza contrasto</strong>
+    Indicazione all’esame<br>Tecnica di acquisizione<br>Reperti<br>Conclusioni
+  </div>
+  <div class="doc-card">
+    <span class="doc-meta">Terapia · ore 08–14–20</span>
+    <strong>Scheda terapeutica</strong>
+    Farmaco A · dose · via · orario<br>Farmaco B · dose · via · orario<br>Firma di somministrazione
+  </div>
+  <div class="doc-card">
+    <span class="doc-meta">Giorno 2 · 22:30</span>
+    <strong>Diario</strong>
+    Persona vigile. Ha cenato.<br>Parametri registrati.<br>Prosegue assistenza programmata.
+  </div>
+  <div class="doc-card">
+    <span class="doc-meta">Conclusione del ricovero</span>
+    <strong>Lettera di dimissione</strong>
+    Diagnosi<br>Accertamenti eseguiti<br>Terapia alla dimissione<br>Indicazioni successive
+  </div>
+</div>
+
+<div class="instruction"><strong>Per ciascun frammento:</strong> che tipo di documento è? A che cosa serve?</div>
+
+::: {.notes}
+Tempo totale: 8 minuti.
+
+Lasciare 60–90 secondi di osservazione individuale. Chiedere poi un confronto rapido con il vicino e raccogliere alcune risposte.
+
+Non correggere ogni dettaglio e non discutere il significato clinico di valori o termini. Lo scopo è far notare titolo, struttura, sezioni, data e forma grafica.
+
+Punto da far emergere: riconoscere il contenitore aiuta a orientarsi nel contenuto.
+:::
+
+## Non esiste “la cartella” come singolo testo
+
+<span class="time-tag">8–11 minuti</span>
+
+<div class="file-stack">
+  <div class="file-sheet"><strong>Lettera di dimissione</strong> · sintesi e continuità</div>
+  <div class="file-sheet"><strong>Referti</strong> · risultati di esami e valutazioni</div>
+  <div class="file-sheet"><strong>Scheda terapeutica</strong> · terapia prescritta e somministrata</div>
+  <div class="file-sheet"><strong>Diario</strong> · registrazioni successive nel tempo</div>
+  <div class="file-sheet"><strong>Documentazione iniziale</strong> · accesso e valutazioni di ingresso</div>
+</div>
+
+<div class="big-statement">La documentazione sanitaria è un <strong>insieme di documenti</strong> prodotti in momenti diversi, da professionisti diversi e per funzioni diverse.</div>
+
+::: {.notes}
+Tempo: 3 minuti. Riprendere i frammenti della slide precedente. Far emergere che il fascicolo raccoglie oggetti documentali differenti. Non entrare nelle definizioni giuridiche o nella composizione obbligatoria completa.
+:::
+
+## A che cosa serve documentare?
+
+<span class="time-tag">11–15 minuti</span>
+
+<div class="function-grid">
+  <div class="info-card"><strong>Registrare</strong>Osservazioni, valutazioni, attività e indicazioni.</div>
+  <div class="info-card"><strong>Condividere</strong>Rendere le informazioni disponibili agli altri professionisti.</div>
+  <div class="info-card"><strong>Dare continuità</strong>Collegare momenti, professionisti e setting assistenziali.</div>
+  <div class="info-card"><strong>Documentare il percorso</strong>Conservare traccia di ciò che è avvenuto nell’episodio assistenziale.</div>
+</div>
+
+<div class="source">Riferimento concettuale: Regione Lombardia, <em>Manuale del Fascicolo di Ricovero</em>.</div>
+
+::: {.notes}
+Tempo: 4 minuti. Usare un esempio semplice: un professionista registra un’informazione; un altro la consulta; alla dimissione alcune informazioni vengono comunicate al setting successivo. Limitare a un cenno la funzione medico-legale.
+:::
+
+## Una documentazione, molti utilizzatori
+
+<span class="time-tag">15–18 minuti</span>
+
+<div class="role-grid">
+  <div class="role-card"><strong>Medico</strong>Valutazioni, diagnosi, prescrizioni e percorso clinico</div>
+  <div class="role-card"><strong>Infermiere</strong>Assistenza, osservazioni, parametri e somministrazioni</div>
+  <div class="role-card"><strong>Altri professionisti</strong>Valutazioni e interventi di competenza</div>
+  <div class="role-card"><strong>Servizi successivi</strong>Informazioni necessarie alla continuità</div>
+</div>
+
+<div class="takeaway">La documentazione è anche uno strumento di <strong>comunicazione tra professionisti e tra setting</strong>.</div>
+
+::: {.notes}
+Tempo: 3 minuti. Sottolineare che professionisti diversi possono leggere lo stesso fascicolo con domande differenti. Evitare una classificazione dettagliata delle responsabilità professionali.
+:::
+
+## Prima regola per orientarsi
+
+<span class="time-tag">18–20 minuti</span>
+
+<div class="big-question">Prima di leggere tutto, chiediti:<br><br><strong>che documento è?</strong><br>e<br><strong>perché è stato prodotto?</strong></div>
+
+::: {.notes}
+Tempo: 2 minuti. Presentare questa regola come leitmotiv della lezione e chiedere agli studenti di utilizzarla nelle attività successive.
+:::
+
+## Documento ↔ funzione
+
+<div class="activity-tag">Card sorting · gruppi di 3–4</div>
+<span class="time-tag">20–32 minuti</span>
+
+:::: {.columns}
+::: {.column width="48%"}
+### Documenti
+
+- diario clinico;
+- referto di laboratorio;
+- referto radiologico;
+- scheda terapeutica;
+- lettera di dimissione;
+- piano terapeutico;
+- verbale di pronto soccorso.
+:::
+
+::: {.column width="52%"}
+### Funzioni prevalenti
+
+- documentare l’andamento nel tempo;
+- riportare il risultato di un esame;
+- indicare una terapia;
+- documentare un accesso in emergenza;
+- comunicare le informazioni alla conclusione del ricovero;
+- organizzare indicazioni terapeutiche successive.
+:::
+::::
+
+<div class="instruction">Associate ogni documento alla funzione che considerate prevalente. Se un’associazione vi sembra ambigua, preparate una breve motivazione.</div>
+
+::: {.notes}
+Tempo di lavoro: 10–12 minuti. Se disponibili, distribuire carte fisiche. Accettare discussioni motivate: alcune funzioni possono sovrapporsi. Non chiedere di interpretare diagnosi, terapie o risultati.
+:::
+
+## Dove guarderei per prima cosa?
+
+<div class="activity-tag">Debrief del card sorting</div>
+<span class="time-tag">32–40 minuti</span>
+
+| Se voglio sapere… | Guarderei prima… |
+|---|---|
+| il risultato di un esame del sangue | **referto di laboratorio** |
+| che cosa ha mostrato una TC | **referto radiologico** |
+| che cosa è stato registrato durante il ricovero | **diario / documentazione clinica** |
+| quali farmaci sono prescritti | **prescrizione / scheda terapeutica** |
+| che cosa viene comunicato al termine del ricovero | **lettera di dimissione** |
+| che cosa è avvenuto durante un accesso urgente | **verbale di pronto soccorso** |
+
+<div class="takeaway fragment">La stessa informazione può comparire in più documenti, ma documenti diversi hanno <strong>funzioni prevalenti diverse</strong>.</div>
+
+::: {.notes}
+Tempo: 8 minuti. Costruire la tabella progressivamente dalle risposte. Non presentare le associazioni come esclusive: una terapia può comparire nel diario, nella scheda terapeutica e nella lettera di dimissione.
+:::
+
+## Un episodio assistenziale produce documentazione
+
+<span class="time-tag">40–43 minuti</span>
+
+<div class="pathway">
+  <div class="path-step"><strong>Ingresso</strong>Dati iniziali<br>Motivo dell’accesso<br>Valutazioni iniziali</div>
+  <div class="path-arrow">→</div>
+  <div class="path-step"><strong>Durante</strong>Diario<br>Osservazioni<br>Terapia<br>Procedure</div>
+  <div class="path-arrow">→</div>
+  <div class="path-step"><strong>Accertamenti</strong>Laboratorio<br>Radiologia<br>Consulenze</div>
+  <div class="path-arrow">→</div>
+  <div class="path-step"><strong>Dimissione</strong>Sintesi<br>Terapia<br>Indicazioni successive</div>
+</div>
+
+<div class="centered">La posizione nel percorso aiuta a capire quando e perché un documento è stato prodotto.</div>
+
+::: {.notes}
+Tempo: 3 minuti. Presentare il percorso come mappa documentale, non come timeline clinica da ricostruire. Non chiedere che cosa sia accaduto al paziente né come sia evoluto il quadro.
+:::
+
+## All’ingresso
+
+<span class="time-tag">43–45 minuti</span>
+
+:::: {.columns}
+::: {.column width="42%"}
+<div class="document-column">
+
+### Indizi visivi
+
+- intestazione della struttura;
+- data e ora dell’accesso;
+- identificazione della persona;
+- titoli delle sezioni;
+- professionista compilatore.
+
+</div>
+:::
+
+::: {.column width="58%"}
+<div class="document-column">
+
+### Informazioni che posso aspettarmi
+
+- dati identificativi;
+- motivo dell’accesso o del ricovero;
+- storia precedente essenziale;
+- valutazioni iniziali;
+- eventuale terapia già in corso.
+
+</div>
+:::
+::::
+
+::: {.notes}
+Tempo: 2 minuti. Sottolineare “posso aspettarmi”: la struttura varia tra organizzazioni. Non spiegare la differenza clinica tra storia precedente e problema attuale; limitarsi a localizzare le sezioni.
+:::
+
+## Durante il ricovero
+
+<span class="time-tag">45–48 minuti</span>
+
+<div class="category-grid">
+  <div class="info-card"><strong>Diario</strong>Annotazioni successive, con data e ora.</div>
+  <div class="info-card"><strong>Osservazioni</strong>Informazioni raccolte dai professionisti.</div>
+  <div class="info-card"><strong>Parametri</strong>Dati registrati in schede o grafici.</div>
+  <div class="info-card"><strong>Terapia</strong>Prescrizioni e registrazioni di somministrazione.</div>
+  <div class="info-card"><strong>Valutazioni</strong>Contributi delle diverse professioni.</div>
+  <div class="info-card"><strong>Procedure</strong>Attività e interventi documentati.</div>
+</div>
+
+::: {.notes}
+Tempo: 3 minuti. Far notare data, ora e identificazione del professionista. Non usare le annotazioni per ricostruire l’evoluzione del caso.
+:::
+
+## Accertamenti e referti
+
+<span class="time-tag">48–50 minuti</span>
+
+<div class="process-row">
+  <div class="process-box">Domanda o indicazione</div><div class="process-arrow">→</div>
+  <div class="process-box">Richiesta dell’esame</div><div class="process-arrow">→</div>
+  <div class="process-box">Esecuzione</div><div class="process-arrow">→</div>
+  <div class="process-box">Risultato / referto</div>
+</div>
+
+<div class="function-grid">
+  <div class="info-card"><strong>Laboratorio</strong>Risultati organizzati per analita, valore e unità.</div>
+  <div class="info-card"><strong>Radiologia</strong>Indicazione, tecnica, reperti e conclusioni.</div>
+  <div class="info-card"><strong>Consulenza</strong>Valutazione effettuata da un altro professionista o servizio.</div>
+  <div class="info-card"><strong>Altre indagini</strong>Documenti con strutture specifiche rispetto all’esame.</div>
+</div>
+
+::: {.notes}
+Tempo: 2 minuti. Chiarire soltanto la differenza tra richiesta, esecuzione e risultato. Non spiegare valori, unità, range di riferimento o significato dei reperti: appartengono alla Lezione 3.
+:::
+
+## Alla dimissione
+
+<span class="time-tag">50–53 minuti</span>
+
+:::: {.columns}
+::: {.column width="45%"}
+<div class="file-stack">
+  <div class="file-sheet"><strong>Diagnosi riportate</strong></div>
+  <div class="file-sheet"><strong>Accertamenti e attività rilevanti</strong></div>
+  <div class="file-sheet"><strong>Terapia alla dimissione</strong></div>
+  <div class="file-sheet"><strong>Indicazioni successive</strong></div>
+</div>
+:::
+
+::: {.column width="55%"}
+### La lettera di dimissione
+
+- sintetizza elementi rilevanti dell’episodio;
+- comunica informazioni al termine del ricovero;
+- riporta terapia e indicazioni successive;
+- sostiene la continuità assistenziale.
+
+<div class="warning-boundary">Oggi ne riconosciamo <strong>struttura e funzione</strong>. Non la utilizziamo ancora per ricostruire la storia clinica.</div>
+:::
+::::
+
+::: {.notes}
+Tempo: 3 minuti. Mostrare la struttura generale senza analizzare la coerenza tra diagnosi, decorso e terapia. Se emerge la SDO, chiarire brevemente che non coincide con la lettera di dimissione.
+:::
+
+## Oggi e nella prossima lezione
+
+<span class="time-tag">53–55 minuti</span>
+
+:::: {.columns}
+::: {.column width="50%"}
+<div class="role-card"><strong>Oggi</strong>Dove sono registrate le informazioni?</div>
+:::
+::: {.column width="50%"}
+<div class="role-card"><strong>Prossima lezione</strong>Come le informazioni raccontano la storia del paziente?</div>
+:::
+::::
+
+<div class="big-statement">Oggi: <strong>localizzare</strong>.<br>La prossima volta: <strong>ricostruire</strong>.</div>
+
+::: {.notes}
+Tempo: 2 minuti. Rendere esplicito il confine. Se la discussione si sposta verso patologie pregresse, problema principale, complicanze o decorso, rinviare alla Lezione 2.
+:::
+
+## Dove lo cercheresti?
+
+<div class="activity-tag">Risposta a coppie, sondaggio o alzata di mano</div>
+<span class="time-tag">55–64 minuti</span>
+
+<ol class="question-list">
+<li>Che cosa ha mostrato una TC?</li>
+<li>Quali farmaci sono prescritti?</li>
+<li>Che cosa è stato registrato durante la notte?</li>
+<li>Quali indicazioni sono state date alla dimissione?</li>
+<li>Qual è il risultato di un esame del sangue?</li>
+<li>Dove viene sintetizzato ciò che viene comunicato al termine del ricovero?</li>
+</ol>
+
+<div class="instruction">Per ogni domanda indicate il <strong>documento</strong> e, se possibile, la <strong>sezione</strong>. Non interpretate il contenuto.</div>
+
+::: {.notes}
+Tempo: 9 minuti. Presentare una domanda alla volta e lasciare 20–30 secondi alle coppie. Accettare alternative motivate quando l’informazione può comparire in più punti. Chiedere sempre: “Dove guarderesti per prima cosa?”
+:::
+
+## Cercare in modo mirato
+
+<div class="activity-tag">Debrief</div>
+<span class="time-tag">64–67 minuti</span>
+
+<div class="process-row">
+  <div class="process-box">Riconosci il documento</div><div class="process-arrow">→</div>
+  <div class="process-box">Usa titolo e intestazioni</div><div class="process-arrow">→</div>
+  <div class="process-box">Vai alla sezione probabile</div>
+</div>
+
+<div class="big-statement fragment">Non sempre è necessario leggere tutto dall’inizio alla fine.</div>
+
+::: {.notes}
+Tempo: 3 minuti. Chiedere quali indizi sono stati usati. Raccogliere titolo, intestazioni, forma grafica, funzione e posizione nel fascicolo.
+:::
+
+## Che tipo di informazione sto guardando?
+
+<span class="time-tag">67–73 minuti</span>
+
+<div class="category-grid">
+  <div class="info-card"><strong>Dati identificativi</strong>Chi è la persona e a quale episodio si riferisce il documento?</div>
+  <div class="info-card"><strong>Storia precedente</strong>Quali informazioni sono riportate sul passato?</div>
+  <div class="info-card"><strong>Problema attuale</strong>Quale motivo dell’accesso è registrato?</div>
+  <div class="info-card"><strong>Diagnosi</strong>Quali diagnosi sono esplicitamente riportate?</div>
+  <div class="info-card"><strong>Esami e referti</strong>Quali accertamenti e risultati sono documentati?</div>
+  <div class="info-card"><strong>Procedure</strong>Quali attività o interventi sono registrati?</div>
+  <div class="info-card"><strong>Terapia</strong>Quali prescrizioni o somministrazioni compaiono?</div>
+  <div class="info-card"><strong>Decorso</strong>Dove sono presenti registrazioni successive?</div>
+  <div class="info-card"><strong>Indicazioni successive</strong>Che cosa viene indicato dopo la dimissione?</div>
+</div>
+
+::: {.notes}
+Tempo: 6 minuti. Presentare le categorie come etichette per orientarsi. “Diagnosi” significa riconoscere una sezione esplicitamente etichettata, non formulare una diagnosi. Non approfondire sintomo, segno, sindrome o complicanza.
+:::
+
+## Una categoria può comparire in più punti
+
+<span class="time-tag">73–77 minuti</span>
+
+<div class="big-statement">Esempio: <strong>TERAPIA</strong></div>
+
+<div class="process-row">
+  <div class="process-box">Documentazione iniziale</div><div class="process-arrow">↔</div>
+  <div class="process-box">Scheda terapeutica</div><div class="process-arrow">↔</div>
+  <div class="process-box">Diario</div><div class="process-arrow">↔</div>
+  <div class="process-box">Lettera di dimissione</div>
+</div>
+
+<div class="takeaway">Cercare un’informazione significa conoscere sia la sua <strong>categoria</strong> sia la <strong>funzione dei documenti</strong> in cui può comparire.</div>
+
+::: {.notes}
+Tempo: 4 minuti. Chiedere che cosa potrebbe cambiare tra i diversi punti senza entrare nel confronto clinico tra terapie. La domanda e il momento assistenziale orientano la ricerca.
+:::
+
+## Document Scavenger Hunt
+
+<div class="activity-tag">Attività principale · gruppi di 3–4</div>
+<span class="time-tag">77–97 minuti</span>
+
+<div class="instruction"><strong>Trovate nel fascicolo dove sono riportate queste informazioni. Non dovete interpretarle.</strong></div>
+
+:::: {.columns}
+::: {.column width="52%"}
+1. un dato identificativo;
+2. il motivo dell’accesso;
+3. una patologia riportata nella storia precedente;
+4. un risultato di esame;
+5. un farmaco prescritto;
+6. un’informazione registrata durante il ricovero;
+7. una diagnosi riportata alla dimissione;
+8. un’indicazione per il periodo successivo.
+:::
+
+::: {.column width="48%"}
+| Informazione | Documento | Sezione | Pagina |
+|---|---|---|---|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| … |  |  |  |
+:::
+::::
+
+<div class="warning-boundary">Se incontrate un termine difficile, potete ignorarne il significato: il compito è <strong>localizzare</strong> l’informazione.</div>
+
+::: {.notes}
+Tempo di lavoro: 20 minuti. Distribuire un fascicolo simulato di 5–7 pagine con documentazione iniziale, diario, scheda terapeutica, referto di laboratorio, referto radiologico e breve lettera di dimissione. Durante il lavoro riportare sempre la discussione su documento, funzione, intestazioni e localizzazione.
+:::
+
+## Come avete capito dove cercare?
+
+<div class="activity-tag">Debrief dello scavenger hunt</div>
+<span class="time-tag">97–104 minuti</span>
+
+<div class="function-grid">
+  <div class="info-card"><strong>Titolo del documento</strong>Dice che tipo di oggetto sto osservando.</div>
+  <div class="info-card"><strong>Intestazioni</strong>Suddividono il documento in sezioni prevedibili.</div>
+  <div class="info-card"><strong>Posizione nel fascicolo</strong>Suggerisce il momento e la funzione.</div>
+  <div class="info-card"><strong>Parole-segnale</strong>“Terapia”, “conclusioni”, “indicazioni”, “diario”.</div>
+</div>
+
+<div class="big-question fragment">Quali parti avete potuto <strong>saltare</strong> senza perdere l’informazione cercata?</div>
+
+::: {.notes}
+Tempo: 7 minuti. Non limitarsi alle pagine corrette: chiedere a due o tre gruppi di descrivere il metodo. Far emergere che una navigazione competente è selettiva. Non trasformare il debrief nella ricostruzione del caso.
+:::
+
+## Un metodo in sei passi
+
+<span class="time-tag">104–107 minuti</span>
+
+<ol class="question-list">
+<li><strong>Identifica</strong> il tipo di documento.</li>
+<li>Chiediti quale <strong>funzione</strong> svolge.</li>
+<li>Osserva <strong>titolo, struttura e intestazioni</strong>.</li>
+<li>Definisci la <strong>categoria di informazione</strong> che cerchi.</li>
+<li>Vai alla <strong>sezione più probabile</strong>.</li>
+<li>Solo allora leggi il <strong>dettaglio necessario</strong>.</li>
+</ol>
+
+::: {.notes}
+Tempo: 3 minuti. Ricostruire i passaggi dalle strategie nominate dagli studenti. Chiedere quale passaggio tendevano a saltare.
+:::
+
+## Dove cercare cosa
+
+<span class="time-tag">107–112 minuti</span>
+
+| Mi serve… | Guardo prima… |
+|---|---|
+| un risultato di laboratorio | **referto di laboratorio** |
+| il risultato di una TC o radiografia | **referto radiologico** |
+| una registrazione effettuata durante il ricovero | **diario / documentazione clinica** |
+| una terapia prescritta | **prescrizione / scheda terapeutica** |
+| la sintesi comunicata alla conclusione del ricovero | **lettera di dimissione** |
+| le indicazioni per il periodo successivo | **lettera di dimissione / piano terapeutico** |
+| informazioni sull’accesso urgente | **verbale di pronto soccorso** |
+
+<div class="source">La tabella indica il primo luogo in cui cercare: la stessa informazione può essere ripresa in più documenti.</div>
+
+::: {.notes}
+Tempo: 5 minuti. Usare la slide come mappa di ripasso. Chiedere agli studenti di motivare una riga attraverso la funzione del documento.
+:::
+
+## Tre domande da portarsi via
+
+<span class="time-tag">112–115 minuti</span>
+
+<div class="takeaway"><strong>1.</strong> Che documento sto leggendo?</div>
+<div class="takeaway"><strong>2.</strong> Perché è stato prodotto?</div>
+<div class="takeaway"><strong>3.</strong> Che tipo di informazione posso aspettarmi di trovarci?</div>
+
+::: {.notes}
+Tempo: 3 minuti. Lasciare alcuni secondi di silenzio. Presentarle come metodo minimo trasferibile ad altri fascicoli e setting.
+:::
+
+## Exit ticket
+
+<div class="activity-tag">Verifica formativa individuale</div>
+<span class="time-tag">115–120 minuti</span>
+
+<ol class="question-list">
+<li>Devi sapere che cosa ha mostrato una radiografia. Dove cerchi?</li>
+<li>Devi trovare le indicazioni date al termine del ricovero. Dove cerchi?</li>
+<li>Trovi una pagina con annotazioni datate, scritte in momenti successivi. Che documento stai probabilmente leggendo?</li>
+<li>Qual è la prima domanda da porsi davanti a un documento sanitario che non si conosce?</li>
+</ol>
+
+::: {.fragment}
+<div class="takeaway"><strong>Risposte attese:</strong> referto radiologico · lettera di dimissione · diario/documentazione clinica · “Che documento sto leggendo?”</div>
+:::
+
+::: {.notes}
+Tempo: 5 minuti. Raccogliere le risposte prima di mostrare la soluzione. La valutazione è formativa. Distinguere tra mancato riconoscimento del documento e mancata associazione tra documento e funzione.
+:::
+
+## Fonti essenziali
+
+<div class="very-small">
+
+- Regione Lombardia. **Manuale del Fascicolo di Ricovero**.
+- Ministero della Salute e Dipartimento per la trasformazione digitale. **Fascicolo Sanitario Elettronico 2.0**.
+- Ministero della Salute. **Scheda di Dimissione Ospedaliera**.
+- eHealth Network. **Guideline on the electronic exchange of health data — Patient Summary**.
+- Professional Record Standards Body. **eDischarge Summary Standard**.
+- Royal College of Physicians. **Standards for the clinical structure and content of patient records**.
+
+</div>
+
+<div class="source">Le fonti internazionali sono utilizzate come supporto concettuale; il riferimento prioritario per struttura e terminologia resta il contesto sanitario italiano e lombardo.</div>
+
+::: {.notes}
+Slide di consultazione, senza tempo didattico dedicato. Le fonti sostengono la descrizione delle funzioni documentali e delle categorie generali di informazione.
+:::
