@@ -28,6 +28,20 @@ Pensate a una o due caratteristiche che la definiscono.
   - Altro
 
 
+## Oggi: che cosa dovrete saper fare? {.smaller}
+
+**1. Guardare la persona attraverso il modello bio-psico-sociale**
+
+- Riconoscere gli aspetti biologici, psicologici e sociali di una situazione
+- Spiegare come queste componenti possono influenzarsi reciprocamente
+
+**2. Comprendere e utilizzare il concetto di fragilità**
+
+- Spiegare la fragilità come vulnerabilità agli stressor
+- Riconoscere che esistono diversi modelli operativi e scegliere lo strumento in base allo scopo
+- Comprendere perché la fragilità può segnalare bisogni di salute complessi
+
+
 ## Invecchiamento
 
 ### L'età è solo una parte...
@@ -154,39 +168,72 @@ La lente utilizzata per guardare l'invecchiamento è il modello
 ::::
 
 
-## Attività {.smaller}
+## Attività — Il caso di Anna {.smaller}
 
-Immagina una persona anziana con **scompenso cardiaco**.
+**Anna, 79 anni**, vive con il marito, che ha bisogno di aiuto nelle attività quotidiane.
 
-Lo scompenso può causare *mancafiato*, *stanchezza* e
-*ridotta tolleranza all'esercizio*.
+Da alcuni anni Anna ha uno **scompenso cardiaco**: il suo cuore fatica a sostenere la circolazione del sangue. Negli ultimi mesi avverte **stanchezza e mancanza di fiato** anche quando fa la spesa o rifà il letto.
 
-### Fai emergere una piccola rete bio-psico-sociale
+Per **paura di sentirsi male fuori casa**, esce sempre meno e ha smesso di incontrare le amiche con cui trascorreva i pomeriggi.
 
-Identifica almeno:
+Il marito si preoccupa quando Anna è affaticata e cerca di aiutarla, ma anche lui ha difficoltà nelle attività domestiche. Anna **si sente in colpa** perché non riesce più ad aiutarlo come prima.
 
-- un elemento **biologico**
-- un elemento **psicologico**
-- un elemento **sociale**
+Da qualche tempo Anna **si sente triste** e ha perso interesse per molte delle sue attività abituali.
+
+::: {.notes}
+Leggere il caso senza spiegare ulteriormente la fisiopatologia dello scompenso: gli elementi necessari per l'attività sono tutti descritti.
+:::
+
+
+## Attività — Che cosa sta succedendo? {.smaller}
+
+Rileggi il caso di Anna.
+
+### Identifica almeno un elemento per ciascuna dimensione
+
+- **Biologica:** quali problemi riguardano il corpo e le sue funzioni?
+- **Psicologica:** quali elementi riguardano emozioni, pensieri e percezione di sé?
+- **Sociale:** quali elementi riguardano relazioni, ruoli e vita quotidiana?
+
+::: {.notes}
+4–5 minuti di lavoro individuale. Non chiedere di formulare nuove diagnosi o di conoscere la fisiopatologia dello scompenso.
+:::
+
+
+## Attività — Costruiamo la rete {.smaller}
+
+### In gruppo
+
+1. **Collegate** con delle frecce gli elementi che possono influenzarsi.
+2. **Spiegate** per ogni freccia come un elemento può influenzare l'altro.
+3. **Cercate un circolo:** una conseguenza può tornare a influenzare il problema iniziale?
 
 ::: {.fragment}
 
-**Poi, in gruppo:**
-
-- collegate gli elementi con almeno **due frecce**
-- per ogni freccia spiegate **come un elemento può influenzare l'altro**
-- cercate almeno una relazione che **torni indietro**, creando un circolo
+**Domanda guida:** come può un problema biologico influenzare la vita psicologica e sociale di Anna? E come possono queste dimensioni influenzare nuovamente il suo benessere fisico?
 
 :::
 
 ::: {.notes}
-5 minuti di lavoro individuale.
+8–10 minuti di discussione in gruppo; 8–10 minuti di restituzione.
 
-10–15 minuti di lavoro in gruppo.
+Nel debrief costruire una rete con le relazioni proposte dagli studenti. Possibile esempio: mancanza di fiato → paura di uscire → meno incontri con le amiche → tristezza → ulteriore riduzione del movimento. Presentarlo come una possibile relazione, non come diagnosi certa o unica soluzione.
 
-5–10 minuti di restituzione e discussione.
+Chiedere: «Se ci occupassimo soltanto dello scompenso cardiaco, quali aspetti della situazione di Anna rischieremmo di trascurare?». Non richiedere ancora un piano assistenziale o una VMD.
 :::
 
+
+## Il modello bio-psico-sociale — da ricordare {.smaller}
+
+La **salute della persona** è il risultato dell'interazione tra fattori **biologici, psicologici e sociali**.
+
+- Uno stesso problema di salute può avere componenti in **tutte e tre le dimensioni**
+- Queste componenti **non sono indipendenti**: possono influenzarsi reciprocamente, anche formando circoli
+- Per comprendere il problema e prendersi cura della persona dobbiamo considerare **anche le interazioni**, non soltanto la malattia
+
+::: {.notes}
+Slide di consolidamento da mostrare DOPO l'attività: la definizione rende esplicito il principio emerso dalla rete degli studenti.
+:::
 
 ## PAUSA
 
@@ -301,6 +348,19 @@ Quali sono le caratteristiche *manifeste* della fragilità?
 ![](images/overlap_frailty.png){width="62%" style="display:block; margin:auto;"}
 
 
+## Una fragilità, diverse prospettive {.smaller}
+
+- **Frailty Index:** fragilità rappresentata come **accumulo di deficit** di salute
+- **Fenotipo di Fried:** fragilità rappresentata attraverso **cinque manifestazioni fisiche**
+- **Clinical Frailty Scale:** **valutazione clinica globale**, che considera anche funzione e dipendenza
+
+### Sono modi diversi di rappresentare e valutare la fragilità: non sono necessariamente intercambiabili.
+
+::: {.notes}
+Distinguere il concetto di fragilità dagli strumenti con cui viene operazionalizzato. Nessuno dei tre costituisce una misura diretta, completa e definitiva della fragilità.
+:::
+
+
 ## Attività {.smaller}
 
 Considerate i tre strumenti per valutare la fragilità:
@@ -319,14 +379,31 @@ Considerate i tre strumenti per valutare la fragilità:
 
 Per ogni graduatoria, motivate almeno la prima e l'ultima posizione.
 
+**Domanda finale:** usereste necessariamente lo stesso strumento in una ricerca e in una visita in struttura residenziale? Perché?
+
 :::
 
 ::: {.notes}
-Circa 8 minuti di discussione in gruppo.
+Circa 8 minuti di discussione in gruppo; 7–10 minuti di restituzione.
 
-7–10 minuti di restituzione.
+Non cercare una graduatoria «corretta»: far emergere vantaggi, limiti e contesto d'uso. La scelta richiede anche di considerare validazione, affidabilità, popolazione e fattibilità.
+:::
 
-Non è necessario cercare una graduatoria "corretta": il punto è rendere espliciti vantaggi, limiti e contesto d'uso.
+
+## Qual è il modello giusto? {.smaller}
+
+Non esiste un unico modello operativo che rappresenti in modo **completo e definitivo** la fragilità.
+
+### Scegliamo lo strumento in base alla domanda
+
+- **Che cosa** vogliamo conoscere?
+- In quale **popolazione e contesto** lo utilizzeremo?
+- **Per quale scopo** useremo il risultato?
+
+### Il modello è uno strumento per rispondere a una domanda, non la realtà stessa.
+
+::: {.notes}
+«Non esiste il modello vero» non significa che gli strumenti siano equivalenti: validità, affidabilità e proprietà di misura contano. Richiamare il significato prognostico senza trasformarlo in una regola automatica di cura.
 :::
 
 
@@ -438,11 +515,32 @@ Questo prepara naturalmente la lezione sulla Valutazione Multidimensionale Geria
 :::
 
 
-## Fragilità come porta
+## Perché valutiamo la fragilità? {.smaller}
 
-La valutazione della fragilità diventa un modo per
+La fragilità ci aiuta a riconoscere persone anziane **particolarmente vulnerabili**, nelle quali possono essere presenti **bisogni di salute complessi**.
 
-### identificare le persone anziane che più probabilmente hanno bisogni di salute complessi
+### Riconoscere la fragilità è un punto di partenza, non una conclusione.
+
+Identificare una persona fragile può suggerire la necessità di approfondire la valutazione delle **diverse dimensioni della sua salute**.
+
+**Nella prossima lezione:** la Valutazione Multidimensionale Geriatrica (VMD).
+
+::: {.notes}
+La fragilità orienta l'approfondimento, ma non è un criterio esclusivo o obbligatorio per accedere alla VMD. Collegare la domanda dell'attività finale («Quali altre informazioni vorreste conoscere?») alle dimensioni da valutare.
+:::
+
+## Che cosa porto a casa? {.smaller}
+
+### Verifica finale individuale — 3 minuti
+
+1. Che cosa significa usare il **modello bio-psico-sociale** per comprendere un problema di salute? Spiega anche come interagiscono le sue componenti.
+2. Che cosa significa che una persona è **fragile**?
+3. Perché esistono **diversi strumenti** per valutare la fragilità? Come sceglieresti quale utilizzare?
+
+::: {.notes}
+Exit ticket individuale: raccogliere risposte brevi, senza richiedere una nuova analisi del caso. Utilizzare le risposte per verificare l'allineamento con i due obiettivi iniziali.
+:::
+
 
 ## Conclusione
 
