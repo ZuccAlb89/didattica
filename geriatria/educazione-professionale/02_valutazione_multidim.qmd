@@ -446,7 +446,7 @@ La nipote **non può accompagnarla** nei giorni concordati.
 3. Che cosa fare **quando cambia la situazione** della persona?
 
 ::: {.notes}
-174–180 min: usare tre domande a risposta multipla, idealmente nel Kahoot già collegato sotto, purché ne vengano aggiornati i quesiti; il link preesistente non è stato modificato. In alternativa porre le tre domande in aula: risposta corretta 1 = processo multidimensionale e multiprofessionale che conduce a progetto integrato e rivalutazione; 2 = una guida possibile, non esclusiva; 3 = rivalutare bisogni, risorse, obiettivi e interventi, condividendo le decisioni. Correggere rapidamente eventuali equivoci.
+174–180 min: proporre in aula tre brevi domande a risposta multipla: risposta corretta 1 = processo multidimensionale e multiprofessionale che conduce a progetto integrato e rivalutazione; 2 = una guida possibile, non esclusiva; 3 = rivalutare bisogni, risorse, obiettivi e interventi, condividendo le decisioni. Correggere rapidamente eventuali equivoci.
 :::
 
 ## Tre idee da portare all'esame {.smaller}
@@ -466,8 +466,7 @@ Ultima sintesi entro il minuto 180. Esplicitare che lo studente deve riconoscere
 - [British Geriatrics Society · CGA](https://www.bgs.org.uk/CGA)
 - [Geriatrics 5Ms · articolo di riferimento](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.14979)
 - [Caso della sig.ra M](files/sigraM_casoclinico.pdf)
-- [Kahoot della lezione](https://create.kahoot.it/share/vmd-educazione-professionale/16adf6db-0446-4948-90bc-ffc3045785b7)
 
 ::: {.notes}
-Slide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali. La sola modifica del deck non aggiorna automaticamente le domande del Kahoot collegato: verificarle rispetto ai nuovi obiettivi prima della lezione.
+Slide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali.
 :::
