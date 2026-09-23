@@ -2,11 +2,12 @@
 title: "Valutazione Multidimensionale"
 subtitle: "Corso di geriatria - Educazione Professionale"
 author: "Alberto Zucchelli"
+lang: it
 format:
   clean-revealjs:
     slide-number: c/t
     transition: fade
-    incremental: true
+    incremental: false
     width: 1280
     height: 720
     margin: 0.06
@@ -14,261 +15,457 @@ format:
     preview-links: true
 ---
 
-## Recap
+## Dalla fragilità ai bisogni
 
-Nella lezione precedente:
+### Una persona può essere fragile. E poi?
 
-- L'età cronologica non è sufficiente
-- Il modello bio-psico-sociale come lente
-- La fragilità come vulnerabilità, con i suoi problemi:
-  - standardizzazione
-  - esclusione
+**Come comprendiamo i suoi bisogni e decidiamo che cosa fare?**
 
-::: {.fragment}
-[Valutazione dei bisogni!]{.alert}
+::: {.notes}
+0–10 min, comprensivi della slide successiva. Riprendere la lezione 1: il modello biopsicosociale descrive dimensioni interagenti; la fragilità segnala vulnerabilità e possibile complessità, non determina da sola bisogni, preferenze e interventi. Chiedere due risposte rapide alla domanda. Transizione: dalla vulnerabilità potenziale alla comprensione della singola persona.
 :::
 
-## VMD
+## Oggi: cosa dovrete sapere? {.smaller}
 
-La **Valutazione Multidimensionale** è il processo utilizzato per:
+**1. VMD = processo**
 
-- indagare i bisogni
-- comunicare all'interno del team di cura
-- pianificare un intervento
-- valutarne l'efficacia
+Valutare → condividere → progettare → rivalutare
 
-## VMD
+**2. Modelli e scale = strumenti**
 
-*Multidimensionale* perché valuta diversi aspetti della salute.
+Le **5M** orientano; le **scale** si scelgono e si imparano a usare.
 
-Uno degli approcci proposti è quello delle **5M**:
+**3. La persona orienta il progetto**
 
-- **M**ind
-- **M**obility
-- **M**edications
-- **M**ulticomplexity
-- [What **M**atters Most]{.alert}
+Bisogni, risorse e preferenze guidano obiettivi e interventi.
 
-## Il modello 5M
+::: {.notes}
+Chiudere l'apertura entro il minuto 10. Esplicitare che i primi due nuclei sono conoscenze fondamentali per l'esame a risposta multipla. Il terzo si esercita nelle attività ed è verificabile anche con brevi casi applicativi. Non richiedere di imparare a memoria ogni scala.
+:::
 
-| Mind | Mobility | Medications | Multicomplexity | What Matters Most |
-|---|---|---|---|---|
-| Cognizione, delirium, memoria, depressione | Cammino, cadute, autonomia | Eventi avversi, revisione terapeutica, farmaci | Multimorbidità, problemi sociali, economici e assistenziali | Priorità, obiettivi e preferenze |
+## VMD: una definizione {.smaller}
 
-- Per ogni aspetto esistono strumenti e scale che aiutano a **standardizzare** la valutazione
-- Il modello è una [guida]{.alert}, non una rigida gerarchia
-- La valutazione finale **deve** essere [globale]{.alert}
+La **Valutazione Multidimensionale geriatrica** è un
 
-## Attività
+### processo multidimensionale e multiprofessionale
+
+che identifica e integra i bisogni della persona, per costruire un **progetto personalizzato e coordinato**, da **rivalutare** nel tempo.
+
+::: {.notes}
+10–25 min, insieme alle quattro slide successive. È una formulazione didattica adattata dalla definizione di Comprehensive Geriatric Assessment della British Geriatrics Society: https://www.bgs.org.uk/CGA . Non richiedere la recitazione letterale della frase; per l'esame chiedere di riconoscerne gli elementi costitutivi. «Processo»: non è un singolo test o una fotografia. «Multidimensionale»: salute fisica, psichica, funzionale, sociale e ambiente. «Multiprofessionale»: informazioni e decisioni condivise tra figure con competenze diverse; coinvolgere la persona.
+:::
+
+## La VMD non è...
 
 :::: {.columns}
 
-::: {.column width="70%"}
+::: {.column width="50%"}
 
-- Aprite il caso clinico e leggetelo
+### Non solo
 
-- In gruppo, identificate gli elementi del caso riferibili a:
-  - Mind
-  - Mobility
-  - Multicomplexity
-  - Medications
-  - What Matters Most
-
-- Identificate almeno **2 aree di bisogno** che richiedono una valutazione più approfondita
-  - [Perché?]{.alert}
+- Un elenco di problemi
+- Una batteria di scale
+- Un punteggio finale
 
 :::
 
-::: {.column width="30%"}
+::: {.column width="50%"}
 
-![](images/qr_sigraM_casoclinico.png){width="70%" fig-align="center"}
+### È anche
+
+- Bisogni **e risorse**
+- Decisioni **condivise**
+- Un progetto **da verificare**
 
 :::
 
 ::::
 
-## Le scale
+::: {.notes}
+Chiarire senza svalutare le scale: servono per raccogliere e comunicare informazioni, ma non equivalgono alla VMD. Non contrapporre standardizzazione e personalizzazione: la raccolta può essere standardizzata, mentre l'interpretazione e l'intervento devono essere individualizzati. Chiedere: «Se completiamo sei scale, abbiamo necessariamente completato una VMD?». Risposta: no, se mancano integrazione, pianificazione e follow-up.
+:::
 
-L'idea generale è:
+## La VMD è un percorso {.smaller}
 
-- raccolta delle informazioni *standardizzata*
-- valutazione e azione *personalizzate*
+### Valutare la persona e il contesto
 
-## Le scale
+↓ 
 
-Esistono **numerosissime** scale di valutazione.
+### Identificare e condividere bisogni e risorse
 
-È bene scegliere sulla base di:
+↓
 
-- **Obiettivo:** *cosa mi serve sapere e perché?*
-- **Fonte delle informazioni:** *cartella clinica, caregiver, paziente...?*
-- **Setting di applicazione:** *pronto soccorso, domicilio, reparto, RSA...?*
-- **Validazione e generalizzabilità:** *in quale popolazione e contesto è stata validata? Quali sono caratteristiche, pregi e limiti?*
+### Concordare priorità e obiettivi
 
-## Attività
+↓
 
-Ogni gruppo sceglie una scala.  
-[Evitate sovrapposizioni!]{.alert}
+### Attuare interventi coordinati
 
-- Leggetela e comprendetene gli item
-- Compilate il foglio di calcolo
-- Potete utilizzare Internet per cercare informazioni
-- [Uno di voi sarà poi chiamato a presentare la scala.]{.alert}
+↓
 
-![](images/qr_google_drive_folder.png){width="70%" fig-align="center"}
+### Rivalutare e **adeguare** il progetto ↺
+
+::: {.notes}
+Usare il diagramma come mappa per tutte le attività della lezione. La comunicazione avviene durante l'intero percorso e coinvolge équipe, persona e, quando appropriato, caregiver. I passaggi non sono rigidi: nuove informazioni possono richiedere di tornare alla valutazione. Distinguere verificare l'esito dall'adeguare gli interventi. Fonte di riferimento: https://www.bgs.org.uk/CGA .
+:::
+
+## Perché lavorare insieme?
+
+**Informazioni diverse → comprensione condivisa → interventi coordinati**
+
+::: {.fragment}
+
+Un bisogno riconosciuto ma **non comunicato** può non trovare risposta.
+
+:::
+
+::: {.notes}
+Esempio accessibile agli studenti: un operatore osserva che una persona non partecipa più alle attività, un altro nota difficoltà a muoversi, la persona riferisce paura di cadere. La comunicazione permette di integrare queste osservazioni e concordare un intervento. Evitare di ridurre il lavoro d'équipe allo scambio di punteggi. Chiudere il blocco definizione al minuto 25.
+:::
+
+## Multidimensionale ≠ identica per tutti
+
+**Quali dimensioni approfondire?**
+
+Dipende dalla **persona**, dal **quesito** e dal **contesto**.
+
+::: {.notes}
+25–33 min, insieme alle due slide successive. La VMD richiede una visione globale, ma intensità e strumenti di approfondimento variano secondo bisogni e setting. «Personalizzata» non significa arbitraria: le scelte vanno motivate e condivise. Collegamento con la prima lezione: un problema biologico può avere componenti psicologiche e sociali interagenti.
+:::
+
+## Le 5M: una guida, non «IL modello» {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- **Mind** · cognizione e umore
+- **Mobility** · mobilità e autonomia
+- **Medications** · terapia e rischi
+
+:::
+
+::: {.column width="50%"}
+
+- **Multicomplexity** · complessità clinica e sociale
+- **What Matters Most** · preferenze e obiettivi
+
+:::
+
+::::
+
+### Una mappa utile. Non un protocollo obbligatorio.
+
+::: {.notes}
+Le 5M sono una cornice mnemonica per le questioni centrali della geriatria, non una check-list esaustiva né l'unico schema per organizzare una VMD. Non serve trovare un problema in ogni M, né forzare ogni elemento in una sola categoria. Fonti: Tinetti et al., The Geriatrics 5Ms, JAGS 2017, https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.14979 ; https://pmc.ncbi.nlm.nih.gov/articles/PMC6347324/ . La M What Matters Most attraversa tutte le decisioni, non è solo una quinta casella.
+:::
+
+## Attività 1 · La sig.ra M
+
+:::: {.columns}
+
+::: {.column width="67%"}
+
+**Leggete il caso.**
+
+1. Quali **bisogni e risorse** emergono?
+2. Usate le **5M** come guida, non come obbligo.
+3. Quali **2 informazioni** mancano?
+4. Che cosa approfondireste **per primo**? Perché?
+
+:::
+
+::: {.column width="33%"}
+
+![](images/qr_sigraM_casoclinico.png){width="73%" fig-align="center"}
+
+[Apri il caso](files/sigraM_casoclinico.pdf)
+
+:::
+
+::::
+
+::: {.notes}
+33–53 min: 3 minuti per la consegna, 12 di lavoro in gruppi da 3–5, 5 di restituzione rapida. Usare il caso esistente via QR/link. Non introdurre informazioni non contenute nel caso come se fossero fatti; eventuali nuovi dati emergeranno in una fase successiva chiaramente ipotetica. Richiedere un prodotto minimale: bisogno/risorsa, due informazioni mancanti, priorità motivata. Chiedere agli studenti con background clinico limitato di descrivere ciò che leggono, non formulare diagnosi.
+:::
+
+## Discussione · Una sola «M» corretta?
+
+**Gruppi diversi, priorità diverse.**
+
+### Chi ha ragione?
+
+::: {.fragment}
+
+Conta la **motivazione**, non riempire tutte le caselle.
+
+:::
+
+::: {.notes}
+53–60 min, debriefing. Confrontare due gruppi con priorità diverse. Non concludere che ogni risposta vale uguale: coerenza con bisogni, preferenze, sicurezza e contesto va motivata. Sintesi da far verbalizzare: «Le 5M aiutano a non dimenticare dimensioni importanti, ma la VMD è individualizzata». Ricollegare al diagramma del processo: abbiamo identificato bisogni e informazioni da approfondire.
+:::
+
+## Le scale: quale domanda devo affrontare?
+
+### Prima il bisogno. Poi lo strumento.
+
+**Cosa devo sapere? Perché? Per chi? Dove?**
+
+::: {.notes}
+60–70 min, con le tre slide successive. Una scala è utile se risponde al quesito; lo stesso strumento non è automaticamente appropriato a tutti i setting e le persone. Esempi brevi: se voglio approfondire autonomia nelle attività quotidiane, cercherò uno strumento relativo a quella dimensione; se voglio comprendere ciò che è importante per la persona, il dialogo non può essere sostituito da un punteggio. Distinguere le informazioni ottenibili da persona, caregiver, osservazione e cartella.
+:::
+
+## Le scale: un metodo in 5 domande {.smaller}
+
+1. **Scopo** · Che cosa misura?
+2. **Applicabilità** · Per chi e in quale setting?
+3. **Somministrazione** · Chi, come, con quali fonti?
+4. **Interpretazione** · Che cosa significa il risultato?
+5. **Utilizzo** · Come informa il progetto o il monitoraggio?
+
+::: {.notes}
+Queste domande costituiscono il metodo che gli studenti devono acquisire, anche quando lo strumento è nuovo. Consultare sempre istruzioni/manuale, ed eventuali requisiti di formazione o autorizzazione; non inferire il significato degli item dal solo nome. Cercare versione, popolazione di validazione, eventuali adattamenti per lingua e contesto. Cut-off e punteggi non sono diagnosi autonome; interpretarli secondo indicazioni dello specifico strumento.
+:::
+
+## Che cosa devo ricordare?
+
+**Divento pratico nelle scale del mio lavoro.**
+
+Quando una scala è nuova:
+
+### consulto le istruzioni, verifico se è adatta, imparo ad applicarla.
+
+::: {.notes}
+Esplicitare l'aspettativa d'esame: principi di scelta e applicazione, non elenco mnemonico di ogni scala possibile. Le scale più frequenti per un contesto professionale diventeranno progressivamente familiari nella pratica e nella formazione sul campo. Non improvvisare somministrazione o attribuzione dei punteggi. Le istruzioni possono precisare qualifiche o training necessari.
+:::
+
+## Attività 2 · Una scala sconosciuta {.smaller}
+
+:::: {.columns}
+
+::: {.column width="67%"}
+
+**Ogni gruppo: problema + scala + istruzioni**
+
+Cercate:
+
+- scopo e destinatari;
+- come si somministra e si interpreta;
+- un **errore da evitare**.
+
+**Restituzione: 1 scoperta utile / gruppo.**
+
+:::
+
+::: {.column width="33%"}
+
+![](images/qr_google_drive_folder.png){width="72%" fig-align="center"}
+
+:::
+
+::::
+
+::: {.notes}
+70–95 min: 3 minuti consegna, 17 minuti lettura di istruzioni e compilazione della scheda condivisa già prevista, 5 minuti restituzioni lampo. Preparare prima della lezione 4–5 scale pertinenti con manuale/scheda ufficiale e un quesito valutativo ciascuna. Se la cartella Drive esistente contiene solo schede senza manuale, integrare le istruzioni prima dell'aula. Evitare presentazioni esaustive o sovrapposizioni. Ogni gruppo evidenzia soprattutto ciò che NON avrebbe saputo senza studiare le istruzioni.
+:::
 
 ## PAUSA
 
-### 10 minuti... {style="text-align: center;"}
+### 10 minuti
 
-## L'utilizzo pratico
-
-Nella valutazione della persona, il professionista può scegliere di approfondire alcuni aspetti con scale specifiche.
-
-Ad esempio:
-
-- *Mind* = MMSE + MADRS
-- *Mobility* = Tinetti + SPPB
-- *Multicomplexity* = MNA-SF + CIRS
-- *Medications* = ACB
-
-::: {.fragment}
-I protocolli variano da setting a setting e da team a team, secondo le necessità.
+::: {.notes}
+95–105 min. Pausa reale; riprendere al minuto 105.
 :::
 
-## L'utilizzo pratico
+## Debriefing · La scala non è la VMD
 
-Ogni professionista può avere necessità specifiche, ma è utile che un *core* della VMD sia condiviso e conosciuto da tutti.
+### Raccolta standardizzata
 
-- Molte scale prevedono dei *cut-off*:
-  - punteggi soglia che permettono di identificare livelli differenti di rischio o compromissione
+↓
 
-::: {.fragment}
+### Interpretazione integrata
 
-Ad esempio:
+↓
 
-- Scala di Tinetti < 18 = *elevato rischio di caduta*
-- MMSE < 24 = *possibile compromissione cognitiva*
-- MNA-SF 0–7 = *malnutrizione*
-- MNA-SF 8–11 = *rischio di malnutrizione*
+### Decisione personalizzata
 
+::: {.notes}
+105–112 min. Confrontare gli errori evitati grazie alle istruzioni. Chiedere: «Una volta ottenuto il punteggio, chi decide che cosa fare?». Evidenziare ruolo dell'équipe e della persona e necessità di integrare il risultato con il resto delle informazioni. Nessun punteggio, da solo, esaurisce la valutazione o permette automaticamente una diagnosi.
 :::
 
-## L'utilizzo pratico
+## Leggere i risultati: con prudenza {.smaller}
 
-### Nessun punteggio, da solo, permette di fare diagnosi.
+**Un punteggio aiuta a descrivere una dimensione.**
+
+Non racconta, da solo, **tutta la persona**.
 
 ::: {.fragment}
 
-Lo scopo è ottenere una visione *semi-quantitativa* delle diverse dimensioni di salute che ci interessano.
+Che cosa manca? Con chi dobbiamo condividere il risultato?
 
 :::
 
-## Attività {.smaller}
-
-Tre persone:
-
-| Scala | Sig.ra A, 86 anni | Sig.ra F, 86 anni | Sig.ra C, 86 anni |
-|---|---:|---:|---:|
-| **MMSE** | 16 | 4 | 28 |
-| **Barthel Index** | 75 | 0 | 85 |
-| **IADL perse** | 6/8 | 8/8 | 2/8 |
-| **MNA-SF** | 3 | NV | 14 |
-| **Tinetti** | 21 | 0 | 17 |
-| **CIRS-comorbilità** | 3 | 7 | 9 |
-
-::: {.fragment}
-
-- Leggete i tre profili
-- Per ciascuna persona:
-  - descrivete sinteticamente lo stato di salute
-  - identificate almeno un bisogno prioritario
-- Discutete le vostre conclusioni in gruppo
-
+::: {.notes}
+112–119 min, con la slide successiva. Introdurre il profilo comparativo. Spiegare verbalmente le direzioni dei punteggi necessari per il caso, senza richiedere agli studenti di ricordare cut-off numerosi. MNA-SF: valori più bassi segnalano maggiore criticità nutrizionale; MMSE: punteggi più bassi suggeriscono difficoltà cognitive, da interpretare con contesto e caratteristiche della persona; Barthel: valori più bassi indicano minore autonomia; IADL perse: numero più alto indica più attività strumentali perse; Tinetti: valori più bassi segnalano difficoltà di equilibrio/andatura; CIRS-comorbilità: misura distinta dalla disabilità, da interpretare secondo manuale.
 :::
 
-## Dalla valutazione all'intervento
+## Tre persone, stessa età {.smaller}
 
-La VMD non termina con un punteggio.
+| Dimensione (strumento) | A · 86 anni | F · 86 anni | C · 86 anni |
+|:--|--:|--:|--:|
+| Cognizione · MMSE | 16 | 4 | 28 |
+| Autonomia · Barthel | 75 | 0 | 85 |
+| IADL perse (su 8) | 6 | 8 | 2 |
+| Nutrizione · MNA-SF | 3 | NV | 14 |
+| Mobilità · Tinetti | 21 | 0 | 17 |
+| Comorbilità · CIRS | 3 | 7 | 9 |
 
-### Serve a orientare cosa fare.
+::: {.notes}
+NV = non valutabile. Questa tabella riprende i numeri dell'edizione precedente, come profili didattici ipotetici, non dati clinici sufficienti per diagnosi. MMSE e Tinetti non vanno interpretati meccanicamente; condizioni di test, correzioni e limite dello strumento contano. Se il formato della tabella risulta fitto in proiezione usare la classe smaller già impostata e l'attività successiva come slide separata.
+:::
 
-Valutazione → Bisogni → Priorità → Obiettivi → Intervento → Rivalutazione
+## Attività 3 · Che cosa sappiamo? {.smaller}
+
+**Confrontate i tre profili.**
+
+1. Quali differenze emergono?
+2. Quale informazione manca **per ciascuna** persona?
+3. Che cosa riferireste a un **altro professionista**?
+
+::: {.notes}
+119–137 min: 3 consegna, 10 discussione in gruppo, 5 restituzione. Chiedere di non identificare un obiettivo terapeutico sulla base dei soli valori. L'informazione mancante potrebbe riguardare preferenze, abitazione, rete di supporto, condizioni di somministrazione o osservazioni funzionali. Prodotto: sintesi orale di 30 secondi con osservazioni, incertezze e approfondimento richiesto. Valutare il ragionamento, non la rapidità nel classificare i numeri.
+:::
+
+## Debriefing · Oltre i punteggi
+
+**Risultati + contesto + preferenze + osservazioni dell'équipe**
+
+### → comprensione condivisa dei bisogni
+
+::: {.notes}
+137–144 min. Chiedere a due gruppi che cosa avrebbero comunicato a un collega. Sottolineare la differenza tra osservazione, interpretazione e decisione. Se un dato non è disponibile, dichiararlo invece di inventarlo. Riprendere il diagramma VMD: i risultati servono a identificare e condividere bisogni e risorse, prima di pianificare interventi.
+:::
 
 ## Non tutti i problemi diventano obiettivi
 
-Una buona valutazione può identificare molti problemi.
+- Non tutto è **modificabile**.
+- Non tutto è **prioritario**.
+- Non tutto conta allo stesso modo **per la persona**.
 
-Ma:
-
-- non tutto è modificabile
-- non tutto è prioritario
-- non tutto è importante allo stesso modo per la persona
-
-::: {.fragment}
-[What Matters Most orienta le priorità.]{.alert}
+::: {.notes}
+144–152 min, insieme alle due slide successive. Priorità determinate da sicurezza e fattibilità, ma anche dalle preferenze espresse dalla persona e dal suo contesto. What Matters Most non è una dimensione aggiuntiva da compilare alla fine: orienta le scelte lungo il processo. Evitare di sostenere che la preferenza da sola risolva tutti i conflitti; obiettivi e interventi si concordano e si motivano.
 :::
 
-## Tre cose diverse
+## Bisogno → obiettivo → intervento {.smaller}
 
-**Bisogno**
+**Bisogno** · Non riesce più a uscire di casa.
 
-La sig.ra M non riesce più a uscire di casa.
+**Obiettivo** · Uscire almeno una volta a settimana, se è ciò che desidera.
 
-**Obiettivo**
+**Interventi** · Accompagnamento, adattamento dell'ambiente, rete sociale.
 
-La sig.ra M torna a uscire di casa almeno una volta alla settimana.
+::: {.notes}
+Distinguere il problema rilevato dall'esito desiderato e dalle azioni proposte. Gli interventi sono esempi, non prescrizioni da applicare senza valutazione. L'obiettivo deve essere significativo per la sig.ra M, concreto e verificabile. Richiamare la comunicazione con altri professionisti e l'eventuale coinvolgimento della rete sociale.
+:::
 
-**Intervento**
+## Cosa conta per la sig.ra M?
 
-Training sulle scale, accompagnamento iniziale, adattamento ambientale,
-attivazione della rete sociale...
+> «Vorrei riuscire almeno a tornare a cucire.»
 
-## What Matters Most {.smaller}
+### Un obiettivo significativo può orientare più interventi.
 
-La sig.ra M di prima diceva:
+::: {.notes}
+La citazione è già nella versione originale del caso presentato nelle slide; richiamare anche il desiderio di restare a casa e di non gravare sulla nipote, verificando il testo del caso PDF prima di trattarli come dati clinici specifici. Chiedere: «Se puntassimo solo a migliorare un punteggio, quale obiettivo della persona potremmo perdere?». La preferenza può dare ingresso a interventi su attività, autonomia, ambiente e partecipazione.
+:::
 
-> *«Io voglio soprattutto riuscire a rimanere qui a casa mia.  
-> Non voglio diventare un peso per mia nipote.  
-> E vorrei riuscire almeno a tornare a cucire.»*
+## Attività 4 · Dalla VMD al progetto {.smaller}
 
-Per il professionista:
+:::: {.columns}
 
-- salire le scale
-- evitare l'ipoglicemia
-- migliorare la nutrizione
-- ridurre il rischio di caduta
+::: {.column width="68%"}
 
-::: {.fragment}
+**Riprendete la sig.ra M.**
 
-Per la sig.ra M:
-
-### tornare a cucire
-
-Un obiettivo significativo per la persona  
-può diventare il punto di ingresso per lavorare su più bisogni.
+- **1 bisogno** prioritario e perché;
+- **1 obiettivo** significativo e verificabile;
+- **2 interventi** e chi coinvolgere;
+- **come e quando** rivalutare.
 
 :::
 
-## Attività: dalla VMD al progetto {.smaller .scrollable}
+::: {.column width="32%"}
 
-Riprendete il caso della *sig.ra M*.
+![](images/qr_sigraM_casoclinico.png){width="72%" fig-align="center"}
 
-![](images/qr_sigraM_casoclinico.png){width="70%" fig-align="center"}
+[Apri il caso](files/sigraM_casoclinico.pdf)
 
-In gruppo scegliete **un bisogno prioritario**.
+:::
 
-Identificate:
+::::
 
-1. l' obiettivo 
-2. almeno **due** potenziali interventi
-3. chi potrebbe essere coinvolto
-4. come capireste se l'intervento ha funzionato
+::: {.notes}
+152–164 min: 2 consegna + 10 lavoro. Il progetto richiesto è sintetico, non un piano assistenziale completo. Verificare che la proposta sia coerente con bisogni e preferenze e che gli studenti individuino le informazioni da condividere con altri professionisti. La rivalutazione deve avere un indicatore osservabile e un momento definito, non soltanto «vediamo come va».
+:::
 
+## Nuove informazioni: il progetto cambia?
 
+**Dopo alcune settimane, l'obiettivo non è raggiunto.**
 
-## Kahoot time!
+La sig.ra M riferisce **paura di lasciare la casa incustodita**.
 
-### Recap finale
+La nipote **non può accompagnarla** nei giorni concordati.
 
-[**Apri Kahoot ↗**](https://create.kahoot.it/share/vmd-educazione-professionale/16adf6db-0446-4948-90bc-ffc3045785b7){target="_blank" .alert}
+### Che cosa modificate? Che cosa verificate?
+
+::: {.notes}
+164–170 min: questa è una nuova informazione IPOTETICA introdotta dal docente per esercitare la rivalutazione, non un dato tratto dal caso originale. In gruppi decidere se modificare obiettivi, interventi, tempi, rete di supporto o approfondimenti. Non assumere che l'obiettivo originario debba essere abbandonato. Stimolare l'individuazione della nuova barriera psicologico-sociale e della risorsa familiare non disponibile.
+:::
+
+## Debriefing · Rivalutare ≠ ripetere un test
+
+**Verificare i risultati**
+
+↓
+
+**Comprendere che cosa è cambiato**
+
+↓
+
+**Concordare gli adeguamenti**
+
+::: {.notes}
+170–174 min: 4 minuti di debriefing. Chiedere due decisioni alternative e le relative motivazioni. La VMD non si conclude al primo progetto; la rivalutazione può cambiare la comprensione del bisogno e richiedere interventi diversi. Chiudere il cerchio tornando al processo mostrato all'inizio.
+:::
+
+## Verifica finale · 3 domande
+
+1. La VMD è una **batteria di scale** o un **processo**?
+2. Le **5M** sono un modello possibile o l'unico modello?
+3. Che cosa fare **quando cambia la situazione** della persona?
+
+::: {.notes}
+174–180 min: usare tre domande a risposta multipla, idealmente nel Kahoot già collegato sotto, purché ne vengano aggiornati i quesiti; il link preesistente non è stato modificato. In alternativa porre le tre domande in aula: risposta corretta 1 = processo multidimensionale e multiprofessionale che conduce a progetto integrato e rivalutazione; 2 = una guida possibile, non esclusiva; 3 = rivalutare bisogni, risorse, obiettivi e interventi, condividendo le decisioni. Correggere rapidamente eventuali equivoci.
+:::
+
+## Tre idee da portare all'esame {.smaller}
+
+**La VMD è un PROCESSO.**
+
+**Le 5M e le scale sono STRUMENTI.**
+
+**Il progetto è PERSONALIZZATO e RIVALUTABILE.**
+
+::: {.notes}
+Ultima sintesi entro il minuto 180. Esplicitare che lo studente deve riconoscere definizione e finalità del processo, distinguere modello e strumento dalla VMD, conoscere i principi di scelta e applicazione delle scale, e interpretare brevi casi in cui bisogna condividere informazioni e adattare il progetto. Non richiedere memoria indiscriminata di punteggi e cut-off delle scale.
+:::
+
+## Materiali e fonti {.smaller}
+
+- [British Geriatrics Society · CGA](https://www.bgs.org.uk/CGA)
+- [Geriatrics 5Ms · articolo di riferimento](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.14979)
+- [Caso della sig.ra M](files/sigraM_casoclinico.pdf)
+- [Kahoot della lezione](https://create.kahoot.it/share/vmd-educazione-professionale/16adf6db-0446-4948-90bc-ffc3045785b7)
+
+::: {.notes}
+Slide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali. La sola modifica del deck non aggiorna automaticamente le domande del Kahoot collegato: verificarle rispetto ai nuovi obiettivi prima della lezione.
+:::
