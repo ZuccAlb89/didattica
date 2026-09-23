@@ -245,7 +245,7 @@ Esplicitare l'aspettativa d'esame: principi di scelta e applicazione, non elenco
 
 ::: {.column width="67%"}
 
-**Ogni gruppo: problema + scala + istruzioni**
+**Aprite il manuale e scegliete una scala.**
 
 Cercate:
 
@@ -259,14 +259,16 @@ Cercate:
 
 ::: {.column width="33%"}
 
-![](images/qr_google_drive_folder.png){width="72%" fig-align="center"}
+![QR per il manuale delle scale](https://api.qrserver.com/v1/create-qr-code/?size=260x260&margin=12&data=https%3A%2F%2Fassr.regione.emilia-romagna.it%2Fpubblicazioni%2Frapporti-documenti%2Fmanuale-di-istruzioni-per-il-set-minimo-di-scale%2F%40%40download%2FpublicationFile%2Fmanuale_istruzioni_set.pdf){width="72%" fig-align="center"}
+
+[**Apri il manuale (PDF) ↗**](https://assr.regione.emilia-romagna.it/pubblicazioni/rapporti-documenti/manuale-di-istruzioni-per-il-set-minimo-di-scale/@@download/publicationFile/manuale_istruzioni_set.pdf){target="_blank"}
 
 :::
 
 ::::
 
 ::: {.notes}
-70–95 min: 3 minuti consegna, 17 minuti lettura di istruzioni e compilazione della scheda condivisa già prevista, 5 minuti restituzioni lampo. Preparare prima della lezione 4–5 scale pertinenti con manuale/scheda ufficiale e un quesito valutativo ciascuna. Se la cartella Drive esistente contiene solo schede senza manuale, integrare le istruzioni prima dell'aula. Evitare presentazioni esaustive o sovrapposizioni. Ogni gruppo evidenzia soprattutto ciò che NON avrebbe saputo senza studiare le istruzioni.
+70–95 min: 3 minuti di consegna, 17 minuti per consultare il PDF e compilare una scheda breve, 5 minuti per le restituzioni lampo. Il QR e il link puntano al medesimo «Manuale di istruzioni per il set minimo di scale» della Regione Emilia-Romagna, contenente schede e indicazioni d'uso. Assegnare a ciascun gruppo una scala effettivamente presente nel PDF ed evitare sovrapposizioni. Tra le scale già discusse vi compaiono IADL, CIRS e SPMSQ; il documento usa BADL di Katz, non Barthel, e non contiene MNA, NECPAL o 4AT. Se si vogliono mantenere questi ultimi strumenti come oggetto dell'esercitazione, occorrono materiali aggiuntivi separati. Ogni gruppo espone soprattutto una regola di utilizzo o un errore che avrebbe potuto commettere senza leggere le istruzioni.
 :::
 
 ## PAUSA
