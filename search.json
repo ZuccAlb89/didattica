@@ -1,171 +1,444 @@
 [
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Che cosa sto guardando?",
-    "text": "Che cosa sto guardando?\n\nCold start · risposta individuale, poi confronto a coppie\n\n\n\nCampione · 08:15 Esame emocromocitometrico Emoglobina   11,2 g/dL Leucociti   8,4 × 10⁹/L Piastrine   214 × 10⁹/L\n\n\nEsame · 10:40 TC torace senza contrasto Indicazione all’esame Tecnica di acquisizione Reperti Conclusioni\n\n\nTerapia · ore 08–14–20 Scheda terapeutica Farmaco A · dose · via · orario Farmaco B · dose · via · orario Firma di somministrazione\n\n\nGiorno 2 · 22:30 Diario Persona vigile. Ha cenato. Parametri registrati. Prosegue assistenza programmata.\n\n\nConclusione del ricovero Lettera di dimissione Diagnosi Accertamenti eseguiti Terapia alla dimissione Indicazioni successive\n\n\n\nPer ciascun frammento: che tipo di documento è? A che cosa serve?\n\n\nTempo totale: 8 minuti.\nLasciare 60–90 secondi di osservazione individuale. Chiedere poi un confronto rapido con il vicino e raccogliere alcune risposte.\nNon correggere ogni dettaglio e non discutere il significato clinico di valori o termini. Lo scopo è far notare titolo, struttura, sezioni, data e forma grafica.\nPunto da far emergere: riconoscere il contenitore aiuta a orientarsi nel contenuto."
+    "objectID": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
+    "href": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Lo studio, in 30 secondi",
+    "text": "Lo studio, in 30 secondi\n\n\nStudio multicentrico nazionale di prevalenza puntuale nelle strutture residenziali italiane.\n\nResidenti presenti→1 ottobre 2024→terapie prescritte\n\n\nEtà ≥60 anni\nDati clinici e farmacologici raccolti da medici e infermieri\neCRF REDCap standardizzata\n\n\n\n3.400\n\n\nresidenti\n\n\n82\n\n\nstrutture"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#non-esiste-la-cartella-come-singolo-testo",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#non-esiste-la-cartella-come-singolo-testo",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Non esiste “la cartella” come singolo testo",
-    "text": "Non esiste “la cartella” come singolo testo\n\n\nLettera di dimissione · sintesi e continuità\n\n\nReferti · risultati di esami e valutazioni\n\n\nScheda terapeutica · terapia prescritta e somministrata\n\n\nDiario · registrazioni successive nel tempo\n\n\nDocumentazione iniziale · accesso e valutazioni di ingresso\n\n\n\nLa documentazione sanitaria è un insieme di documenti prodotti in momenti diversi, da professionisti diversi e per funzioni diverse.\n\n\nTempo: 3 minuti. Riprendere i frammenti della slide precedente. Far emergere che il fascicolo raccoglie oggetti documentali differenti. Non entrare nelle definizioni giuridiche o nella composizione obbligatoria completa."
+    "objectID": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
+    "href": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "La domanda centrale",
+    "text": "La domanda centrale\nCome vengono prescritti e somministrati i farmaci nelle LTCF italiane?\n\n\n\nPrescrizionePoliterapia, appropriatezza, interazioni\n\n\n\nSomministrazioneOrari, vie, ausili, compresse triturate e capsule aperte\n\n\n\nPersona e contestoFragilità, funzione, nutrizione, cognizione e struttura\n\n\n\n\n\n\n\n\nIl disegno consente di collegare, per ogni residente, profilo clinico e regime farmacologico."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#a-che-cosa-serve-documentare",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#a-che-cosa-serve-documentare",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "A che cosa serve documentare?",
-    "text": "A che cosa serve documentare?\n\n\nRegistrareOsservazioni, valutazioni, attività e indicazioni.\n\n\nCondividereRendere le informazioni disponibili agli altri professionisti.\n\n\nDare continuitàCollegare momenti, professionisti e setting assistenziali.\n\n\nDocumentare il percorsoConservare traccia di ciò che è avvenuto nell’episodio assistenziale.\n\n\n\nRiferimento concettuale: Regione Lombardia, Manuale del Fascicolo di Ricovero.\n\n\nTempo: 4 minuti. Usare un esempio semplice: un professionista registra un’informazione; un altro la consulta; alla dimissione alcune informazioni vengono comunicate al setting successivo. Limitare a un cenno la funzione medico-legale."
+    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
+    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Che cosa descrive il residente?",
+    "text": "Che cosa descrive il residente?\n\n\nProfilo clinico e funzionale\n\nEtà, sesso, permanenza in struttura\nPatologie croniche e condizioni acute\nADL e numero di funzioni perse\nFRAIL-NH e numero di criteri\nOssigenoterapia, SNG/PEG\n\n\nNutrizione e neurocognizione\n\nMNA-SF, BMI, calo ponderale, mobilità\nDisfagia, problemi di masticazione e deglutizione\nDiagnosi di demenza secondo ICD-10\nCDR\n24 BPSD: frequenza, gravità, numero e burden"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-documentazione-molti-utilizzatori",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#una-documentazione-molti-utilizzatori",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Una documentazione, molti utilizzatori",
-    "text": "Una documentazione, molti utilizzatori\n\n\nMedicoValutazioni, diagnosi, prescrizioni e percorso clinico\n\n\nInfermiereAssistenza, osservazioni, parametri e somministrazioni\n\n\nAltri professionistiValutazioni e interventi di competenza\n\n\nServizi successiviInformazioni necessarie alla continuità\n\n\n\nLa documentazione è anche uno strumento di comunicazione tra professionisti e tra setting.\n\n\nTempo: 3 minuti. Sottolineare che professionisti diversi possono leggere lo stesso fascicolo con domande differenti. Evitare una classificazione dettagliata delle responsabilità professionali."
+    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
+    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Che cosa descrive ogni farmaco?",
+    "text": "Che cosa descrive ogni farmaco?\n\n\nUna riga per prescrizione\n\nPrincipio attivo e codice ATC\nDose, dosaggio e forma farmaceutica\nVia e tempi di somministrazione\nApertura della capsula o triturazione della compressa\nAusili e note di somministrazione\n\n\nInformazioni derivate\n\nGerarchia ATC e descrizioni\nCollegamento con DrugBank\nInterazioni farmaco–farmaco\nAderenza/compliance e motivi di difficoltà\nPossibile analisi del carico assistenziale\n\n\n\nStruttura dati: base clinica wide + prescrizioni long, collegate da ID pseudonimo"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#prima-regola-per-orientarsi",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#prima-regola-per-orientarsi",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Prima regola per orientarsi",
-    "text": "Prima regola per orientarsi\n\nPrima di leggere tutto, chiediti:che documento è?eperché è stato prodotto?\n\n\nTempo: 2 minuti. Presentare questa regola come leitmotiv della lezione e chiedere agli studenti di utilizzarla nelle attività successive."
+    "objectID": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
+    "href": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Un dataset, più linee di ricerca",
+    "text": "Un dataset, più linee di ricerca\n\n\n\nPattern di politerapia e multimorbidità\nPIM e interazioni clinicamente rilevanti\nComplessità del regime terapeutico\nModifica delle forme orali solide\n\n\n\nDisfagia, nutrizione e somministrazione\nFarmaci e BPSD nelle persone con demenza\nVariabilità tra strutture e territori\nProfili fenotipici e analisi di rete\n\n\n\nLa domanda per il gruppo: quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?\n\n\nContatti Alberto Zucchelli · alberto.zucchelli@unibs.it Gruppo YES · gruppoyes@sigg.it Alba Malara · albamalara@gmail.com"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#documento-funzione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#documento-funzione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Documento ↔︎ funzione",
-    "text": "Documento ↔︎ funzione\n\nCard sorting · gruppi di 3–4\n\n\n\nDocumenti\n\ndiario clinico;\nreferto di laboratorio;\nreferto radiologico;\nscheda terapeutica;\nlettera di dimissione;\npiano terapeutico;\nverbale di pronto soccorso.\n\n\nFunzioni prevalenti\n\ndocumentare l’andamento nel tempo;\nriportare il risultato di un esame;\nindicare una terapia;\ndocumentare un accesso in emergenza;\ncomunicare le informazioni alla conclusione del ricovero;\norganizzare indicazioni terapeutiche successive.\n\n\n\nAssociate ogni documento alla funzione che considerate prevalente. Se un’associazione vi sembra ambigua, preparate una breve motivazione.\n\n\nTempo di lavoro: 10–12 minuti. Se disponibili, distribuire carte fisiche. Accettare discussioni motivate: alcune funzioni possono sovrapporsi. Non chiedere di interpretare diagnosi, terapie o risultati."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Didattica",
+    "section": "",
+    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-guarderei-per-prima-cosa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-guarderei-per-prima-cosa",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Dove guarderei per prima cosa?",
-    "text": "Dove guarderei per prima cosa?\n\nDebrief del card sorting\n\n\n\n\n\n\n\n\nSe voglio sapere…\nGuarderei prima…\n\n\n\n\nil risultato di un esame del sangue\nreferto di laboratorio\n\n\nche cosa ha mostrato una TC\nreferto radiologico\n\n\nche cosa è stato registrato durante il ricovero\ndiario / documentazione clinica\n\n\nquali farmaci sono prescritti\nprescrizione / scheda terapeutica\n\n\nche cosa viene comunicato al termine del ricovero\nlettera di dimissione\n\n\nche cosa è avvenuto durante un accesso urgente\nverbale di pronto soccorso\n\n\n\n\nLa stessa informazione può comparire in più documenti, ma documenti diversi hanno funzioni prevalenti diverse.\n\n\nTempo: 8 minuti. Costruire la tabella progressivamente dalle risposte. Non presentare le associazioni come esclusive: una terapia può comparire nel diario, nella scheda terapeutica e nella lettera di dimissione."
+    "objectID": "index.html#corsi",
+    "href": "index.html#corsi",
+    "title": "Didattica",
+    "section": "",
+    "text": "Geriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-episodio-assistenziale-produce-documentazione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#un-episodio-assistenziale-produce-documentazione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Un episodio assistenziale produce documentazione",
-    "text": "Un episodio assistenziale produce documentazione\n\n\nIngressoDati inizialiMotivo dell’accessoValutazioni iniziali\n\n\n→\n\n\nDuranteDiarioOsservazioniTerapiaProcedure\n\n\n→\n\n\nAccertamentiLaboratorioRadiologiaConsulenze\n\n\n→\n\n\nDimissioneSintesiTerapiaIndicazioni successive\n\n\n\nLa posizione nel percorso aiuta a capire quando e perché un documento è stato prodotto.\n\n\nTempo: 3 minuti. Presentare il percorso come mappa documentale, non come timeline clinica da ricostruire. Non chiedere che cosa sia accaduto al paziente né come sia evoluto il quadro."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#oggi-cosa-dovrete-sapere",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#oggi-cosa-dovrete-sapere",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Oggi: cosa dovrete sapere?",
+    "text": "Oggi: cosa dovrete sapere?\n1. Distinguere i quadri cognitivi\nDNC minore, DNC maggiore, demenza, delirium.\n2. Capire le traiettorie\nMiglioramento, stabilità, peggioramento.\n3. Valutare i BPSD\nNPI/NPI-Q, bisogni non soddisfatti, ABC, DICE.\n\n0–5 min. Apertura diretta. Evitare una slide introduttiva sul comportamento: verrà trattato nella parte BPSD. Esplicitare che alcune conoscenze saranno potenzialmente oggetto di domande a risposta multipla: DNC minore/maggiore, ruolo dell’autonomia, delirium, traiettorie, NPI/NPI-Q, unmet needs, ABC e DICE. Le attività servono a esercitare il ragionamento, non a formulare diagnosi."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#allingresso",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#allingresso",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "All’ingresso",
-    "text": "All’ingresso\n\n\nIndizi visivi\n\nintestazione della struttura;\ndata e ora dell’accesso;\nidentificazione della persona;\ntitoli delle sezioni;\nprofessionista compilatore.\n\n\nInformazioni che posso aspettarmi\n\ndati identificativi;\nmotivo dell’accesso o del ricovero;\nstoria precedente essenziale;\nvalutazioni iniziali;\neventuale terapia già in corso.\n\n\n\nTempo: 2 minuti. Sottolineare “posso aspettarmi”: la struttura varia tra organizzazioni. Non spiegare la differenza clinica tra storia precedente e problema attuale; limitarsi a localizzare le sezioni."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-maria",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-maria",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Caso guida: Maria",
+    "text": "Caso guida: Maria\nMaria, 78 anni.\nDa circa un anno dimentica alcuni appuntamenti.\nUsa molti promemoria.\nLa figlia riferisce qualche errore recente nelle bollette.\nChe cosa dobbiamo capire?\n\n5–10 min. Caso centrato su cognizione e autonomia. Chiedere: qual è l’informazione cognitiva? Qual è l’informazione funzionale? Che cosa non sappiamo ancora? Non chiedere una diagnosi. Obiettivo: aprire la distinzione tra difficoltà cognitiva, impatto sulla vita quotidiana e necessità di informazioni longitudinali."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#durante-il-ricovero",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#durante-il-ricovero",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Durante il ricovero",
-    "text": "Durante il ricovero\n\n\nDiarioAnnotazioni successive, con data e ora.\n\n\nOsservazioniInformazioni raccolte dai professionisti.\n\n\nParametriDati registrati in schede o grafici.\n\n\nTerapiaPrescrizioni e registrazioni di somministrazione.\n\n\nValutazioniContributi delle diverse professioni.\n\n\nProcedureAttività e interventi documentati.\n\n\n\nTempo: 3 minuti. Far notare data, ora e identificazione del professionista. Non usare le annotazioni per ricostruire l’evoluzione del caso."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#tre-domande-iniziali",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#tre-domande-iniziali",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Tre domande iniziali",
+    "text": "Tre domande iniziali\n\nC’è un declino rispetto a prima?\nQuali domini cognitivi sono coinvolti?\nL’autonomia è compromessa?\n\n\n10–15 min. Queste tre domande guidano la prima parte. Declino rispetto a prima: non basta una prestazione bassa in assoluto. Domini: memoria, attenzione, linguaggio, funzioni esecutive, prassie/gnosie, cognizione sociale. Autonomia: punto chiave per distinguere forme minori e maggiori."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#accertamenti-e-referti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#accertamenti-e-referti",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Accertamenti e referti",
-    "text": "Accertamenti e referti\n\n\nDomanda o indicazione\n\n\n→\n\n\nRichiesta dell’esame\n\n\n→\n\n\nEsecuzione\n\n\n→\n\n\nRisultato / referto\n\n\n\n\nLaboratorioRisultati organizzati per analita, valore e unità.\n\n\nRadiologiaIndicazione, tecnica, reperti e conclusioni.\n\n\nConsulenzaValutazione effettuata da un altro professionista o servizio.\n\n\nAltre indaginiDocumenti con strutture specifiche rispetto all’esame.\n\n\n\nTempo: 2 minuti. Chiarire soltanto la differenza tra richiesta, esecuzione e risultato. Non spiegare valori, unità, range di riferimento o significato dei reperti: appartengono alla Lezione 3."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#declino-rispetto-a-prima",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#declino-rispetto-a-prima",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Declino rispetto a prima",
+    "text": "Declino rispetto a prima\nNon basta “andare male” a un test\nConta il cambiamento rispetto al funzionamento abituale.\n\nSpiegare che in geriatria il livello di istruzione, la lingua, le abitudini, la vista, l’udito, l’ansia da prestazione e le condizioni acute possono influenzare la valutazione. Un punteggio deve essere letto insieme a storia, funzione e contesto. Collegare alla VMD: valutazione integrata, non singolo test."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#alla-dimissione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#alla-dimissione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Alla dimissione",
-    "text": "Alla dimissione\n\n\n\n\nDiagnosi riportate\n\n\nAccertamenti e attività rilevanti\n\n\nTerapia alla dimissione\n\n\nIndicazioni successive\n\n\n\nLa lettera di dimissione\n\nsintetizza elementi rilevanti dell’episodio;\ncomunica informazioni al termine del ricovero;\nriporta terapia e indicazioni successive;\nsostiene la continuità assistenziale.\n\n\nOggi ne riconosciamo struttura e funzione. Non la utilizziamo ancora per ricostruire la storia clinica.\n\n\n\nTempo: 3 minuti. Mostrare la struttura generale senza analizzare la coerenza tra diagnosi, decorso e terapia. Se emerge la SDO, chiarire brevemente che non coincide con la lettera di dimissione."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#domini-cognitivi-da-osservare",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#domini-cognitivi-da-osservare",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Domini cognitivi da osservare",
+    "text": "Domini cognitivi da osservare\n\n\nMemoria\nripetizioni, appuntamenti\nLinguaggio\nparole, comprensione\n\nFunzioni esecutive\npianificazione, giudizio\nAttenzione\nfluttuazioni, distraibilità\n\nPrassie/gnosie\nuso di oggetti\nCognizione sociale\ndisinibizione, empatia\n\n\n15–22 min. Non fare neuropsicologia dettagliata. Dare esempi educativi: farmaci, denaro, telefono, cucina, orientamento negli spazi, partecipazione alle attività, relazione con altri utenti e operatori. Messaggio: non tutte le demenze iniziano con la memoria."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#oggi-e-nella-prossima-lezione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#oggi-e-nella-prossima-lezione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Oggi e nella prossima lezione",
-    "text": "Oggi e nella prossima lezione\n\n\n\nOggiDove sono registrate le informazioni?\n\n\n\nProssima lezioneCome le informazioni raccontano la storia del paziente?\n\n\n\nOggi: localizzare.La prossima volta: ricostruire.\n\n\nTempo: 2 minuti. Rendere esplicito il confine. Se la discussione si sposta verso patologie pregresse, problema principale, complicanze o decorso, rinviare alla Lezione 2."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#autonomia-il-nodo-centrale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#autonomia-il-nodo-centrale",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Autonomia: il nodo centrale",
+    "text": "Autonomia: il nodo centrale\nDifficoltà cognitive simili\npossono avere impatto funzionale diverso.\n\nIntrodurre l’idea che il funzionamento quotidiano è centrale. Non basta sapere che una persona dimentica appuntamenti: bisogna capire se riesce ancora a compensare, se commette errori rischiosi, se necessita di supervisione o se altri hanno preso in carico attività precedentemente autonome."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-lo-cercheresti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-lo-cercheresti",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Dove lo cercheresti?",
-    "text": "Dove lo cercheresti?\n\nRisposta a coppie, sondaggio o alzata di mano\n\n\n\nChe cosa ha mostrato una TC?\n\n\nQuali farmaci sono prescritti?\n\n\nChe cosa è stato registrato durante la notte?\n\n\nQuali indicazioni sono state date alla dimissione?\n\n\nQual è il risultato di un esame del sangue?\n\n\nDove viene sintetizzato ciò che viene comunicato al termine del ricovero?\n\n\n\nPer ogni domanda indicate il documento e, se possibile, la sezione. Non interpretate il contenuto.\n\n\nTempo: 9 minuti. Presentare una domanda alla volta e lasciare 20–30 secondi alle coppie. Accettare alternative motivate quando l’informazione può comparire in più punti. Chiedere sempre: “Dove guarderesti per prima cosa?”"
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#maria-due-scenari",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#maria-due-scenari",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Maria: due scenari",
+    "text": "Maria: due scenari\nScenario A\nVive sola, gestisce farmaci e spese. Usa agenda e promemoria.\nScenario B\nLa figlia ha preso in carico farmaci e pagamenti per errori ripetuti.\nCosa cambia?\n\n22–28 min. Chiedere agli studenti di confrontare A e B. In A l’indipendenza appare conservata, anche con strategie compensative: quadro potenzialmente minore, dati insufficienti. In B l’autonomia è compromessa a causa delle difficoltà cognitive: possibile quadro maggiore, sempre dati insufficienti. Non chiedere diagnosi, ma riconoscere la logica."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#cercare-in-modo-mirato",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#cercare-in-modo-mirato",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Cercare in modo mirato",
-    "text": "Cercare in modo mirato\n\nDebrief\n\n\n\nRiconosci il documento\n\n\n→\n\n\nUsa titolo e intestazioni\n\n\n→\n\n\nVai alla sezione probabile\n\n\n\nNon sempre è necessario leggere tutto dall’inizio alla fine.\n\n\nTempo: 3 minuti. Chiedere quali indizi sono stati usati. Raccogliere titolo, intestazioni, forma grafica, funzione e posizione nel fascicolo."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dnc-minore-e-maggiore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dnc-minore-e-maggiore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "DNC minore e maggiore",
+    "text": "DNC minore e maggiore\n\n\n\nAspetto\nDNC minore\nDNC maggiore\n\n\n\n\nDeclino cognitivo\nmodesto\nsignificativo\n\n\nAutonomia\nconservata, con più sforzo o strategie\ncompromessa\n\n\nTermine vicino\nMCI\ndemenza\n\n\n\n\n28–33 min. Da conoscere per l’esame. La differenza non è semplicemente avere un test più basso. Il criterio pratico da ricordare è l’interferenza con l’indipendenza nelle attività quotidiane. DNC minore e MCI sono concetti vicini, ma non perfettamente sovrapponibili in tutti i contesti. DNC maggiore corrisponde generalmente alla sindrome clinica di demenza."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-tipo-di-informazione-sto-guardando",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#che-tipo-di-informazione-sto-guardando",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Che tipo di informazione sto guardando?",
-    "text": "Che tipo di informazione sto guardando?\n\n\nDati identificativiChi è la persona e a quale episodio si riferisce il documento?\n\n\nStoria precedenteQuali informazioni sono riportate sul passato?\n\n\nProblema attualeQuale motivo dell’accesso è registrato?\n\n\nDiagnosiQuali diagnosi sono esplicitamente riportate?\n\n\nEsami e refertiQuali accertamenti e risultati sono documentati?\n\n\nProcedureQuali attività o interventi sono registrati?\n\n\nTerapiaQuali prescrizioni o somministrazioni compaiono?\n\n\nDecorsoDove sono presenti registrazioni successive?\n\n\nIndicazioni successiveChe cosa viene indicato dopo la dimissione?\n\n\n\nTempo: 6 minuti. Presentare le categorie come etichette per orientarsi. “Diagnosi” significa riconoscere una sezione esplicitamente etichettata, non formulare una diagnosi. Non approfondire sintomo, segno, sindrome o complicanza."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-una-sindrome",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-una-sindrome",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Demenza: una sindrome",
+    "text": "Demenza: una sindrome\nNon una singola malattia.\n\ndeclino cognitivo acquisito;\nimpatto su autonomia e vita quotidiana;\ncause diverse;\nandamento non identico per tutti.\n\n\n33–38 min. Usare il termine sindrome. Una persona può avere una demenza da malattia di Alzheimer, vascolare, a corpi di Lewy, frontotemporale, mista o da altre cause. Collegare alla VMD: cognizione, funzione, contesto, comorbilità, farmaci e preferenze devono essere integrati."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-categoria-può-comparire-in-più-punti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#una-categoria-può-comparire-in-più-punti",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Una categoria può comparire in più punti",
-    "text": "Una categoria può comparire in più punti\n\nEsempio: TERAPIA\n\n\n\nDocumentazione iniziale\n\n\n↔︎\n\n\nScheda terapeutica\n\n\n↔︎\n\n\nDiario\n\n\n↔︎\n\n\nLettera di dimissione\n\n\n\nCercare un’informazione significa conoscere sia la sua categoria sia la funzione dei documenti in cui può comparire.\n\n\nTempo: 4 minuti. Chiedere che cosa potrebbe cambiare tra i diversi punti senza entrare nel confronto clinico tra terapie. La domanda e il momento assistenziale orientano la ricerca."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#delirium-da-non-perdere",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#delirium-da-non-perdere",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Delirium: da non perdere",
+    "text": "Delirium: da non perdere\nAcuto · fluttuante · attenzione alterata\nUn peggioramento improvviso non va attribuito automaticamente alla demenza.\n\n38–42 min. Punto di sicurezza. Il delirium può comparire in persone con o senza demenza e richiede attenzione clinica. Segnali utili per gli educatori: cambiamento rapido, fluttuazioni durante la giornata, sonnolenza o iperallerta, disattenzione, peggioramento improvviso di comportamento o autonomia. Segnalare, non interpretare come “peggioramento della demenza”."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#document-scavenger-hunt",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#document-scavenger-hunt",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Document Scavenger Hunt",
-    "text": "Document Scavenger Hunt\n\nAttività principale · gruppi di 3–4\n\n\nTrovate nel fascicolo dove sono riportate queste informazioni. Non dovete interpretarle.\n\n\n\n\nun dato identificativo;\nil motivo dell’accesso;\nuna patologia riportata nella storia precedente;\nun risultato di esame;\nun farmaco prescritto;\nun’informazione registrata durante il ricovero;\nuna diagnosi riportata alla dimissione;\nun’indicazione per il periodo successivo.\n\n\n\n\n\nInformazione\nDocumento\nSezione\nPagina\n\n\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n…\n\n\n\n\n\n\n\n\nSe incontrate un termine difficile, potete ignorarne il significato: il compito è localizzare l’informazione.\n\n\nTempo di lavoro: 20 minuti. Distribuire un fascicolo simulato di 5–7 pagine con documentazione iniziale, diario, scheda terapeutica, referto di laboratorio, referto radiologico e breve lettera di dimissione. Durante il lavoro riportare sempre la discussione su documento, funzione, intestazioni e localizzazione."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#traiettorie-possibili",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#traiettorie-possibili",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Traiettorie possibili",
+    "text": "Traiettorie possibili\nDisturbo cognitivo ≠ destino unico\nMiglioramento · stabilità · peggioramento\n\n42–46 min. Il DNC minore/MCI può peggiorare, restare stabile o migliorare. Il reverting va presentato con prudenza: tornare a prestazioni nella norma non dimostra automaticamente la scomparsa di ogni processo patologico. Può dipendere da depressione, farmaci, malattie acute, fluttuazioni, apprendimento del test o variabilità della misurazione. Messaggio: serve rivalutazione nel tempo."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#come-avete-capito-dove-cercare",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#come-avete-capito-dove-cercare",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Come avete capito dove cercare?",
-    "text": "Come avete capito dove cercare?\n\nDebrief dello scavenger hunt\n\n\n\nTitolo del documentoDice che tipo di oggetto sto osservando.\n\n\nIntestazioniSuddividono il documento in sezioni prevedibili.\n\n\nPosizione nel fascicoloSuggerisce il momento e la funzione.\n\n\nParole-segnale“Terapia”, “conclusioni”, “indicazioni”, “diario”.\n\n\n\nQuali parti avete potuto saltare senza perdere l’informazione cercata?\n\n\nTempo: 7 minuti. Non limitarsi alle pagine corrette: chiedere a due o tre gruppi di descrivere il metodo. Far emergere che una navigazione competente è selettiva. Non trasformare il debrief nella ricostruzione del caso."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#cognizione-e-umore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#cognizione-e-umore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Cognizione e umore",
+    "text": "Cognizione e umore\n\n\nDepressione → cognizione\nattenzione, memoria, rallentamento\n\nCognizione → umore\nfrustrazione, perdita di ruolo, ritiro\n\n\n46–50 min. Non usare “pseudodemenza” come categoria semplice. La depressione può dare difficoltà cognitive; viceversa un deficit cognitivo iniziale può produrre tristezza, ansia, perdita di fiducia o ritiro. La relazione temporale non è sempre chiara e va ricostruita con storia, osservazione, clinica e follow-up."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-metodo-in-sei-passi",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#un-metodo-in-sei-passi",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Un metodo in sei passi",
-    "text": "Un metodo in sei passi\n\n\nIdentifica il tipo di documento.\n\n\nChiediti quale funzione svolge.\n\n\nOsserva titolo, struttura e intestazioni.\n\n\nDefinisci la categoria di informazione che cerchi.\n\n\nVai alla sezione più probabile.\n\n\nSolo allora leggi il dettaglio necessario.\n\n\n\nTempo: 3 minuti. Ricostruire i passaggi dalle strategie nominate dagli studenti. Chiedere quale passaggio tendevano a saltare."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-1-quale-quadro",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-1-quale-quadro",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Attività 1 · Quale quadro?",
+    "text": "Attività 1 · Quale quadro?\nPer ogni situazione:\n\nminore, maggiore, delirium o dati insufficienti?\nquale traiettoria è possibile?\nquali informazioni mancano?\n\n\n50–65 min. Lavoro in piccoli gruppi. Lo scopo non è indovinare una diagnosi, ma usare autonomia, andamento e dati mancanti. Accettare “dati insufficienti” quando motivato. Restituzione rapida."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-cercare-cosa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-cercare-cosa",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Dove cercare cosa",
-    "text": "Dove cercare cosa\n\n\n\n\n\n\n\nMi serve…\nGuardo prima…\n\n\n\n\nun risultato di laboratorio\nreferto di laboratorio\n\n\nil risultato di una TC o radiografia\nreferto radiologico\n\n\nuna registrazione effettuata durante il ricovero\ndiario / documentazione clinica\n\n\nuna terapia prescritta\nprescrizione / scheda terapeutica\n\n\nla sintesi comunicata alla conclusione del ricovero\nlettera di dimissione\n\n\nle indicazioni per il periodo successivo\nlettera di dimissione / piano terapeutico\n\n\ninformazioni sull’accesso urgente\nverbale di pronto soccorso\n\n\n\n\nLa tabella indica il primo luogo in cui cercare: la stessa informazione può essere ripresa in più documenti.\n\n\nTempo: 5 minuti. Usare la slide come mappa di ripasso. Chiedere agli studenti di motivare una riga attraverso la funzione del documento."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#quattro-situazioni",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#quattro-situazioni",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Quattro situazioni",
+    "text": "Quattro situazioni\nA. Dimentica appuntamenti, ma gestisce ancora farmaci e spese.\nB. Da due anni peggiora; ora la figlia gestisce farmaci e pagamenti.\nC. Tristezza, ritiro e difficoltà di concentrazione da alcuni mesi.\nD. Difficoltà cognitive migliorate dopo correzione di fattori reversibili.\n\nDebrief atteso: A compatibile con DNC minore/MCI, ma servono test e storia. B suggerisce DNC maggiore/demenza se l’interferenza è dovuta a deficit cognitivo. C richiede valutazione dell’umore e della cognizione. D introduce miglioramento/reverting e invita a non assumere traiettorie obbligate."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#tre-domande-da-portarsi-via",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#tre-domande-da-portarsi-via",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Tre domande da portarsi via",
-    "text": "Tre domande da portarsi via\n\n1. Che documento sto leggendo?\n\n\n2. Perché è stato prodotto?\n\n\n3. Che tipo di informazione posso aspettarmi di trovarci?\n\n\nTempo: 3 minuti. Lasciare alcuni secondi di silenzio. Presentarle come metodo minimo trasferibile ad altri fascicoli e setting."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-tre-domande",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-tre-domande",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Debriefing: tre domande",
+    "text": "Debriefing: tre domande\n\nIl deficit interferisce con l’autonomia?\nL’andamento è acuto, progressivo o fluttuante?\nUmore, farmaci o malattie acute possono contribuire?\n\n\n65–68 min. Consolidare. Il delirium va considerato davanti a esordio acuto/fluttuante, alterazione dell’attenzione o coscienza e peggioramento improvviso. Non basta un test cognitivo per separare tutte le condizioni."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#exit-ticket",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#exit-ticket",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Exit ticket",
-    "text": "Exit ticket\n\nVerifica formativa individuale\n\n\n\nDevi sapere che cosa ha mostrato una radiografia. Dove cerchi?\n\n\nDevi trovare le indicazioni date al termine del ricovero. Dove cerchi?\n\n\nTrovi una pagina con annotazioni datate, scritte in momenti successivi. Che documento stai probabilmente leggendo?\n\n\nQual è la prima domanda da porsi davanti a un documento sanitario che non si conosce?\n\n\n\n\nRisposte attese: referto radiologico · lettera di dimissione · diario/documentazione clinica · “Che documento sto leggendo?”\n\n\n\nTempo: 5 minuti. Raccogliere le risposte prima di mostrare la soluzione. La valutazione è formativa. Distinguere tra mancato riconoscimento del documento e mancata associazione tra documento e funzione."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#le-principali-forme",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#le-principali-forme",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Le principali forme",
+    "text": "Le principali forme\nStesso esito funzionale, ingressi diversi\nMemoria · esecutivo · fluttuazioni · comportamento · linguaggio\n\n68–70 min. Transizione verso le eziologie. Le forme di demenza non si distinguono solo “per nome”, ma per pattern di esordio e bisogni osservabili. Non trasformare in criteri diagnostici specialistici."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#fonti-essenziali",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#fonti-essenziali",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Fonti essenziali",
-    "text": "Fonti essenziali\n\n\nRegione Lombardia. Manuale del Fascicolo di Ricovero.\nMinistero della Salute e Dipartimento per la trasformazione digitale. Fascicolo Sanitario Elettronico 2.0.\nMinistero della Salute. Scheda di Dimissione Ospedaliera.\neHealth Network. Guideline on the electronic exchange of health data — Patient Summary.\nProfessional Record Standards Body. eDischarge Summary Standard.\nRoyal College of Physicians. Standards for the clinical structure and content of patient records.\n\n\n\nLe fonti internazionali sono utilizzate come supporto concettuale; il riferimento prioritario per struttura e terminologia resta il contesto sanitario italiano e lombardo.\n\n\nSlide di consultazione, senza tempo didattico dedicato. Le fonti sostengono la descrizione delle funzioni documentali e delle categorie generali di informazione."
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#alzheimer-nuove-informazioni",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#alzheimer-nuove-informazioni",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Alzheimer: nuove informazioni",
+    "text": "Alzheimer: nuove informazioni\nPrimo segnale frequente\nDifficoltà a fissare e recuperare nuove informazioni.\n\n70–74 min. Esempi: ripetizioni, appuntamenti dimenticati, oggetti persi, disorientamento in luoghi meno familiari, errori in farmaci o denaro. L’impatto iniziale spesso riguarda IADL; più avanti BADL. Non dire che Alzheimer = solo memoria: possono comparire linguaggio, prassie, comportamento."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#alzheimer-cosa-osserva-leducatore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#alzheimer-cosa-osserva-leducatore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Alzheimer: cosa osserva l’educatore?",
+    "text": "Alzheimer: cosa osserva l’educatore?\n\nripetizioni;\ndifficoltà nella routine;\nbisogno di promemoria;\nsmarrimento;\nansia quando aumenta la richiesta.\n\n\nEsempio breve: persona che partecipa bene ad attività abituali, ma si disorganizza quando cambia la routine o deve ricordare istruzioni nuove. Documentare cosa facilita: agenda, cue ambientali, sequenze semplici, stabilità della routine."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-vascolare-esecutivo-e-ritmo",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-vascolare-esecutivo-e-ritmo",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Demenza vascolare: esecutivo e ritmo",
+    "text": "Demenza vascolare: esecutivo e ritmo\nNon sempre il primo problema è la memoria\nRallentamento · pianificazione · iniziativa · cammino\n\n74–78 min. Spiegare profilo esecutivo: fatica a iniziare un’attività, organizzare sequenze, cambiare strategia. Possibile andamento a gradini, ma non sempre così netto. Frequenti comorbidità vascolari e coesistenza con patologia degenerativa."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#vascolare-cosa-osserva-leducatore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#vascolare-cosa-osserva-leducatore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Vascolare: cosa osserva l’educatore?",
+    "text": "Vascolare: cosa osserva l’educatore?\n\ndifficoltà a organizzare la giornata;\nlentezza nelle transizioni;\nfatica a iniziare;\ncadute o insicurezza nel cammino;\nbisogno di struttura esterna.\n\n\nEsempio: la persona sa che cosa vorrebbe fare, ma resta bloccata nell’inizio o nella sequenza. Strategie educative: attività scomposte in passi, segnali ambientali, tempi più lenti, attenzione alla sicurezza motoria e al sovraccarico."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#corpi-di-lewy-fluttuazioni",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#corpi-di-lewy-fluttuazioni",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Corpi di Lewy: fluttuazioni",
+    "text": "Corpi di Lewy: fluttuazioni\nGiornate diverse, prestazioni diverse\nFluttuazioni · allucinazioni visive · parkinsonismo · sonno REM\n\n78–82 min. Punto clinico importante. Allucinazioni visive ricorrenti, fluttuazioni dell’attenzione, rigidità/bradicinesia, disturbo comportamentale del sonno REM. Attenzione alla sensibilità agli antipsicotici: gli studenti non devono gestire terapia, ma devono segnalare pattern suggestivi e cambiamenti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#lewy-cosa-osserva-leducatore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#lewy-cosa-osserva-leducatore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Lewy: cosa osserva l’educatore?",
+    "text": "Lewy: cosa osserva l’educatore?\n\nalternanza di lucidità e confusione;\nvisioni ricorrenti;\nrallentamento motorio;\ncadute;\nsonno agitato riferito dai caregiver.\n\n\nEsempio: un giorno la persona partecipa bene, il giorno dopo appare molto disorganizzata senza chiaro motivo. Documentare fluttuazioni, orari, fattori ambientali, allucinazioni non giudicate come “bugie”. Segnalare quando le fluttuazioni sono nuove o marcate."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#frontotemporale-comportamento-o-linguaggio",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#frontotemporale-comportamento-o-linguaggio",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Frontotemporale: comportamento o linguaggio",
+    "text": "Frontotemporale: comportamento o linguaggio\nIl primo problema può essere sociale\nDisinibizione · apatia · perdita di empatia · rituali · afasia\n\n82–86 min. Aiutare a non interpretare subito come maleducazione, opposizione o carattere. Nella variante comportamentale possono comparire disinibizione, apatia, perdita di empatia, comportamenti ripetitivi, alterazioni alimentari. Varianti linguistiche: difficoltà di denominazione, comprensione o produzione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#ftd-cosa-osserva-leducatore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#ftd-cosa-osserva-leducatore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "FTD: cosa osserva l’educatore?",
+    "text": "FTD: cosa osserva l’educatore?\n\nviolazione di regole sociali;\nriduzione dell’iniziativa;\ncomportamenti ripetitivi;\ncambiamento alimentare;\ndifficoltà comunicative.\n\n\nEsempio: persona con memoria relativamente conservata ma comportamento socialmente inappropriato. Importante descrivere episodi concreti e impatto relazionale, evitando etichette moralizzanti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#nellanziano-forme-miste",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#nellanziano-forme-miste",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Nell’anziano: forme miste",
+    "text": "Nell’anziano: forme miste\nPattern utili, non scatole rigide\nNeurodegenerazione · vascolare · fragilità · farmaci · ambiente\n\n86–89 min. Nella pratica geriatrica i quadri misti sono comuni. Una persona può avere Alzheimer e danno vascolare, o demenza e delirium sovrapposto. Evitare di insegnare forme pure come categorie sempre separabili."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#percorso-diagnostico",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#percorso-diagnostico",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Percorso diagnostico",
+    "text": "Percorso diagnostico\n\nanamnesi ed eteroanamnesi;\ncognizione e funzione;\nclinica, farmaci, comorbilità;\nesami mirati e imaging quando indicato;\nfollow-up.\n\n\n89–92 min. Separare competenze: il medico formula la diagnosi integrando dati clinici e strumentali. L’educatore contribuisce con osservazioni ripetute e contestualizzate su funzione, ambiente, routine, relazioni e risposta agli interventi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-documenta-leducatore",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-documenta-leducatore",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Che cosa documenta l’educatore",
+    "text": "Che cosa documenta l’educatore\n\n\nFunzione reale\n\nigiene, alimentazione, vestirsi;\norientamento;\nroutine;\npartecipazione.\n\n\nContesto e relazione\n\nquando accade;\ncon chi;\ndove;\nche cosa aiuta o peggiora.\n\n\n\n92–95 min. Ponte verso BPSD. La documentazione utile deve essere concreta, ripetibile e condivisibile in équipe. Richiamare lezione VMD: raccolta standardizzata, interpretazione integrata, progetto personalizzato."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#pausa",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#pausa",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "PAUSA",
+    "text": "PAUSA\n10 minuti\n\n95–105 min."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-bpsd",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-bpsd",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Caso guida BPSD",
+    "text": "Caso guida BPSD\nOre 17:30. Una signora tenta ripetutamente di uscire dalla struttura.\nDice: «Devo andare a prendere i bambini».\nSi irrita quando l’operatore prova a fermarla.\nOra il focus è il comportamento.\n\n105–108 min. Presentare ora il caso BPSD, non all’inizio. È adatto a osservazione, NPI-Q, unmet needs, ABC e DICE. Non chiedere subito interventi: prima descrivere, poi misurare, poi formulare ipotesi, poi progettare."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#bpsd-che-cosa-sono",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#bpsd-che-cosa-sono",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "BPSD: che cosa sono",
+    "text": "BPSD: che cosa sono\nAlterazioni di:\npercezione · pensiero · umore · comportamento · motricità · sonno\nManifestazioni diverse, cause diverse, interventi diversi.\n\n108–112 min. BPSD = Behavioral and Psychological Symptoms of Dementia; spesso NPS = neuropsychiatric symptoms. Evitare “disturbi del comportamento” come contenitore indistinto. Agitazione, apatia, ansia, psicosi, wandering e sonno richiedono domande diverse."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#prima-domanda-di-sicurezza",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#prima-domanda-di-sicurezza",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Prima domanda di sicurezza",
+    "text": "Prima domanda di sicurezza\nÈ un cambiamento improvviso?\nDelirium · dolore · infezione · stipsi · ritenzione urinaria · farmaci · disidratazione · ipoacusia · ipovisione\n\n112–116 min. Prima di psicologizzare o educativizzare il comportamento, considerare cause acute e modificabili. L’educatore deve segnalare cambiamento rapido, fluttuazione, sonnolenza, peggioramento improvviso o nuove manifestazioni."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dal-racconto-alla-raccolta-standardizzata",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dal-racconto-alla-raccolta-standardizzata",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Dal racconto alla raccolta standardizzata",
+    "text": "Dal racconto alla raccolta standardizzata\n«È agitata» non basta\nQuale sintomo? Quanto grave? Quanto pesa sul caregiver?\n\n116–119 min. Introdurre il problema didattico dell’NPI-Q: passare da narrazioni generiche a categorie più standardizzate. Non ancora spiegare cause. Prima capire che cosa sta succedendo e come descriverlo in modo condivisibile."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-e-npi-q",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-e-npi-q",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "NPI e NPI-Q",
+    "text": "NPI e NPI-Q\n\n\n\nNPI\nNPI-Q\n\n\n\n\nintervista strutturata\nquestionario breve\n\n\nfrequenza × gravità\ngravità\n\n\ndistress caregiver\ndistress caregiver\n\n\n\n\n119–123 min. NPI = Neuropsychiatric Inventory, più articolato e basato su intervista all’informatore. NPI-Q = forma breve, più pratica per screening e monitoraggio. Entrambi standardizzano la raccolta di informazioni sui sintomi neuropsichiatrici; non spiegano automaticamente cause e interventi. Il NPI-Q è informant-based."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-q-che-cosa-raccoglie",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-q-che-cosa-raccoglie",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "NPI-Q: che cosa raccoglie?",
+    "text": "NPI-Q: che cosa raccoglie?\n12 domini neuropsichiatrici\nGravità del sintomo nella persona\nDistress del caregiver\nPeriodo: ultimo mese\n\n123–126 min. Il PDF italiano riporta che si crocia “Sì” solo se il sintomo è presente nell’ultimo mese e chiede gravità del sintomo e stress del familiare/caregiver. Distinguere distress del caregiver da distress della persona. Un sintomo può pesare molto su chi assiste, ma non essere vissuto nello stesso modo dalla persona."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#materiale-npi-q",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#materiale-npi-q",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Materiale NPI-Q",
+    "text": "Materiale NPI-Q\n\n\nPer l’attività\n\ndomini;\ngravità;\nstress caregiver;\nlimiti dello strumento.\n\nApri NPI-Q italiano ↗\n\n\n\n\nQR NPI-Q\n\n\n\n\n126–128 min. Link corretto e verificato al PDF italiano NPI-Q su Demenze in Medicina Generale. Ricordare che NPI/NPI-Q sono strumenti coperti da copyright di J.L. Cummings: non ripubblicare il modulo nel repository; usare link esterno per consultazione didattica e verificare condizioni d’uso per distribuzione formale."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dimostrazione-guidata",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dimostrazione-guidata",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Dimostrazione guidata",
+    "text": "Dimostrazione guidata\nLa caregiver dice:\n\n«È più nervosa. La sera vuole uscire. Se le dico che non può, si arrabbia.»\n\nQuale dominio potremmo esplorare?\n\n128–132 min. Fare un esempio guidato prima dell’attività. Possibili domini: agitazione/aggressività, irritabilità, ansia, mobilità aberrante. Non scegliere automaticamente: occorrono domande aggiuntive. Mostrare il ragionamento: dominio potenziale → domanda di approfondimento → gravità → stress caregiver."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#esempio-non-saltare-al-punteggio",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#esempio-non-saltare-al-punteggio",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Esempio: non saltare al punteggio",
+    "text": "Esempio: non saltare al punteggio\nDominio possibile: agitazione/aggressività\nDomande utili: che cosa fa? quanto dura? c’è rischio? quanto spesso? cosa succede dopo?\nPoi: gravità e stress del caregiver\n\n132–136 min. Mostrare che il mini-caso non basta per completare la scala. Se la persona “si arrabbia”, bisogna capire se urla, spinge, minaccia, tenta di uscire, quanto è difficile interrompere l’episodio, se c’è rischio. Lo scopo dell’attività non è produrre un punteggio artificiale ma imparare cosa chiedere."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-2-npi-q-guidato",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-2-npi-q-guidato",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Attività 2 · NPI-Q guidato",
+    "text": "Attività 2 · NPI-Q guidato\nUna figlia riferisce:\n\n«Mia madre continua a chiedere quando arriva la nipote. È più nervosa del solito. La sera dice che le rubano le cose. Io faccio fatica.»\n\nCompilate la scheda di ragionamento.\n\n136–144 min. Gruppi. Non chiedere la compilazione completa del NPI-Q. Prodotto: 2-3 domini potenzialmente pertinenti; informazioni da chiedere; distinzione tra gravità del sintomo e stress del caregiver; cosa il NPI-Q non può spiegare. Domini possibili: ansia, deliri/sospettosità, irritabilità, agitazione; dipende dalle informazioni aggiuntive."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#scheda-di-ragionamento",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#scheda-di-ragionamento",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Scheda di ragionamento",
+    "text": "Scheda di ragionamento\n\n\n\nDominio possibile\nCosa chiedere?\nCosa non sappiamo ancora?\n\n\n\n\n…\n…\n…\n\n\n…\n…\n…\n\n\n\n\n144–146 min. Restituzione rapidissima: chiedere a due gruppi un dominio e una domanda utile. Debrief: lo strumento aiuta a standardizzare ma non spiega cause, bisogni o interventi. Questa slide rende l’attività più chiara e agganciata alla precedente dimostrazione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-npi-q",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-npi-q",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Debriefing NPI-Q",
+    "text": "Debriefing NPI-Q\nMisura e standardizza\nma\nnon spiega da solo\n\n146–148 min. Messaggio chiave: NPI/NPI-Q descrivono e monitorano, ma non sostituiscono ABC, VMD, valutazione clinica e conoscenza della persona. Il distress del caregiver è importante, ma non coincide automaticamente con il vissuto della persona."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#abbiamo-descritto.-ora-dobbiamo-capire.",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#abbiamo-descritto.-ora-dobbiamo-capire.",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Abbiamo descritto. Ora dobbiamo capire.",
+    "text": "Abbiamo descritto. Ora dobbiamo capire.\nPerché potrebbe accadere?\nStesso comportamento, spiegazioni diverse.\n\n148–151 min. Transizione al blocco sulle ipotesi. Il salto va reso graduale: NPI-Q ci dice quali manifestazioni considerare; ora passiamo a cause possibili e bisogni. Non introdurre interventi prima di avere ipotesi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#bisogni-non-soddisfatti",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#bisogni-non-soddisfatti",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Bisogni non soddisfatti",
+    "text": "Bisogni non soddisfatti\nUn comportamento può comunicare un bisogno:\nsicurezza · dolore · movimento · relazione · ruolo · controllo · ambiente più adatto\n\n151–154 min. Presentare unmet needs come cornice utile, non come spiegazione universale. Non tutti i BPSD sono “solo bisogni”: possono contribuire delirium, dolore, farmaci, neurodegenerazione, ambiente, comunicazione, storia personale. La formulazione utile è: il comportamento può esprimere un bisogno non soddisfatto, da verificare."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#quattro-famiglie-di-ipotesi",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#quattro-famiglie-di-ipotesi",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Quattro famiglie di ipotesi",
+    "text": "Quattro famiglie di ipotesi\n\n\nCliniche\ndolore, delirium, farmaci, sonno\nPersonali\nbiografia, emozioni, identità\n\nAmbientali\nrumore, luce, spazi, sovraccarico\nRelazionali\ncomunicazione, richiesta, perdita di controllo\n\n\n154–157 min. Questa slide riduce il salto verso le ipotesi. Far capire che non si deve trovare “la” causa unica. Più fattori possono contribuire. Chiedere agli studenti di collocare il caso guida in almeno due famiglie prima di parlare di interventi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#abc-descrivere-lepisodio",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#abc-descrivere-lepisodio",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "ABC: descrivere l’episodio",
+    "text": "ABC: descrivere l’episodio\n\n\n\n\n\n\n\n\nA — Antecedent\nB — Behavior\nC — Consequence\n\n\n\n\nprima\ncomportamento\ndopo\n\n\nora, luogo, richiesta, persone\ncosa fa/dice\nrisposta, esito, rinforzi\n\n\n\n\n157–160 min. ABC non è un modello completo di cura, ma forza la descrizione concreta. Esempio: antecedente = cambio turno, sala rumorosa, avvicinamento alla porta; behavior = tenta di uscire e dice “devo prendere i bambini”; conseguenza = operatore blocca e lei si irrita. Dati mancanti: cosa accade se viene accompagnata? accade tutti i giorni? fame/dolore/stanchezza?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-dati-aggiuntivi",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-dati-aggiuntivi",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Caso guida: dati aggiuntivi",
+    "text": "Caso guida: dati aggiuntivi\n\nSuccede quasi sempre tra 17:00 e 18:00.\nIn passato andava a prendere i figli a scuola.\nIl cambio turno rende l’ambiente più rumoroso.\nSe cammina con un’operatrice si calma per qualche minuto.\n\nOra possiamo formulare ipotesi.\n\n160–163 min. Questi dati rendono possibile il passaggio da osservazione a ipotesi. Mostrare che nuovi dati possono sostenere ipotesi biografiche, ambientali e di bisogno di movimento/relazione. Non concludere che una sola ipotesi sia vera."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#ipotesi-1-routine-biografica",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#ipotesi-1-routine-biografica",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Ipotesi 1: routine biografica",
+    "text": "Ipotesi 1: routine biografica\nPerché potrebbe accadere?\nIl tardo pomeriggio attiva una routine significativa del passato.\nCosa verificare?\nStoria di vita, orari, risposta ad attività familiari.\n\n163–165 min. Esempio guidato. Non dire “crede davvero di dover prendere i bambini” come unica spiegazione. Piuttosto: il contenuto della frase può indicare un ruolo biografico significativo. Verificare con caregiver, storia di vita, osservazione ripetuta."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#ipotesi-2-ambiente-e-ansia",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#ipotesi-2-ambiente-e-ansia",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Ipotesi 2: ambiente e ansia",
+    "text": "Ipotesi 2: ambiente e ansia\nPerché potrebbe accadere?\nRumore, cambio turno e confusione aumentano ansia e disorientamento.\nCosa verificare?\nStimoli ambientali, orari, persone presenti, effetto di spazi tranquilli.\n\n165–167 min. Seconda ipotesi guidata. Il comportamento può essere una risposta a sovrastimolazione o disorientamento. Informazioni utili: accade anche in ambienti tranquilli? peggiora con rumore? migliora riducendo stimoli?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#ipotesi-3-movimento-e-relazione",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#ipotesi-3-movimento-e-relazione",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Ipotesi 3: movimento e relazione",
+    "text": "Ipotesi 3: movimento e relazione\nPerché potrebbe accadere?\nBisogno di muoversi, contatto e accompagnamento.\nCosa verificare?\nTempo seduta, attività della giornata, effetto del cammino accompagnato.\n\n167–169 min. Terza ipotesi. Il fatto che si calmi camminando con un’operatrice suggerisce una possibile componente di movimento, relazione o rassicurazione. Non basta bloccare l’uscita: occorre offrire alternativa sicura e significativa."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-organizzare-il-percorso",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-organizzare-il-percorso",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "DICE: organizzare il percorso",
+    "text": "DICE: organizzare il percorso\nDescribe → descrivere\nInvestigate → cercare cause modificabili\nCreate → creare un piano personalizzato\nEvaluate → valutare e correggere\n\n169–171 min. Ora DICE arriva dopo l’esempio, quindi non è un salto. Presentarlo come schema che riassume il percorso già mostrato. Collegare alla VMD: valutare, identificare bisogni, progettare, rivalutare."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dal-bisogno-allintervento",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dal-bisogno-allintervento",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Dal bisogno all’intervento",
+    "text": "Dal bisogno all’intervento\n\n\n\n\n\n\n\n\nIpotesi\nIntervento coerente\nIndicatore\n\n\n\n\nroutine biografica\nattività ponte significativa\nmeno distress\n\n\nambiente rumoroso\nspazio più calmo prima delle 17\nmeno escalation\n\n\nmovimento/relazione\ncammino accompagnato programmato\nmaggiore calma\n\n\n\n\n171–174 min. Mostrare il passaggio chiave. A ipotesi diverse corrispondono interventi diversi. Gli indicatori non devono essere solo “meno tentativi di uscire”: considerare distress, sicurezza, partecipazione, libertà, sostenibilità per il team."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-3-completate-il-progetto",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-3-completate-il-progetto",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Attività 3 · Completate il progetto",
+    "text": "Attività 3 · Completate il progetto\nIl comportamento è già descritto.\n\nFormulate un’altra ipotesi.\nIndicate un dato da raccogliere.\nProponete un intervento coerente.\nDefinite come valutarlo.\n\n\n174–179 min. Attività breve, non laboratorio esteso. Gli studenti hanno già visto tre ipotesi guidate. Chiedere di completare un solo pezzo del ragionamento. Esempi accettabili: dolore/stanchezza; fame/sete; paura di essere abbandonata; bisogno di ruolo; incomprensione della richiesta; bisogno di orientamento. Valutare coerenza, non originalità."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#sintesi-finale",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#sintesi-finale",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Sintesi finale",
+    "text": "Sintesi finale\nDescrivere prima di interpretare.\nMisurare senza ridurre la persona al punteggio.\nIpotizzare prima di intervenire.\nValutare e modificare.\n\n179–180 min. Chiudere con quattro verbi. Far vedere la continuità con VMD: raccolta informazioni, integrazione, intervento personalizzato, rivalutazione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#da-ricordare-per-lesame",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#da-ricordare-per-lesame",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Da ricordare per l’esame",
+    "text": "Da ricordare per l’esame\n\nDNC minore vs maggiore: il ruolo dell’autonomia.\nDelirium: acuto, fluttuante, attenzione alterata.\nTraiettorie: miglioramento, stabilità, peggioramento.\nBPSD: descrivere e standardizzare.\nNPI-Q: domini, gravità, stress caregiver.\nDICE: descrivere, investigare, creare, valutare.\n\n\nSlide riepilogativa per lo studio. Non chiedere a memoria tutti i domini del NPI-Q come elenco sterile; chiedere cosa misura, come si interpreta e quali limiti ha. Non chiedere criteri diagnostici specialistici delle demenze, ma pattern di presentazione e ruolo del funzionamento quotidiano."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#fonti-e-materiali",
+    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#fonti-e-materiali",
+    "title": "Disturbi neurocognitivi e BPSD",
+    "section": "Fonti e materiali",
+    "text": "Fonti e materiali\n\nWHO. Dementia fact sheet. https://www.who.int/news-room/fact-sheets/detail/dementia\nNICE NG97. Dementia: assessment, management and support. https://www.nice.org.uk/guidance/ng97\nIPA. Complete Guide to BPSD. https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf\nKales, Gitlin, Lyketsos. DICE approach. https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/\nNPI-Q italiano. https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf\nSito ufficiale NPI. https://mail.npitest.net/npi/about-npi.html\n\n\nSlide finale di supporto. Ricordare che NPI/NPI-Q sono strumenti coperti da copyright di J.L. Cummings; usare link e non ripubblicare il modulo nel repository pubblico. Verificare condizioni di uso se si intende distribuire copie cartacee."
+  },
+  {
+    "objectID": "geriatria/index.html",
+    "href": "geriatria/index.html",
+    "title": "Geriatria",
+    "section": "",
+    "text": "Materiale didattico del corso di Geriatria.\n\n\n\n\n\nInvecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
+  },
+  {
+    "objectID": "geriatria/index.html#lezioni",
+    "href": "geriatria/index.html#lezioni",
+    "title": "Geriatria",
+    "section": "",
+    "text": "Invecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
   },
   {
     "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
@@ -399,265 +672,6 @@
     "text": "Conclusione\nAlla prossima!\n[se possibile, portate tablet o laptop!] {.alert}\n\nalberto.zucchelli@unibs.it"
   },
   {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#oggi-cosa-dovrete-sapere",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#oggi-cosa-dovrete-sapere",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Oggi: cosa dovrete sapere?",
-    "text": "Oggi: cosa dovrete sapere?\n1. Distinguere i quadri cognitivi\nDNC minore, DNC maggiore, demenza, delirium.\n2. Capire le traiettorie\nMiglioramento, stabilità, peggioramento.\n3. Leggere i BPSD come dati da valutare\nNPI/NPI-Q, bisogni non soddisfatti, ABC, DICE.\n\nApertura diretta. Non usare una slide introduttiva sul comportamento come dato clinico: il concetto verrà introdotto più avanti, nella parte BPSD, dove è più pertinente. Chiarire che la lezione non mira a formare diagnosti, ma professionisti capaci di distinguere quadri generali, osservare il funzionamento reale e contribuire alla valutazione e agli interventi. Le conoscenze principali sono oggetto possibile di domanda a risposta multipla: DNC minore/maggiore, ruolo dell’autonomia, traiettorie, delirium, NPI/NPI-Q, unmet needs, ABC e DICE."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-memoria-e-autonomia",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-memoria-e-autonomia",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Caso guida: memoria e autonomia",
-    "text": "Caso guida: memoria e autonomia\nMaria, 78 anni.\nDa circa un anno dimentica alcuni appuntamenti.\nUsa molti promemoria.\nLa figlia riferisce qualche errore recente nelle bollette.\nChe cosa dobbiamo capire?\n\n0–8 min. Questo caso sostituisce il precedente caso BPSD all’inizio della lezione. È centrato su cognizione, funzionamento e autonomia, quindi è più adatto a introdurre DNC minore/maggiore. Domande rapide agli studenti: quale informazione è cognitiva? Quale riguarda l’autonomia? Che cosa non sappiamo ancora? Non chiedere diagnosi. Il caso può evolvere nel corso della prima parte."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#le-tre-domande-iniziali",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#le-tre-domande-iniziali",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Le tre domande iniziali",
-    "text": "Le tre domande iniziali\n\nC’è un declino rispetto a prima?\nQuali domini cognitivi sono coinvolti?\nL’autonomia è compromessa?\n\n\n8–18 min, insieme alle slide successive. Queste tre domande guidano la prima parte. Declino rispetto al funzionamento precedente: non basta una prestazione bassa in assoluto. Domini: memoria, attenzione, linguaggio, funzioni esecutive, prassie/gnosie, cognizione sociale. Autonomia: il passaggio cruciale per distinguere forme minori e maggiori è l’interferenza con l’indipendenza nelle attività quotidiane."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dnc-minore-e-maggiore",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dnc-minore-e-maggiore",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "DNC minore e maggiore",
-    "text": "DNC minore e maggiore\n\n\n\nAspetto\nDNC minore\nDNC maggiore\n\n\n\n\nDeclino cognitivo\nmodesto\nsignificativo\n\n\nAutonomia\nconservata, con più sforzo o strategie\ncompromessa\n\n\nTermine clinico vicino\nMCI\ndemenza\n\n\n\n\nDa conoscere per l’esame. La differenza non è semplicemente avere un punteggio più basso a un test. Il criterio pratico da ricordare è l’interferenza con l’indipendenza nelle attività quotidiane. Il disturbo neurocognitivo minore è vicino al concetto clinico di MCI, ma non sempre perfettamente sovrapponibile. Il disturbo neurocognitivo maggiore corrisponde generalmente alla sindrome clinica di demenza. Specificare che la diagnosi richiede integrazione clinica e non può essere formulata dal solo caso."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-una-sindrome",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#demenza-una-sindrome",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Demenza: una sindrome",
-    "text": "Demenza: una sindrome\nNon una singola malattia.\n\ndeficit cognitivo acquisito;\nimpatto su autonomia e vita quotidiana;\ncause diverse;\nandamento non identico per tutti.\n\n\nUsare il termine sindrome. Una persona può avere una demenza da malattia di Alzheimer, vascolare, a corpi di Lewy, frontotemporale, mista o da altre cause. Collegare alla lezione sulla VMD: cognizione, funzione, contesto, comorbilità, farmaci e preferenze devono essere integrati."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#domini-da-osservare",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#domini-da-osservare",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Domini da osservare",
-    "text": "Domini da osservare\n\n\nMemoria\nripetizioni, appuntamenti\nLinguaggio\nparole, comprensione\n\nFunzioni esecutive\npianificazione, giudizio\nAttenzione\nfluttuazioni, distraibilità\n\nPrassie/gnosie\nuso di oggetti\nCognizione sociale\ndisinibizione, empatia\n\n\nNon trasformare in neuropsicologia dettagliata. Dare esempi di vita quotidiana: farmaci, denaro, telefono, cucina, orientamento, partecipazione alle attività, relazione con gli altri. Evidenziare che non tutte le demenze iniziano con la memoria."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#maria-nuove-informazioni",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#maria-nuove-informazioni",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Maria: nuove informazioni",
-    "text": "Maria: nuove informazioni\nScenario A\nVive sola, gestisce farmaci e spese. Usa agenda e promemoria.\nScenario B\nLa figlia ha preso in carico farmaci e pagamenti per errori ripetuti.\nCosa cambia?\n\n18–28 min. Chiedere agli studenti di confrontare A e B. In A l’indipendenza appare conservata, pur con strategie compensative: possibile quadro minore, dati insufficienti. In B l’autonomia è compromessa a causa di difficoltà cognitive: possibile quadro maggiore, dati comunque insufficienti. Rinforzare: la funzione quotidiana non è un dettaglio, è centrale per la classificazione."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#traiettorie-possibili",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#traiettorie-possibili",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Traiettorie possibili",
-    "text": "Traiettorie possibili\nDisturbo cognitivo ≠ destino unico\nMiglioramento · stabilità · peggioramento\n\n28–36 min. Il DNC minore/MCI può peggiorare, restare stabile o migliorare. Introdurre il concetto di reverting con prudenza: un ritorno a prestazioni nella norma non dimostra automaticamente la scomparsa di ogni processo patologico. Può dipendere da depressione, farmaci, malattie acute, fluttuazioni, apprendimento al test o variabilità della misurazione. Messaggio: la traiettoria si valuta nel tempo e richiede follow-up."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#cognizione-e-umore",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#cognizione-e-umore",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Cognizione e umore",
-    "text": "Cognizione e umore\n\n\nDepressione → cognizione\nattenzione, memoria, rallentamento\n\nCognizione → umore\nperdita di ruolo, frustrazione, ritiro\n\n\nPiccolo accenno richiesto. Non usare “pseudodemenza” come categoria semplice. La depressione può dare difficoltà cognitive; viceversa un deficit cognitivo iniziale può generare tristezza, ansia, perdita di fiducia o ritiro. La relazione temporale non è sempre chiara e va ricostruita con storia, osservazione, valutazione clinica e follow-up."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-1-quale-quadro",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-1-quale-quadro",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Attività 1 · Quale quadro?",
-    "text": "Attività 1 · Quale quadro?\nPer ogni situazione:\n\nminore, maggiore, delirium o dati insufficienti?\nquale traiettoria è possibile?\nquali informazioni mancano?\n\n\n36–53 min. Far lavorare in piccoli gruppi. Lo scopo non è indovinare una diagnosi, ma usare autonomia, andamento e dati mancanti. Distribuire o mostrare le quattro situazioni nella slide successiva. Restituzione rapida. Accettare “dati insufficienti” quando motivato."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#quattro-situazioni",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#quattro-situazioni",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Quattro situazioni",
-    "text": "Quattro situazioni\nA. Dimentica appuntamenti, ma gestisce ancora farmaci e spese.\nB. Da due anni peggiora; ora la figlia gestisce farmaci e pagamenti.\nC. Tristezza, ritiro e difficoltà di concentrazione da alcuni mesi.\nD. Difficoltà cognitive migliorate dopo rivalutazione e correzione di fattori reversibili.\n\nDebrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono test, storia e funzionamento precedente. B suggerisce DNC maggiore/demenza se l’interferenza è dovuta a deficit cognitivo. C richiede valutazione dell’umore e della cognizione, senza concludere automaticamente. D introduce il miglioramento/reverting e la necessità di non assumere una traiettoria unica."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-tre-domande-chiave",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-tre-domande-chiave",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Debriefing: tre domande chiave",
-    "text": "Debriefing: tre domande chiave\n\nIl deficit interferisce con l’autonomia?\nL’andamento è acuto, progressivo o fluttuante?\nUmore, farmaci o malattie acute possono spiegare il quadro?\n\n\n53–63 min. Consolidare le conoscenze fondamentali. Il delirium va considerato davanti a esordio acuto/fluttuante, alterazione dell’attenzione o coscienza e peggioramento improvviso. Non basta un test cognitivo per separare tutte le condizioni. Collegare alla VMD: serve integrare storia, funzione, contesto e dati clinici."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#principali-eziologie",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#principali-eziologie",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Principali eziologie",
-    "text": "Principali eziologie\n\n\n\n\n\n\n\n\nForma\nEsordio utile da ricordare\nSegnali osservativi\n\n\n\n\nAlzheimer\nmemoria episodica\nripetizioni, disorientamento\n\n\nVascolare\nesecutivo/rallentamento\ncammino, cadute, andamento a gradini\n\n\nCorpi di Lewy\nattenzione/visuospaziale\nfluttuazioni, allucinazioni, parkinsonismo\n\n\nFrontotemporale\ncomportamento/linguaggio\ndisinibizione, apatia, perdita empatia\n\n\nMista\ncombinata\nfrequente nell’anziano\n\n\n\n\n63–78 min. Sintesi comparativa. Evitare rigidità: sono pattern probabilistici. Nell’anziano reale le forme miste sono comuni. Corpi di Lewy: attenzione a fluttuazioni, allucinazioni visive, parkinsonismo e sensibilità agli antipsicotici. Frontotemporale: il comportamento può essere presentazione iniziale, non solo complicanza."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#percorso-diagnostico",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#percorso-diagnostico",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Percorso diagnostico",
-    "text": "Percorso diagnostico\n\nanamnesi ed eteroanamnesi;\ncognizione e funzione;\nclinica, farmaci, comorbilità;\nesami mirati e imaging quando indicato;\nfollow-up.\n\n\n78–86 min. Separare competenze. Il medico formula la diagnosi integrando le informazioni. L’educatore contribuisce con osservazioni ripetute e contestualizzate su funzione, ambiente, routine, relazioni e risposta agli interventi. Ribadire che la diagnosi non nasce da un singolo test."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-documenta-leducatore",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#che-cosa-documenta-leducatore",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Che cosa documenta l’educatore",
-    "text": "Che cosa documenta l’educatore\n\n\nFunzione reale\n\nigiene, alimentazione, vestirsi;\norientamento;\nroutine;\npartecipazione.\n\n\nContesto e relazione\n\nquando accade;\ncon chi;\ndove;\nche cosa aiuta o peggiora.\n\n\n\n86–90 min. Ponte verso i BPSD. La documentazione utile deve essere concreta, ripetibile e condivisibile in équipe. Richiamare la Lezione 2: raccolta standardizzata, interpretazione integrata, progetto personalizzato."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#pausa",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#pausa",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "PAUSA",
-    "text": "PAUSA\n10 minuti"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-bpsd",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#caso-guida-bpsd",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Caso guida BPSD",
-    "text": "Caso guida BPSD\nOre 17:30. Una signora tenta ripetutamente di uscire dalla struttura.\nDice: «Devo andare a prendere i bambini».\nSi irrita quando l’operatore prova a fermarla.\nChe cosa osserviamo? Che cosa interpretiamo?\n\n100–108 min. Questo caso viene introdotto solo ora, perché è centrato sui BPSD e sulla lettura del comportamento. Far separare dati osservabili da interpretazioni. Osservabile: tenta di uscire, ripete una frase, si irrita se fermata, accade alle 17:30. Interpretazione: vuole scappare, è aggressiva, non capisce, è oppositiva. Tenere il caso come filo conduttore della seconda parte."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#bpsd-che-cosa-sono",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#bpsd-che-cosa-sono",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "BPSD: che cosa sono",
-    "text": "BPSD: che cosa sono\nAlterazioni di:\npercezione · pensiero · umore · comportamento · motricità · sonno\nManifestazioni diverse, cause diverse, interventi diversi.\n\n108–116 min. BPSD = Behavioral and Psychological Symptoms of Dementia; spesso anche NPS = neuropsychiatric symptoms. Non usare “disturbi del comportamento” come categoria unica. Agitazione, apatia, ansia, psicosi, wandering e alterazioni del sonno richiedono domande diverse."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#prima-domanda",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#prima-domanda",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Prima domanda",
-    "text": "Prima domanda\nÈ un cambiamento improvviso?\nDelirium · dolore · infezione · stipsi · ritenzione urinaria · farmaci · disidratazione · ipoacusia · ipovisione\n\nPunto di sicurezza. Prima di psicologizzare o educativizzare il comportamento, considerare cause acute e modificabili. L’educatore deve segnalare cambiamento rapido, fluttuazione, sonnolenza, peggioramento improvviso o nuove manifestazioni. Collegare alla parte 1: delirium ≠ demenza."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#descrivere-prima-di-spiegare",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#descrivere-prima-di-spiegare",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Descrivere prima di spiegare",
-    "text": "Descrivere prima di spiegare\n\n\n\nOsservazione\nInterpretazione\n\n\n\n\ntenta di uscire alle 17:30\n“vuole scappare”\n\n\ndice «devo prendere i bambini»\n“non capisce”\n\n\nsi irrita se fermata\n“è oppositiva”\n\n\n\n\nUsare questa slide per correggere il linguaggio. “È aggressiva” o “è oppositiva” non basta. Bisogna descrivere che cosa fa, quando, con chi, in quale contesto, cosa succede prima e dopo. Questa distinzione prepara NPI-Q, ABC e DICE."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-e-npi-q",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-e-npi-q",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "NPI e NPI-Q",
-    "text": "NPI e NPI-Q\nStandardizzare la raccolta dei BPSD\n\n\n\nNPI\nNPI-Q\n\n\n\n\nintervista strutturata\nquestionario breve\n\n\nfrequenza × gravità\ngravità\n\n\ndistress caregiver\ndistress caregiver\n\n\n\n\n116–128 min, con le slide successive. NPI = Neuropsychiatric Inventory, strumento più articolato, basato su intervista all’informatore. NPI-Q = forma breve, più praticabile per screening/monitoraggio. Entrambi aiutano a standardizzare e monitorare i sintomi, ma non spiegano automaticamente cause e interventi. Il NPI-Q è informant-based: dipende dalla qualità delle informazioni del caregiver o informatore."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-q-cosa-raccoglie",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#npi-q-cosa-raccoglie",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "NPI-Q: cosa raccoglie?",
-    "text": "NPI-Q: cosa raccoglie?\n12 domini neuropsichiatrici\nGravità del sintomo nella persona\nDistress del caregiver\n\nIl NPI-Q chiede se il sintomo è presente nell’ultimo mese e, se presente, ne valuta gravità e stress del familiare/caregiver. Distinguere distress della persona e distress del caregiver. Un sintomo può pesare molto sul caregiver senza essere sempre distressante per la persona, e viceversa. Questa distinzione è utile per il progetto educativo e assistenziale."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#materiale-npi-q",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#materiale-npi-q",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Materiale NPI-Q",
-    "text": "Materiale NPI-Q\n\n\nPer l’attività\n\ndomini del NPI-Q;\ngravità;\ndistress caregiver;\nlimiti dello strumento.\n\nApri materiale NPI-Q ↗\n\n\n\n\nQR NPI-Q\n\n\n\n\nIl link e il QR portano a una scheda NPI-Q utilizzabile come materiale di supporto. Verificare prima della lezione le condizioni d’uso e l’eventuale versione italiana che si intende distribuire agli studenti. Il sito ufficiale NPI ricorda che NPI/NPI-Q sono strumenti coperti da copyright; per uso didattico interno valutare la versione e i permessi disponibili. In aula non serve completare integralmente il questionario: serve capire che tipo di informazioni standardizza."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-2-esplorare-il-npi-q",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-2-esplorare-il-npi-q",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Attività 2 · Esplorare il NPI-Q",
-    "text": "Attività 2 · Esplorare il NPI-Q\nUna caregiver riferisce:\n\n«È più irritabile. A volte pensa che le rubino le cose. La sera è agitata. Io faccio molta fatica.»\n\nCosa chiedere per compilare meglio il NPI-Q?\n\n128–143 min. Gruppi. Non chiedere punteggi completi sulla base del mini-caso: dati insufficienti. Chiedere invece quali domini potrebbero essere pertinenti, quali informazioni mancano e come distinguere gravità del sintomo da distress del caregiver. Domini possibili: deliri/sospettosità, agitazione, irritabilità, ansia; dipende dalle domande di approfondimento. Prodotto atteso: domande aggiuntive utili, non punteggio artificiale."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-npi-q",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#debriefing-npi-q",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Debriefing NPI-Q",
-    "text": "Debriefing NPI-Q\nMisura e standardizza\nma\nnon spiega da solo\n\n143–150 min. Punti chiave: NPI/NPI-Q descrivono e monitorano, ma non spiegano automaticamente perché il comportamento si verifica; non sostituiscono ABC, VMD, valutazione clinica e conoscenza della persona. Il distress del caregiver è una variabile importante, ma non coincide con il vissuto della persona."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#bpsd-come-bisogni-non-soddisfatti",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#bpsd-come-bisogni-non-soddisfatti",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "BPSD come bisogni non soddisfatti",
-    "text": "BPSD come bisogni non soddisfatti\nDolore · sicurezza · relazione · attività significativa · controllo · orientamento\nIpotesi da verificare, non spiegazione unica.\n\n150–156 min. Introdurre il concetto di unmet needs. Una manifestazione può essere un tentativo di comunicare un bisogno che la persona non riesce a esprimere o soddisfare. Non è una spiegazione universale: delirium, dolore, farmaci, malattie acute e caratteristiche della patologia possono contribuire. Formula da far ricordare: un comportamento può esprimere un bisogno non soddisfatto; dobbiamo formulare ipotesi, cercare dati e considerare alternative."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#abc-descrivere-lepisodio",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#abc-descrivere-lepisodio",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "ABC: descrivere l’episodio",
-    "text": "ABC: descrivere l’episodio\n\n\n\n\n\n\n\n\nA — Antecedent\nB — Behavior\nC — Consequence\n\n\n\n\nprima\ncomportamento\ndopo\n\n\nambiente, persone, richiesta, ora\nforma, durata, rischio\nrisposta, effetto, rinforzi\n\n\n\n\n156–162 min. ABC rende osservabile l’episodio. Esempio: “aggressività durante l’igiene” diventa A = bagno freddo, operatore nuovo, richiesta rapida; B = urla e afferra il polso; C = igiene sospesa e persona lasciata sola. ABC non basta a spiegare tutto, ma riduce etichette e aiuta a costruire ipotesi."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-dallipotesi-al-progetto",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-dallipotesi-al-progetto",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "DICE: dall’ipotesi al progetto",
-    "text": "DICE: dall’ipotesi al progetto\nDescribe → descrivere\nInvestigate → cercare cause modificabili\nCreate → creare un piano personalizzato\nEvaluate → valutare e correggere\n\nDICE organizza l’intero percorso. Non basta dire “ha un BPSD” o “ha wandering”. Serve un intervento coerente con l’ipotesi e un indicatore di efficacia. Collegare alla VMD: valutare, identificare bisogni, progettare, rivalutare. Citare Kales, Gitlin e Lyketsos come riferimento per il modello."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-sul-caso-guida",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#dice-sul-caso-guida",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "DICE sul caso guida",
-    "text": "DICE sul caso guida\n\n\n\nPasso\nDomanda\n\n\n\n\nDescribe\nSempre alle 17:30? Con chi? Dove?\n\n\nInvestigate\ndolore? ansia? routine? rumore? bisogno di ruolo?\n\n\nCreate\nvalidazione, attività ponte, accompagnamento sicuro\n\n\nEvaluate\nmeno distress? più sicurezza? strategia sostenibile?\n\n\n\n\nMostrare come lo stesso comportamento cambi significato aggiungendo dati. Evitare “chiudere la porta” come primo intervento. Discutere sicurezza, libertà, proporzionalità e distress. Non misurare solo la riduzione del tentativo di uscita: potrebbe ridursi perché la persona è contenuta o frustrata. Considerare benessere, sicurezza, conflitto, partecipazione e sostenibilità."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-3-caso-guida-bpsd",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#attività-3-caso-guida-bpsd",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Attività 3 · Caso guida BPSD",
-    "text": "Attività 3 · Caso guida BPSD\nIn gruppo:\n\ndescrivete il comportamento;\nformulate 2 ipotesi;\nproponete 1 intervento coerente;\ndefinite come valutarlo.\n\n\n162–175 min. Tutti lavorano sullo stesso caso guida, non su quattro casi diversi. Questo riduce il carico cognitivo e permette un debriefing comune. Chiedere almeno due ipotesi: unmet need, ansia, routine biografica, stanchezza/sundowning, ambiente, dolore, delirium o altra causa clinica. L’intervento deve dichiarare a quale ipotesi risponde. L’indicatore deve includere almeno un elemento di benessere o distress, non solo la riduzione del comportamento."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#restituzione-finale",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#restituzione-finale",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Restituzione finale",
-    "text": "Restituzione finale\nOgni gruppo restituisce:\n\nuna descrizione senza etichette;\nuna ipotesi principale;\nun intervento;\nun indicatore.\n\n\n175–180 min. Far parlare solo alcuni gruppi se il tempo è poco. Correggere soprattutto etichette, ipotesi uniche e interventi non coerenti. Chiusura: descrivere meglio significa curare meglio; standardizzare la raccolta non sostituisce la personalizzazione dell’intervento."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#da-ricordare-per-lesame",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#da-ricordare-per-lesame",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Da ricordare per l’esame",
-    "text": "Da ricordare per l’esame\n\nDNC minore e maggiore si distinguono anche per l’autonomia.\nIl disturbo cognitivo può migliorare, stabilizzarsi o peggiorare.\nUmore e cognizione si influenzano in entrambe le direzioni.\nNPI/NPI-Q standardizzano la raccolta dei BPSD.\nBPSD: descrivere, ipotizzare, intervenire, rivalutare.\n\n\nSlide conclusiva. Usarla come checklist delle conoscenze fondamentali. Non chiedere criteri diagnostici specialistici completi o tutti gli item NPI a memoria. Chiedere invece riconoscimento dei concetti e applicazione a brevi casi."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#fonti-e-materiali",
-    "href": "geriatria/educazione-professionale/03_demenza_BPSD.html#fonti-e-materiali",
-    "title": "Disturbi neurocognitivi e BPSD",
-    "section": "Fonti e materiali",
-    "text": "Fonti e materiali\n\nWHO. Dementia fact sheet. https://www.who.int/news-room/fact-sheets/detail/dementia\nNICE guideline NG97. Dementia: assessment, management and support. https://www.nice.org.uk/guidance/ng97\nIPA. Complete Guide to BPSD. https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf\nKales, Gitlin, Lyketsos. DICE approach. https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/\nNPI information. https://www.npitest.net/about-npi.html\nNPI-Q material. https://www.alz.org/media/documents/npiq-questionnaire.pdf\n\n\nSlide di supporto opzionale. Se il tempo è esaurito, lasciarla solo come riferimento per lo studio autonomo. Verificare prima dell’aula la versione dello strumento NPI/NPI-Q che si intende distribuire e le condizioni d’uso."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Didattica",
-    "section": "",
-    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
-  },
-  {
-    "objectID": "index.html#corsi",
-    "href": "index.html#corsi",
-    "title": "Didattica",
-    "section": "",
-    "text": "Geriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
-  },
-  {
-    "objectID": "geriatria/index.html",
-    "href": "geriatria/index.html",
-    "title": "Geriatria",
-    "section": "",
-    "text": "Materiale didattico del corso di Geriatria.\n\n\n\n\n\nInvecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
-  },
-  {
-    "objectID": "geriatria/index.html#lezioni",
-    "href": "geriatria/index.html#lezioni",
-    "title": "Geriatria",
-    "section": "",
-    "text": "Invecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
-  },
-  {
     "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
     "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
     "title": "Valutazione Multidimensionale",
@@ -861,38 +875,171 @@
     "text": "Materiali e fonti\n\nBritish Geriatrics Society · CGA\nGeriatrics 5Ms · articolo di riferimento\nCaso della sig.ra M\n\n\nSlide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
-    "href": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Lo studio, in 30 secondi",
-    "text": "Lo studio, in 30 secondi\n\n\nStudio multicentrico nazionale di prevalenza puntuale nelle strutture residenziali italiane.\n\nResidenti presenti→1 ottobre 2024→terapie prescritte\n\n\nEtà ≥60 anni\nDati clinici e farmacologici raccolti da medici e infermieri\neCRF REDCap standardizzata\n\n\n\n3.400\n\n\nresidenti\n\n\n82\n\n\nstrutture"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Che cosa sto guardando?",
+    "text": "Che cosa sto guardando?\n\nCold start · risposta individuale, poi confronto a coppie\n\n\n\nCampione · 08:15 Esame emocromocitometrico Emoglobina   11,2 g/dL Leucociti   8,4 × 10⁹/L Piastrine   214 × 10⁹/L\n\n\nEsame · 10:40 TC torace senza contrasto Indicazione all’esame Tecnica di acquisizione Reperti Conclusioni\n\n\nTerapia · ore 08–14–20 Scheda terapeutica Farmaco A · dose · via · orario Farmaco B · dose · via · orario Firma di somministrazione\n\n\nGiorno 2 · 22:30 Diario Persona vigile. Ha cenato. Parametri registrati. Prosegue assistenza programmata.\n\n\nConclusione del ricovero Lettera di dimissione Diagnosi Accertamenti eseguiti Terapia alla dimissione Indicazioni successive\n\n\n\nPer ciascun frammento: che tipo di documento è? A che cosa serve?\n\n\nTempo totale: 8 minuti.\nLasciare 60–90 secondi di osservazione individuale. Chiedere poi un confronto rapido con il vicino e raccogliere alcune risposte.\nNon correggere ogni dettaglio e non discutere il significato clinico di valori o termini. Lo scopo è far notare titolo, struttura, sezioni, data e forma grafica.\nPunto da far emergere: riconoscere il contenitore aiuta a orientarsi nel contenuto."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
-    "href": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "La domanda centrale",
-    "text": "La domanda centrale\nCome vengono prescritti e somministrati i farmaci nelle LTCF italiane?\n\n\n\nPrescrizionePoliterapia, appropriatezza, interazioni\n\n\n\nSomministrazioneOrari, vie, ausili, compresse triturate e capsule aperte\n\n\n\nPersona e contestoFragilità, funzione, nutrizione, cognizione e struttura\n\n\n\n\n\n\n\n\nIl disegno consente di collegare, per ogni residente, profilo clinico e regime farmacologico."
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#non-esiste-la-cartella-come-singolo-testo",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#non-esiste-la-cartella-come-singolo-testo",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Non esiste “la cartella” come singolo testo",
+    "text": "Non esiste “la cartella” come singolo testo\n\n\nLettera di dimissione · sintesi e continuità\n\n\nReferti · risultati di esami e valutazioni\n\n\nScheda terapeutica · terapia prescritta e somministrata\n\n\nDiario · registrazioni successive nel tempo\n\n\nDocumentazione iniziale · accesso e valutazioni di ingresso\n\n\n\nLa documentazione sanitaria è un insieme di documenti prodotti in momenti diversi, da professionisti diversi e per funzioni diverse.\n\n\nTempo: 3 minuti. Riprendere i frammenti della slide precedente. Far emergere che il fascicolo raccoglie oggetti documentali differenti. Non entrare nelle definizioni giuridiche o nella composizione obbligatoria completa."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
-    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Che cosa descrive il residente?",
-    "text": "Che cosa descrive il residente?\n\n\nProfilo clinico e funzionale\n\nEtà, sesso, permanenza in struttura\nPatologie croniche e condizioni acute\nADL e numero di funzioni perse\nFRAIL-NH e numero di criteri\nOssigenoterapia, SNG/PEG\n\n\nNutrizione e neurocognizione\n\nMNA-SF, BMI, calo ponderale, mobilità\nDisfagia, problemi di masticazione e deglutizione\nDiagnosi di demenza secondo ICD-10\nCDR\n24 BPSD: frequenza, gravità, numero e burden"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#a-che-cosa-serve-documentare",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#a-che-cosa-serve-documentare",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "A che cosa serve documentare?",
+    "text": "A che cosa serve documentare?\n\n\nRegistrareOsservazioni, valutazioni, attività e indicazioni.\n\n\nCondividereRendere le informazioni disponibili agli altri professionisti.\n\n\nDare continuitàCollegare momenti, professionisti e setting assistenziali.\n\n\nDocumentare il percorsoConservare traccia di ciò che è avvenuto nell’episodio assistenziale.\n\n\n\nRiferimento concettuale: Regione Lombardia, Manuale del Fascicolo di Ricovero.\n\n\nTempo: 4 minuti. Usare un esempio semplice: un professionista registra un’informazione; un altro la consulta; alla dimissione alcune informazioni vengono comunicate al setting successivo. Limitare a un cenno la funzione medico-legale."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
-    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Che cosa descrive ogni farmaco?",
-    "text": "Che cosa descrive ogni farmaco?\n\n\nUna riga per prescrizione\n\nPrincipio attivo e codice ATC\nDose, dosaggio e forma farmaceutica\nVia e tempi di somministrazione\nApertura della capsula o triturazione della compressa\nAusili e note di somministrazione\n\n\nInformazioni derivate\n\nGerarchia ATC e descrizioni\nCollegamento con DrugBank\nInterazioni farmaco–farmaco\nAderenza/compliance e motivi di difficoltà\nPossibile analisi del carico assistenziale\n\n\n\nStruttura dati: base clinica wide + prescrizioni long, collegate da ID pseudonimo"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-documentazione-molti-utilizzatori",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#una-documentazione-molti-utilizzatori",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Una documentazione, molti utilizzatori",
+    "text": "Una documentazione, molti utilizzatori\n\n\nMedicoValutazioni, diagnosi, prescrizioni e percorso clinico\n\n\nInfermiereAssistenza, osservazioni, parametri e somministrazioni\n\n\nAltri professionistiValutazioni e interventi di competenza\n\n\nServizi successiviInformazioni necessarie alla continuità\n\n\n\nLa documentazione è anche uno strumento di comunicazione tra professionisti e tra setting.\n\n\nTempo: 3 minuti. Sottolineare che professionisti diversi possono leggere lo stesso fascicolo con domande differenti. Evitare una classificazione dettagliata delle responsabilità professionali."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
-    "href": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Un dataset, più linee di ricerca",
-    "text": "Un dataset, più linee di ricerca\n\n\n\nPattern di politerapia e multimorbidità\nPIM e interazioni clinicamente rilevanti\nComplessità del regime terapeutico\nModifica delle forme orali solide\n\n\n\nDisfagia, nutrizione e somministrazione\nFarmaci e BPSD nelle persone con demenza\nVariabilità tra strutture e territori\nProfili fenotipici e analisi di rete\n\n\n\nLa domanda per il gruppo: quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?\n\n\nContatti Alberto Zucchelli · alberto.zucchelli@unibs.it Gruppo YES · gruppoyes@sigg.it Alba Malara · albamalara@gmail.com"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#prima-regola-per-orientarsi",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#prima-regola-per-orientarsi",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Prima regola per orientarsi",
+    "text": "Prima regola per orientarsi\n\nPrima di leggere tutto, chiediti:che documento è?eperché è stato prodotto?\n\n\nTempo: 2 minuti. Presentare questa regola come leitmotiv della lezione e chiedere agli studenti di utilizzarla nelle attività successive."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#documento-funzione",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#documento-funzione",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Documento ↔︎ funzione",
+    "text": "Documento ↔︎ funzione\n\nCard sorting · gruppi di 3–4\n\n\n\nDocumenti\n\ndiario clinico;\nreferto di laboratorio;\nreferto radiologico;\nscheda terapeutica;\nlettera di dimissione;\npiano terapeutico;\nverbale di pronto soccorso.\n\n\nFunzioni prevalenti\n\ndocumentare l’andamento nel tempo;\nriportare il risultato di un esame;\nindicare una terapia;\ndocumentare un accesso in emergenza;\ncomunicare le informazioni alla conclusione del ricovero;\norganizzare indicazioni terapeutiche successive.\n\n\n\nAssociate ogni documento alla funzione che considerate prevalente. Se un’associazione vi sembra ambigua, preparate una breve motivazione.\n\n\nTempo di lavoro: 10–12 minuti. Se disponibili, distribuire carte fisiche. Accettare discussioni motivate: alcune funzioni possono sovrapporsi. Non chiedere di interpretare diagnosi, terapie o risultati."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-guarderei-per-prima-cosa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-guarderei-per-prima-cosa",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Dove guarderei per prima cosa?",
+    "text": "Dove guarderei per prima cosa?\n\nDebrief del card sorting\n\n\n\n\n\n\n\n\nSe voglio sapere…\nGuarderei prima…\n\n\n\n\nil risultato di un esame del sangue\nreferto di laboratorio\n\n\nche cosa ha mostrato una TC\nreferto radiologico\n\n\nche cosa è stato registrato durante il ricovero\ndiario / documentazione clinica\n\n\nquali farmaci sono prescritti\nprescrizione / scheda terapeutica\n\n\nche cosa viene comunicato al termine del ricovero\nlettera di dimissione\n\n\nche cosa è avvenuto durante un accesso urgente\nverbale di pronto soccorso\n\n\n\n\nLa stessa informazione può comparire in più documenti, ma documenti diversi hanno funzioni prevalenti diverse.\n\n\nTempo: 8 minuti. Costruire la tabella progressivamente dalle risposte. Non presentare le associazioni come esclusive: una terapia può comparire nel diario, nella scheda terapeutica e nella lettera di dimissione."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-episodio-assistenziale-produce-documentazione",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#un-episodio-assistenziale-produce-documentazione",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Un episodio assistenziale produce documentazione",
+    "text": "Un episodio assistenziale produce documentazione\n\n\nIngressoDati inizialiMotivo dell’accessoValutazioni iniziali\n\n\n→\n\n\nDuranteDiarioOsservazioniTerapiaProcedure\n\n\n→\n\n\nAccertamentiLaboratorioRadiologiaConsulenze\n\n\n→\n\n\nDimissioneSintesiTerapiaIndicazioni successive\n\n\n\nLa posizione nel percorso aiuta a capire quando e perché un documento è stato prodotto.\n\n\nTempo: 3 minuti. Presentare il percorso come mappa documentale, non come timeline clinica da ricostruire. Non chiedere che cosa sia accaduto al paziente né come sia evoluto il quadro."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#allingresso",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#allingresso",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "All’ingresso",
+    "text": "All’ingresso\n\n\nIndizi visivi\n\nintestazione della struttura;\ndata e ora dell’accesso;\nidentificazione della persona;\ntitoli delle sezioni;\nprofessionista compilatore.\n\n\nInformazioni che posso aspettarmi\n\ndati identificativi;\nmotivo dell’accesso o del ricovero;\nstoria precedente essenziale;\nvalutazioni iniziali;\neventuale terapia già in corso.\n\n\n\nTempo: 2 minuti. Sottolineare “posso aspettarmi”: la struttura varia tra organizzazioni. Non spiegare la differenza clinica tra storia precedente e problema attuale; limitarsi a localizzare le sezioni."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#durante-il-ricovero",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#durante-il-ricovero",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Durante il ricovero",
+    "text": "Durante il ricovero\n\n\nDiarioAnnotazioni successive, con data e ora.\n\n\nOsservazioniInformazioni raccolte dai professionisti.\n\n\nParametriDati registrati in schede o grafici.\n\n\nTerapiaPrescrizioni e registrazioni di somministrazione.\n\n\nValutazioniContributi delle diverse professioni.\n\n\nProcedureAttività e interventi documentati.\n\n\n\nTempo: 3 minuti. Far notare data, ora e identificazione del professionista. Non usare le annotazioni per ricostruire l’evoluzione del caso."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#accertamenti-e-referti",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#accertamenti-e-referti",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Accertamenti e referti",
+    "text": "Accertamenti e referti\n\n\nDomanda o indicazione\n\n\n→\n\n\nRichiesta dell’esame\n\n\n→\n\n\nEsecuzione\n\n\n→\n\n\nRisultato / referto\n\n\n\n\nLaboratorioRisultati organizzati per analita, valore e unità.\n\n\nRadiologiaIndicazione, tecnica, reperti e conclusioni.\n\n\nConsulenzaValutazione effettuata da un altro professionista o servizio.\n\n\nAltre indaginiDocumenti con strutture specifiche rispetto all’esame.\n\n\n\nTempo: 2 minuti. Chiarire soltanto la differenza tra richiesta, esecuzione e risultato. Non spiegare valori, unità, range di riferimento o significato dei reperti: appartengono alla Lezione 3."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#alla-dimissione",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#alla-dimissione",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Alla dimissione",
+    "text": "Alla dimissione\n\n\n\n\nDiagnosi riportate\n\n\nAccertamenti e attività rilevanti\n\n\nTerapia alla dimissione\n\n\nIndicazioni successive\n\n\n\nLa lettera di dimissione\n\nsintetizza elementi rilevanti dell’episodio;\ncomunica informazioni al termine del ricovero;\nriporta terapia e indicazioni successive;\nsostiene la continuità assistenziale.\n\n\nOggi ne riconosciamo struttura e funzione. Non la utilizziamo ancora per ricostruire la storia clinica.\n\n\n\nTempo: 3 minuti. Mostrare la struttura generale senza analizzare la coerenza tra diagnosi, decorso e terapia. Se emerge la SDO, chiarire brevemente che non coincide con la lettera di dimissione."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#oggi-e-nella-prossima-lezione",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#oggi-e-nella-prossima-lezione",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Oggi e nella prossima lezione",
+    "text": "Oggi e nella prossima lezione\n\n\n\nOggiDove sono registrate le informazioni?\n\n\n\nProssima lezioneCome le informazioni raccontano la storia del paziente?\n\n\n\nOggi: localizzare.La prossima volta: ricostruire.\n\n\nTempo: 2 minuti. Rendere esplicito il confine. Se la discussione si sposta verso patologie pregresse, problema principale, complicanze o decorso, rinviare alla Lezione 2."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-lo-cercheresti",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-lo-cercheresti",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Dove lo cercheresti?",
+    "text": "Dove lo cercheresti?\n\nRisposta a coppie, sondaggio o alzata di mano\n\n\n\nChe cosa ha mostrato una TC?\n\n\nQuali farmaci sono prescritti?\n\n\nChe cosa è stato registrato durante la notte?\n\n\nQuali indicazioni sono state date alla dimissione?\n\n\nQual è il risultato di un esame del sangue?\n\n\nDove viene sintetizzato ciò che viene comunicato al termine del ricovero?\n\n\n\nPer ogni domanda indicate il documento e, se possibile, la sezione. Non interpretate il contenuto.\n\n\nTempo: 9 minuti. Presentare una domanda alla volta e lasciare 20–30 secondi alle coppie. Accettare alternative motivate quando l’informazione può comparire in più punti. Chiedere sempre: “Dove guarderesti per prima cosa?”"
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#cercare-in-modo-mirato",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#cercare-in-modo-mirato",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Cercare in modo mirato",
+    "text": "Cercare in modo mirato\n\nDebrief\n\n\n\nRiconosci il documento\n\n\n→\n\n\nUsa titolo e intestazioni\n\n\n→\n\n\nVai alla sezione probabile\n\n\n\nNon sempre è necessario leggere tutto dall’inizio alla fine.\n\n\nTempo: 3 minuti. Chiedere quali indizi sono stati usati. Raccogliere titolo, intestazioni, forma grafica, funzione e posizione nel fascicolo."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-tipo-di-informazione-sto-guardando",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#che-tipo-di-informazione-sto-guardando",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Che tipo di informazione sto guardando?",
+    "text": "Che tipo di informazione sto guardando?\n\n\nDati identificativiChi è la persona e a quale episodio si riferisce il documento?\n\n\nStoria precedenteQuali informazioni sono riportate sul passato?\n\n\nProblema attualeQuale motivo dell’accesso è registrato?\n\n\nDiagnosiQuali diagnosi sono esplicitamente riportate?\n\n\nEsami e refertiQuali accertamenti e risultati sono documentati?\n\n\nProcedureQuali attività o interventi sono registrati?\n\n\nTerapiaQuali prescrizioni o somministrazioni compaiono?\n\n\nDecorsoDove sono presenti registrazioni successive?\n\n\nIndicazioni successiveChe cosa viene indicato dopo la dimissione?\n\n\n\nTempo: 6 minuti. Presentare le categorie come etichette per orientarsi. “Diagnosi” significa riconoscere una sezione esplicitamente etichettata, non formulare una diagnosi. Non approfondire sintomo, segno, sindrome o complicanza."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-categoria-può-comparire-in-più-punti",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#una-categoria-può-comparire-in-più-punti",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Una categoria può comparire in più punti",
+    "text": "Una categoria può comparire in più punti\n\nEsempio: TERAPIA\n\n\n\nDocumentazione iniziale\n\n\n↔︎\n\n\nScheda terapeutica\n\n\n↔︎\n\n\nDiario\n\n\n↔︎\n\n\nLettera di dimissione\n\n\n\nCercare un’informazione significa conoscere sia la sua categoria sia la funzione dei documenti in cui può comparire.\n\n\nTempo: 4 minuti. Chiedere che cosa potrebbe cambiare tra i diversi punti senza entrare nel confronto clinico tra terapie. La domanda e il momento assistenziale orientano la ricerca."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#document-scavenger-hunt",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#document-scavenger-hunt",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Document Scavenger Hunt",
+    "text": "Document Scavenger Hunt\n\nAttività principale · gruppi di 3–4\n\n\nTrovate nel fascicolo dove sono riportate queste informazioni. Non dovete interpretarle.\n\n\n\n\nun dato identificativo;\nil motivo dell’accesso;\nuna patologia riportata nella storia precedente;\nun risultato di esame;\nun farmaco prescritto;\nun’informazione registrata durante il ricovero;\nuna diagnosi riportata alla dimissione;\nun’indicazione per il periodo successivo.\n\n\n\n\n\nInformazione\nDocumento\nSezione\nPagina\n\n\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n…\n\n\n\n\n\n\n\n\nSe incontrate un termine difficile, potete ignorarne il significato: il compito è localizzare l’informazione.\n\n\nTempo di lavoro: 20 minuti. Distribuire un fascicolo simulato di 5–7 pagine con documentazione iniziale, diario, scheda terapeutica, referto di laboratorio, referto radiologico e breve lettera di dimissione. Durante il lavoro riportare sempre la discussione su documento, funzione, intestazioni e localizzazione."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#come-avete-capito-dove-cercare",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#come-avete-capito-dove-cercare",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Come avete capito dove cercare?",
+    "text": "Come avete capito dove cercare?\n\nDebrief dello scavenger hunt\n\n\n\nTitolo del documentoDice che tipo di oggetto sto osservando.\n\n\nIntestazioniSuddividono il documento in sezioni prevedibili.\n\n\nPosizione nel fascicoloSuggerisce il momento e la funzione.\n\n\nParole-segnale“Terapia”, “conclusioni”, “indicazioni”, “diario”.\n\n\n\nQuali parti avete potuto saltare senza perdere l’informazione cercata?\n\n\nTempo: 7 minuti. Non limitarsi alle pagine corrette: chiedere a due o tre gruppi di descrivere il metodo. Far emergere che una navigazione competente è selettiva. Non trasformare il debrief nella ricostruzione del caso."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-metodo-in-sei-passi",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#un-metodo-in-sei-passi",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Un metodo in sei passi",
+    "text": "Un metodo in sei passi\n\n\nIdentifica il tipo di documento.\n\n\nChiediti quale funzione svolge.\n\n\nOsserva titolo, struttura e intestazioni.\n\n\nDefinisci la categoria di informazione che cerchi.\n\n\nVai alla sezione più probabile.\n\n\nSolo allora leggi il dettaglio necessario.\n\n\n\nTempo: 3 minuti. Ricostruire i passaggi dalle strategie nominate dagli studenti. Chiedere quale passaggio tendevano a saltare."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-cercare-cosa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-cercare-cosa",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Dove cercare cosa",
+    "text": "Dove cercare cosa\n\n\n\n\n\n\n\nMi serve…\nGuardo prima…\n\n\n\n\nun risultato di laboratorio\nreferto di laboratorio\n\n\nil risultato di una TC o radiografia\nreferto radiologico\n\n\nuna registrazione effettuata durante il ricovero\ndiario / documentazione clinica\n\n\nuna terapia prescritta\nprescrizione / scheda terapeutica\n\n\nla sintesi comunicata alla conclusione del ricovero\nlettera di dimissione\n\n\nle indicazioni per il periodo successivo\nlettera di dimissione / piano terapeutico\n\n\ninformazioni sull’accesso urgente\nverbale di pronto soccorso\n\n\n\n\nLa tabella indica il primo luogo in cui cercare: la stessa informazione può essere ripresa in più documenti.\n\n\nTempo: 5 minuti. Usare la slide come mappa di ripasso. Chiedere agli studenti di motivare una riga attraverso la funzione del documento."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#tre-domande-da-portarsi-via",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#tre-domande-da-portarsi-via",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Tre domande da portarsi via",
+    "text": "Tre domande da portarsi via\n\n1. Che documento sto leggendo?\n\n\n2. Perché è stato prodotto?\n\n\n3. Che tipo di informazione posso aspettarmi di trovarci?\n\n\nTempo: 3 minuti. Lasciare alcuni secondi di silenzio. Presentarle come metodo minimo trasferibile ad altri fascicoli e setting."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#exit-ticket",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#exit-ticket",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Exit ticket",
+    "text": "Exit ticket\n\nVerifica formativa individuale\n\n\n\nDevi sapere che cosa ha mostrato una radiografia. Dove cerchi?\n\n\nDevi trovare le indicazioni date al termine del ricovero. Dove cerchi?\n\n\nTrovi una pagina con annotazioni datate, scritte in momenti successivi. Che documento stai probabilmente leggendo?\n\n\nQual è la prima domanda da porsi davanti a un documento sanitario che non si conosce?\n\n\n\n\nRisposte attese: referto radiologico · lettera di dimissione · diario/documentazione clinica · “Che documento sto leggendo?”\n\n\n\nTempo: 5 minuti. Raccogliere le risposte prima di mostrare la soluzione. La valutazione è formativa. Distinguere tra mancato riconoscimento del documento e mancata associazione tra documento e funzione."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#fonti-essenziali",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#fonti-essenziali",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Fonti essenziali",
+    "text": "Fonti essenziali\n\n\nRegione Lombardia. Manuale del Fascicolo di Ricovero.\nMinistero della Salute e Dipartimento per la trasformazione digitale. Fascicolo Sanitario Elettronico 2.0.\nMinistero della Salute. Scheda di Dimissione Ospedaliera.\neHealth Network. Guideline on the electronic exchange of health data — Patient Summary.\nProfessional Record Standards Body. eDischarge Summary Standard.\nRoyal College of Physicians. Standards for the clinical structure and content of patient records.\n\n\n\nLe fonti internazionali sono utilizzate come supporto concettuale; il riferimento prioritario per struttura e terminologia resta il contesto sanitario italiano e lombardo.\n\n\nSlide di consultazione, senza tempo didattico dedicato. Le fonti sostengono la descrizione delle funzioni documentali e delle categorie generali di informazione."
   }
 ]
