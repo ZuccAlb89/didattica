@@ -15,103 +15,46 @@ format:
     preview-links: true
 ---
 
-## Da dove partiamo
-
-### La demenza non è solo memoria
-
-Il comportamento è un dato clinico, relazionale e ambientale da comprendere.
-
-::: {.notes}
-Apertura. Chiarire subito il cambio di prospettiva: non formare diagnosti, ma professionisti capaci di osservare, descrivere, contestualizzare e contribuire a interventi non farmacologici. Collegare alle lezioni precedenti: modello biopsicosociale e VMD. Il comportamento non è qualcosa da “spegnere”, ma un'informazione da interpretare in modo prudente.
-:::
-
-## Oggi: cosa dovrete saper fare? {.smaller}
+## Oggi: cosa dovrete sapere? {.smaller}
 
 **1. Distinguere i quadri cognitivi**  
 DNC minore, DNC maggiore, demenza, delirium.
 
-**2. Descrivere e misurare i BPSD**  
-Osservazione, NPI/NPI-Q, limiti degli strumenti.
+**2. Capire le traiettorie**  
+Miglioramento, stabilità, peggioramento.
 
-**3. Passare dalle ipotesi all’intervento**  
-Bisogni non soddisfatti, ABC, DICE, rivalutazione.
-
-::: {.notes}
-Obiettivi di apprendimento. Esplicitare che alcune conoscenze sono oggetto di possibile domanda a risposta multipla: distinzione minore/maggiore, ruolo dell'autonomia, traiettorie, BPSD, NPI/NPI-Q, unmet needs, ABC e DICE. Le attività servono a esercitare il ragionamento, non a raggiungere una diagnosi.
-:::
-
-## Struttura delle 3 ore {.smaller}
-
-| Tempo | Fuoco | Modalità |
-|---:|---|---|
-| 0–90 min | Disturbi neurocognitivi | Caso, mini-lezione, attività sui quadri |
-| 90–100 min | Pausa | — |
-| 100–180 min | BPSD | NPI-Q, bisogni, DICE, laboratorio |
+**3. Leggere i BPSD come dati da valutare**  
+NPI/NPI-Q, bisogni non soddisfatti, ABC, DICE.
 
 ::: {.notes}
-Dare la mappa della lezione. La simulazione comunicativa è stata rimossa: richiede setting, briefing, debriefing e facilitazione più strutturati. Il caso guida tornerà più volte, evitando di disperdere il lavoro su troppi casi diversi.
+Apertura diretta. Non usare una slide introduttiva sul comportamento come dato clinico: il concetto verrà introdotto più avanti, nella parte BPSD, dove è più pertinente. Chiarire che la lezione non mira a formare diagnosti, ma professionisti capaci di distinguere quadri generali, osservare il funzionamento reale e contribuire alla valutazione e agli interventi. Le conoscenze principali sono oggetto possibile di domanda a risposta multipla: DNC minore/maggiore, ruolo dell'autonomia, traiettorie, delirium, NPI/NPI-Q, unmet needs, ABC e DICE.
 :::
 
 # Parte 1 — Disturbi neurocognitivi
 
-## Caso guida
+## Caso guida: memoria e autonomia
 
-Ore 17:30. Una signora tenta ripetutamente di uscire dalla struttura.
+**Maria, 78 anni.**  
+Da circa un anno dimentica alcuni appuntamenti.
 
-Dice: «Devo andare a prendere i bambini».
+Usa molti promemoria.
 
-Si irrita quando l’operatore prova a fermarla.
+La figlia riferisce qualche errore recente nelle bollette.
 
-### Che cosa osserviamo? Che cosa interpretiamo?
-
-::: {.notes}
-0–8 min. Piccoli gruppi o discussione guidata rapida. Far separare dati osservabili da interpretazioni. Osservabile: tenta di uscire, ripete una frase, si irrita se fermata, accade alle 17:30. Interpretazione: vuole scappare, è aggressiva, non capisce, è oppositiva. Conservare il caso: servirà per la parte BPSD.
-:::
-
-## Osservazione ≠ interpretazione
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-**Osservabile**
-
-- che cosa fa;
-- che cosa dice;
-- quando accade;
-- con chi;
-- che cosa succede prima e dopo.
-
-:::
-
-::: {.column width="50%"}
-
-**Interpretativo**
-
-- perché lo fa;
-- che intenzione ha;
-- che emozione prova;
-- che diagnosi spiega il comportamento;
-- che intervento “serve”.
-
-:::
-
-::::
+### Che cosa dobbiamo capire?
 
 ::: {.notes}
-Usare esempi: “è aggressivo” diventa “ha spinto l'operatore durante il trasferimento”; “è oppositiva” diventa “ha rifiutato tre volte di entrare in bagno”. Questa distinzione sarà utile anche per NPI-Q, ABC e DICE.
+0–8 min. Questo caso sostituisce il precedente caso BPSD all'inizio della lezione. È centrato su cognizione, funzionamento e autonomia, quindi è più adatto a introdurre DNC minore/maggiore. Domande rapide agli studenti: quale informazione è cognitiva? Quale riguarda l'autonomia? Che cosa non sappiamo ancora? Non chiedere diagnosi. Il caso può evolvere nel corso della prima parte.
 :::
 
-## Disturbi neurocognitivi {.smaller}
+## Le tre domande iniziali
 
-### Declino cognitivo rispetto al funzionamento precedente
-
-- uno o più domini cognitivi;
-- impatto diverso sull’autonomia;
-- eziologie e traiettorie differenti.
+1. C'è un **declino** rispetto a prima?
+2. Quali **domini cognitivi** sono coinvolti?
+3. L'autonomia è **compromessa**?
 
 ::: {.notes}
-8–23 min, con le slide successive. Introdurre il linguaggio DSM: disturbo neurocognitivo minore e maggiore. Non entrare in criteri specialistici completi. Il punto essenziale è che il quadro dipende da: evidenza di declino, domini coinvolti, interferenza con l'autonomia e spiegazioni alternative, tra cui delirium e disturbi dell'umore.
+8–18 min, insieme alle slide successive. Queste tre domande guidano la prima parte. Declino rispetto al funzionamento precedente: non basta una prestazione bassa in assoluto. Domini: memoria, attenzione, linguaggio, funzioni esecutive, prassie/gnosie, cognizione sociale. Autonomia: il passaggio cruciale per distinguere forme minori e maggiori è l'interferenza con l'indipendenza nelle attività quotidiane.
 :::
 
 ## DNC minore e maggiore {.smaller}
@@ -123,7 +66,7 @@ Usare esempi: “è aggressivo” diventa “ha spinto l'operatore durante il tr
 | Termine clinico vicino | MCI | demenza |
 
 ::: {.notes}
-Da conoscere per l'esame. La differenza non è semplicemente “test più basso o più alto”. Il criterio pratico da far ricordare: interferenza con l'indipendenza nelle attività quotidiane. MCI e DNC minore sono concetti vicini, ma non perfettamente sovrapponibili in ogni contesto. DNC maggiore è il linguaggio DSM che corrisponde generalmente alla sindrome clinica di demenza.
+Da conoscere per l'esame. La differenza non è semplicemente avere un punteggio più basso a un test. Il criterio pratico da ricordare è l'interferenza con l'indipendenza nelle attività quotidiane. Il disturbo neurocognitivo minore è vicino al concetto clinico di MCI, ma non sempre perfettamente sovrapponibile. Il disturbo neurocognitivo maggiore corrisponde generalmente alla sindrome clinica di demenza. Specificare che la diagnosi richiede integrazione clinica e non può essere formulata dal solo caso.
 :::
 
 ## Demenza: una sindrome
@@ -136,7 +79,7 @@ Da conoscere per l'esame. La differenza non è semplicemente “test più basso 
 - andamento non identico per tutti.
 
 ::: {.notes}
-Sottolineare “sindrome”: la demenza può avere cause neurodegenerative, vascolari, miste e altre condizioni. Collegare alla VMD: cognizione, autonomia, comportamento, contesto e preferenze devono essere integrati.
+Usare il termine sindrome. Una persona può avere una demenza da malattia di Alzheimer, vascolare, a corpi di Lewy, frontotemporale, mista o da altre cause. Collegare alla lezione sulla VMD: cognizione, funzione, contesto, comorbilità, farmaci e preferenze devono essere integrati.
 :::
 
 ## Domini da osservare {.smaller}
@@ -170,7 +113,21 @@ disinibizione, empatia
 ::::
 
 ::: {.notes}
-Non trasformare in neuropsicologia dettagliata. Dare esempi di vita quotidiana: farmaci, denaro, telefono, cucina, orientamento, partecipazione alle attività, relazione con gli altri.
+Non trasformare in neuropsicologia dettagliata. Dare esempi di vita quotidiana: farmaci, denaro, telefono, cucina, orientamento, partecipazione alle attività, relazione con gli altri. Evidenziare che non tutte le demenze iniziano con la memoria.
+:::
+
+## Maria: nuove informazioni
+
+**Scenario A**  
+Vive sola, gestisce farmaci e spese. Usa agenda e promemoria.
+
+**Scenario B**  
+La figlia ha preso in carico farmaci e pagamenti per errori ripetuti.
+
+### Cosa cambia?
+
+::: {.notes}
+18–28 min. Chiedere agli studenti di confrontare A e B. In A l'indipendenza appare conservata, pur con strategie compensative: possibile quadro minore, dati insufficienti. In B l'autonomia è compromessa a causa di difficoltà cognitive: possibile quadro maggiore, dati comunque insufficienti. Rinforzare: la funzione quotidiana non è un dettaglio, è centrale per la classificazione.
 :::
 
 ## Traiettorie possibili
@@ -180,7 +137,7 @@ Non trasformare in neuropsicologia dettagliata. Dare esempi di vita quotidiana: 
 Miglioramento · stabilità · peggioramento
 
 ::: {.notes}
-23–35 min. Il DNC minore/MCI può peggiorare, restare stabile o migliorare. Il concetto di reverting va presentato con prudenza: un ritorno a prestazioni nella norma non dimostra automaticamente che ogni processo patologico sia scomparso; può dipendere da depressione, farmaci, malattie acute, fluttuazioni, apprendimento del test o variabilità della misurazione. Messaggio: la traiettoria si osserva nel tempo e richiede rivalutazione.
+28–36 min. Il DNC minore/MCI può peggiorare, restare stabile o migliorare. Introdurre il concetto di reverting con prudenza: un ritorno a prestazioni nella norma non dimostra automaticamente la scomparsa di ogni processo patologico. Può dipendere da depressione, farmaci, malattie acute, fluttuazioni, apprendimento al test o variabilità della misurazione. Messaggio: la traiettoria si valuta nel tempo e richiede follow-up.
 :::
 
 ## Cognizione e umore
@@ -206,7 +163,7 @@ perdita di ruolo, frustrazione, ritiro
 ::::
 
 ::: {.notes}
-Piccolo accenno richiesto. Non usare “pseudodemenza” come categoria semplice. La depressione può dare difficoltà cognitive; viceversa un deficit cognitivo iniziale può produrre tristezza, ansia o ritiro. La relazione temporale non è sempre chiara e va ricostruita con storia, osservazione, valutazione clinica e follow-up.
+Piccolo accenno richiesto. Non usare “pseudodemenza” come categoria semplice. La depressione può dare difficoltà cognitive; viceversa un deficit cognitivo iniziale può generare tristezza, ansia, perdita di fiducia o ritiro. La relazione temporale non è sempre chiara e va ricostruita con storia, osservazione, valutazione clinica e follow-up.
 :::
 
 ## Attività 1 · Quale quadro? {.smaller}
@@ -218,7 +175,7 @@ Per ogni situazione:
 3. quali informazioni mancano?
 
 ::: {.notes}
-35–52 min. Far lavorare in piccoli gruppi. Lo scopo non è “indovinare” la diagnosi, ma usare autonomia, andamento e dati mancanti. Distribuire o mostrare le quattro situazioni nella slide successiva. Restituzione rapida.
+36–53 min. Far lavorare in piccoli gruppi. Lo scopo non è indovinare una diagnosi, ma usare autonomia, andamento e dati mancanti. Distribuire o mostrare le quattro situazioni nella slide successiva. Restituzione rapida. Accettare “dati insufficienti” quando motivato.
 :::
 
 ## Quattro situazioni {.smaller}
@@ -232,7 +189,7 @@ Per ogni situazione:
 **D.** Difficoltà cognitive migliorate dopo rivalutazione e correzione di fattori reversibili.
 
 ::: {.notes}
-Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono test, storia e funzionamento precedente. B suggerisce DNC maggiore/demenza se l'interferenza è dovuta a deficit cognitivo. C richiede valutazione dell'umore e della cognizione, senza concludere automaticamente. D introduce il reverting/miglioramento e la necessità di non assumere una traiettoria unica.
+Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono test, storia e funzionamento precedente. B suggerisce DNC maggiore/demenza se l'interferenza è dovuta a deficit cognitivo. C richiede valutazione dell'umore e della cognizione, senza concludere automaticamente. D introduce il miglioramento/reverting e la necessità di non assumere una traiettoria unica.
 :::
 
 ## Debriefing: tre domande chiave
@@ -242,7 +199,7 @@ Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono tes
 3. Umore, farmaci o malattie acute possono spiegare il quadro?
 
 ::: {.notes}
-52–62 min. Consolidare le conoscenze fondamentali. Il delirium va considerato davanti a esordio acuto/fluttuante, alterazione dell'attenzione o coscienza e peggioramento improvviso. Non basta un test cognitivo per separare tutte le condizioni.
+53–63 min. Consolidare le conoscenze fondamentali. Il delirium va considerato davanti a esordio acuto/fluttuante, alterazione dell'attenzione o coscienza e peggioramento improvviso. Non basta un test cognitivo per separare tutte le condizioni. Collegare alla VMD: serve integrare storia, funzione, contesto e dati clinici.
 :::
 
 ## Principali eziologie {.smaller}
@@ -256,7 +213,7 @@ Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono tes
 | Mista | combinata | frequente nell’anziano |
 
 ::: {.notes}
-62–77 min. Sintesi comparativa al posto dell'attività sui quattro esordi. Evitare rigidità: sono pattern probabilistici. Nell'anziano reale le forme miste sono comuni. Corpi di Lewy: attenzione a fluttuazioni, allucinazioni visive, parkinsonismo e sensibilità agli antipsicotici. Frontotemporale: il comportamento può essere presentazione iniziale, non solo complicanza.
+63–78 min. Sintesi comparativa. Evitare rigidità: sono pattern probabilistici. Nell'anziano reale le forme miste sono comuni. Corpi di Lewy: attenzione a fluttuazioni, allucinazioni visive, parkinsonismo e sensibilità agli antipsicotici. Frontotemporale: il comportamento può essere presentazione iniziale, non solo complicanza.
 :::
 
 ## Percorso diagnostico
@@ -268,7 +225,7 @@ Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono tes
 - follow-up.
 
 ::: {.notes}
-77–85 min. Separare competenze. Il medico formula la diagnosi integrando le informazioni. L'educatore contribuisce con osservazioni ripetute e contestualizzate su funzione, ambiente, routine, relazioni e risposta agli interventi.
+78–86 min. Separare competenze. Il medico formula la diagnosi integrando le informazioni. L'educatore contribuisce con osservazioni ripetute e contestualizzate su funzione, ambiente, routine, relazioni e risposta agli interventi. Ribadire che la diagnosi non nasce da un singolo test.
 :::
 
 ## Che cosa documenta l’educatore
@@ -296,7 +253,7 @@ Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono tes
 ::::
 
 ::: {.notes}
-85–90 min. Ponte verso i BPSD. La documentazione utile deve essere concreta, ripetibile e condivisibile in équipe. Richiamare la Lezione 2: raccolta standardizzata, interpretazione integrata, progetto personalizzato.
+86–90 min. Ponte verso i BPSD. La documentazione utile deve essere concreta, ripetibile e condivisibile in équipe. Richiamare la Lezione 2: raccolta standardizzata, interpretazione integrata, progetto personalizzato.
 :::
 
 ## PAUSA
@@ -305,7 +262,21 @@ Debrief atteso: A potrebbe essere compatibile con DNC minore/MCI, ma servono tes
 
 # Parte 2 — BPSD / NPS
 
-## Che cosa sono i BPSD
+## Caso guida BPSD
+
+Ore 17:30. Una signora tenta ripetutamente di uscire dalla struttura.
+
+Dice: «Devo andare a prendere i bambini».
+
+Si irrita quando l’operatore prova a fermarla.
+
+### Che cosa osserviamo? Che cosa interpretiamo?
+
+::: {.notes}
+100–108 min. Questo caso viene introdotto solo ora, perché è centrato sui BPSD e sulla lettura del comportamento. Far separare dati osservabili da interpretazioni. Osservabile: tenta di uscire, ripete una frase, si irrita se fermata, accade alle 17:30. Interpretazione: vuole scappare, è aggressiva, non capisce, è oppositiva. Tenere il caso come filo conduttore della seconda parte.
+:::
+
+## BPSD: che cosa sono
 
 Alterazioni di:
 
@@ -314,7 +285,7 @@ percezione · pensiero · umore · comportamento · motricità · sonno
 ### Manifestazioni diverse, cause diverse, interventi diversi.
 
 ::: {.notes}
-100–110 min. BPSD = Behavioral and Psychological Symptoms of Dementia; spesso anche NPS = neuropsychiatric symptoms. Non usare “disturbi del comportamento” come categoria unica. Agitazione, apatia, ansia, psicosi, wandering e sonno richiedono domande diverse.
+108–116 min. BPSD = Behavioral and Psychological Symptoms of Dementia; spesso anche NPS = neuropsychiatric symptoms. Non usare “disturbi del comportamento” come categoria unica. Agitazione, apatia, ansia, psicosi, wandering e alterazioni del sonno richiedono domande diverse.
 :::
 
 ## Prima domanda
@@ -324,7 +295,19 @@ percezione · pensiero · umore · comportamento · motricità · sonno
 Delirium · dolore · infezione · stipsi · ritenzione urinaria · farmaci · disidratazione · ipoacusia · ipovisione
 
 ::: {.notes}
-Punto di sicurezza. Prima di psicologizzare o “educativizzare” il comportamento, considerare cause acute e modificabili. L'educatore deve segnalare cambiamento rapido, fluttuazione, sonnolenza, peggioramento improvviso o nuove manifestazioni.
+Punto di sicurezza. Prima di psicologizzare o educativizzare il comportamento, considerare cause acute e modificabili. L'educatore deve segnalare cambiamento rapido, fluttuazione, sonnolenza, peggioramento improvviso o nuove manifestazioni. Collegare alla parte 1: delirium ≠ demenza.
+:::
+
+## Descrivere prima di spiegare
+
+| Osservazione | Interpretazione |
+|---|---|
+| tenta di uscire alle 17:30 | “vuole scappare” |
+| dice «devo prendere i bambini» | “non capisce” |
+| si irrita se fermata | “è oppositiva” |
+
+::: {.notes}
+Usare questa slide per correggere il linguaggio. “È aggressiva” o “è oppositiva” non basta. Bisogna descrivere che cosa fa, quando, con chi, in quale contesto, cosa succede prima e dopo. Questa distinzione prepara NPI-Q, ABC e DICE.
 :::
 
 ## NPI e NPI-Q
@@ -338,7 +321,7 @@ Punto di sicurezza. Prima di psicologizzare o “educativizzare” il comportame
 | distress caregiver | distress caregiver |
 
 ::: {.notes}
-110–125 min, con le slide successive. NPI = Neuropsychiatric Inventory, strumento più articolato, basato su intervista all'informatore. NPI-Q = forma breve, più praticabile per screening/monitoraggio. Entrambi aiutano a standardizzare e monitorare i sintomi, ma non spiegano automaticamente cause e interventi.
+116–128 min, con le slide successive. NPI = Neuropsychiatric Inventory, strumento più articolato, basato su intervista all'informatore. NPI-Q = forma breve, più praticabile per screening/monitoraggio. Entrambi aiutano a standardizzare e monitorare i sintomi, ma non spiegano automaticamente cause e interventi. Il NPI-Q è informant-based: dipende dalla qualità delle informazioni del caregiver o informatore.
 :::
 
 ## NPI-Q: cosa raccoglie? {.smaller}
@@ -353,212 +336,154 @@ Punto di sicurezza. Prima di psicologizzare o “educativizzare” il comportame
 Il NPI-Q chiede se il sintomo è presente nell'ultimo mese e, se presente, ne valuta gravità e stress del familiare/caregiver. Distinguere distress della persona e distress del caregiver. Un sintomo può pesare molto sul caregiver senza essere sempre distressante per la persona, e viceversa. Questa distinzione è utile per il progetto educativo e assistenziale.
 :::
 
-## NPI-Q italiano {.smaller}
+## Materiale NPI-Q {.smaller}
 
 :::: {.columns}
 
 ::: {.column width="65%"}
 
-**Materiale per l’attività**
+**Per l’attività**
 
-[Apri NPI-Q italiano ↗](https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf){target="_blank"}
+- domini del NPI-Q;
+- gravità;
+- distress caregiver;
+- limiti dello strumento.
 
-Usatelo per capire **che cosa viene chiesto** e **che cosa manca**.
+[Apri materiale NPI-Q ↗](https://www.alz.org/media/documents/npiq-questionnaire.pdf){target="_blank"}
 
 :::
 
 ::: {.column width="35%"}
 
-![](https://api.qrserver.com/v1/create-qr-code/?size=260x260&margin=12&data=https%3A%2F%2Fwww.demenzemedicinagenerale.net%2Fimages%2Ftest%2FNPI-Q_12-11-2016_SITO.pdf){width="78%" fig-align="center"}
+![QR NPI-Q](https://api.qrserver.com/v1/create-qr-code/?size=260x260&margin=12&data=https%3A%2F%2Fwww.alz.org%2Fmedia%2Fdocuments%2Fnpiq-questionnaire.pdf){width="75%" fig-align="center"}
 
 :::
 
 ::::
 
 ::: {.notes}
-Mostrare QR e link. Il documento italiano riporta i domini e le istruzioni sintetiche: segnare “sì” se il sintomo è comparso nell'ultimo mese; per ogni “sì” stimare gravità e distress del caregiver. Per copyright e uso clinico, chiarire che qui viene usato come materiale didattico per comprendere la logica dello strumento, non per certificare una competenza di somministrazione.
+Il link e il QR portano a una scheda NPI-Q utilizzabile come materiale di supporto. Verificare prima della lezione le condizioni d'uso e l'eventuale versione italiana che si intende distribuire agli studenti. Il sito ufficiale NPI ricorda che NPI/NPI-Q sono strumenti coperti da copyright; per uso didattico interno valutare la versione e i permessi disponibili. In aula non serve completare integralmente il questionario: serve capire che tipo di informazioni standardizza.
 :::
 
-## Attività 2 · Leggere il NPI-Q {.smaller}
+## Attività 2 · Esplorare il NPI-Q {.smaller}
 
-Caso breve fornito dal caregiver:
+Una caregiver riferisce:
 
-> «La sera si agita, accusa gli altri di rubare e io faccio molta fatica.»
+> «È più irritabile. A volte pensa che le rubino le cose. La sera è agitata. Io faccio molta fatica.»
 
-Identificate:
-
-1. domini NPI-Q pertinenti;
-2. domande da fare prima di segnare il punteggio;
-3. che cosa il NPI-Q non spiega.
+**Cosa chiedere per compilare meglio il NPI-Q?**
 
 ::: {.notes}
-125–143 min. Non chiedere una compilazione artificiale completa. Obiettivo: far capire che il NPI-Q standardizza la raccolta delle informazioni, ma richiede chiarimento dell'episodio e interpretazione nel contesto. Domini possibili: agitazione, deliri/sospettosità, ansia/irritabilità a seconda dei dettagli. Servono informazioni su frequenza, gravità, contesto, distress della persona, sicurezza, trigger, durata, caregiver.
+128–143 min. Gruppi. Non chiedere punteggi completi sulla base del mini-caso: dati insufficienti. Chiedere invece quali domini potrebbero essere pertinenti, quali informazioni mancano e come distinguere gravità del sintomo da distress del caregiver. Domini possibili: deliri/sospettosità, agitazione, irritabilità, ansia; dipende dalle domande di approfondimento. Prodotto atteso: domande aggiuntive utili, non punteggio artificiale.
 :::
 
 ## Debriefing NPI-Q
 
-### Misura la presenza e il peso del sintomo
+### Misura e standardizza
 
-### Non spiega da solo il perché
+ma
 
-::: {.notes}
-143–150 min. Consolidare: NPI-Q è utile per descrivere e monitorare. Non sostituisce ABC, valutazione clinica, raccolta del contesto, né progetto individualizzato. Collegare a VMD: raccolta standardizzata + interpretazione integrata.
-:::
-
-## Il comportamento non è una spiegazione
-
-### È un dato da spiegare
+### non spiega da solo
 
 ::: {.notes}
-Riprendere il caso iniziale. “Vuole scappare” è una spiegazione povera; “tenta di uscire alle 17:30 dicendo che deve andare a prendere i bambini” apre ipotesi su biografia, routine, ansia, ambiente, luce, stanchezza, bisogno di ruolo, dolore, delirium.
+143–150 min. Punti chiave: NPI/NPI-Q descrivono e monitorano, ma non spiegano automaticamente perché il comportamento si verifica; non sostituiscono ABC, VMD, valutazione clinica e conoscenza della persona. Il distress del caregiver è una variabile importante, ma non coincide con il vissuto della persona.
 :::
 
-## Bisogni non soddisfatti
+## BPSD come bisogni non soddisfatti
 
-Un BPSD può esprimere un bisogno che la persona non riesce a comunicare.
+Dolore · sicurezza · relazione · attività significativa · controllo · orientamento
 
-**Dolore · sicurezza · relazione · attività significativa · controllo**
+### Ipotesi da verificare, non spiegazione unica.
 
 ::: {.notes}
-150–160 min, con ABC e DICE. Presentare il modello dei bisogni non soddisfatti come ipotesi utile, non come spiegazione universale. Non tutto è unmet need: delirium, dolore, farmaci, malattie acute e caratteristiche della demenza possono contribuire. Il punto didattico è generare ipotesi alternative e verificabili.
+150–156 min. Introdurre il concetto di unmet needs. Una manifestazione può essere un tentativo di comunicare un bisogno che la persona non riesce a esprimere o soddisfare. Non è una spiegazione universale: delirium, dolore, farmaci, malattie acute e caratteristiche della patologia possono contribuire. Formula da far ricordare: un comportamento può esprimere un bisogno non soddisfatto; dobbiamo formulare ipotesi, cercare dati e considerare alternative.
 :::
 
-## ABC: rendere osservabile
+## ABC: descrivere l’episodio
 
-| A | B | C |
+| A — Antecedent | B — Behavior | C — Consequence |
 |---|---|---|
-| Antecedent | Behavior | Consequence |
 | prima | comportamento | dopo |
+| ambiente, persone, richiesta, ora | forma, durata, rischio | risposta, effetto, rinforzi |
 
 ::: {.notes}
-ABC non risolve tutto, ma costringe a descrivere episodio, contesto e risposte dell'ambiente. Esempio: bagno freddo + operatore nuovo → la persona urla e stringe le braccia → l'igiene viene sospesa. Questo rende possibile cambiare una componente e valutarne l'effetto.
+156–162 min. ABC rende osservabile l'episodio. Esempio: “aggressività durante l'igiene” diventa A = bagno freddo, operatore nuovo, richiesta rapida; B = urla e afferra il polso; C = igiene sospesa e persona lasciata sola. ABC non basta a spiegare tutto, ma riduce etichette e aiuta a costruire ipotesi.
 :::
 
-## DICE: dal dato al progetto
+## DICE: dall’ipotesi al progetto
+
+**Describe** → descrivere
+
+**Investigate** → cercare cause modificabili
+
+**Create** → creare un piano personalizzato
+
+**Evaluate** → valutare e correggere
+
+::: {.notes}
+DICE organizza l'intero percorso. Non basta dire “ha un BPSD” o “ha wandering”. Serve un intervento coerente con l'ipotesi e un indicatore di efficacia. Collegare alla VMD: valutare, identificare bisogni, progettare, rivalutare. Citare Kales, Gitlin e Lyketsos come riferimento per il modello.
+:::
+
+## DICE sul caso guida {.smaller}
 
 | Passo | Domanda |
 |---|---|
-| Describe | Che cosa accade? |
-| Investigate | Perché potrebbe accadere? |
-| Create | Che cosa proviamo? |
-| Evaluate | Come capiamo se funziona? |
+| Describe | Sempre alle 17:30? Con chi? Dove? |
+| Investigate | dolore? ansia? routine? rumore? bisogno di ruolo? |
+| Create | validazione, attività ponte, accompagnamento sicuro |
+| Evaluate | meno distress? più sicurezza? strategia sostenibile? |
 
 ::: {.notes}
-DICE organizza l'intero processo: descrivere, investigare, creare un piano personalizzato, valutare. È coerente con la VMD: valutare, interpretare, progettare, rivalutare. Non richiedere agli studenti di memorizzare ogni dettaglio, ma di capire la sequenza.
+Mostrare come lo stesso comportamento cambi significato aggiungendo dati. Evitare “chiudere la porta” come primo intervento. Discutere sicurezza, libertà, proporzionalità e distress. Non misurare solo la riduzione del tentativo di uscita: potrebbe ridursi perché la persona è contenuta o frustrata. Considerare benessere, sicurezza, conflitto, partecipazione e sostenibilità.
 :::
 
-## DICE applicato al caso guida {.smaller}
+## Attività 3 · Caso guida BPSD {.smaller}
 
-| Passo | Esempi di domande |
-|---|---|
-| Describe | Sempre alle 17:30? Con chi? Quanto dura? |
-| Investigate | Ansia? Biografia? Dolore? Sundowning? Ambiente? |
-| Create | Validazione, attività ponte, cammino sicuro, routine |
-| Evaluate | Distress? Sicurezza? Partecipazione? Sostenibilità? |
-
-::: {.notes}
-Non proporre “chiudere la porta” come intervento principale. Discutere sicurezza e libertà. Un intervento deve rispondere all'ipotesi: se il comportamento esprime una routine biografica, l'attività ponte può avere senso; se c'è dolore o delirium, serve segnalazione clinica.
-:::
-
-## Attività 3 · Dal BPSD al progetto {.smaller}
-
-Riprendete il caso guida.
+In gruppo:
 
 1. descrivete il comportamento;
-2. costruite ABC;
-3. formulate almeno **2 ipotesi**;
-4. proponete **1 intervento** coerente;
-5. scegliete **1 indicatore** di rivalutazione.
+2. formulate **2 ipotesi**;
+3. proponete **1 intervento** coerente;
+4. definite **come valutarlo**.
 
 ::: {.notes}
-160–175 min. Un unico caso comune per tutti, non quattro casi separati: riduce il carico e facilita il debriefing. I gruppi devono collegare intervento e ipotesi. Se ipotesi = ansia/ruolo biografico, possibile attività ponte; se ipotesi = sovrastimolazione serale, riduzione stimoli e routine; se ipotesi = dolore o delirium, segnalazione e valutazione clinica.
-:::
-
-## Informazioni aggiuntive {.smaller}
-
-La signora ha lavorato molti anni come maestra.
-
-Nel tardo pomeriggio aumenta rumore e cambio turno.
-
-Quando viene contraddetta, si agita di più.
-
-::: {.notes}
-Informazioni ipotetiche per l'attività. Devono guidare ipotesi, non determinare una risposta unica. Possibili interventi: validare l'emozione, proporre un'attività coerente con ruolo biografico, preparare una routine di chiusura giornata, cammino accompagnato, oggetto/compito significativo, modificare ambiente e comunicazione.
-:::
-
-## Valutare se funziona
-
-Non basta contare i tentativi di uscita.
-
-Valutare anche:
-
-- distress;
-- sicurezza;
-- partecipazione;
-- libertà e dignità;
-- sostenibilità per il team.
-
-::: {.notes}
-Un intervento può ridurre il comportamento impedendo fisicamente l'uscita, ma peggiorare benessere e libertà. Gli indicatori devono essere coerenti con l'obiettivo. Esempi: meno escalation, minore distress osservabile, più partecipazione a routine serale, meno conflitti, assenza di contenzione, strategia sostenibile per operatori/famiglia.
+162–175 min. Tutti lavorano sullo stesso caso guida, non su quattro casi diversi. Questo riduce il carico cognitivo e permette un debriefing comune. Chiedere almeno due ipotesi: unmet need, ansia, routine biografica, stanchezza/sundowning, ambiente, dolore, delirium o altra causa clinica. L'intervento deve dichiarare a quale ipotesi risponde. L'indicatore deve includere almeno un elemento di benessere o distress, non solo la riduzione del comportamento.
 :::
 
 ## Restituzione finale
 
 Ogni gruppo restituisce:
 
-**ipotesi → intervento → indicatore**
+- una descrizione senza etichette;
+- una ipotesi principale;
+- un intervento;
+- un indicatore.
 
 ::: {.notes}
-175–180 min. Restituzione di 1–2 gruppi o raccolta rapida. Correggere soprattutto: etichette non osservabili, ipotesi unica, interventi non coerenti con ipotesi, indicatori centrati solo sul controllo del comportamento. Chiudere richiamando osservare → descrivere → comprendere → intervenire → rivalutare.
+175–180 min. Far parlare solo alcuni gruppi se il tempo è poco. Correggere soprattutto etichette, ipotesi uniche e interventi non coerenti. Chiusura: descrivere meglio significa curare meglio; standardizzare la raccolta non sostituisce la personalizzazione dell'intervento.
 :::
 
-## Take home messages {.smaller}
+## Da ricordare per l'esame {.smaller}
 
 1. DNC minore e maggiore si distinguono anche per l’autonomia.
-2. Le traiettorie cognitive possono variare.
-3. Umore e cognizione si influenzano.
-4. NPI/NPI-Q standardizzano, ma non spiegano tutto.
+2. Il disturbo cognitivo può migliorare, stabilizzarsi o peggiorare.
+3. Umore e cognizione si influenzano in entrambe le direzioni.
+4. NPI/NPI-Q standardizzano la raccolta dei BPSD.
 5. BPSD: descrivere, ipotizzare, intervenire, rivalutare.
 
 ::: {.notes}
-Slide di sintesi per esame. Non chiedere memoria di ogni item dell'NPI-Q né criteri diagnostici specialistici completi. Chiedere di riconoscere principi, limiti degli strumenti e ragionamento applicativo.
+Slide conclusiva. Usarla come checklist delle conoscenze fondamentali. Non chiedere criteri diagnostici specialistici completi o tutti gli item NPI a memoria. Chiedere invece riconoscimento dei concetti e applicazione a brevi casi.
 :::
 
-## Materiali extra {.smaller}
+## Fonti e materiali {.smaller}
 
-:::: {.columns}
-
-::: {.column width="50%"}
-
-**NPI-Q italiano**
-
-![](https://api.qrserver.com/v1/create-qr-code/?size=230x230&margin=12&data=https%3A%2F%2Fwww.demenzemedicinagenerale.net%2Fimages%2Ftest%2FNPI-Q_12-11-2016_SITO.pdf){width="60%" fig-align="center"}
-
-:::
-
-::: {.column width="50%"}
-
-**DICE approach**
-
-![](https://api.qrserver.com/v1/create-qr-code/?size=230x230&margin=12&data=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC4146407%2F){width="60%" fig-align="center"}
-
-:::
-
-::::
-
-::: {.notes}
-Usare questa slide se serve lasciare risorse agli studenti. NPI-Q italiano: materiale per vedere domini e istruzioni sintetiche. DICE: articolo open access di Kales, Gitlin e Lyketsos, JAGS 2014.
-:::
-
-## Fonti essenziali {.smaller}
-
-- DSM-5-TR: Disturbi neurocognitivi minori e maggiori.
 - WHO. Dementia fact sheet. <https://www.who.int/news-room/fact-sheets/detail/dementia>
-- NICE NG97. Dementia: assessment, management and support. <https://www.nice.org.uk/guidance/ng97>
+- NICE guideline NG97. Dementia: assessment, management and support. <https://www.nice.org.uk/guidance/ng97>
 - IPA. Complete Guide to BPSD. <https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf>
-- NPI-Q italiano. <https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf>
-- Kales HC, Gitlin LN, Lyketsos CG. DICE approach. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/>
+- Kales, Gitlin, Lyketsos. DICE approach. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/>
+- NPI information. <https://www.npitest.net/about-npi.html>
+- NPI-Q material. <https://www.alz.org/media/documents/npiq-questionnaire.pdf>
 
 ::: {.notes}
-Slide finale di supporto. Se la lezione è lunga, lasciarla come risorsa finale senza commentarla estesamente.
+Slide di supporto opzionale. Se il tempo è esaurito, lasciarla solo come riferimento per lo studio autonomo. Verificare prima dell'aula la versione dello strumento NPI/NPI-Q che si intende distribuire e le condizioni d'uso.
 :::
