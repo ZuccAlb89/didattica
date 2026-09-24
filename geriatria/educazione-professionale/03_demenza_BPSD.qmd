@@ -613,43 +613,19 @@ comunicazione, richiesta, perdita di controllo
 ### Ora possiamo formulare ipotesi.
 
 ::: {.notes}
-160–163 min. Questi dati rendono possibile il passaggio da osservazione a ipotesi. Mostrare che nuovi dati possono sostenere ipotesi biografiche, ambientali e di bisogno di movimento/relazione. Non concludere che una sola ipotesi sia vera.
+160–163 min. Le nuove informazioni offrono più piste interpretative, senza indicare una causa unica. Non suggerire già tutte le ipotesi: gli indizi relativi all'ambiente e al cammino serviranno agli studenti per costruire autonomamente una spiegazione alternativa nel laboratorio.
 :::
 
-## Ipotesi 1: routine biografica
+## Esempio guidato: routine biografica
 
-**Perché potrebbe accadere?**  
-Il tardo pomeriggio attiva una routine significativa del passato.
+**Ipotesi**  
+Il tardo pomeriggio richiama una routine significativa del passato.
 
-**Cosa verificare?**  
+**Che cosa verificare?**  
 Storia di vita, orari, risposta ad attività familiari.
 
 ::: {.notes}
-163–165 min. Esempio guidato. Non dire “crede davvero di dover prendere i bambini” come unica spiegazione. Piuttosto: il contenuto della frase può indicare un ruolo biografico significativo. Verificare con caregiver, storia di vita, osservazione ripetuta.
-:::
-
-## Ipotesi 2: ambiente e ansia
-
-**Perché potrebbe accadere?**  
-Rumore, cambio turno e confusione aumentano ansia e disorientamento.
-
-**Cosa verificare?**  
-Stimoli ambientali, orari, persone presenti, effetto di spazi tranquilli.
-
-::: {.notes}
-165–167 min. Seconda ipotesi guidata. Il comportamento può essere una risposta a sovrastimolazione o disorientamento. Informazioni utili: accade anche in ambienti tranquilli? peggiora con rumore? migliora riducendo stimoli? 
-:::
-
-## Ipotesi 3: movimento e relazione
-
-**Perché potrebbe accadere?**  
-Bisogno di muoversi, contatto e accompagnamento.
-
-**Cosa verificare?**  
-Tempo seduta, attività della giornata, effetto del cammino accompagnato.
-
-::: {.notes}
-167–169 min. Terza ipotesi. Il fatto che si calmi camminando con un'operatrice suggerisce una possibile componente di movimento, relazione o rassicurazione. Non basta bloccare l'uscita: occorre offrire alternativa sicura e significativa.
+163–166 min. Mostrare un unico esempio completo, senza anticipare le altre spiegazioni plausibili. Il contenuto della frase può rimandare a un ruolo biografico significativo: è una possibilità da verificare con caregiver, storia di vita e osservazione, non una conclusione certa. Chiedere che differenza ci sia tra dato osservato («dice che deve andare a prendere i bambini») e ipotesi («l'orario richiama un'abitudine del passato»).
 :::
 
 ## DICE: organizzare il percorso
@@ -663,32 +639,32 @@ Tempo seduta, attività della giornata, effetto del cammino accompagnato.
 **Evaluate** → valutare e correggere
 
 ::: {.notes}
-169–171 min. Ora DICE arriva dopo l'esempio, quindi non è un salto. Presentarlo come schema che riassume il percorso già mostrato. Collegare alla VMD: valutare, identificare bisogni, progettare, rivalutare.
+166–168 min. DICE organizza il percorso mostrato finora. Collegarlo alla VMD: descrivere e integrare informazioni, identificare bisogni, progettare e rivalutare. Non aggiungere altre ipotesi di esempio in questa fase.
 :::
 
-## Dal bisogno all’intervento
+## Dall’ipotesi all’intervento {.smaller}
 
-| Ipotesi | Intervento coerente | Indicatore |
+| Ipotesi | Intervento coerente | Come valutarlo? |
 |---|---|---|
-| routine biografica | attività ponte significativa | meno distress |
-| ambiente rumoroso | spazio più calmo prima delle 17 | meno escalation |
-| movimento/relazione | cammino accompagnato programmato | maggiore calma |
+| routine biografica | attività ponte significativa nel tardo pomeriggio | distress, coinvolgimento, sicurezza |
+
+### Un esempio. Le altre possibilità le cercate voi.
 
 ::: {.notes}
-171–174 min. Mostrare il passaggio chiave. A ipotesi diverse corrispondono interventi diversi. Gli indicatori non devono essere solo “meno tentativi di uscire”: considerare distress, sicurezza, partecipazione, libertà, sostenibilità per il team.
+168–171 min. Completare l'unico esempio guidato: se una routine biografica sembra rilevante, concordare un'attività familiare e significativa, poi osservare benessere, coinvolgimento e sicurezza. L'obiettivo non è soltanto ridurre i tentativi di uscita. Non mostrare un catalogo di ulteriori ipotesi e interventi: lasciare spazio al ragionamento autonomo nella slide successiva.
 :::
 
 ## Attività 3 · Completate il progetto {.smaller}
 
-Il comportamento è già descritto.
+Il comportamento è già descritto. **Non ripetete l'esempio.**
 
 1. Formulate **un’altra ipotesi**.
-2. Indicate **un dato** da raccogliere.
+2. Indicate **un dato** per approfondirla.
 3. Proponete **un intervento coerente**.
 4. Definite **come valutarlo**.
 
 ::: {.notes}
-174–179 min. Attività breve, non laboratorio esteso. Gli studenti hanno già visto tre ipotesi guidate. Chiedere di completare un solo pezzo del ragionamento. Esempi accettabili: dolore/stanchezza; fame/sete; paura di essere abbandonata; bisogno di ruolo; incomprensione della richiesta; bisogno di orientamento. Valutare coerenza, non originalità.
+171–178 min. Gruppi: formulare una spiegazione alternativa alla routine biografica, motivandola con i dati già disponibili e con un'informazione ulteriore da cercare. Accettare più ipotesi plausibili; non anticipare agli studenti le alternative. In debriefing, se necessario, suggerire piste cliniche, ambientali, relazionali e legate ai bisogni della persona. Valutare coerenza tra ipotesi, dato da raccogliere, intervento e indicatore, non originalità. Riservare 1–2 minuti a una restituzione essenziale.
 :::
 
 ## Sintesi finale
@@ -702,7 +678,7 @@ Il comportamento è già descritto.
 **Valutare** e modificare.
 
 ::: {.notes}
-179–180 min. Chiudere con quattro verbi. Far vedere la continuità con VMD: raccolta informazioni, integrazione, intervento personalizzato, rivalutazione.
+178–180 min. Chiudere con quattro verbi. Far vedere la continuità con VMD: raccolta informazioni, integrazione, intervento personalizzato, rivalutazione.
 :::
 
 ## Da ricordare per l’esame {.smaller}
