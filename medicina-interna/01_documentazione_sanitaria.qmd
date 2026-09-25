@@ -5,6 +5,7 @@ author: "Alberto Zucchelli"
 lang: it
 format:
   clean-revealjs:
+    title-slide: false
     slide-number: c/t
     transition: fade
     incremental: false
@@ -117,500 +118,305 @@ format:
         </style>
 ---
 
+## Orientarsi nella documentazione sanitaria
+
+<div class="big-question">La documentazione nasce dalla cura.<br>Ne lascia traccia e la collega nel tempo.</div>
+
+::: {.notes}
+Tempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e sulla localizzazione delle informazioni. Non si chiede di interpretare i dati clinici. La durata complessiva è 120 minuti; scansione: avvio/icebreaker 10′, prima parte frontale 35′, attività 1 e debrief 23′, pausa 5′, seconda parte frontale 22′, attività 2 e debrief 20′, wrap-up 5′. I tempi restano nelle note, non nelle slide.
+:::
+
 ## Che cosa sto guardando?
 
-<div class="activity-tag">Cold start · risposta individuale, poi confronto a coppie</div>
+<div class="activity-tag">Rompi ghiaccio · pensa, confrontati, vota</div>
 
 :::: {.doc-grid}
 ::: {.doc-card}
-<span class="doc-meta">Campione · 08:15</span>
-<strong>Esame emocromocitometrico</strong>
-Emoglobina&nbsp;&nbsp; 11,2 g/dL<br>
-Leucociti&nbsp;&nbsp; 8,4 × 10⁹/L<br>
-Piastrine&nbsp;&nbsp; 214 × 10⁹/L
+<span class="doc-meta">Risultati</span>
+<strong>Emocromo</strong>
+Analita · valore · unità · intervallo
 :::
-
 ::: {.doc-card}
-<span class="doc-meta">Esame · 10:40</span>
-<strong>TC torace senza contrasto</strong>
-Indicazione all’esame<br>
-Tecnica di acquisizione<br>
-Reperti<br>
-Conclusioni
+<span class="doc-meta">Imaging</span>
+<strong>Referto TC torace</strong>
+Quesito · tecnica · reperti · conclusioni
 :::
-
 ::: {.doc-card}
-<span class="doc-meta">Terapia · ore 08–14–20</span>
-<strong>Scheda terapeutica</strong>
-Farmaco A · dose · via · orario<br>
-Farmaco B · dose · via · orario<br>
-Firma di somministrazione
+<span class="doc-meta">Terapia</span>
+<strong>Foglio di terapia</strong>
+Farmaco · dose · via · orario
 :::
-
 ::: {.doc-card}
-<span class="doc-meta">Giorno 2 · 22:30</span>
-<strong>Diario</strong>
-Persona vigile. Ha cenato.<br>
-Parametri registrati.<br>
-Prosegue assistenza programmata.
+<span class="doc-meta">Annotazione</span>
+<strong>Diario clinico</strong>
+Data · ora · osservazione · autore
 :::
-
 ::: {.doc-card}
-<span class="doc-meta">Conclusione del ricovero</span>
+<span class="doc-meta">Fine ricovero</span>
 <strong>Lettera di dimissione</strong>
-Diagnosi<br>
-Accertamenti eseguiti<br>
-Terapia alla dimissione<br>
-Indicazioni successive
+Diagnosi · terapia · indicazioni successive
 :::
 ::::
 
-<div class="instruction"><strong>Per ciascun frammento:</strong> che tipo di documento è? A che cosa serve?</div>
+<div class="instruction"><strong>Prima:</strong> che documento è? <strong>Poi:</strong> quale processo può averlo prodotto?</div>
 
 ::: {.notes}
-Tempo totale: 8 minuti.
-
-Lasciare 60–90 secondi di osservazione individuale. Chiedere poi un confronto rapido con il vicino e raccogliere alcune risposte.
-
-Non correggere ogni dettaglio e non discutere il significato clinico di valori o termini. Lo scopo è far notare titolo, struttura, sezioni, data e forma grafica.
-
-Punto da far emergere: riconoscere il contenitore aiuta a orientarsi nel contenuto.
+Tempo: 9 minuti; avvio totale 10′ contando la slide titolo. Lasciare un minuto per osservare i frammenti, due minuti per annotare individualmente, tre per il confronto a coppie e tre per raccogliere risposte rapide. Per ora accettare ipotesi senza spiegare ogni documento. Chiedere quali indizi hanno usato: titolo, forma, sezioni, parole ricorrenti. Punto di arrivo: questi frammenti non sono pagine intercambiabili. Non interpretare i dati.
 :::
 
-## Non esiste “la cartella” come singolo testo
+## La documentazione nasce da ciò che facciamo
 
-<div class="file-stack">
-  <div class="file-sheet"><strong>Lettera di dimissione</strong> · sintesi e continuità</div>
-  <div class="file-sheet"><strong>Referti</strong> · risultati di esami e valutazioni</div>
-  <div class="file-sheet"><strong>Scheda terapeutica</strong> · terapia prescritta e somministrata</div>
-  <div class="file-sheet"><strong>Diario</strong> · registrazioni successive nel tempo</div>
-  <div class="file-sheet"><strong>Documentazione iniziale</strong> · accesso e valutazioni di ingresso</div>
+<div class="process-row">
+  <div class="process-box">Osservare</div><div class="process-arrow">→</div>
+  <div class="process-box">Valutare</div><div class="process-arrow">→</div>
+  <div class="process-box">Decidere o agire</div><div class="process-arrow">→</div>
+  <div class="process-box">Registrare</div>
 </div>
 
-<div class="big-statement">La documentazione sanitaria è un <strong>insieme di documenti</strong> prodotti in momenti diversi, da professionisti diversi e per funzioni diverse.</div>
+<div class="big-statement">Prima c’è un processo di cura.<br>Il documento ne conserva una traccia.</div>
 
 ::: {.notes}
-Tempo: 3 minuti. Riprendere i frammenti della slide precedente. Far emergere che il fascicolo raccoglie oggetti documentali differenti. Non entrare nelle definizioni giuridiche o nella composizione obbligatoria completa.
+Tempo: 6 minuti. Spiegare il legame generativo: il professionista compie o riceve un’attività di cura e registra l’informazione nel documento previsto dal processo o dal sistema locale. Fare un esempio semplice, senza contenuti medici: una richiesta genera un referto; una prescrizione genera una registrazione terapeutica; un’osservazione nel tempo genera una nota datata. La documentazione non è un testo unico scritto tutto insieme. Il documento rende ritrovabile la traccia anche per chi interviene dopo.
 :::
 
-## A che cosa serve documentare?
-
-<div class="function-grid">
-  <div class="info-card"><strong>Registrare</strong>Osservazioni, valutazioni, attività e indicazioni.</div>
-  <div class="info-card"><strong>Condividere</strong>Rendere le informazioni disponibili agli altri professionisti.</div>
-  <div class="info-card"><strong>Dare continuità</strong>Collegare momenti, professionisti e setting assistenziali.</div>
-  <div class="info-card"><strong>Documentare il percorso</strong>Conservare traccia di ciò che è avvenuto nell’episodio assistenziale.</div>
-</div>
-
-<div class="source">Riferimento concettuale: Regione Lombardia, <em>Manuale del Fascicolo di Ricovero</em>.</div>
-
-::: {.notes}
-Tempo: 4 minuti. Usare un esempio semplice: un professionista registra un’informazione; un altro la consulta; alla dimissione alcune informazioni vengono comunicate al setting successivo. Limitare a un cenno la funzione medico-legale.
-:::
-
-## Una documentazione, molti utilizzatori
-
-<div class="role-grid">
-  <div class="role-card"><strong>Medico</strong>Valutazioni, diagnosi, prescrizioni e percorso clinico</div>
-  <div class="role-card"><strong>Infermiere</strong>Assistenza, osservazioni, parametri e somministrazioni</div>
-  <div class="role-card"><strong>Altri professionisti</strong>Valutazioni e interventi di competenza</div>
-  <div class="role-card"><strong>Servizi successivi</strong>Informazioni necessarie alla continuità</div>
-</div>
-
-<div class="takeaway">La documentazione è anche uno strumento di <strong>comunicazione tra professionisti e tra setting</strong>.</div>
-
-::: {.notes}
-Tempo: 3 minuti. Sottolineare che professionisti diversi possono leggere lo stesso fascicolo con domande differenti. Evitare una classificazione dettagliata delle responsabilità professionali.
-:::
-
-## Prima regola per orientarsi
-
-<div class="big-question">Prima di leggere tutto, chiediti:<br><br><strong>che documento è?</strong><br>e<br><strong>perché è stato prodotto?</strong></div>
-
-::: {.notes}
-Tempo: 2 minuti. Presentare questa regola come leitmotiv della lezione e chiedere agli studenti di utilizzarla nelle attività successive.
-:::
-
-## Documento ↔ funzione
-
-<div class="activity-tag">Card sorting · gruppi di 3–4</div>
-
-:::: {.columns}
-::: {.column width="48%"}
-**Documenti**
-
-- diario clinico;
-- referto di laboratorio;
-- referto radiologico;
-- scheda terapeutica;
-- lettera di dimissione;
-- piano terapeutico;
-- verbale di pronto soccorso.
-:::
-
-::: {.column width="52%"}
-**Funzioni prevalenti**
-
-- documentare l’andamento nel tempo;
-- riportare il risultato di un esame;
-- indicare una terapia;
-- documentare un accesso in emergenza;
-- comunicare le informazioni alla conclusione del ricovero;
-- organizzare indicazioni terapeutiche successive.
-:::
-::::
-
-<div class="instruction">Associate ogni documento alla funzione che considerate prevalente. Se un’associazione vi sembra ambigua, preparate una breve motivazione.</div>
-
-::: {.notes}
-Tempo di lavoro: 10–12 minuti. Se disponibili, distribuire carte fisiche. Accettare discussioni motivate: alcune funzioni possono sovrapporsi. Non chiedere di interpretare diagnosi, terapie o risultati.
-:::
-
-## Dove guarderei per prima cosa?
-
-<div class="activity-tag">Debrief del card sorting</div>
-
-| Se voglio sapere… | Guarderei prima… |
-|---|---|
-| il risultato di un esame del sangue | **referto di laboratorio** |
-| che cosa ha mostrato una TC | **referto radiologico** |
-| che cosa è stato registrato durante il ricovero | **diario / documentazione clinica** |
-| quali farmaci sono prescritti | **prescrizione / scheda terapeutica** |
-| che cosa viene comunicato al termine del ricovero | **lettera di dimissione** |
-| che cosa è avvenuto durante un accesso urgente | **verbale di pronto soccorso** |
-
-<div class="takeaway fragment">La stessa informazione può comparire in più documenti, ma documenti diversi hanno <strong>funzioni prevalenti diverse</strong>.</div>
-
-::: {.notes}
-Tempo: 8 minuti. Costruire la tabella progressivamente dalle risposte. Non presentare le associazioni come esclusive: una terapia può comparire nel diario, nella scheda terapeutica e nella lettera di dimissione.
-:::
-
-## Un episodio assistenziale produce documentazione
+## A ogni passaggio, una traccia diversa
 
 <div class="pathway">
-  <div class="path-step"><strong>Ingresso</strong>Dati iniziali<br>Motivo dell’accesso<br>Valutazioni iniziali</div>
+  <div class="path-step"><strong>Accesso</strong>Verbale di PS<br>Motivo e disposizione</div>
   <div class="path-arrow">→</div>
-  <div class="path-step"><strong>Durante</strong>Diario<br>Osservazioni<br>Terapia<br>Procedure</div>
+  <div class="path-step"><strong>Ingresso</strong>Anamnesi ed esame obiettivo<br>Storia e condizioni iniziali</div>
   <div class="path-arrow">→</div>
-  <div class="path-step"><strong>Accertamenti</strong>Laboratorio<br>Radiologia<br>Consulenze</div>
+  <div class="path-step"><strong>Accertamento</strong>ECG, laboratorio, TC<br>Risultato dell’esame</div>
   <div class="path-arrow">→</div>
-  <div class="path-step"><strong>Dimissione</strong>Sintesi<br>Terapia<br>Indicazioni successive</div>
-</div>
-
-<div class="centered">La posizione nel percorso aiuta a capire quando e perché un documento è stato prodotto.</div>
-
-::: {.notes}
-Tempo: 3 minuti. Presentare il percorso come mappa documentale, non come timeline clinica da ricostruire. Non chiedere che cosa sia accaduto al paziente né come sia evoluto il quadro.
-:::
-
-## All’ingresso
-
-:::: {.columns}
-::: {.column .document-column width="42%"}
-
-**Indizi visivi**
-
-- intestazione della struttura;
-- data e ora dell’accesso;
-- identificazione della persona;
-- titoli delle sezioni;
-- professionista compilatore.
-:::
-
-::: {.column .document-column width="58%"}
-
-**Informazioni che posso aspettarmi**
-
-- dati identificativi;
-- motivo dell’accesso o del ricovero;
-- storia precedente essenziale;
-- valutazioni iniziali;
-- eventuale terapia già in corso.
-:::
-::::
-
-::: {.notes}
-Tempo: 2 minuti. Sottolineare “posso aspettarmi”: la struttura varia tra organizzazioni. Non spiegare la differenza clinica tra storia precedente e problema attuale; limitarsi a localizzare le sezioni.
-:::
-
-## Durante il ricovero
-
-<div class="category-grid">
-  <div class="info-card"><strong>Diario</strong>Annotazioni successive, con data e ora.</div>
-  <div class="info-card"><strong>Osservazioni</strong>Informazioni raccolte dai professionisti.</div>
-  <div class="info-card"><strong>Parametri</strong>Dati registrati in schede o grafici.</div>
-  <div class="info-card"><strong>Terapia</strong>Prescrizioni e registrazioni di somministrazione.</div>
-  <div class="info-card"><strong>Valutazioni</strong>Contributi delle diverse professioni.</div>
-  <div class="info-card"><strong>Procedure</strong>Attività e interventi documentati.</div>
+  <div class="path-step"><strong>Assistenza</strong>Terapia e diario<br>Ordini, attività, osservazioni</div>
+  <div class="path-arrow">→</div>
+  <div class="path-step"><strong>Conclusione</strong>Lettera di dimissione<br>Sintesi e continuità</div>
 </div>
 
 ::: {.notes}
-Tempo: 3 minuti. Far notare data, ora e identificazione del professionista. Non usare le annotazioni per ricostruire l’evoluzione del caso.
+Tempo: 7 minuti. Guidare la lettura da sinistra a destra come mappa dei processi, non come esercizio di ricostruzione clinica. Per ciascuna tappa chiedere: “Che cosa è successo nel lavoro assistenziale che può aver generato questo documento?” Evidenziare che referto, diario e lettera di dimissione rispondono a domande e momenti diversi. La visita specialistica ambulatoriale è un altro processo: produce un referto di visita con valutazione, terapia e follow-up.
 :::
 
-## Accertamenti e referti
-
-<div class="process-row">
-  <div class="process-box">Domanda o indicazione</div><div class="process-arrow">→</div>
-  <div class="process-box">Richiesta dell’esame</div><div class="process-arrow">→</div>
-  <div class="process-box">Esecuzione</div><div class="process-arrow">→</div>
-  <div class="process-box">Risultato / referto</div>
-</div>
+## La traccia ha un tempo e una fonte
 
 <div class="function-grid">
-  <div class="info-card"><strong>Laboratorio</strong>Risultati organizzati per analita, valore e unità.</div>
-  <div class="info-card"><strong>Radiologia</strong>Indicazione, tecnica, reperti e conclusioni.</div>
-  <div class="info-card"><strong>Consulenza</strong>Valutazione effettuata da un altro professionista o servizio.</div>
-  <div class="info-card"><strong>Altre indagini</strong>Documenti con strutture specifiche rispetto all’esame.</div>
+  <div class="info-card"><strong>Chi</strong>Quale professionista o servizio registra?</div>
+  <div class="info-card"><strong>Quando</strong>In quale momento del percorso?</div>
+  <div class="info-card"><strong>Che cosa</strong>Quale osservazione, decisione o attività?</div>
+  <div class="info-card"><strong>Dove</strong>In quale documento o sezione?</div>
 </div>
 
-::: {.notes}
-Tempo: 2 minuti. Chiarire soltanto la differenza tra richiesta, esecuzione e risultato. Non spiegare valori, unità, range di riferimento o significato dei reperti: appartengono alla Lezione 3.
-:::
-
-## Alla dimissione
-
-:::: {.columns}
-::: {.column width="45%"}
-<div class="file-stack">
-  <div class="file-sheet"><strong>Diagnosi riportate</strong></div>
-  <div class="file-sheet"><strong>Accertamenti e attività rilevanti</strong></div>
-  <div class="file-sheet"><strong>Terapia alla dimissione</strong></div>
-  <div class="file-sheet"><strong>Indicazioni successive</strong></div>
-</div>
-:::
-
-::: {.column width="55%"}
-**La lettera di dimissione**
-
-- sintetizza elementi rilevanti dell’episodio;
-- comunica informazioni al termine del ricovero;
-- riporta terapia e indicazioni successive;
-- sostiene la continuità assistenziale.
-
-<div class="warning-boundary">Oggi ne riconosciamo <strong>struttura e funzione</strong>. Non la utilizziamo ancora per ricostruire la storia clinica.</div>
-:::
-::::
+<div class="takeaway">Data, ora, autore e intestazioni aiutano a collocare l’informazione.</div>
 
 ::: {.notes}
-Tempo: 3 minuti. Mostrare la struttura generale senza analizzare la coerenza tra diagnosi, decorso e terapia. Se emerge la SDO, chiarire brevemente che non coincide con la lettera di dimissione.
+Tempo: 5 minuti. Mostrare che una registrazione è interpretabile come traccia del processo anche grazie a data, ora, autore e sezione. Un diario contiene annotazioni successive; il referto indica quando l’esame è stato eseguito e quando il risultato è stato validato; la scheda terapeutica distingue la prescrizione dalle somministrazioni registrate. Non entrare in obblighi o responsabilità medico-legali.
 :::
 
-## Oggi e nella prossima lezione
-
-:::: {.columns}
-::: {.column width="50%"}
-<div class="role-card"><strong>Oggi</strong>Dove sono registrate le informazioni?</div>
-:::
-::: {.column width="50%"}
-<div class="role-card"><strong>Prossima lezione</strong>Come le informazioni raccontano la storia del paziente?</div>
-:::
-::::
-
-<div class="big-statement">Oggi: <strong>localizzare</strong>.<br>La prossima volta: <strong>ricostruire</strong>.</div>
-
-::: {.notes}
-Tempo: 2 minuti. Rendere esplicito il confine. Se la discussione si sposta verso patologie pregresse, problema principale, complicanze o decorso, rinviare alla Lezione 2.
-:::
-
-## Dove lo cercheresti?
-
-<div class="activity-tag">Risposta a coppie, sondaggio o alzata di mano</div>
-
-<ol class="question-list">
-<li>Che cosa ha mostrato una TC?</li>
-<li>Quali farmaci sono prescritti?</li>
-<li>Che cosa è stato registrato durante la notte?</li>
-<li>Quali indicazioni sono state date alla dimissione?</li>
-<li>Qual è il risultato di un esame del sangue?</li>
-<li>Dove viene sintetizzato ciò che viene comunicato al termine del ricovero?</li>
-</ol>
-
-<div class="instruction">Per ogni domanda indicate il <strong>documento</strong> e, se possibile, la <strong>sezione</strong>. Non interpretate il contenuto.</div>
-
-::: {.notes}
-Tempo: 9 minuti. Presentare una domanda alla volta e lasciare 20–30 secondi alle coppie. Accettare alternative motivate quando l’informazione può comparire in più punti. Chiedere sempre: “Dove guarderesti per prima cosa?”
-:::
-
-## Cercare in modo mirato
-
-<div class="activity-tag">Debrief</div>
+## La documentazione collega professionisti
 
 <div class="process-row">
-  <div class="process-box">Riconosci il documento</div><div class="process-arrow">→</div>
-  <div class="process-box">Usa titolo e intestazioni</div><div class="process-arrow">→</div>
-  <div class="process-box">Vai alla sezione probabile</div>
+  <div class="process-box">Chi registra</div><div class="process-arrow">→</div>
+  <div class="process-box">Documento condiviso</div><div class="process-arrow">→</div>
+  <div class="process-box">Chi prosegue l’assistenza</div>
 </div>
 
-<div class="big-statement fragment">Non sempre è necessario leggere tutto dall’inizio alla fine.</div>
+<div class="big-statement">La traccia rende comunicabile ciò che è stato fatto e ciò che serve dopo.</div>
 
 ::: {.notes}
-Tempo: 3 minuti. Chiedere quali indizi sono stati usati. Raccogliere titolo, intestazioni, forma grafica, funzione e posizione nel fascicolo.
+Tempo: 5 minuti. Usare un passaggio semplice: PS → reparto → domicilio/medico curante; o prescrizione → somministrazione registrata → comunicazione alla dimissione. Sottolineare che la documentazione aiuta la continuità tra persone, professionisti e setting. Il medesimo fascicolo è consultato con domande diverse. Non fare una lezione sui ruoli professionali.
 :::
 
-## Che tipo di informazione sto guardando?
+## Il processo orienta l’informazione attesa
 
-<div class="category-grid">
-  <div class="info-card"><strong>Dati identificativi</strong>Chi è la persona e a quale episodio si riferisce il documento?</div>
-  <div class="info-card"><strong>Storia precedente</strong>Quali informazioni sono riportate sul passato?</div>
-  <div class="info-card"><strong>Problema attuale</strong>Quale motivo dell’accesso è registrato?</div>
-  <div class="info-card"><strong>Diagnosi</strong>Quali diagnosi sono esplicitamente riportate?</div>
-  <div class="info-card"><strong>Esami e referti</strong>Quali accertamenti e risultati sono documentati?</div>
-  <div class="info-card"><strong>Procedure</strong>Quali attività o interventi sono registrati?</div>
-  <div class="info-card"><strong>Terapia</strong>Quali prescrizioni o somministrazioni compaiono?</div>
-  <div class="info-card"><strong>Decorso</strong>Dove sono presenti registrazioni successive?</div>
-  <div class="info-card"><strong>Indicazioni successive</strong>Che cosa viene indicato dopo la dimissione?</div>
+| Processo di cura | Documento tipico | Informazioni che ci cerco per prime |
+|---|---|---|
+| Accesso urgente | Verbale di pronto soccorso | Motivo, valutazione, esito dell’accesso |
+| Valutazione all’ingresso | Anamnesi, esame obiettivo | Storia riportata, condizioni iniziali |
+| Esecuzione di un esame | Referto ECG, laboratorio o radiologia | Risultato, reperti, conclusione |
+| Assistenza durante il ricovero | Diario clinico | Annotazioni datate e successive |
+| Prescrizione e somministrazione | Foglio/scheda di terapia | Ordine, dose, orario, somministrazione registrata |
+| Visita specialistica | Referto di visita | Valutazione, terapia, controlli |
+| Conclusione del ricovero | Lettera di dimissione | Sintesi, terapia a domicilio, follow-up |
+
+::: {.notes}
+Tempo: 7 minuti. Leggere la tabella dall’alto verso il basso e associare ogni riga al processo che la genera. Il documento contiene informazioni pertinenti a quel processo: un referto descrive il risultato dell’esame; non sostituisce il diario, la scheda terapeutica o la sintesi di dimissione. Precisare che alcuni elementi possono essere ripresi altrove: ciò che cambia è il momento, la funzione e il livello di sintesi.
+:::
+
+## Anche la stessa informazione cambia funzione
+
+<div class="role-grid">
+  <div class="role-card"><strong>Farmaci abituali</strong>Riferiti o riconciliati all’ingresso</div>
+  <div class="role-card"><strong>Farmaci prescritti</strong>Ordini nella scheda di terapia</div>
+  <div class="role-card"><strong>Farmaci somministrati</strong>Registrazioni di somministrazione</div>
+  <div class="role-card"><strong>Farmaci a domicilio</strong>Indicazioni nella lettera di dimissione</div>
 </div>
 
-::: {.notes}
-Tempo: 6 minuti. Presentare le categorie come etichette per orientarsi. “Diagnosi” significa riconoscere una sezione esplicitamente etichettata, non formulare una diagnosi. Non approfondire sintomo, segno, sindrome o complicanza.
-:::
-
-## Una categoria può comparire in più punti
-
-<div class="big-statement">Esempio: <strong>TERAPIA</strong></div>
-
-<div class="process-row">
-  <div class="process-box">Documentazione iniziale</div><div class="process-arrow">↔</div>
-  <div class="process-box">Scheda terapeutica</div><div class="process-arrow">↔</div>
-  <div class="process-box">Diario</div><div class="process-arrow">↔</div>
-  <div class="process-box">Lettera di dimissione</div>
-</div>
-
-<div class="takeaway">Cercare un’informazione significa conoscere sia la sua <strong>categoria</strong> sia la <strong>funzione dei documenti</strong> in cui può comparire.</div>
+<div class="takeaway">“Terapia” può comparire in più luoghi: chiediti <strong>quale momento</strong> vuoi conoscere.</div>
 
 ::: {.notes}
-Tempo: 4 minuti. Chiedere che cosa potrebbe cambiare tra i diversi punti senza entrare nel confronto clinico tra terapie. La domanda e il momento assistenziale orientano la ricerca.
+Tempo: 5 minuti. Questo esempio fissa l’idea che una categoria informativa può ricomparire. “Che cosa assumeva prima?”, “che cosa è stato prescritto in reparto?”, “che cosa è stato somministrato?”, “che cosa deve assumere dopo?” sono domande differenti e portano a documenti o sezioni differenti. Non discutere se la terapia sia appropriata.
 :::
 
-## Document Scavenger Hunt
+## Attività 1  Abbina il processo alla sua traccia
 
-<div class="activity-tag">Attività principale · gruppi di 3–4</div>
-
-<div class="instruction"><strong>Trovate nel fascicolo dove sono riportate queste informazioni. Non dovete interpretarle.</strong></div>
+<div class="activity-tag">Gruppi di 3–4 · carte o lavoro alla lavagna</div>
 
 :::: {.columns}
-::: {.column width="52%"}
-1. un dato identificativo;
-2. il motivo dell’accesso;
-3. una patologia riportata nella storia precedente;
-4. un risultato di esame;
-5. un farmaco prescritto;
-6. un’informazione registrata durante il ricovero;
-7. una diagnosi riportata alla dimissione;
-8. un’indicazione per il periodo successivo.
-:::
-
 ::: {.column width="48%"}
-| Informazione | Documento | Sezione | Pagina |
-|---|---|---|---|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| … |  |  |  |
+**Processi**
+
+- accesso in emergenza;
+- valutazione all’ingresso;
+- esecuzione di un esame;
+- osservazione durante il ricovero;
+- prescrizione di una terapia;
+- visita diabetologica;
+- conclusione del ricovero.
+:::
+::: {.column width="52%"}
+**Documenti**
+
+- verbale di pronto soccorso;
+- anamnesi ed esame obiettivo;
+- referto ECG, laboratorio o TC;
+- diario clinico;
+- foglio di terapia;
+- referto di visita;
+- lettera di dimissione.
 :::
 ::::
 
-<div class="warning-boundary">Se incontrate un termine difficile, potete ignorarne il significato: il compito è <strong>localizzare</strong> l’informazione.</div>
+<div class="instruction">Abbinate processo e documento. Per ciascuna coppia, nominate una informazione che vi aspettereste di trovare.</div>
 
 ::: {.notes}
-Tempo di lavoro: 20 minuti. Distribuire un fascicolo simulato di 5–7 pagine con documentazione iniziale, diario, scheda terapeutica, referto di laboratorio, referto radiologico e breve lettera di dimissione. Durante il lavoro riportare sempre la discussione su documento, funzione, intestazioni e localizzazione.
+Tempo: 14 minuti. Consegnare le carte o far lavorare i gruppi sulle liste. Quattro minuti per associare processo e documento; cinque per aggiungere una categoria di informazione attesa; cinque per confrontare due coppie tra gruppi. Evitare di chiedere diagnosi, interpretazione degli esami o valutazione della terapia. Se una funzione può essere svolta da più documenti, chiedere quale sia il documento prodotto più direttamente da quel processo.
 :::
 
-## Come avete capito dove cercare?
+## Che cosa avete abbinato?
 
-<div class="activity-tag">Debrief dello scavenger hunt</div>
+<div class="activity-tag">Debrief · processo → documento → informazione</div>
+
+| Se avviene… | Mi aspetto… | Per cercare… |
+|---|---|---|
+| un accesso urgente | verbale di PS | motivo ed esito dell’accesso |
+| una valutazione iniziale | anamnesi / esame obiettivo | storia e condizioni all’ingresso |
+| un esame | referto | risultato dell’esame |
+| un’attività nel tempo | diario | annotazioni datate |
+| una prescrizione | scheda di terapia | ordine terapeutico |
+| una visita specialistica | referto di visita | piano e follow-up |
+| una dimissione | lettera di dimissione | sintesi e indicazioni successive |
+
+::: {.notes}
+Tempo: 9 minuti. Costruire o rivelare la mappa, accettando sinonimi locali. Ribadire che la stessa informazione può essere ripresa in documenti diversi, ma la funzione prevalente dà una prima destinazione. Domanda di controllo: “Se cerco l’esito di una TC, quale documento apro per primo e perché?”
+:::
+
+## Pausa
+
+<div class="big-question">Riprendiamo tra poco</div>
+
+::: {.notes}
+Pausa di 5 minuti. Al rientro riprendere con domande concrete: “Che farmaci prende questa persona?” e “Ha mai avuto una malattia cardiaca?”.
+:::
+
+## Una domanda concreta indica dove guardare
+
+| Mi serve sapere… | Dove guardo preferibilmente? |
+|---|---|
+| che cosa assume abitualmente | anamnesi farmacologica / ultima visita ambulatoriale |
+| che cosa è stato prescritto in reparto | foglio o scheda di terapia |
+| che cosa è stato somministrato | registro delle somministrazioni |
+| che cosa assume a domicilio dopo il ricovero | terapia nella lettera di dimissione |
+| se ha una cardiopatia già nota | anamnesi patologica remota; lettere precedenti |
+
+::: {.notes}
+Tempo: 6 minuti. Leggere ogni domanda e far anticipare una risposta con alzata di mano. Dire “preferibilmente” o “per prima cosa”: non esiste una sola collocazione universale e la stessa informazione può essere riportata in più punti. La storia remota è il primo luogo per patologie pregresse; una lettera di dimissione può riportare diagnosi rilevanti di episodi precedenti. Non trasformare l’esempio in verifica della completezza o della verità della cartella: questo sarà un obiettivo successivo.
+:::
+
+## Il lessico è una mappa
+
+| Se leggo… | Mi aspetto di trovare… |
+|---|---|
+| Anamnesi patologica remota | Patologie e condizioni precedenti riferite o documentate |
+| Anamnesi patologica prossima | Informazioni sul problema che ha portato all’accesso |
+| Esame obiettivo d’ingresso | Osservazioni registrate alla valutazione iniziale |
+| Referto | Risultato strutturato di un esame o di una visita |
+| Diario clinico | Annotazioni successive collocate nel tempo |
+| Foglio di terapia | Prescrizioni e, secondo il sistema, somministrazioni registrate |
+| Lettera di dimissione | Sintesi e indicazioni alla conclusione del ricovero |
+
+::: {.notes}
+Tempo: 6 minuti. Leggere i termini come segnaletica documentale. Non insegnare a interpretare l’anamnesi o l’esame obiettivo; gli studenti devono riconoscere il titolo e capire il genere di informazione che quella sezione ospita. Precisare che formati e denominazioni possono variare tra sistemi e servizi.
+:::
+
+## Prescritto non significa somministrato
+
+<div class="process-row">
+  <div class="process-box">Ordine del prescrittore</div><div class="process-arrow">→</div>
+  <div class="process-box">Scheda di terapia</div><div class="process-arrow">→</div>
+  <div class="process-box">Registrazione della somministrazione</div>
+</div>
+
+<div class="takeaway">Per la terapia a domicilio dopo il ricovero, cerca la sezione dedicata nella <strong>lettera di dimissione</strong>.</div>
+
+::: {.notes}
+Tempo: 5 minuti. Mostrare perché la parola “farmaco” non basta a individuare la fonte: una prescrizione, una dose somministrata e una terapia alla dimissione sono tracce di processi diversi. La domanda definisce il documento di partenza. Evitare dettagli su farmacologia e sicurezza.
+:::
+
+## Un primo metodo per navigare
+
+<div class="process-row">
+  <div class="process-box">Che cosa cerco?</div><div class="process-arrow">→</div>
+  <div class="process-box">Quale processo lo produce?</div><div class="process-arrow">→</div>
+  <div class="process-box">Quale documento lo registra?</div><div class="process-arrow">→</div>
+  <div class="process-box">Quale sezione apro?</div>
+</div>
+
+<div class="big-statement">Prima individua la destinazione. Poi leggi il dettaglio.</div>
+
+::: {.notes}
+Tempo: 5 minuti. Fare un esempio di 30 secondi: “Voglio sapere il risultato della TC” → processo di esecuzione dell’esame → referto radiologico → reperti/conclusioni. Un secondo esempio: “Ha mai avuto una malattia cardiaca?” → storia clinica precedente → anamnesi patologica remota. Qui si conclude la mappa di consultazione prima dell’esercizio.
+:::
+
+## Attività 2  Trova la destinazione nel fascicolo
+
+<div class="activity-tag">Scavenger hunt · gruppi di 3–4</div>
+
+<div class="instruction"><strong>Per ogni domanda:</strong> scrivete documento, sezione e pagina. Non interpretate il dato.</div>
+
+1. Quale patologia cronica è riportata nella storia precedente?
+2. Dove si trova il motivo dell’accesso in ospedale?
+3. Quale documento riporta il risultato della TC?
+4. Dove trovate ciò che è stato prescritto durante il ricovero?
+5. Quale nota contiene un aggiornamento datato del decorso?
+6. Dove sono riportati diagnosi e indicazioni dopo la dimissione?
+
+::: {.notes}
+Tempo di lavoro: 15 minuti. Usare il file “Fac-simile di documentazione clinica per la didattica”, caso A, pagine 2–6; distribuire le pagine del solo caso A. Gli studenti annotano documento, sezione e pagina per ogni risposta. È un esercizio di navigazione: se discutono il significato di un dato, riportarli a “dove lo avete trovato?”. Non chiedere di individuare informazioni mancanti, generare nuove domande cliniche o consultare fonti esterne.
+:::
+
+## Confrontiamo le destinazioni
+
+<div class="activity-tag">Debrief breve</div>
 
 <div class="function-grid">
-  <div class="info-card"><strong>Titolo del documento</strong>Dice che tipo di oggetto sto osservando.</div>
-  <div class="info-card"><strong>Intestazioni</strong>Suddividono il documento in sezioni prevedibili.</div>
-  <div class="info-card"><strong>Posizione nel fascicolo</strong>Suggerisce il momento e la funzione.</div>
-  <div class="info-card"><strong>Parole-segnale</strong>“Terapia”, “conclusioni”, “indicazioni”, “diario”.</div>
+  <div class="info-card"><strong>Storia precedente</strong>Anamnesi patologica remota</div>
+  <div class="info-card"><strong>Accesso</strong>Verbale di pronto soccorso</div>
+  <div class="info-card"><strong>Risultato TC</strong>Referto radiologico</div>
+  <div class="info-card"><strong>Ordini terapeutici</strong>Foglio di terapia</div>
+  <div class="info-card"><strong>Registrazione nel tempo</strong>Diario clinico</div>
+  <div class="info-card"><strong>Conclusione e continuità</strong>Lettera di dimissione</div>
 </div>
 
-<div class="big-question fragment">Quali parti avete potuto <strong>saltare</strong> senza perdere l’informazione cercata?</div>
-
 ::: {.notes}
-Tempo: 7 minuti. Non limitarsi alle pagine corrette: chiedere a due o tre gruppi di descrivere il metodo. Far emergere che una navigazione competente è selettiva. Non trasformare il debrief nella ricostruzione del caso.
+Tempo: 5 minuti. Chiedere a sei studenti o gruppi una risposta ciascuno. Fare notare l’indizio usato, non solo la pagina corretta. Risposte attese: APR; verbale PS; referto TC; scheda terapeutica; diario; lettera di dimissione. Se qualche dettaglio appare in più luoghi, distinguere ripresa/sintesi dalla sede più diretta.
 :::
 
-## Un metodo in sei passi
+## La mappa da portare con sé
 
-<ol class="question-list">
-<li><strong>Identifica</strong> il tipo di documento.</li>
-<li>Chiediti quale <strong>funzione</strong> svolge.</li>
-<li>Osserva <strong>titolo, struttura e intestazioni</strong>.</li>
-<li>Definisci la <strong>categoria di informazione</strong> che cerchi.</li>
-<li>Vai alla <strong>sezione più probabile</strong>.</li>
-<li>Solo allora leggi il <strong>dettaglio necessario</strong>.</li>
-</ol>
+<div class="big-question">Che documento sto guardando?<br><br>Quale processo lo ha prodotto?<br><br>Che informazione ci cerco?</div>
+
+<div class="takeaway">Processo di cura → documento → traccia → comunicazione tra professionisti</div>
 
 ::: {.notes}
-Tempo: 3 minuti. Ricostruire i passaggi dalle strategie nominate dagli studenti. Chiedere quale passaggio tendevano a saltare.
-:::
-
-## Dove cercare cosa
-
-| Mi serve… | Guardo prima… |
-|---|---|
-| un risultato di laboratorio | **referto di laboratorio** |
-| il risultato di una TC o radiografia | **referto radiologico** |
-| una registrazione effettuata durante il ricovero | **diario / documentazione clinica** |
-| una terapia prescritta | **prescrizione / scheda terapeutica** |
-| la sintesi comunicata alla conclusione del ricovero | **lettera di dimissione** |
-| le indicazioni per il periodo successivo | **lettera di dimissione / piano terapeutico** |
-| informazioni sull’accesso urgente | **verbale di pronto soccorso** |
-
-<div class="source">La tabella indica il primo luogo in cui cercare: la stessa informazione può essere ripresa in più documenti.</div>
-
-::: {.notes}
-Tempo: 5 minuti. Usare la slide come mappa di ripasso. Chiedere agli studenti di motivare una riga attraverso la funzione del documento.
-:::
-
-## Tre domande da portarsi via
-
-<div class="takeaway"><strong>1.</strong> Che documento sto leggendo?</div>
-<div class="takeaway"><strong>2.</strong> Perché è stato prodotto?</div>
-<div class="takeaway"><strong>3.</strong> Che tipo di informazione posso aspettarmi di trovarci?</div>
-
-::: {.notes}
-Tempo: 3 minuti. Lasciare alcuni secondi di silenzio. Presentarle come metodo minimo trasferibile ad altri fascicoli e setting.
-:::
-
-## Exit ticket
-
-<div class="activity-tag">Verifica formativa individuale</div>
-
-<ol class="question-list">
-<li>Devi sapere che cosa ha mostrato una radiografia. Dove cerchi?</li>
-<li>Devi trovare le indicazioni date al termine del ricovero. Dove cerchi?</li>
-<li>Trovi una pagina con annotazioni datate, scritte in momenti successivi. Che documento stai probabilmente leggendo?</li>
-<li>Qual è la prima domanda da porsi davanti a un documento sanitario che non si conosce?</li>
-</ol>
-
-::: {.fragment}
-<div class="takeaway"><strong>Risposte attese:</strong> referto radiologico · lettera di dimissione · diario/documentazione clinica · “Che documento sto leggendo?”</div>
-:::
-
-::: {.notes}
-Tempo: 5 minuti. Raccogliere le risposte prima di mostrare la soluzione. La valutazione è formativa. Distinguere tra mancato riconoscimento del documento e mancata associazione tra documento e funzione.
-:::
-
-## Fonti essenziali
-
-<div class="very-small">
-
-- Regione Lombardia. **Manuale del Fascicolo di Ricovero**.
-- Ministero della Salute e Dipartimento per la trasformazione digitale. **Fascicolo Sanitario Elettronico 2.0**.
-- Ministero della Salute. **Scheda di Dimissione Ospedaliera**.
-- eHealth Network. **Guideline on the electronic exchange of health data — Patient Summary**.
-- Professional Record Standards Body. **eDischarge Summary Standard**.
-- Royal College of Physicians. **Standards for the clinical structure and content of patient records**.
-
-</div>
-
-<div class="source">Le fonti internazionali sono utilizzate come supporto concettuale; il riferimento prioritario per struttura e terminologia resta il contesto sanitario italiano e lombardo.</div>
-
-::: {.notes}
-Slide di consultazione, senza tempo didattico dedicato. Le fonti sostengono la descrizione delle funzioni documentali e delle categorie generali di informazione.
+Tempo: 5 minuti, wrap-up. Raccogliere un esempio di domanda e la destinazione documentale scelta dagli studenti. Ripetere i tre punti di partenza e il legame tra processo, documento e informazione attesa. Specificare il confine: oggi impariamo a orientarci e a localizzare; in lezioni successive si lavorerà sulla lettura, sul riconoscimento di ciò che non si sa e sulla ricerca di informazioni. Chiusura: il documento non è un contenitore neutro; la sua funzione racconta perché e quando cercarlo.
 :::
