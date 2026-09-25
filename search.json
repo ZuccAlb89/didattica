@@ -1,402 +1,52 @@
 [
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Che cosa sto guardando?",
-    "text": "Che cosa sto guardando?\n\nCold start · risposta individuale, poi confronto a coppie\n\n\n\nCampione · 08:15 Esame emocromocitometrico Emoglobina   11,2 g/dL Leucociti   8,4 × 10⁹/L Piastrine   214 × 10⁹/L\n\n\nEsame · 10:40 TC torace senza contrasto Indicazione all’esame Tecnica di acquisizione Reperti Conclusioni\n\n\nTerapia · ore 08–14–20 Scheda terapeutica Farmaco A · dose · via · orario Farmaco B · dose · via · orario Firma di somministrazione\n\n\nGiorno 2 · 22:30 Diario Persona vigile. Ha cenato. Parametri registrati. Prosegue assistenza programmata.\n\n\nConclusione del ricovero Lettera di dimissione Diagnosi Accertamenti eseguiti Terapia alla dimissione Indicazioni successive\n\n\n\nPer ciascun frammento: che tipo di documento è? A che cosa serve?\n\n\nTempo totale: 8 minuti.\nLasciare 60–90 secondi di osservazione individuale. Chiedere poi un confronto rapido con il vicino e raccogliere alcune risposte.\nNon correggere ogni dettaglio e non discutere il significato clinico di valori o termini. Lo scopo è far notare titolo, struttura, sezioni, data e forma grafica.\nPunto da far emergere: riconoscere il contenitore aiuta a orientarsi nel contenuto."
+    "objectID": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
+    "href": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Lo studio, in 30 secondi",
+    "text": "Lo studio, in 30 secondi\n\n\nStudio multicentrico nazionale di prevalenza puntuale nelle strutture residenziali italiane.\n\nResidenti presenti→1 ottobre 2024→terapie prescritte\n\n\nEtà ≥60 anni\nDati clinici e farmacologici raccolti da medici e infermieri\neCRF REDCap standardizzata\n\n\n\n3.400\n\n\nresidenti\n\n\n82\n\n\nstrutture"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#non-esiste-la-cartella-come-singolo-testo",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#non-esiste-la-cartella-come-singolo-testo",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Non esiste “la cartella” come singolo testo",
-    "text": "Non esiste “la cartella” come singolo testo\n\n\nLettera di dimissione · sintesi e continuità\n\n\nReferti · risultati di esami e valutazioni\n\n\nScheda terapeutica · terapia prescritta e somministrata\n\n\nDiario · registrazioni successive nel tempo\n\n\nDocumentazione iniziale · accesso e valutazioni di ingresso\n\n\n\nLa documentazione sanitaria è un insieme di documenti prodotti in momenti diversi, da professionisti diversi e per funzioni diverse.\n\n\nTempo: 3 minuti. Riprendere i frammenti della slide precedente. Far emergere che il fascicolo raccoglie oggetti documentali differenti. Non entrare nelle definizioni giuridiche o nella composizione obbligatoria completa."
+    "objectID": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
+    "href": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "La domanda centrale",
+    "text": "La domanda centrale\nCome vengono prescritti e somministrati i farmaci nelle LTCF italiane?\n\n\n\nPrescrizionePoliterapia, appropriatezza, interazioni\n\n\n\nSomministrazioneOrari, vie, ausili, compresse triturate e capsule aperte\n\n\n\nPersona e contestoFragilità, funzione, nutrizione, cognizione e struttura\n\n\n\n\n\n\n\n\nIl disegno consente di collegare, per ogni residente, profilo clinico e regime farmacologico."
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#a-che-cosa-serve-documentare",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#a-che-cosa-serve-documentare",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "A che cosa serve documentare?",
-    "text": "A che cosa serve documentare?\n\n\nRegistrareOsservazioni, valutazioni, attività e indicazioni.\n\n\nCondividereRendere le informazioni disponibili agli altri professionisti.\n\n\nDare continuitàCollegare momenti, professionisti e setting assistenziali.\n\n\nDocumentare il percorsoConservare traccia di ciò che è avvenuto nell’episodio assistenziale.\n\n\n\nRiferimento concettuale: Regione Lombardia, Manuale del Fascicolo di Ricovero.\n\n\nTempo: 4 minuti. Usare un esempio semplice: un professionista registra un’informazione; un altro la consulta; alla dimissione alcune informazioni vengono comunicate al setting successivo. Limitare a un cenno la funzione medico-legale."
+    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
+    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Che cosa descrive il residente?",
+    "text": "Che cosa descrive il residente?\n\n\nProfilo clinico e funzionale\n\nEtà, sesso, permanenza in struttura\nPatologie croniche e condizioni acute\nADL e numero di funzioni perse\nFRAIL-NH e numero di criteri\nOssigenoterapia, SNG/PEG\n\n\nNutrizione e neurocognizione\n\nMNA-SF, BMI, calo ponderale, mobilità\nDisfagia, problemi di masticazione e deglutizione\nDiagnosi di demenza secondo ICD-10\nCDR\n24 BPSD: frequenza, gravità, numero e burden"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-documentazione-molti-utilizzatori",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#una-documentazione-molti-utilizzatori",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Una documentazione, molti utilizzatori",
-    "text": "Una documentazione, molti utilizzatori\n\n\nMedicoValutazioni, diagnosi, prescrizioni e percorso clinico\n\n\nInfermiereAssistenza, osservazioni, parametri e somministrazioni\n\n\nAltri professionistiValutazioni e interventi di competenza\n\n\nServizi successiviInformazioni necessarie alla continuità\n\n\n\nLa documentazione è anche uno strumento di comunicazione tra professionisti e tra setting.\n\n\nTempo: 3 minuti. Sottolineare che professionisti diversi possono leggere lo stesso fascicolo con domande differenti. Evitare una classificazione dettagliata delle responsabilità professionali."
+    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
+    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Che cosa descrive ogni farmaco?",
+    "text": "Che cosa descrive ogni farmaco?\n\n\nUna riga per prescrizione\n\nPrincipio attivo e codice ATC\nDose, dosaggio e forma farmaceutica\nVia e tempi di somministrazione\nApertura della capsula o triturazione della compressa\nAusili e note di somministrazione\n\n\nInformazioni derivate\n\nGerarchia ATC e descrizioni\nCollegamento con DrugBank\nInterazioni farmaco–farmaco\nAderenza/compliance e motivi di difficoltà\nPossibile analisi del carico assistenziale\n\n\n\nStruttura dati: base clinica wide + prescrizioni long, collegate da ID pseudonimo"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#prima-regola-per-orientarsi",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#prima-regola-per-orientarsi",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Prima regola per orientarsi",
-    "text": "Prima regola per orientarsi\n\nPrima di leggere tutto, chiediti:che documento è?eperché è stato prodotto?\n\n\nTempo: 2 minuti. Presentare questa regola come leitmotiv della lezione e chiedere agli studenti di utilizzarla nelle attività successive."
+    "objectID": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
+    "href": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
+    "title": "Prescription Day LTCFs 2024",
+    "section": "Un dataset, più linee di ricerca",
+    "text": "Un dataset, più linee di ricerca\n\n\n\nPattern di politerapia e multimorbidità\nPIM e interazioni clinicamente rilevanti\nComplessità del regime terapeutico\nModifica delle forme orali solide\n\n\n\nDisfagia, nutrizione e somministrazione\nFarmaci e BPSD nelle persone con demenza\nVariabilità tra strutture e territori\nProfili fenotipici e analisi di rete\n\n\n\nLa domanda per il gruppo: quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?\n\n\nContatti Alberto Zucchelli · alberto.zucchelli@unibs.it Gruppo YES · gruppoyes@sigg.it Alba Malara · albamalara@gmail.com"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#documento-funzione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#documento-funzione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Documento ↔︎ funzione",
-    "text": "Documento ↔︎ funzione\n\nCard sorting · gruppi di 3–4\n\n\n\nDocumenti\n\ndiario clinico;\nreferto di laboratorio;\nreferto radiologico;\nscheda terapeutica;\nlettera di dimissione;\npiano terapeutico;\nverbale di pronto soccorso.\n\n\nFunzioni prevalenti\n\ndocumentare l’andamento nel tempo;\nriportare il risultato di un esame;\nindicare una terapia;\ndocumentare un accesso in emergenza;\ncomunicare le informazioni alla conclusione del ricovero;\norganizzare indicazioni terapeutiche successive.\n\n\n\nAssociate ogni documento alla funzione che considerate prevalente. Se un’associazione vi sembra ambigua, preparate una breve motivazione.\n\n\nTempo di lavoro: 10–12 minuti. Se disponibili, distribuire carte fisiche. Accettare discussioni motivate: alcune funzioni possono sovrapporsi. Non chiedere di interpretare diagnosi, terapie o risultati."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Didattica",
+    "section": "",
+    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
   },
   {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-guarderei-per-prima-cosa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-guarderei-per-prima-cosa",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Dove guarderei per prima cosa?",
-    "text": "Dove guarderei per prima cosa?\n\nDebrief del card sorting\n\n\n\n\n\n\n\n\nSe voglio sapere…\nGuarderei prima…\n\n\n\n\nil risultato di un esame del sangue\nreferto di laboratorio\n\n\nche cosa ha mostrato una TC\nreferto radiologico\n\n\nche cosa è stato registrato durante il ricovero\ndiario / documentazione clinica\n\n\nquali farmaci sono prescritti\nprescrizione / scheda terapeutica\n\n\nche cosa viene comunicato al termine del ricovero\nlettera di dimissione\n\n\nche cosa è avvenuto durante un accesso urgente\nverbale di pronto soccorso\n\n\n\n\nLa stessa informazione può comparire in più documenti, ma documenti diversi hanno funzioni prevalenti diverse.\n\n\nTempo: 8 minuti. Costruire la tabella progressivamente dalle risposte. Non presentare le associazioni come esclusive: una terapia può comparire nel diario, nella scheda terapeutica e nella lettera di dimissione."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-episodio-assistenziale-produce-documentazione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#un-episodio-assistenziale-produce-documentazione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Un episodio assistenziale produce documentazione",
-    "text": "Un episodio assistenziale produce documentazione\n\n\nIngressoDati inizialiMotivo dell’accessoValutazioni iniziali\n\n\n→\n\n\nDuranteDiarioOsservazioniTerapiaProcedure\n\n\n→\n\n\nAccertamentiLaboratorioRadiologiaConsulenze\n\n\n→\n\n\nDimissioneSintesiTerapiaIndicazioni successive\n\n\n\nLa posizione nel percorso aiuta a capire quando e perché un documento è stato prodotto.\n\n\nTempo: 3 minuti. Presentare il percorso come mappa documentale, non come timeline clinica da ricostruire. Non chiedere che cosa sia accaduto al paziente né come sia evoluto il quadro."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#allingresso",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#allingresso",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "All’ingresso",
-    "text": "All’ingresso\n\n\nIndizi visivi\n\nintestazione della struttura;\ndata e ora dell’accesso;\nidentificazione della persona;\ntitoli delle sezioni;\nprofessionista compilatore.\n\n\nInformazioni che posso aspettarmi\n\ndati identificativi;\nmotivo dell’accesso o del ricovero;\nstoria precedente essenziale;\nvalutazioni iniziali;\neventuale terapia già in corso.\n\n\n\nTempo: 2 minuti. Sottolineare “posso aspettarmi”: la struttura varia tra organizzazioni. Non spiegare la differenza clinica tra storia precedente e problema attuale; limitarsi a localizzare le sezioni."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#durante-il-ricovero",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#durante-il-ricovero",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Durante il ricovero",
-    "text": "Durante il ricovero\n\n\nDiarioAnnotazioni successive, con data e ora.\n\n\nOsservazioniInformazioni raccolte dai professionisti.\n\n\nParametriDati registrati in schede o grafici.\n\n\nTerapiaPrescrizioni e registrazioni di somministrazione.\n\n\nValutazioniContributi delle diverse professioni.\n\n\nProcedureAttività e interventi documentati.\n\n\n\nTempo: 3 minuti. Far notare data, ora e identificazione del professionista. Non usare le annotazioni per ricostruire l’evoluzione del caso."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#accertamenti-e-referti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#accertamenti-e-referti",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Accertamenti e referti",
-    "text": "Accertamenti e referti\n\n\nDomanda o indicazione\n\n\n→\n\n\nRichiesta dell’esame\n\n\n→\n\n\nEsecuzione\n\n\n→\n\n\nRisultato / referto\n\n\n\n\nLaboratorioRisultati organizzati per analita, valore e unità.\n\n\nRadiologiaIndicazione, tecnica, reperti e conclusioni.\n\n\nConsulenzaValutazione effettuata da un altro professionista o servizio.\n\n\nAltre indaginiDocumenti con strutture specifiche rispetto all’esame.\n\n\n\nTempo: 2 minuti. Chiarire soltanto la differenza tra richiesta, esecuzione e risultato. Non spiegare valori, unità, range di riferimento o significato dei reperti: appartengono alla Lezione 3."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#alla-dimissione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#alla-dimissione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Alla dimissione",
-    "text": "Alla dimissione\n\n\n\n\nDiagnosi riportate\n\n\nAccertamenti e attività rilevanti\n\n\nTerapia alla dimissione\n\n\nIndicazioni successive\n\n\n\nLa lettera di dimissione\n\nsintetizza elementi rilevanti dell’episodio;\ncomunica informazioni al termine del ricovero;\nriporta terapia e indicazioni successive;\nsostiene la continuità assistenziale.\n\n\nOggi ne riconosciamo struttura e funzione. Non la utilizziamo ancora per ricostruire la storia clinica.\n\n\n\nTempo: 3 minuti. Mostrare la struttura generale senza analizzare la coerenza tra diagnosi, decorso e terapia. Se emerge la SDO, chiarire brevemente che non coincide con la lettera di dimissione."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#oggi-e-nella-prossima-lezione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#oggi-e-nella-prossima-lezione",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Oggi e nella prossima lezione",
-    "text": "Oggi e nella prossima lezione\n\n\n\nOggiDove sono registrate le informazioni?\n\n\n\nProssima lezioneCome le informazioni raccontano la storia del paziente?\n\n\n\nOggi: localizzare.La prossima volta: ricostruire.\n\n\nTempo: 2 minuti. Rendere esplicito il confine. Se la discussione si sposta verso patologie pregresse, problema principale, complicanze o decorso, rinviare alla Lezione 2."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-lo-cercheresti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-lo-cercheresti",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Dove lo cercheresti?",
-    "text": "Dove lo cercheresti?\n\nRisposta a coppie, sondaggio o alzata di mano\n\n\n\nChe cosa ha mostrato una TC?\n\n\nQuali farmaci sono prescritti?\n\n\nChe cosa è stato registrato durante la notte?\n\n\nQuali indicazioni sono state date alla dimissione?\n\n\nQual è il risultato di un esame del sangue?\n\n\nDove viene sintetizzato ciò che viene comunicato al termine del ricovero?\n\n\n\nPer ogni domanda indicate il documento e, se possibile, la sezione. Non interpretate il contenuto.\n\n\nTempo: 9 minuti. Presentare una domanda alla volta e lasciare 20–30 secondi alle coppie. Accettare alternative motivate quando l’informazione può comparire in più punti. Chiedere sempre: “Dove guarderesti per prima cosa?”"
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#cercare-in-modo-mirato",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#cercare-in-modo-mirato",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Cercare in modo mirato",
-    "text": "Cercare in modo mirato\n\nDebrief\n\n\n\nRiconosci il documento\n\n\n→\n\n\nUsa titolo e intestazioni\n\n\n→\n\n\nVai alla sezione probabile\n\n\n\nNon sempre è necessario leggere tutto dall’inizio alla fine.\n\n\nTempo: 3 minuti. Chiedere quali indizi sono stati usati. Raccogliere titolo, intestazioni, forma grafica, funzione e posizione nel fascicolo."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-tipo-di-informazione-sto-guardando",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#che-tipo-di-informazione-sto-guardando",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Che tipo di informazione sto guardando?",
-    "text": "Che tipo di informazione sto guardando?\n\n\nDati identificativiChi è la persona e a quale episodio si riferisce il documento?\n\n\nStoria precedenteQuali informazioni sono riportate sul passato?\n\n\nProblema attualeQuale motivo dell’accesso è registrato?\n\n\nDiagnosiQuali diagnosi sono esplicitamente riportate?\n\n\nEsami e refertiQuali accertamenti e risultati sono documentati?\n\n\nProcedureQuali attività o interventi sono registrati?\n\n\nTerapiaQuali prescrizioni o somministrazioni compaiono?\n\n\nDecorsoDove sono presenti registrazioni successive?\n\n\nIndicazioni successiveChe cosa viene indicato dopo la dimissione?\n\n\n\nTempo: 6 minuti. Presentare le categorie come etichette per orientarsi. “Diagnosi” significa riconoscere una sezione esplicitamente etichettata, non formulare una diagnosi. Non approfondire sintomo, segno, sindrome o complicanza."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-categoria-può-comparire-in-più-punti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#una-categoria-può-comparire-in-più-punti",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Una categoria può comparire in più punti",
-    "text": "Una categoria può comparire in più punti\n\nEsempio: TERAPIA\n\n\n\nDocumentazione iniziale\n\n\n↔︎\n\n\nScheda terapeutica\n\n\n↔︎\n\n\nDiario\n\n\n↔︎\n\n\nLettera di dimissione\n\n\n\nCercare un’informazione significa conoscere sia la sua categoria sia la funzione dei documenti in cui può comparire.\n\n\nTempo: 4 minuti. Chiedere che cosa potrebbe cambiare tra i diversi punti senza entrare nel confronto clinico tra terapie. La domanda e il momento assistenziale orientano la ricerca."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#document-scavenger-hunt",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#document-scavenger-hunt",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Document Scavenger Hunt",
-    "text": "Document Scavenger Hunt\n\nAttività principale · gruppi di 3–4\n\n\nTrovate nel fascicolo dove sono riportate queste informazioni. Non dovete interpretarle.\n\n\n\n\nun dato identificativo;\nil motivo dell’accesso;\nuna patologia riportata nella storia precedente;\nun risultato di esame;\nun farmaco prescritto;\nun’informazione registrata durante il ricovero;\nuna diagnosi riportata alla dimissione;\nun’indicazione per il periodo successivo.\n\n\n\n\n\nInformazione\nDocumento\nSezione\nPagina\n\n\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n…\n\n\n\n\n\n\n\n\nSe incontrate un termine difficile, potete ignorarne il significato: il compito è localizzare l’informazione.\n\n\nTempo di lavoro: 20 minuti. Distribuire un fascicolo simulato di 5–7 pagine con documentazione iniziale, diario, scheda terapeutica, referto di laboratorio, referto radiologico e breve lettera di dimissione. Durante il lavoro riportare sempre la discussione su documento, funzione, intestazioni e localizzazione."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#come-avete-capito-dove-cercare",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#come-avete-capito-dove-cercare",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Come avete capito dove cercare?",
-    "text": "Come avete capito dove cercare?\n\nDebrief dello scavenger hunt\n\n\n\nTitolo del documentoDice che tipo di oggetto sto osservando.\n\n\nIntestazioniSuddividono il documento in sezioni prevedibili.\n\n\nPosizione nel fascicoloSuggerisce il momento e la funzione.\n\n\nParole-segnale“Terapia”, “conclusioni”, “indicazioni”, “diario”.\n\n\n\nQuali parti avete potuto saltare senza perdere l’informazione cercata?\n\n\nTempo: 7 minuti. Non limitarsi alle pagine corrette: chiedere a due o tre gruppi di descrivere il metodo. Far emergere che una navigazione competente è selettiva. Non trasformare il debrief nella ricostruzione del caso."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-metodo-in-sei-passi",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#un-metodo-in-sei-passi",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Un metodo in sei passi",
-    "text": "Un metodo in sei passi\n\n\nIdentifica il tipo di documento.\n\n\nChiediti quale funzione svolge.\n\n\nOsserva titolo, struttura e intestazioni.\n\n\nDefinisci la categoria di informazione che cerchi.\n\n\nVai alla sezione più probabile.\n\n\nSolo allora leggi il dettaglio necessario.\n\n\n\nTempo: 3 minuti. Ricostruire i passaggi dalle strategie nominate dagli studenti. Chiedere quale passaggio tendevano a saltare."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#dove-cercare-cosa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#dove-cercare-cosa",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Dove cercare cosa",
-    "text": "Dove cercare cosa\n\n\n\n\n\n\n\nMi serve…\nGuardo prima…\n\n\n\n\nun risultato di laboratorio\nreferto di laboratorio\n\n\nil risultato di una TC o radiografia\nreferto radiologico\n\n\nuna registrazione effettuata durante il ricovero\ndiario / documentazione clinica\n\n\nuna terapia prescritta\nprescrizione / scheda terapeutica\n\n\nla sintesi comunicata alla conclusione del ricovero\nlettera di dimissione\n\n\nle indicazioni per il periodo successivo\nlettera di dimissione / piano terapeutico\n\n\ninformazioni sull’accesso urgente\nverbale di pronto soccorso\n\n\n\n\nLa tabella indica il primo luogo in cui cercare: la stessa informazione può essere ripresa in più documenti.\n\n\nTempo: 5 minuti. Usare la slide come mappa di ripasso. Chiedere agli studenti di motivare una riga attraverso la funzione del documento."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#tre-domande-da-portarsi-via",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#tre-domande-da-portarsi-via",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Tre domande da portarsi via",
-    "text": "Tre domande da portarsi via\n\n1. Che documento sto leggendo?\n\n\n2. Perché è stato prodotto?\n\n\n3. Che tipo di informazione posso aspettarmi di trovarci?\n\n\nTempo: 3 minuti. Lasciare alcuni secondi di silenzio. Presentarle come metodo minimo trasferibile ad altri fascicoli e setting."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#exit-ticket",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#exit-ticket",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Exit ticket",
-    "text": "Exit ticket\n\nVerifica formativa individuale\n\n\n\nDevi sapere che cosa ha mostrato una radiografia. Dove cerchi?\n\n\nDevi trovare le indicazioni date al termine del ricovero. Dove cerchi?\n\n\nTrovi una pagina con annotazioni datate, scritte in momenti successivi. Che documento stai probabilmente leggendo?\n\n\nQual è la prima domanda da porsi davanti a un documento sanitario che non si conosce?\n\n\n\n\nRisposte attese: referto radiologico · lettera di dimissione · diario/documentazione clinica · “Che documento sto leggendo?”\n\n\n\nTempo: 5 minuti. Raccogliere le risposte prima di mostrare la soluzione. La valutazione è formativa. Distinguere tra mancato riconoscimento del documento e mancata associazione tra documento e funzione."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#fonti-essenziali",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#fonti-essenziali",
-    "title": "Orientarsi nella documentazione sanitaria",
-    "section": "Fonti essenziali",
-    "text": "Fonti essenziali\n\n\nRegione Lombardia. Manuale del Fascicolo di Ricovero.\nMinistero della Salute e Dipartimento per la trasformazione digitale. Fascicolo Sanitario Elettronico 2.0.\nMinistero della Salute. Scheda di Dimissione Ospedaliera.\neHealth Network. Guideline on the electronic exchange of health data — Patient Summary.\nProfessional Record Standards Body. eDischarge Summary Standard.\nRoyal College of Physicians. Standards for the clinical structure and content of patient records.\n\n\n\nLe fonti internazionali sono utilizzate come supporto concettuale; il riferimento prioritario per struttura e terminologia resta il contesto sanitario italiano e lombardo.\n\n\nSlide di consultazione, senza tempo didattico dedicato. Le fonti sostengono la descrizione delle funzioni documentali e delle categorie generali di informazione."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
-    "title": "Invecchiamento e fragilità",
-    "section": "Invecchiamento",
-    "text": "Invecchiamento\nPensate a una persona anziana.\nPensate a una o due caratteristiche che la definiscono.\n\nA quale categoria appartengono queste caratteristiche?\n\nCorpo / fisico\nCervello / cognizione\nPsiche / benessere mentale\nSocio-relazionale-economica\nClinica / malattie\nAltro"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
-    "title": "Invecchiamento e fragilità",
-    "section": "Oggi: che cosa dovrete saper fare?",
-    "text": "Oggi: che cosa dovrete saper fare?\n1. Guardare la persona attraverso il modello bio-psico-sociale\n\nRiconoscere gli aspetti biologici, psicologici e sociali di una situazione\nSpiegare come queste componenti possono influenzarsi reciprocamente\n\n2. Comprendere e utilizzare il concetto di fragilità\n\nSpiegare la fragilità come vulnerabilità agli stressor\nRiconoscere che esistono diversi modelli operativi e scegliere lo strumento in base allo scopo\nComprendere perché la fragilità può segnalare bisogni di salute complessi"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
-    "title": "Invecchiamento e fragilità",
-    "section": "Invecchiamento",
-    "text": "Invecchiamento\nL’età è solo una parte…\nL’età cronologica rimane\n\nuno dei principali fattori di rischio non modificabili per malattia e morte\n\n\nMA\n\n\nè uguale per tutti\nnon differenzia i bisogni"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
-    "title": "Invecchiamento e fragilità",
-    "section": "Il modello",
-    "text": "Il modello\nLa lente utilizzata per guardare l’invecchiamento è il modello\nbio-psico-sociale\n\n\nBiologico\n\nCellule, tessuti e organi cambiano con il tempo\nIl danno può accumularsi e favorire malattia\nLa malattia può contribuire a perdita di funzione e disabilità\n\n\nPsicologico\n\nL’invecchiamento modifica la percezione di sé e del mondo\nLa percezione di sé e del mondo può modificare il modo di invecchiare\n\n\nSociale\n\nL’invecchiamento modifica famiglia, lavoro, relazioni e società\nAmbiente e società influenzano a loro volta il modo di invecchiare"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
-    "title": "Invecchiamento e fragilità",
-    "section": "Visione biologica",
-    "text": "Visione biologica\n\n\n\nIl tempo e il fumo danneggiano vie aeree e tessuto polmonare\nSi sviluppano infiammazione cronica, alterazione delle secrezioni e rimodellamento\nIl flusso dell’aria diventa progressivamente più ostacolato\nSi instaura la broncopneumopatia cronica ostruttiva (BPCO)\nUna persona con BPCO può avere dispnea e ridotta tolleranza allo sforzo\nPuò inoltre sviluppare riacutizzazioni e complicanze respiratorie"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
-    "title": "Invecchiamento e fragilità",
-    "section": "Visione psicologica",
-    "text": "Visione psicologica\n\n\n\nUna persona che cade può sviluppare paura di cadere\nPer paura di cadere si muove meno\nLa minore attività favorisce perdita di forza\nPossono comparire riduzione del tono dell’umore e ritiro sociale\nLa persona si muove ancora meno\nIl rischio di una nuova caduta aumenta"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
-    "title": "Invecchiamento e fragilità",
-    "section": "Visione sociale",
-    "text": "Visione sociale\n\n\n\nUna persona anziana vive al terzo piano senza ascensore\nSe cammina con difficoltà, uscire di casa diventa difficile\nSi riducono movimento, attività e relazioni\nAumentano dipendenza e perdita di autonomia\nLe scale diventano un ostacolo sempre maggiore"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività — Il caso di Anna",
-    "text": "Attività — Il caso di Anna\nAnna, 79 anni, vive con il marito, che ha bisogno di aiuto nelle attività quotidiane.\nDa alcuni anni Anna ha uno scompenso cardiaco: il suo cuore fatica a sostenere la circolazione del sangue. Negli ultimi mesi avverte stanchezza e mancanza di fiato anche quando fa la spesa o rifà il letto.\nPer paura di sentirsi male fuori casa, esce sempre meno e ha smesso di incontrare le amiche con cui trascorreva i pomeriggi.\nIl marito si preoccupa quando Anna è affaticata e cerca di aiutarla, ma anche lui ha difficoltà nelle attività domestiche. Anna si sente in colpa perché non riesce più ad aiutarlo come prima.\nDa qualche tempo Anna si sente triste e ha perso interesse per molte delle sue attività abituali.\n\nLeggere il caso senza spiegare ulteriormente la fisiopatologia dello scompenso: gli elementi necessari per l’attività sono tutti descritti."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività — Che cosa sta succedendo?",
-    "text": "Attività — Che cosa sta succedendo?\nRileggi il caso di Anna.\nIdentifica almeno un elemento per ciascuna dimensione\n\nBiologica: quali problemi riguardano il corpo e le sue funzioni?\nPsicologica: quali elementi riguardano emozioni, pensieri e percezione di sé?\nSociale: quali elementi riguardano relazioni, ruoli e vita quotidiana?\n\n\n4–5 minuti di lavoro individuale. Non chiedere di formulare nuove diagnosi o di conoscere la fisiopatologia dello scompenso."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività — Costruiamo la rete",
-    "text": "Attività — Costruiamo la rete\nIn gruppo\n\nCollegate con delle frecce gli elementi che possono influenzarsi.\nSpiegate per ogni freccia come un elemento può influenzare l’altro.\nCercate un circolo: una conseguenza può tornare a influenzare il problema iniziale?\n\n\nDomanda guida: come può un problema biologico influenzare la vita psicologica e sociale di Anna? E come possono queste dimensioni influenzare nuovamente il suo benessere fisico?\n\n\n8–10 minuti di discussione in gruppo; 8–10 minuti di restituzione.\nNel debrief costruire una rete con le relazioni proposte dagli studenti. Possibile esempio: mancanza di fiato → paura di uscire → meno incontri con le amiche → tristezza → ulteriore riduzione del movimento. Presentarlo come una possibile relazione, non come diagnosi certa o unica soluzione.\nChiedere: «Se ci occupassimo soltanto dello scompenso cardiaco, quali aspetti della situazione di Anna rischieremmo di trascurare?». Non richiedere ancora un piano assistenziale o una VMD."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
-    "title": "Invecchiamento e fragilità",
-    "section": "Il modello bio-psico-sociale — da ricordare",
-    "text": "Il modello bio-psico-sociale — da ricordare\nLa salute della persona è il risultato dell’interazione tra fattori biologici, psicologici e sociali.\n\nUno stesso problema di salute può avere componenti in tutte e tre le dimensioni\nQueste componenti non sono indipendenti: possono influenzarsi reciprocamente, anche formando circoli\nPer comprendere il problema e prendersi cura della persona dobbiamo considerare anche le interazioni, non soltanto la malattia\n\n\nSlide di consolidamento da mostrare DOPO l’attività: la definizione rende esplicito il principio emerso dalla rete degli studenti."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
-    "title": "Invecchiamento e fragilità",
-    "section": "PAUSA",
-    "text": "PAUSA\n10 minuti…"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "La fragilità",
-    "text": "La fragilità\nOsservazione empirica\nAlcune persone hanno conseguenze molto più gravi di altre davanti allo stesso evento stressante."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
-    "title": "Invecchiamento e fragilità",
-    "section": "La fragilità",
-    "text": "La fragilità\nUno stesso stressor: un’infezione\n\n\nPersona robusta\n\nModesto impatto funzionale\nBuona tolleranza allo stressor\nRecupero relativamente rapido\nRitorno alle attività abituali\n\n\nPersona fragile\n\nImportante perdita funzionale\nMaggiore rischio di complicanze\nPossibile delirium o immobilità\nRecupero più lento o incompleto"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
-    "title": "Invecchiamento e fragilità",
-    "section": "La fragilità",
-    "text": "La fragilità\nUno stato di aumentata vulnerabilità agli stressor, legato alla riduzione delle riserve e della capacità di mantenere o recuperare l’omeostasi\n\nUno stressor può produrre conseguenze sproporzionate\nIl rischio di complicanze, eventi avversi e outcome negativi aumenta"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
-    "title": "Invecchiamento e fragilità",
-    "section": "I problemi",
-    "text": "I problemi\n\nStandardizzare la misura e la definizione nella pratica\nEvitare che la fragilità diventi un criterio automatico di esclusione"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
-    "title": "Invecchiamento e fragilità",
-    "section": "Standardizzare la misura",
-    "text": "Standardizzare la misura\nLa fragilità descrive un rischio.\nCome possiamo misurarla?\n\nSono stati proposti numerosissimi strumenti\nAl di là dello strumento:\n\nè importante conoscere popolazione e validazione\nè importante soprattutto pensare alla fragilità"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
-    "title": "Invecchiamento e fragilità",
-    "section": "Frailty Index",
-    "text": "Frailty Index\nIntuizione:\n\nconsidero numerosi problemi di salute (= deficit)\nattribuisco a ciascun deficit un valore tra 0 e 1\nsommo il danno accumulato\nstandardizzo sul numero di deficit considerati\n\nFI = deficit accumulati / deficit valutati"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
-    "title": "Invecchiamento e fragilità",
-    "section": "Frailty Index — esempio",
-    "text": "Frailty Index — esempio"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "Fenotipo di fragilità",
-    "text": "Fenotipo di fragilità\nModello teorico:\nQuali sono le caratteristiche manifeste della fragilità?"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
-    "title": "Invecchiamento e fragilità",
-    "section": "Clinical Frailty Scale (CFS)",
-    "text": "Clinical Frailty Scale (CFS)\nApplicazione pratica"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
-    "title": "Invecchiamento e fragilità",
-    "section": "Dicono la stessa cosa?",
-    "text": "Dicono la stessa cosa?"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
-    "title": "Invecchiamento e fragilità",
-    "section": "Una fragilità, diverse prospettive",
-    "text": "Una fragilità, diverse prospettive\n\nFrailty Index: fragilità rappresentata come accumulo di deficit di salute\nFenotipo di Fried: fragilità rappresentata attraverso cinque manifestazioni fisiche\nClinical Frailty Scale: valutazione clinica globale, che considera anche funzione e dipendenza\n\nSono modi diversi di rappresentare e valutare la fragilità: non sono necessariamente intercambiabili.\n\nDistinguere il concetto di fragilità dagli strumenti con cui viene operazionalizzato. Nessuno dei tre costituisce una misura diretta, completa e definitiva della fragilità."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività",
-    "text": "Attività\nConsiderate i tre strumenti per valutare la fragilità:\n\nFI — accumulo di deficit\nFP — cinque criteri fenotipici\nCFS — giudizio clinico gerarchico su funzione e dipendenza\n\n\nIn gruppo, ordinate i tre strumenti in base a:\n\nFacilità di utilizzo in una struttura residenziale\nObiettività\nFacilità di comunicare il risultato al caregiver\n\nPer ogni graduatoria, motivate almeno la prima e l’ultima posizione.\nDomanda finale: usereste necessariamente lo stesso strumento in una ricerca e in una visita in struttura residenziale? Perché?\n\n\nCirca 8 minuti di discussione in gruppo; 7–10 minuti di restituzione.\nNon cercare una graduatoria «corretta»: far emergere vantaggi, limiti e contesto d’uso. La scelta richiede anche di considerare validazione, affidabilità, popolazione e fattibilità."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
-    "title": "Invecchiamento e fragilità",
-    "section": "Qual è il modello giusto?",
-    "text": "Qual è il modello giusto?\nNon esiste un unico modello operativo che rappresenti in modo completo e definitivo la fragilità.\nScegliamo lo strumento in base alla domanda\n\nChe cosa vogliamo conoscere?\nIn quale popolazione e contesto lo utilizzeremo?\nPer quale scopo useremo il risultato?\n\nIl modello è uno strumento per rispondere a una domanda, non la realtà stessa.\n\n«Non esiste il modello vero» non significa che gli strumenti siano equivalenti: validità, affidabilità e proprietà di misura contano. Richiamare il significato prognostico senza trasformarlo in una regola automatica di cura."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "Escludere sulla base della fragilità",
-    "text": "Escludere sulla base della fragilità\nMolti strumenti di fragilità hanno dimostrato capacità prognostica.\nQuesto significa che:\n\nè importante riconoscere la fragilità, non soltanto scegliere una specifica scala\nuna persona più fragile presenta mediamente un rischio maggiore di eventi avversi e morte\n\n\nPredire il rischio non significa decidere automaticamente il trattamento."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
-    "title": "Invecchiamento e fragilità",
-    "section": "Esempio",
-    "text": "Esempio\nUna persona di 78 anni, CFS 7, ha una neoplasia.\nÈ disponibile un trattamento oncologico con possibili benefici, ma anche con importanti effetti avversi.\nL’oncologo decide di non proporlo sulla sola base della fragilità.\nQual è il problema di questo approccio?"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
-    "title": "Invecchiamento e fragilità",
-    "section": "La cura centrata sulla persona",
-    "text": "La cura centrata sulla persona\nPuò essere condivisibile non iniziare uno specifico trattamento, ma rimangono molte possibilità:\n\nproporre un approccio simultaneo-palliativo\nproporre supporto psicologico\neducare sulla possibile evoluzione della malattia e sulle complicanze\nattivare servizi alla persona: SAD, ADI, IFeC, UCpDOM\nrevisionare la terapia\ndiscutere priorità e obiettivi della persona\n…"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività finale",
-    "text": "Attività finale\nStessa età. Stessa malattia. Stessa persona?\n\n\nMario, 82 anni\nHa uno scompenso cardiaco.\n\nvive solo\nfa la spesa e cucina autonomamente\nesce ogni giorno\ngestisce farmaci e appuntamenti\ndopo un’infezione respiratoria torna rapidamente alle attività abituali\n\n\nGiovanni, 82 anni\nHa uno scompenso cardiaco.\n\nvive con la moglie\nnecessita di aiuto per spesa e farmaci\nesce raramente\ncammina lentamente e si affatica facilmente\ndopo un’infezione respiratoria perde autonomia per diverse settimane"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività finale",
-    "text": "Attività finale\nIn gruppo\n\nChe cosa rende diverse queste due persone?\nChi vi sembra più fragile? Perché?\nQuali altre informazioni vorreste conoscere?\n\n\n5 minuti di riflessione individuale o a coppie.\n10 minuti di discussione in gruppo.\n10 minuti di restituzione.\nDurante il debrief raccogliere: mobilità, ADL/IADL, cognizione, umore, nutrizione, farmaci, rete sociale, abitazione, obiettivi della persona.\nQuesto prepara naturalmente la lezione sulla Valutazione Multidimensionale Geriatrica."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "Perché valutiamo la fragilità?",
-    "text": "Perché valutiamo la fragilità?\nLa fragilità ci aiuta a riconoscere persone anziane particolarmente vulnerabili, nelle quali possono essere presenti bisogni di salute complessi.\nRiconoscere la fragilità è un punto di partenza, non una conclusione.\nIdentificare una persona fragile può suggerire la necessità di approfondire la valutazione delle diverse dimensioni della sua salute.\nNella prossima lezione: la Valutazione Multidimensionale Geriatrica (VMD).\n\nLa fragilità orienta l’approfondimento, ma non è un criterio esclusivo o obbligatorio per accedere alla VMD. Collegare la domanda dell’attività finale («Quali altre informazioni vorreste conoscere?») alle dimensioni da valutare."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
-    "title": "Invecchiamento e fragilità",
-    "section": "Che cosa porto a casa?",
-    "text": "Che cosa porto a casa?\nVerifica finale individuale — 3 minuti\n\nChe cosa significa usare il modello bio-psico-sociale per comprendere un problema di salute? Spiega anche come interagiscono le sue componenti.\nChe cosa significa che una persona è fragile?\nPerché esistono diversi strumenti per valutare la fragilità? Come sceglieresti quale utilizzare?\n\n\nExit ticket individuale: raccogliere risposte brevi, senza richiedere una nuova analisi del caso. Utilizzare le risposte per verificare l’allineamento con i due obiettivi iniziali."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
-    "title": "Invecchiamento e fragilità",
-    "section": "Conclusione",
-    "text": "Conclusione\nAlla prossima!\n[se possibile, portate tablet o laptop!] {.alert}\n\nalberto.zucchelli@unibs.it"
+    "objectID": "index.html#corsi",
+    "href": "index.html#corsi",
+    "title": "Didattica",
+    "section": "",
+    "text": "Geriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
   },
   {
     "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#oggi-cosa-dovrete-sapere",
@@ -763,20 +413,6 @@
     "text": "Fonti e materiali\n\nWHO. Dementia fact sheet. https://www.who.int/news-room/fact-sheets/detail/dementia\nNICE NG97. Dementia: assessment, management and support. https://www.nice.org.uk/guidance/ng97\nIPA. Complete Guide to BPSD. https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf\nKales, Gitlin, Lyketsos. DICE approach. https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/\nNPI-Q italiano. https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf\nSito ufficiale NPI. https://mail.npitest.net/npi/about-npi.html\n\n\nSlide finale di supporto. Ricordare che NPI/NPI-Q sono strumenti coperti da copyright di J.L. Cummings; usare link e non ripubblicare il modulo nel repository pubblico. Verificare condizioni di uso se si intende distribuire copie cartacee."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Didattica",
-    "section": "",
-    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
-  },
-  {
-    "objectID": "index.html#corsi",
-    "href": "index.html#corsi",
-    "title": "Didattica",
-    "section": "",
-    "text": "Geriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
-  },
-  {
     "objectID": "geriatria/index.html",
     "href": "geriatria/index.html",
     "title": "Geriatria",
@@ -789,6 +425,237 @@
     "title": "Geriatria",
     "section": "",
     "text": "Invecchiamento e fragilità\nLa valutazione multidimensionale\nDemenza e disturbi del comportamento"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
+    "title": "Invecchiamento e fragilità",
+    "section": "Invecchiamento",
+    "text": "Invecchiamento\nPensate a una persona anziana.\nPensate a una o due caratteristiche che la definiscono.\n\nA quale categoria appartengono queste caratteristiche?\n\nCorpo / fisico\nCervello / cognizione\nPsiche / benessere mentale\nSocio-relazionale-economica\nClinica / malattie\nAltro"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
+    "title": "Invecchiamento e fragilità",
+    "section": "Oggi: che cosa dovrete saper fare?",
+    "text": "Oggi: che cosa dovrete saper fare?\n1. Guardare la persona attraverso il modello bio-psico-sociale\n\nRiconoscere gli aspetti biologici, psicologici e sociali di una situazione\nSpiegare come queste componenti possono influenzarsi reciprocamente\n\n2. Comprendere e utilizzare il concetto di fragilità\n\nSpiegare la fragilità come vulnerabilità agli stressor\nRiconoscere che esistono diversi modelli operativi e scegliere lo strumento in base allo scopo\nComprendere perché la fragilità può segnalare bisogni di salute complessi"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
+    "title": "Invecchiamento e fragilità",
+    "section": "Invecchiamento",
+    "text": "Invecchiamento\nL’età è solo una parte…\nL’età cronologica rimane\n\nuno dei principali fattori di rischio non modificabili per malattia e morte\n\n\nMA\n\n\nè uguale per tutti\nnon differenzia i bisogni"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
+    "title": "Invecchiamento e fragilità",
+    "section": "Il modello",
+    "text": "Il modello\nLa lente utilizzata per guardare l’invecchiamento è il modello\nbio-psico-sociale\n\n\nBiologico\n\nCellule, tessuti e organi cambiano con il tempo\nIl danno può accumularsi e favorire malattia\nLa malattia può contribuire a perdita di funzione e disabilità\n\n\nPsicologico\n\nL’invecchiamento modifica la percezione di sé e del mondo\nLa percezione di sé e del mondo può modificare il modo di invecchiare\n\n\nSociale\n\nL’invecchiamento modifica famiglia, lavoro, relazioni e società\nAmbiente e società influenzano a loro volta il modo di invecchiare"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
+    "title": "Invecchiamento e fragilità",
+    "section": "Visione biologica",
+    "text": "Visione biologica\n\n\n\nIl tempo e il fumo danneggiano vie aeree e tessuto polmonare\nSi sviluppano infiammazione cronica, alterazione delle secrezioni e rimodellamento\nIl flusso dell’aria diventa progressivamente più ostacolato\nSi instaura la broncopneumopatia cronica ostruttiva (BPCO)\nUna persona con BPCO può avere dispnea e ridotta tolleranza allo sforzo\nPuò inoltre sviluppare riacutizzazioni e complicanze respiratorie"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
+    "title": "Invecchiamento e fragilità",
+    "section": "Visione psicologica",
+    "text": "Visione psicologica\n\n\n\nUna persona che cade può sviluppare paura di cadere\nPer paura di cadere si muove meno\nLa minore attività favorisce perdita di forza\nPossono comparire riduzione del tono dell’umore e ritiro sociale\nLa persona si muove ancora meno\nIl rischio di una nuova caduta aumenta"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
+    "title": "Invecchiamento e fragilità",
+    "section": "Visione sociale",
+    "text": "Visione sociale\n\n\n\nUna persona anziana vive al terzo piano senza ascensore\nSe cammina con difficoltà, uscire di casa diventa difficile\nSi riducono movimento, attività e relazioni\nAumentano dipendenza e perdita di autonomia\nLe scale diventano un ostacolo sempre maggiore"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività — Il caso di Anna",
+    "text": "Attività — Il caso di Anna\nAnna, 79 anni, vive con il marito, che ha bisogno di aiuto nelle attività quotidiane.\nDa alcuni anni Anna ha uno scompenso cardiaco: il suo cuore fatica a sostenere la circolazione del sangue. Negli ultimi mesi avverte stanchezza e mancanza di fiato anche quando fa la spesa o rifà il letto.\nPer paura di sentirsi male fuori casa, esce sempre meno e ha smesso di incontrare le amiche con cui trascorreva i pomeriggi.\nIl marito si preoccupa quando Anna è affaticata e cerca di aiutarla, ma anche lui ha difficoltà nelle attività domestiche. Anna si sente in colpa perché non riesce più ad aiutarlo come prima.\nDa qualche tempo Anna si sente triste e ha perso interesse per molte delle sue attività abituali.\n\nLeggere il caso senza spiegare ulteriormente la fisiopatologia dello scompenso: gli elementi necessari per l’attività sono tutti descritti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività — Che cosa sta succedendo?",
+    "text": "Attività — Che cosa sta succedendo?\nRileggi il caso di Anna.\nIdentifica almeno un elemento per ciascuna dimensione\n\nBiologica: quali problemi riguardano il corpo e le sue funzioni?\nPsicologica: quali elementi riguardano emozioni, pensieri e percezione di sé?\nSociale: quali elementi riguardano relazioni, ruoli e vita quotidiana?\n\n\n4–5 minuti di lavoro individuale. Non chiedere di formulare nuove diagnosi o di conoscere la fisiopatologia dello scompenso."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività — Costruiamo la rete",
+    "text": "Attività — Costruiamo la rete\nIn gruppo\n\nCollegate con delle frecce gli elementi che possono influenzarsi.\nSpiegate per ogni freccia come un elemento può influenzare l’altro.\nCercate un circolo: una conseguenza può tornare a influenzare il problema iniziale?\n\n\nDomanda guida: come può un problema biologico influenzare la vita psicologica e sociale di Anna? E come possono queste dimensioni influenzare nuovamente il suo benessere fisico?\n\n\n8–10 minuti di discussione in gruppo; 8–10 minuti di restituzione.\nNel debrief costruire una rete con le relazioni proposte dagli studenti. Possibile esempio: mancanza di fiato → paura di uscire → meno incontri con le amiche → tristezza → ulteriore riduzione del movimento. Presentarlo come una possibile relazione, non come diagnosi certa o unica soluzione.\nChiedere: «Se ci occupassimo soltanto dello scompenso cardiaco, quali aspetti della situazione di Anna rischieremmo di trascurare?». Non richiedere ancora un piano assistenziale o una VMD."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
+    "title": "Invecchiamento e fragilità",
+    "section": "Il modello bio-psico-sociale — da ricordare",
+    "text": "Il modello bio-psico-sociale — da ricordare\nLa salute della persona è il risultato dell’interazione tra fattori biologici, psicologici e sociali.\n\nUno stesso problema di salute può avere componenti in tutte e tre le dimensioni\nQueste componenti non sono indipendenti: possono influenzarsi reciprocamente, anche formando circoli\nPer comprendere il problema e prendersi cura della persona dobbiamo considerare anche le interazioni, non soltanto la malattia\n\n\nSlide di consolidamento da mostrare DOPO l’attività: la definizione rende esplicito il principio emerso dalla rete degli studenti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
+    "title": "Invecchiamento e fragilità",
+    "section": "PAUSA",
+    "text": "PAUSA\n10 minuti…"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "La fragilità",
+    "text": "La fragilità\nOsservazione empirica\nAlcune persone hanno conseguenze molto più gravi di altre davanti allo stesso evento stressante."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
+    "title": "Invecchiamento e fragilità",
+    "section": "La fragilità",
+    "text": "La fragilità\nUno stesso stressor: un’infezione\n\n\nPersona robusta\n\nModesto impatto funzionale\nBuona tolleranza allo stressor\nRecupero relativamente rapido\nRitorno alle attività abituali\n\n\nPersona fragile\n\nImportante perdita funzionale\nMaggiore rischio di complicanze\nPossibile delirium o immobilità\nRecupero più lento o incompleto"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
+    "title": "Invecchiamento e fragilità",
+    "section": "La fragilità",
+    "text": "La fragilità\nUno stato di aumentata vulnerabilità agli stressor, legato alla riduzione delle riserve e della capacità di mantenere o recuperare l’omeostasi\n\nUno stressor può produrre conseguenze sproporzionate\nIl rischio di complicanze, eventi avversi e outcome negativi aumenta"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
+    "title": "Invecchiamento e fragilità",
+    "section": "I problemi",
+    "text": "I problemi\n\nStandardizzare la misura e la definizione nella pratica\nEvitare che la fragilità diventi un criterio automatico di esclusione"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
+    "title": "Invecchiamento e fragilità",
+    "section": "Standardizzare la misura",
+    "text": "Standardizzare la misura\nLa fragilità descrive un rischio.\nCome possiamo misurarla?\n\nSono stati proposti numerosissimi strumenti\nAl di là dello strumento:\n\nè importante conoscere popolazione e validazione\nè importante soprattutto pensare alla fragilità"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
+    "title": "Invecchiamento e fragilità",
+    "section": "Frailty Index",
+    "text": "Frailty Index\nIntuizione:\n\nconsidero numerosi problemi di salute (= deficit)\nattribuisco a ciascun deficit un valore tra 0 e 1\nsommo il danno accumulato\nstandardizzo sul numero di deficit considerati\n\nFI = deficit accumulati / deficit valutati"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
+    "title": "Invecchiamento e fragilità",
+    "section": "Frailty Index — esempio",
+    "text": "Frailty Index — esempio"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "Fenotipo di fragilità",
+    "text": "Fenotipo di fragilità\nModello teorico:\nQuali sono le caratteristiche manifeste della fragilità?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
+    "title": "Invecchiamento e fragilità",
+    "section": "Clinical Frailty Scale (CFS)",
+    "text": "Clinical Frailty Scale (CFS)\nApplicazione pratica"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
+    "title": "Invecchiamento e fragilità",
+    "section": "Dicono la stessa cosa?",
+    "text": "Dicono la stessa cosa?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
+    "title": "Invecchiamento e fragilità",
+    "section": "Una fragilità, diverse prospettive",
+    "text": "Una fragilità, diverse prospettive\n\nFrailty Index: fragilità rappresentata come accumulo di deficit di salute\nFenotipo di Fried: fragilità rappresentata attraverso cinque manifestazioni fisiche\nClinical Frailty Scale: valutazione clinica globale, che considera anche funzione e dipendenza\n\nSono modi diversi di rappresentare e valutare la fragilità: non sono necessariamente intercambiabili.\n\nDistinguere il concetto di fragilità dagli strumenti con cui viene operazionalizzato. Nessuno dei tre costituisce una misura diretta, completa e definitiva della fragilità."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività",
+    "text": "Attività\nConsiderate i tre strumenti per valutare la fragilità:\n\nFI — accumulo di deficit\nFP — cinque criteri fenotipici\nCFS — giudizio clinico gerarchico su funzione e dipendenza\n\n\nIn gruppo, ordinate i tre strumenti in base a:\n\nFacilità di utilizzo in una struttura residenziale\nObiettività\nFacilità di comunicare il risultato al caregiver\n\nPer ogni graduatoria, motivate almeno la prima e l’ultima posizione.\nDomanda finale: usereste necessariamente lo stesso strumento in una ricerca e in una visita in struttura residenziale? Perché?\n\n\nCirca 8 minuti di discussione in gruppo; 7–10 minuti di restituzione.\nNon cercare una graduatoria «corretta»: far emergere vantaggi, limiti e contesto d’uso. La scelta richiede anche di considerare validazione, affidabilità, popolazione e fattibilità."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
+    "title": "Invecchiamento e fragilità",
+    "section": "Qual è il modello giusto?",
+    "text": "Qual è il modello giusto?\nNon esiste un unico modello operativo che rappresenti in modo completo e definitivo la fragilità.\nScegliamo lo strumento in base alla domanda\n\nChe cosa vogliamo conoscere?\nIn quale popolazione e contesto lo utilizzeremo?\nPer quale scopo useremo il risultato?\n\nIl modello è uno strumento per rispondere a una domanda, non la realtà stessa.\n\n«Non esiste il modello vero» non significa che gli strumenti siano equivalenti: validità, affidabilità e proprietà di misura contano. Richiamare il significato prognostico senza trasformarlo in una regola automatica di cura."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "Escludere sulla base della fragilità",
+    "text": "Escludere sulla base della fragilità\nMolti strumenti di fragilità hanno dimostrato capacità prognostica.\nQuesto significa che:\n\nè importante riconoscere la fragilità, non soltanto scegliere una specifica scala\nuna persona più fragile presenta mediamente un rischio maggiore di eventi avversi e morte\n\n\nPredire il rischio non significa decidere automaticamente il trattamento."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
+    "title": "Invecchiamento e fragilità",
+    "section": "Esempio",
+    "text": "Esempio\nUna persona di 78 anni, CFS 7, ha una neoplasia.\nÈ disponibile un trattamento oncologico con possibili benefici, ma anche con importanti effetti avversi.\nL’oncologo decide di non proporlo sulla sola base della fragilità.\nQual è il problema di questo approccio?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
+    "title": "Invecchiamento e fragilità",
+    "section": "La cura centrata sulla persona",
+    "text": "La cura centrata sulla persona\nPuò essere condivisibile non iniziare uno specifico trattamento, ma rimangono molte possibilità:\n\nproporre un approccio simultaneo-palliativo\nproporre supporto psicologico\neducare sulla possibile evoluzione della malattia e sulle complicanze\nattivare servizi alla persona: SAD, ADI, IFeC, UCpDOM\nrevisionare la terapia\ndiscutere priorità e obiettivi della persona\n…"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività finale",
+    "text": "Attività finale\nStessa età. Stessa malattia. Stessa persona?\n\n\nMario, 82 anni\nHa uno scompenso cardiaco.\n\nvive solo\nfa la spesa e cucina autonomamente\nesce ogni giorno\ngestisce farmaci e appuntamenti\ndopo un’infezione respiratoria torna rapidamente alle attività abituali\n\n\nGiovanni, 82 anni\nHa uno scompenso cardiaco.\n\nvive con la moglie\nnecessita di aiuto per spesa e farmaci\nesce raramente\ncammina lentamente e si affatica facilmente\ndopo un’infezione respiratoria perde autonomia per diverse settimane"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività finale",
+    "text": "Attività finale\nIn gruppo\n\nChe cosa rende diverse queste due persone?\nChi vi sembra più fragile? Perché?\nQuali altre informazioni vorreste conoscere?\n\n\n5 minuti di riflessione individuale o a coppie.\n10 minuti di discussione in gruppo.\n10 minuti di restituzione.\nDurante il debrief raccogliere: mobilità, ADL/IADL, cognizione, umore, nutrizione, farmaci, rete sociale, abitazione, obiettivi della persona.\nQuesto prepara naturalmente la lezione sulla Valutazione Multidimensionale Geriatrica."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "Perché valutiamo la fragilità?",
+    "text": "Perché valutiamo la fragilità?\nLa fragilità ci aiuta a riconoscere persone anziane particolarmente vulnerabili, nelle quali possono essere presenti bisogni di salute complessi.\nRiconoscere la fragilità è un punto di partenza, non una conclusione.\nIdentificare una persona fragile può suggerire la necessità di approfondire la valutazione delle diverse dimensioni della sua salute.\nNella prossima lezione: la Valutazione Multidimensionale Geriatrica (VMD).\n\nLa fragilità orienta l’approfondimento, ma non è un criterio esclusivo o obbligatorio per accedere alla VMD. Collegare la domanda dell’attività finale («Quali altre informazioni vorreste conoscere?») alle dimensioni da valutare."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
+    "title": "Invecchiamento e fragilità",
+    "section": "Che cosa porto a casa?",
+    "text": "Che cosa porto a casa?\nVerifica finale individuale — 3 minuti\n\nChe cosa significa usare il modello bio-psico-sociale per comprendere un problema di salute? Spiega anche come interagiscono le sue componenti.\nChe cosa significa che una persona è fragile?\nPerché esistono diversi strumenti per valutare la fragilità? Come sceglieresti quale utilizzare?\n\n\nExit ticket individuale: raccogliere risposte brevi, senza richiedere una nuova analisi del caso. Utilizzare le risposte per verificare l’allineamento con i due obiettivi iniziali."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
+    "title": "Invecchiamento e fragilità",
+    "section": "Conclusione",
+    "text": "Conclusione\nAlla prossima!\n[se possibile, portate tablet o laptop!] {.alert}\n\nalberto.zucchelli@unibs.it"
   },
   {
     "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
@@ -994,38 +861,129 @@
     "text": "Materiali e fonti\n\nBritish Geriatrics Society · CGA\nGeriatrics 5Ms · articolo di riferimento\nCaso della sig.ra M\n\n\nSlide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
-    "href": "gruppoYES/Prescription_day/index.html#lo-studio-in-30-secondi",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Lo studio, in 30 secondi",
-    "text": "Lo studio, in 30 secondi\n\n\nStudio multicentrico nazionale di prevalenza puntuale nelle strutture residenziali italiane.\n\nResidenti presenti→1 ottobre 2024→terapie prescritte\n\n\nEtà ≥60 anni\nDati clinici e farmacologici raccolti da medici e infermieri\neCRF REDCap standardizzata\n\n\n\n3.400\n\n\nresidenti\n\n\n82\n\n\nstrutture"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#orientarsi-nella-documentazione-sanitaria",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#orientarsi-nella-documentazione-sanitaria",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Orientarsi nella documentazione sanitaria",
+    "text": "Orientarsi nella documentazione sanitaria\n\nLa documentazione nasce dalla cura.Ne lascia traccia e la collega nel tempo.\n\n\nTempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e sulla localizzazione delle informazioni. Non si chiede di interpretare i dati clinici. La durata complessiva è 120 minuti; scansione: avvio/icebreaker 10′, prima parte frontale 35′, attività 1 e debrief 23′, pausa 5′, seconda parte frontale 22′, attività 2 e debrief 20′, wrap-up 5′. I tempi restano nelle note, non nelle slide."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
-    "href": "gruppoYES/Prescription_day/index.html#la-domanda-centrale",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "La domanda centrale",
-    "text": "La domanda centrale\nCome vengono prescritti e somministrati i farmaci nelle LTCF italiane?\n\n\n\nPrescrizionePoliterapia, appropriatezza, interazioni\n\n\n\nSomministrazioneOrari, vie, ausili, compresse triturate e capsule aperte\n\n\n\nPersona e contestoFragilità, funzione, nutrizione, cognizione e struttura\n\n\n\n\n\n\n\n\nIl disegno consente di collegare, per ogni residente, profilo clinico e regime farmacologico."
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Che cosa sto guardando?",
+    "text": "Che cosa sto guardando?\n\nRompi ghiaccio · pensa, confrontati, vota\n\n\n\nRisultati Emocromo Analita · valore · unità · intervallo\n\n\nImaging Referto TC torace Quesito · tecnica · reperti · conclusioni\n\n\nTerapia Foglio di terapia Farmaco · dose · via · orario\n\n\nAnnotazione Diario clinico Data · ora · osservazione · autore\n\n\nFine ricovero Lettera di dimissione Diagnosi · terapia · indicazioni successive\n\n\n\nPrima: che documento è? Poi: quale processo può averlo prodotto?\n\n\nTempo: 9 minuti; avvio totale 10′ contando la slide titolo. Lasciare un minuto per osservare i frammenti, due minuti per annotare individualmente, tre per il confronto a coppie e tre per raccogliere risposte rapide. Per ora accettare ipotesi senza spiegare ogni documento. Chiedere quali indizi hanno usato: titolo, forma, sezioni, parole ricorrenti. Punto di arrivo: questi frammenti non sono pagine intercambiabili. Non interpretare i dati."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
-    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-il-residente",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Che cosa descrive il residente?",
-    "text": "Che cosa descrive il residente?\n\n\nProfilo clinico e funzionale\n\nEtà, sesso, permanenza in struttura\nPatologie croniche e condizioni acute\nADL e numero di funzioni perse\nFRAIL-NH e numero di criteri\nOssigenoterapia, SNG/PEG\n\n\nNutrizione e neurocognizione\n\nMNA-SF, BMI, calo ponderale, mobilità\nDisfagia, problemi di masticazione e deglutizione\nDiagnosi di demenza secondo ICD-10\nCDR\n24 BPSD: frequenza, gravità, numero e burden"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-nasce-da-ciò-che-facciamo",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-nasce-da-ciò-che-facciamo",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "La documentazione nasce da ciò che facciamo",
+    "text": "La documentazione nasce da ciò che facciamo\n\n\nOsservare\n\n\n→\n\n\nValutare\n\n\n→\n\n\nDecidere o agire\n\n\n→\n\n\nRegistrare\n\n\n\nPrima c’è un processo di cura.Il documento ne conserva una traccia.\n\n\nTempo: 6 minuti. Spiegare il legame generativo: il professionista compie o riceve un’attività di cura e registra l’informazione nel documento previsto dal processo o dal sistema locale. Fare un esempio semplice, senza contenuti medici: una richiesta genera un referto; una prescrizione genera una registrazione terapeutica; un’osservazione nel tempo genera una nota datata. La documentazione non è un testo unico scritto tutto insieme. Il documento rende ritrovabile la traccia anche per chi interviene dopo."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
-    "href": "gruppoYES/Prescription_day/index.html#che-cosa-descrive-ogni-farmaco",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Che cosa descrive ogni farmaco?",
-    "text": "Che cosa descrive ogni farmaco?\n\n\nUna riga per prescrizione\n\nPrincipio attivo e codice ATC\nDose, dosaggio e forma farmaceutica\nVia e tempi di somministrazione\nApertura della capsula o triturazione della compressa\nAusili e note di somministrazione\n\n\nInformazioni derivate\n\nGerarchia ATC e descrizioni\nCollegamento con DrugBank\nInterazioni farmaco–farmaco\nAderenza/compliance e motivi di difficoltà\nPossibile analisi del carico assistenziale\n\n\n\nStruttura dati: base clinica wide + prescrizioni long, collegate da ID pseudonimo"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#a-ogni-passaggio-una-traccia-diversa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#a-ogni-passaggio-una-traccia-diversa",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "A ogni passaggio, una traccia diversa",
+    "text": "A ogni passaggio, una traccia diversa\n\n\nAccessoVerbale di PSMotivo e disposizione\n\n\n→\n\n\nIngressoAnamnesi ed esame obiettivoStoria e condizioni iniziali\n\n\n→\n\n\nAccertamentoECG, laboratorio, TCRisultato dell’esame\n\n\n→\n\n\nAssistenzaTerapia e diarioOrdini, attività, osservazioni\n\n\n→\n\n\nConclusioneLettera di dimissioneSintesi e continuità\n\n\n\nTempo: 7 minuti. Guidare la lettura da sinistra a destra come mappa dei processi, non come esercizio di ricostruzione clinica. Per ciascuna tappa chiedere: “Che cosa è successo nel lavoro assistenziale che può aver generato questo documento?” Evidenziare che referto, diario e lettera di dimissione rispondono a domande e momenti diversi. La visita specialistica ambulatoriale è un altro processo: produce un referto di visita con valutazione, terapia e follow-up."
   },
   {
-    "objectID": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
-    "href": "gruppoYES/Prescription_day/index.html#un-dataset-più-linee-di-ricerca",
-    "title": "Prescription Day LTCFs 2024",
-    "section": "Un dataset, più linee di ricerca",
-    "text": "Un dataset, più linee di ricerca\n\n\n\nPattern di politerapia e multimorbidità\nPIM e interazioni clinicamente rilevanti\nComplessità del regime terapeutico\nModifica delle forme orali solide\n\n\n\nDisfagia, nutrizione e somministrazione\nFarmaci e BPSD nelle persone con demenza\nVariabilità tra strutture e territori\nProfili fenotipici e analisi di rete\n\n\n\nLa domanda per il gruppo: quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?\n\n\nContatti Alberto Zucchelli · alberto.zucchelli@unibs.it Gruppo YES · gruppoyes@sigg.it Alba Malara · albamalara@gmail.com"
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-traccia-ha-un-tempo-e-una-fonte",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-traccia-ha-un-tempo-e-una-fonte",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "La traccia ha un tempo e una fonte",
+    "text": "La traccia ha un tempo e una fonte\n\n\nChiQuale professionista o servizio registra?\n\n\nQuandoIn quale momento del percorso?\n\n\nChe cosaQuale osservazione, decisione o attività?\n\n\nDoveIn quale documento o sezione?\n\n\n\nData, ora, autore e intestazioni aiutano a collocare l’informazione.\n\n\nTempo: 5 minuti. Mostrare che una registrazione è interpretabile come traccia del processo anche grazie a data, ora, autore e sezione. Un diario contiene annotazioni successive; il referto indica quando l’esame è stato eseguito e quando il risultato è stato validato; la scheda terapeutica distingue la prescrizione dalle somministrazioni registrate. Non entrare in obblighi o responsabilità medico-legali."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-collega-professionisti",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-collega-professionisti",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "La documentazione collega professionisti",
+    "text": "La documentazione collega professionisti\n\n\nChi registra\n\n\n→\n\n\nDocumento condiviso\n\n\n→\n\n\nChi prosegue l’assistenza\n\n\n\nLa traccia rende comunicabile ciò che è stato fatto e ciò che serve dopo.\n\n\nTempo: 5 minuti. Usare un passaggio semplice: PS → reparto → domicilio/medico curante; o prescrizione → somministrazione registrata → comunicazione alla dimissione. Sottolineare che la documentazione aiuta la continuità tra persone, professionisti e setting. Il medesimo fascicolo è consultato con domande diverse. Non fare una lezione sui ruoli professionali."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#il-processo-orienta-linformazione-attesa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#il-processo-orienta-linformazione-attesa",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Il processo orienta l’informazione attesa",
+    "text": "Il processo orienta l’informazione attesa\n\n\n\n\n\n\n\n\nProcesso di cura\nDocumento tipico\nInformazioni che ci cerco per prime\n\n\n\n\nAccesso urgente\nVerbale di pronto soccorso\nMotivo, valutazione, esito dell’accesso\n\n\nValutazione all’ingresso\nAnamnesi, esame obiettivo\nStoria riportata, condizioni iniziali\n\n\nEsecuzione di un esame\nReferto ECG, laboratorio o radiologia\nRisultato, reperti, conclusione\n\n\nAssistenza durante il ricovero\nDiario clinico\nAnnotazioni datate e successive\n\n\nPrescrizione e somministrazione\nFoglio/scheda di terapia\nOrdine, dose, orario, somministrazione registrata\n\n\nVisita specialistica\nReferto di visita\nValutazione, terapia, controlli\n\n\nConclusione del ricovero\nLettera di dimissione\nSintesi, terapia a domicilio, follow-up\n\n\n\n\nTempo: 7 minuti. Leggere la tabella dall’alto verso il basso e associare ogni riga al processo che la genera. Il documento contiene informazioni pertinenti a quel processo: un referto descrive il risultato dell’esame; non sostituisce il diario, la scheda terapeutica o la sintesi di dimissione. Precisare che alcuni elementi possono essere ripresi altrove: ciò che cambia è il momento, la funzione e il livello di sintesi."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#anche-la-stessa-informazione-cambia-funzione",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#anche-la-stessa-informazione-cambia-funzione",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Anche la stessa informazione cambia funzione",
+    "text": "Anche la stessa informazione cambia funzione\n\n\nFarmaci abitualiRiferiti o riconciliati all’ingresso\n\n\nFarmaci prescrittiOrdini nella scheda di terapia\n\n\nFarmaci somministratiRegistrazioni di somministrazione\n\n\nFarmaci a domicilioIndicazioni nella lettera di dimissione\n\n\n\n“Terapia” può comparire in più luoghi: chiediti quale momento vuoi conoscere.\n\n\nTempo: 5 minuti. Questo esempio fissa l’idea che una categoria informativa può ricomparire. “Che cosa assumeva prima?”, “che cosa è stato prescritto in reparto?”, “che cosa è stato somministrato?”, “che cosa deve assumere dopo?” sono domande differenti e portano a documenti o sezioni differenti. Non discutere se la terapia sia appropriata."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#attività-1-abbina-il-processo-alla-sua-traccia",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#attività-1-abbina-il-processo-alla-sua-traccia",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Attività 1 Abbina il processo alla sua traccia",
+    "text": "Attività 1 Abbina il processo alla sua traccia\n\nGruppi di 3–4 · carte o lavoro alla lavagna\n\n\n\nProcessi\n\naccesso in emergenza;\nvalutazione all’ingresso;\nesecuzione di un esame;\nosservazione durante il ricovero;\nprescrizione di una terapia;\nvisita diabetologica;\nconclusione del ricovero.\n\n\nDocumenti\n\nverbale di pronto soccorso;\nanamnesi ed esame obiettivo;\nreferto ECG, laboratorio o TC;\ndiario clinico;\nfoglio di terapia;\nreferto di visita;\nlettera di dimissione.\n\n\n\nAbbinate processo e documento. Per ciascuna coppia, nominate una informazione che vi aspettereste di trovare.\n\n\nTempo: 14 minuti. Consegnare le carte o far lavorare i gruppi sulle liste. Quattro minuti per associare processo e documento; cinque per aggiungere una categoria di informazione attesa; cinque per confrontare due coppie tra gruppi. Evitare di chiedere diagnosi, interpretazione degli esami o valutazione della terapia. Se una funzione può essere svolta da più documenti, chiedere quale sia il documento prodotto più direttamente da quel processo."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-avete-abbinato",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-avete-abbinato",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Che cosa avete abbinato?",
+    "text": "Che cosa avete abbinato?\n\nDebrief · processo → documento → informazione\n\n\n\n\n\n\n\n\n\nSe avviene…\nMi aspetto…\nPer cercare…\n\n\n\n\nun accesso urgente\nverbale di PS\nmotivo ed esito dell’accesso\n\n\nuna valutazione iniziale\nanamnesi / esame obiettivo\nstoria e condizioni all’ingresso\n\n\nun esame\nreferto\nrisultato dell’esame\n\n\nun’attività nel tempo\ndiario\nannotazioni datate\n\n\nuna prescrizione\nscheda di terapia\nordine terapeutico\n\n\nuna visita specialistica\nreferto di visita\npiano e follow-up\n\n\nuna dimissione\nlettera di dimissione\nsintesi e indicazioni successive\n\n\n\n\nTempo: 9 minuti. Costruire o rivelare la mappa, accettando sinonimi locali. Ribadire che la stessa informazione può essere ripresa in documenti diversi, ma la funzione prevalente dà una prima destinazione. Domanda di controllo: “Se cerco l’esito di una TC, quale documento apro per primo e perché?”"
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#pausa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#pausa",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Pausa",
+    "text": "Pausa\n\nRiprendiamo tra poco\n\n\nPausa di 5 minuti. Al rientro riprendere con domande concrete: “Che farmaci prende questa persona?” e “Ha mai avuto una malattia cardiaca?”."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-domanda-concreta-indica-dove-guardare",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#una-domanda-concreta-indica-dove-guardare",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Una domanda concreta indica dove guardare",
+    "text": "Una domanda concreta indica dove guardare\n\n\n\n\n\n\n\nMi serve sapere…\nDove guardo preferibilmente?\n\n\n\n\nche cosa assume abitualmente\nanamnesi farmacologica / ultima visita ambulatoriale\n\n\nche cosa è stato prescritto in reparto\nfoglio o scheda di terapia\n\n\nche cosa è stato somministrato\nregistro delle somministrazioni\n\n\nche cosa assume a domicilio dopo il ricovero\nterapia nella lettera di dimissione\n\n\nse ha una cardiopatia già nota\nanamnesi patologica remota; lettere precedenti\n\n\n\n\nTempo: 6 minuti. Leggere ogni domanda e far anticipare una risposta con alzata di mano. Dire “preferibilmente” o “per prima cosa”: non esiste una sola collocazione universale e la stessa informazione può essere riportata in più punti. La storia remota è il primo luogo per patologie pregresse; una lettera di dimissione può riportare diagnosi rilevanti di episodi precedenti. Non trasformare l’esempio in verifica della completezza o della verità della cartella: questo sarà un obiettivo successivo."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#il-lessico-è-una-mappa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#il-lessico-è-una-mappa",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Il lessico è una mappa",
+    "text": "Il lessico è una mappa\n\n\n\n\n\n\n\nSe leggo…\nMi aspetto di trovare…\n\n\n\n\nAnamnesi patologica remota\nPatologie e condizioni precedenti riferite o documentate\n\n\nAnamnesi patologica prossima\nInformazioni sul problema che ha portato all’accesso\n\n\nEsame obiettivo d’ingresso\nOsservazioni registrate alla valutazione iniziale\n\n\nReferto\nRisultato strutturato di un esame o di una visita\n\n\nDiario clinico\nAnnotazioni successive collocate nel tempo\n\n\nFoglio di terapia\nPrescrizioni e, secondo il sistema, somministrazioni registrate\n\n\nLettera di dimissione\nSintesi e indicazioni alla conclusione del ricovero\n\n\n\n\nTempo: 6 minuti. Leggere i termini come segnaletica documentale. Non insegnare a interpretare l’anamnesi o l’esame obiettivo; gli studenti devono riconoscere il titolo e capire il genere di informazione che quella sezione ospita. Precisare che formati e denominazioni possono variare tra sistemi e servizi."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#prescritto-non-significa-somministrato",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#prescritto-non-significa-somministrato",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Prescritto non significa somministrato",
+    "text": "Prescritto non significa somministrato\n\n\nOrdine del prescrittore\n\n\n→\n\n\nScheda di terapia\n\n\n→\n\n\nRegistrazione della somministrazione\n\n\n\nPer la terapia a domicilio dopo il ricovero, cerca la sezione dedicata nella lettera di dimissione.\n\n\nTempo: 5 minuti. Mostrare perché la parola “farmaco” non basta a individuare la fonte: una prescrizione, una dose somministrata e una terapia alla dimissione sono tracce di processi diversi. La domanda definisce il documento di partenza. Evitare dettagli su farmacologia e sicurezza."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-primo-metodo-per-navigare",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#un-primo-metodo-per-navigare",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Un primo metodo per navigare",
+    "text": "Un primo metodo per navigare\n\n\nChe cosa cerco?\n\n\n→\n\n\nQuale processo lo produce?\n\n\n→\n\n\nQuale documento lo registra?\n\n\n→\n\n\nQuale sezione apro?\n\n\n\nPrima individua la destinazione. Poi leggi il dettaglio.\n\n\nTempo: 5 minuti. Fare un esempio di 30 secondi: “Voglio sapere il risultato della TC” → processo di esecuzione dell’esame → referto radiologico → reperti/conclusioni. Un secondo esempio: “Ha mai avuto una malattia cardiaca?” → storia clinica precedente → anamnesi patologica remota. Qui si conclude la mappa di consultazione prima dell’esercizio."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#attività-2-trova-la-destinazione-nel-fascicolo",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#attività-2-trova-la-destinazione-nel-fascicolo",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Attività 2 Trova la destinazione nel fascicolo",
+    "text": "Attività 2 Trova la destinazione nel fascicolo\n\nScavenger hunt · gruppi di 3–4\n\n\nPer ogni domanda: scrivete documento, sezione e pagina. Non interpretate il dato.\n\n\nQuale patologia cronica è riportata nella storia precedente?\nDove si trova il motivo dell’accesso in ospedale?\nQuale documento riporta il risultato della TC?\nDove trovate ciò che è stato prescritto durante il ricovero?\nQuale nota contiene un aggiornamento datato del decorso?\nDove sono riportati diagnosi e indicazioni dopo la dimissione?\n\n\nTempo di lavoro: 15 minuti. Usare il file “Fac-simile di documentazione clinica per la didattica”, caso A, pagine 2–6; distribuire le pagine del solo caso A. Gli studenti annotano documento, sezione e pagina per ogni risposta. È un esercizio di navigazione: se discutono il significato di un dato, riportarli a “dove lo avete trovato?”. Non chiedere di individuare informazioni mancanti, generare nuove domande cliniche o consultare fonti esterne."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#confrontiamo-le-destinazioni",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#confrontiamo-le-destinazioni",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "Confrontiamo le destinazioni",
+    "text": "Confrontiamo le destinazioni\n\nDebrief breve\n\n\n\nStoria precedenteAnamnesi patologica remota\n\n\nAccessoVerbale di pronto soccorso\n\n\nRisultato TCReferto radiologico\n\n\nOrdini terapeuticiFoglio di terapia\n\n\nRegistrazione nel tempoDiario clinico\n\n\nConclusione e continuitàLettera di dimissione\n\n\n\nTempo: 5 minuti. Chiedere a sei studenti o gruppi una risposta ciascuno. Fare notare l’indizio usato, non solo la pagina corretta. Risposte attese: APR; verbale PS; referto TC; scheda terapeutica; diario; lettera di dimissione. Se qualche dettaglio appare in più luoghi, distinguere ripresa/sintesi dalla sede più diretta."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-mappa-da-portare-con-sé",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-mappa-da-portare-con-sé",
+    "title": "Orientarsi nella documentazione sanitaria",
+    "section": "La mappa da portare con sé",
+    "text": "La mappa da portare con sé\n\nChe documento sto guardando?Quale processo lo ha prodotto?Che informazione ci cerco?\n\n\nProcesso di cura → documento → traccia → comunicazione tra professionisti\n\n\nTempo: 5 minuti, wrap-up. Raccogliere un esempio di domanda e la destinazione documentale scelta dagli studenti. Ripetere i tre punti di partenza e il legame tra processo, documento e informazione attesa. Specificare il confine: oggi impariamo a orientarci e a localizzare; in lezioni successive si lavorerà sulla lettura, sul riconoscimento di ciò che non si sa e sulla ricerca di informazioni. Chiusura: il documento non è un contenitore neutro; la sua funzione racconta perché e quando cercarlo."
   }
 ]
