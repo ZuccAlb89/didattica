@@ -129,36 +129,31 @@ Tempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e
 
 :::: {.doc-grid}
 ::: {.doc-card}
-<span class="doc-meta">Risultati</span>
+<span class="doc-meta">Laboratorio</span>
 <strong>Emocromo</strong>
-Analita · valore · unità · intervallo
+Leucociti 8,4 · Hb 13,2 · piastrine 248<br>Unità · intervalli di riferimento
 :::
 ::: {.doc-card}
-<span class="doc-meta">Imaging</span>
-<strong>Referto TC torace</strong>
-Quesito · tecnica · reperti · conclusioni
+<span class="doc-meta">Radiologia</span>
+<strong>TC torace</strong>
+Quesito: tosse e febbre<br>Reperti: addensamento basale destro<br>Conclusioni: quadro compatibile con…
 :::
 ::: {.doc-card}
-<span class="doc-meta">Terapia</span>
-<strong>Foglio di terapia</strong>
-Farmaco · dose · via · orario
+<span class="doc-meta">Terapia ospedaliera</span>
+<strong>Scheda di terapia</strong>
+Farmaco · dose · via · orario<br>Somministrazione: ora · firma
 :::
 ::: {.doc-card}
-<span class="doc-meta">Annotazione</span>
-<strong>Diario clinico</strong>
-Data · ora · osservazione · autore
-:::
-::: {.doc-card}
-<span class="doc-meta">Fine ricovero</span>
-<strong>Lettera di dimissione</strong>
-Diagnosi · terapia · indicazioni successive
+<span class="doc-meta">Diario clinico</span>
+<strong>Annotazione</strong>
+Ore 09:30 · riferisce meno affanno<br>Obiettività · piano · firma
 :::
 ::::
 
-<div class="instruction"><strong>Prima:</strong> che documento è? <strong>Poi:</strong> quale processo può averlo prodotto?</div>
+<div class="instruction"><strong>In coppia:</strong> che cosa si vede nel frammento? Che tipo di documento potrebbe essere?</div>
 
 ::: {.notes}
-Tempo: 9 minuti; avvio totale 10′ contando la slide titolo. Lasciare un minuto per osservare i frammenti, due minuti per annotare individualmente, tre per il confronto a coppie e tre per raccogliere risposte rapide. Per ora accettare ipotesi senza spiegare ogni documento. Chiedere quali indizi hanno usato: titolo, forma, sezioni, parole ricorrenti. Punto di arrivo: questi frammenti non sono pagine intercambiabili. Non interpretare i dati.
+Tempo: 9 minuti; avvio totale 10′ contando la slide titolo. Gli estratti sono inventati e didattici. Lasciare un minuto per osservarli, due minuti per notare quali informazioni sono esplicitamente presenti (valori, quesito/reperti, dose/orario, osservazione/piano), tre per il confronto a coppie e tre per raccogliere ipotesi. Non chiedere se i valori siano normali, se la TC sia grave o se la terapia sia appropriata. Scopo: dare un primo sguardo “sotto il coperchio” usando indizi di forma e contenuto.
 :::
 
 ## La documentazione nasce da ciò che facciamo
@@ -254,39 +249,47 @@ Tempo: 7 minuti. Leggere la tabella dall’alto verso il basso e associare ogni 
 Tempo: 5 minuti. Questo esempio fissa l’idea che una categoria informativa può ricomparire. “Che cosa assumeva prima?”, “che cosa è stato prescritto in reparto?”, “che cosa è stato somministrato?”, “che cosa deve assumere dopo?” sono domande differenti e portano a documenti o sezioni differenti. Non discutere se la terapia sia appropriata.
 :::
 
-## Attività 1  Abbina il processo alla sua traccia
+## Attività 1  Dagli estratti al processo
 
-<div class="activity-tag">Gruppi di 3–4 · carte o lavoro alla lavagna</div>
+<div class="activity-tag">Gruppi di 3–4 · osserva gli estratti</div>
 
-:::: {.columns}
-::: {.column width="48%"}
-**Processi**
-
-- accesso in emergenza;
-- valutazione all’ingresso;
-- esecuzione di un esame;
-- osservazione durante il ricovero;
-- prescrizione di una terapia;
-- visita diabetologica;
-- conclusione del ricovero.
+:::: {.doc-grid}
+::: {.doc-card}
+<span class="doc-meta">Estratto A</span>
+<strong>Accesso urgente</strong>
+“Motivo dell’accesso: dolore addominale da ieri. Esito: dimissione con indicazioni.”
 :::
-::: {.column width="52%"}
-**Documenti**
-
-- verbale di pronto soccorso;
-- anamnesi ed esame obiettivo;
-- referto ECG, laboratorio o TC;
-- diario clinico;
-- foglio di terapia;
-- referto di visita;
-- lettera di dimissione.
+::: {.doc-card}
+<span class="doc-meta">Estratto B</span>
+<strong>Valutazione iniziale</strong>
+“Riferisce tosse da quattro giorni. EO: eupnoico a riposo, crepitii basali a destra.”
+:::
+::: {.doc-card}
+<span class="doc-meta">Estratto C</span>
+<strong>Referto di esame</strong>
+“ECG: ritmo sinusale, FC 78/min. Conclusioni: nei limiti.”
+:::
+::: {.doc-card}
+<span class="doc-meta">Estratto D</span>
+<strong>Diario durante il ricovero</strong>
+“Ore 16:00: apiretico dopo terapia. Prosegue monitoraggio; rivalutazione domani.”
+:::
+::: {.doc-card}
+<span class="doc-meta">Estratto E</span>
+<strong>Scheda di terapia</strong>
+“Farmaco X 500 mg · orale · ore 08 e 20. Somministrata ore 08:10.”
+:::
+::: {.doc-card}
+<span class="doc-meta">Estratto F</span>
+<strong>Visita diabetologica</strong>
+“Glicemie domiciliari annotate. Terapia confermata; controllo tra tre mesi.”
 :::
 ::::
 
-<div class="instruction">Abbinate processo e documento. Per ciascuna coppia, nominate una informazione che vi aspettereste di trovare.</div>
+<div class="instruction">Per ogni estratto: nominate il documento/processo e indicate le informazioni visibili. Nessuna interpretazione clinica.</div>
 
 ::: {.notes}
-Tempo: 14 minuti. Consegnare le carte o far lavorare i gruppi sulle liste. Quattro minuti per associare processo e documento; cinque per aggiungere una categoria di informazione attesa; cinque per confrontare due coppie tra gruppi. Evitare di chiedere diagnosi, interpretazione degli esami o valutazione della terapia. Se una funzione può essere svolta da più documenti, chiedere quale sia il documento prodotto più direttamente da quel processo.
+Tempo: 14 minuti. Estratti sintetici, inventati e non riferibili a persone reali. 2 minuti: lettura individuale. 6 minuti: a gruppi, per ciascun estratto scrivere (1) quale processo assistenziale lo genera e (2) quali tipi di informazione compaiono davvero nel frammento. 4 minuti: confronto tra gruppi su due estratti. 2 minuti: ricapitolazione. Si può usare il lessico proposto: motivo/esito, anamnesi, esame obiettivo (EO), reperto/conclusione, annotazione datata, prescrizione/somministrazione, valutazione/piano/follow-up. Non chiedere se la diagnosi o terapia sia corretta: l'obiettivo è riconoscere il tipo di traccia e il suo contenuto manifesto.
 :::
 
 ## Che cosa avete abbinato?
