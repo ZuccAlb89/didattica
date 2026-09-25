@@ -46,13 +46,14 @@ format:
           display: grid; gap: .5em; margin-top: .7em;
         }
         .doc-grid { grid-template-columns: repeat(3, 1fr); }
+        .doc-grid.four { grid-template-columns: repeat(4, 1fr); }
         .function-grid { grid-template-columns: repeat(2, 1fr); }
         .role-grid { grid-template-columns: repeat(4, 1fr); }
         .category-grid { grid-template-columns: repeat(3, 1fr); }
         .doc-card {
           background: white; border: 1px solid #d8e0e3; border-radius: .32em;
           box-shadow: 0 3px 10px rgba(0,0,0,.06); box-sizing: border-box;
-          font-size: .52em; line-height: 1.28; min-height: 8em; padding: .65em .75em;
+          font-size: .52em; line-height: 1.28; min-height: 6.5em; padding: .65em .75em;
         }
         .doc-card strong, .info-card strong, .role-card strong {
           color: var(--blue); display: block; margin-bottom: .3em;
@@ -127,7 +128,7 @@ Tempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e
 
 <div class="activity-tag">Rompi ghiaccio · osserva, pensa, confronta</div>
 
-:::: {.doc-grid}
+:::: {.doc-grid .four}
 ::: {.doc-card}
 <span class="doc-meta">Estratto A</span>
 Leucociti 14,8 ×10⁹/L<br>PCR 137 mg/L<br>Creatinina 1,42 mg/dL
