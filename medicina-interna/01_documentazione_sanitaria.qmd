@@ -3,7 +3,7 @@ lang: it
 pagetitle: "Orientarsi nella documentazione sanitaria"
 resources:
   - materiali/fac-simile-documentazione-clinica.pdf
-  - materiali/qr-fac-simile-documentazione-clinica.svg
+  - materiali/qr-fac-simile-documentazione-clinica.png
 format:
   clean-revealjs:
     slide-number: c/t
@@ -412,7 +412,7 @@ Tempo: 5 minuti. Fare un esempio di 30 secondi: “Voglio sapere il risultato de
 ::: {.column width="25%"}
 <div class="qr-card">
 <strong>Fac-simile</strong>
-<img src="materiali/qr-fac-simile-documentazione-clinica.svg" alt="QR code per aprire il fac-simile di documentazione clinica">
+<img src="materiali/qr-fac-simile-documentazione-clinica.png" alt="QR code per aprire il fac-simile di documentazione clinica">
 <p><a class="download-link" target="_blank" href="https://zuccalb89.github.io/didattica/medicina-interna/materiali/fac-simile-documentazione-clinica.pdf">Apri il PDF</a></p>
 <p>Caso A · pagine 2–6</p>
 </div>
