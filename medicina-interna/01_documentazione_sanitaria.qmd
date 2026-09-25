@@ -1,11 +1,8 @@
 ---
-title: "Orientarsi nella documentazione sanitaria"
-subtitle: "Capire che cosa sto guardando e dove cercare l’informazione"
-author: "Alberto Zucchelli"
 lang: it
+pagetitle: "Orientarsi nella documentazione sanitaria"
 format:
   clean-revealjs:
-    title-slide: false
     slide-number: c/t
     transition: fade
     incremental: false
