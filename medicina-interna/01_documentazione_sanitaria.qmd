@@ -125,35 +125,33 @@ Tempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e
 
 ## Che cosa sto guardando?
 
-<div class="activity-tag">Rompi ghiaccio · pensa, confrontati, vota</div>
+<div class="activity-tag">Rompi ghiaccio · osserva, pensa, confronta</div>
 
 :::: {.doc-grid}
 ::: {.doc-card}
-<span class="doc-meta">Laboratorio</span>
-<strong>Emocromo</strong>
-Leucociti 8,4 · Hb 13,2 · piastrine 248<br>Unità · intervalli di riferimento
+<span class="doc-meta">Estratto A</span>
+Leucociti 14,8 ×10⁹/L<br>PCR 137 mg/L<br>Creatinina 1,42 mg/dL
 :::
 ::: {.doc-card}
-<span class="doc-meta">Radiologia</span>
-<strong>TC torace</strong>
-Quesito: tosse e febbre<br>Reperti: addensamento basale destro<br>Conclusioni: quadro compatibile con…
+<span class="doc-meta">Estratto B</span>
+Quesito clinico: dispnea e ipossiemia.<br>Reperti: consolidamento basale destro.<br>Conclusioni: assenza di embolia…
 :::
 ::: {.doc-card}
-<span class="doc-meta">Terapia ospedaliera</span>
-<strong>Scheda di terapia</strong>
-Farmaco · dose · via · orario<br>Somministrazione: ora · firma
+<span class="doc-meta">Estratto C</span>
+Ceftriaxone<br>2 g EV ogni 24 ore, ore 16<br>Dal 10/09 al 14/09
 :::
 ::: {.doc-card}
-<span class="doc-meta">Diario clinico</span>
-<strong>Annotazione</strong>
-Ore 09:30 · riferisce meno affanno<br>Obiettività · piano · firma
+<span class="doc-meta">Estratto D</span>
+13/09, ore 09:20<br>Cammina senza dispnea rilevante.<br>Possibile dimissione domani.
 :::
 ::::
 
-<div class="instruction"><strong>In coppia:</strong> che cosa si vede nel frammento? Che tipo di documento potrebbe essere?</div>
+<div class="takeaway"><strong>Cercate:</strong> dati misurati · descrizioni o osservazioni · decisioni o prescrizioni · riferimenti temporali</div>
+
+<div class="instruction"><strong>In coppia:</strong> indicate che cosa vedete e le parole che vi hanno aiutato. Poi ipotizzate il documento.</div>
 
 ::: {.notes}
-Tempo: 9 minuti; avvio totale 10′ contando la slide titolo. Gli estratti sono inventati e didattici. Lasciare un minuto per osservarli, due minuti per notare quali informazioni sono esplicitamente presenti (valori, quesito/reperti, dose/orario, osservazione/piano), tre per il confronto a coppie e tre per raccogliere ipotesi. Non chiedere se i valori siano normali, se la TC sia grave o se la terapia sia appropriata. Scopo: dare un primo sguardo “sotto il coperchio” usando indizi di forma e contenuto.
+Tempo: 9 minuti; avvio totale 10′ contando la slide titolo. Gli estratti sono adattati dal fac-simile didattico. Un minuto per osservare; due per sottolineare un dato, una descrizione, una decisione o un riferimento temporale; tre per il confronto a coppie; tre per raccogliere le ipotesi sui documenti. Più categorie possono comparire nello stesso estratto. Rivelare alla fine: laboratorio, referto TC, foglio di terapia, diario clinico. Non chiedere se i valori siano normali, se la TC sia grave o se la terapia sia appropriata.
 :::
 
 ## La documentazione nasce da ciò che facciamo
@@ -251,63 +249,58 @@ Tempo: 5 minuti. Questo esempio fissa l’idea che una categoria informativa pu�
 
 ## Attività 1  Dagli estratti al processo
 
-<div class="activity-tag">Gruppi di 3–4 · osserva gli estratti</div>
+<div class="activity-tag">Gruppi di 3–4 · due estratti per gruppo</div>
 
 :::: {.doc-grid}
 ::: {.doc-card}
 <span class="doc-meta">Estratto A</span>
-<strong>Accesso urgente</strong>
-“Motivo dell’accesso: dolore addominale da ieri. Esito: dimissione con indicazioni.”
+“Motivo di accesso: dispnea e febbre da circa tre giorni.”<br><br>“Ore 13:20: disposto ricovero in Medicina interna.”
 :::
 ::: {.doc-card}
 <span class="doc-meta">Estratto B</span>
-<strong>Valutazione iniziale</strong>
-“Riferisce tosse da quattro giorni. EO: eupnoico a riposo, crepitii basali a destra.”
+“PA 112/68 mmHg, FC 99/min.”<br><br>“Torace: ridotta espansione della base destra, crepitii inspiratori.”
 :::
 ::: {.doc-card}
 <span class="doc-meta">Estratto C</span>
-<strong>Referto di esame</strong>
-“ECG: ritmo sinusale, FC 78/min. Conclusioni: nei limiti.”
+“Quesito clinico: dispnea e ipossiemia.”<br><br>“Conclusioni: assenza di embolia; addensamento del lobo inferiore destro.”
 :::
 ::: {.doc-card}
 <span class="doc-meta">Estratto D</span>
-<strong>Diario durante il ricovero</strong>
-“Ore 16:00: apiretico dopo terapia. Prosegue monitoraggio; rivalutazione domani.”
+“Ceftriaxone: 2 g EV ogni 24 ore, ore 16.”<br><br>“10/09–14/09; rivalutazione quotidiana.”
 :::
 ::: {.doc-card}
 <span class="doc-meta">Estratto E</span>
-<strong>Scheda di terapia</strong>
-“Farmaco X 500 mg · orale · ore 08 e 20. Somministrata ore 08:10.”
+“13/09, ore 09:20. Cammina in corridoio senza dispnea rilevante.”<br><br>“Possibile dimissione domani.”
 :::
 ::: {.doc-card}
 <span class="doc-meta">Estratto F</span>
-<strong>Visita diabetologica</strong>
-“Glicemie domiciliari annotate. Terapia confermata; controllo tra tre mesi.”
+“Terapia alla dimissione: ramipril 5 mg al mattino.”<br><br>“Valutazione dal MMG entro 5–7 giorni.”
 :::
 ::::
 
-<div class="instruction">Per ogni estratto: nominate il documento/processo e indicate le informazioni visibili. Nessuna interpretazione clinica.</div>
+<div class="takeaway very-small"><strong>Processi:</strong> accesso urgente · valutazione all’ingresso · esecuzione di un esame · prescrizione terapeutica · osservazione nel ricovero · dimissione<br><strong>Documenti:</strong> verbale PS · esame obiettivo · referto TC · foglio di terapia · diario clinico · lettera di dimissione</div>
+
+<div class="instruction"><strong>Compilate:</strong> informazioni visibili → processo → documento. Usate: motivo/esito · parametri/reperti · quesito/conclusioni · farmaco/dose · data/evoluzione/piano · terapia/follow-up.</div>
 
 ::: {.notes}
-Tempo: 14 minuti. Estratti sintetici, inventati e non riferibili a persone reali. 2 minuti: lettura individuale. 6 minuti: a gruppi, per ciascun estratto scrivere (1) quale processo assistenziale lo genera e (2) quali tipi di informazione compaiono davvero nel frammento. 4 minuti: confronto tra gruppi su due estratti. 2 minuti: ricapitolazione. Si può usare il lessico proposto: motivo/esito, anamnesi, esame obiettivo (EO), reperto/conclusione, annotazione datata, prescrizione/somministrazione, valutazione/piano/follow-up. Non chiedere se la diagnosi o terapia sia corretta: l'obiettivo è riconoscere il tipo di traccia e il suo contenuto manifesto.
+Tempo: 14 minuti. Estratti abbreviati dal fac-simile, tutti fittizi. Assegnare A–B, C–D o E–F ai gruppi: 2 minuti di lettura individuale; 6 minuti per compilare le tre colonne “informazioni visibili → processo → documento”; 4 minuti per confrontarsi con un gruppo che ha estratti diversi; 2 minuti per preparare una risposta. Il repertorio visibile evita che la conoscenza del lessico sia un prerequisito nascosto. Se emergono più categorie informative, far scegliere quelle esplicitamente presenti. Non valutare diagnosi o terapia.
 :::
 
 ## Che cosa avete abbinato?
 
 <div class="activity-tag">Debrief · processo → documento → informazione</div>
 
-| Se avviene… | Mi aspetto… | Per cercare… |
-|---|---|---|
-| un accesso urgente | verbale di PS | motivo ed esito dell’accesso |
-| una valutazione iniziale | anamnesi / esame obiettivo | storia e condizioni all’ingresso |
-| un esame | referto | risultato dell’esame |
-| un’attività nel tempo | diario | annotazioni datate |
-| una prescrizione | scheda di terapia | ordine terapeutico |
-| una visita specialistica | referto di visita | piano e follow-up |
-| una dimissione | lettera di dimissione | sintesi e indicazioni successive |
+| Estratto | Processo | Documento | Informazioni visibili |
+|---|---|---|---|
+| A | Accesso urgente | Verbale di PS | Motivo ed esito |
+| B | Valutazione all’ingresso | Esame obiettivo | Parametri e reperti |
+| C | Esecuzione di un esame | Referto TC | Quesito e conclusioni |
+| D | Prescrizione terapeutica | Foglio di terapia | Farmaco, dose, periodo |
+| E | Osservazione nel ricovero | Diario clinico | Data, evoluzione, piano |
+| F | Dimissione | Lettera di dimissione | Terapia e follow-up |
 
 ::: {.notes}
-Tempo: 9 minuti. Costruire o rivelare la mappa, accettando sinonimi locali. Ribadire che la stessa informazione può essere ripresa in documenti diversi, ma la funzione prevalente dà una prima destinazione. Domanda di controllo: “Se cerco l’esito di una TC, quale documento apro per primo e perché?”
+Tempo: 9 minuti. Chiedere una risposta a ciascun gruppo e rivelare progressivamente la riga corrispondente. Prima far nominare l’indizio, poi processo e documento. Accettare sinonimi locali. Ribadire che un’informazione può essere ripresa altrove, mentre il processo indica la fonte più diretta. Domanda di controllo: “Se cerco l’esito originale di una TC, quale documento apro per primo e perché?”
 :::
 
 ## Pausa
@@ -381,17 +374,19 @@ Tempo: 5 minuti. Fare un esempio di 30 secondi: “Voglio sapere il risultato de
 
 <div class="activity-tag">Scavenger hunt · gruppi di 3–4</div>
 
-<div class="instruction"><strong>Per ogni domanda:</strong> scrivete documento, sezione e pagina. Non interpretate il dato.</div>
+<div class="takeaway"><strong>Materiale:</strong> fac-simile · caso A · pagine 2–6</div>
 
-1. Quale patologia cronica è riportata nella storia precedente?
-2. Dove si trova il motivo dell’accesso in ospedale?
-3. Quale documento riporta il risultato della TC?
-4. Dove trovate ciò che è stato prescritto durante il ricovero?
-5. Quale nota contiene un aggiornamento datato del decorso?
-6. Dove sono riportati diagnosi e indicazioni dopo la dimissione?
+<div class="instruction"><strong>Per ogni domanda:</strong> scrivete documento, sezione, pagina e una breve frase trovata.</div>
+
+1. Dove è registrato l’elenco delle patologie già note? Riportatene una.
+2. Quale documento registra direttamente il motivo del primo accesso? Riportatelo.
+3. Nel referto originale dell’angio-TC, quale sezione sintetizza i risultati? Riportate una conclusione.
+4. Dove compare la prescrizione originale del ceftriaxone? Riportate dose e via.
+5. Quale nota di diario registra la sospensione dell’ossigeno? Annotate data e ora.
+6. Dove sono indicate terapia a domicilio e controlli successivi? Riportate un’indicazione.
 
 ::: {.notes}
-Tempo di lavoro: 15 minuti. Usare il file “Fac-simile di documentazione clinica per la didattica”, caso A, pagine 2–6; distribuire le pagine del solo caso A. Gli studenti annotano documento, sezione e pagina per ogni risposta. È un esercizio di navigazione: se discutono il significato di un dato, riportarli a “dove lo avete trovato?”. Non chiedere di individuare informazioni mancanti, generare nuove domande cliniche o consultare fonti esterne.
+Tempo di lavoro: 15 minuti. Distribuire le pagine 2–6 del caso A. Modellare il formato senza risolvere una delle sei domande: “documento → sezione → pagina → parole trovate”. Gli studenti riportano contenuto esplicito e posizione. “Direttamente” e “originale” indicano la fonte prodotta dal processo, anche quando l’informazione è ripresa altrove. Se discutono il significato clinico, riportarli a “dove e con quali parole lo avete trovato?”.
 :::
 
 ## Confrontiamo le destinazioni
@@ -399,16 +394,16 @@ Tempo di lavoro: 15 minuti. Usare il file “Fac-simile di documentazione clinic
 <div class="activity-tag">Debrief breve</div>
 
 <div class="function-grid">
-  <div class="info-card"><strong>Storia precedente</strong>Anamnesi patologica remota</div>
-  <div class="info-card"><strong>Accesso</strong>Verbale di pronto soccorso</div>
-  <div class="info-card"><strong>Risultato TC</strong>Referto radiologico</div>
-  <div class="info-card"><strong>Ordini terapeutici</strong>Foglio di terapia</div>
-  <div class="info-card"><strong>Registrazione nel tempo</strong>Diario clinico</div>
-  <div class="info-card"><strong>Conclusione e continuità</strong>Lettera di dimissione</div>
+  <div class="info-card"><strong>1 · Patologie già note · p. 2</strong>A2 · Anamnesi patologica remota<br>“Ipertensione… malattia renale… artrosi…”</div>
+  <div class="info-card"><strong>2 · Primo accesso · p. 2</strong>A1 · Verbale di PS · Motivo di accesso<br>“Dispnea e febbre…”</div>
+  <div class="info-card"><strong>3 · Angio-TC · p. 4</strong>A7 · Referto · Conclusioni<br>“Assenza di embolia… addensamento…”</div>
+  <div class="info-card"><strong>4 · Ceftriaxone · p. 4</strong>A8 · Foglio di terapia<br>“2 g EV ogni 24 ore…”</div>
+  <div class="info-card"><strong>5 · Sospensione O₂ · p. 5</strong>A9 · Diario · Nota 3<br>“13/09/2026 ore 09:20”</div>
+  <div class="info-card"><strong>6 · Dopo la dimissione · p. 6</strong>A10 · Terapia alla dimissione<br>Follow-up e indicazioni</div>
 </div>
 
 ::: {.notes}
-Tempo: 5 minuti. Chiedere a sei studenti o gruppi una risposta ciascuno. Fare notare l’indizio usato, non solo la pagina corretta. Risposte attese: APR; verbale PS; referto TC; scheda terapeutica; diario; lettera di dimissione. Se qualche dettaglio appare in più luoghi, distinguere ripresa/sintesi dalla sede più diretta.
+Tempo: 5 minuti. Chiedere a sei studenti o gruppi una risposta ciascuno nel formato richiesto. Fare nominare l’indizio e leggere poche parole del documento, non soltanto la pagina. Per le informazioni riprese in più luoghi, distinguere la fonte più diretta dalla successiva sintesi o citazione.
 :::
 
 ## La mappa da portare con sé
