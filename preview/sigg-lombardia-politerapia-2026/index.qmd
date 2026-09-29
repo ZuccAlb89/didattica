@@ -1,0 +1,290 @@
+---
+title: "Sfide e gestione della politerapia in RSA"
+subtitle: "Dal numero di farmaci all'appropriatezza della cura"
+author: "Alberto Zucchelli"
+format:
+  clean-revealjs:
+    css: styles.css
+    slide-number: c/t
+    transition: fade
+    width: 1280
+    height: 720
+    margin: 0.045
+    incremental: false
+---
+
+## Sfide e gestione della politerapia in RSA {.title-slide-custom}
+
+<div class="eyebrow">SIGG Lombardia 2026</div>
+
+# Dal numero di farmaci<br>all'appropriatezza della cura
+
+<div class="title-rule"></div>
+
+<div class="title-author">Alberto Zucchelli</div>
+
+
+## La politerapia è la norma
+
+<div class="stats-3">
+  <div class="stat">
+    <div class="num">7,7</div>
+    <div class="lab">farmaci / residente</div>
+  </div>
+  <div class="stat">
+    <div class="num">84,8%</div>
+    <div class="lab">≥ 5 farmaci</div>
+  </div>
+  <div class="stat">
+    <div class="num">24,0%</div>
+    <div class="lab">≥ 10 farmaci</div>
+  </div>
+</div>
+
+<div class="sample-strip">
+  <strong>Prescription Day LTCFs 2024</strong>
+  <span>3.400 residenti</span>
+  <span>82 strutture</span>
+  <span>età media 84,7 anni</span>
+</div>
+
+<div class="ref">Malara et al. Aging Clin Exp Res. 2025;37:291.</div>
+
+
+## 7,7 farmaci. Ma in chi?
+
+<div class="stats-4">
+  <div class="mini-stat"><span>49,7%</span><b>fragilità severa</b></div>
+  <div class="mini-stat"><span>48,2%</span><b>demenza</b></div>
+  <div class="mini-stat"><span>96,2%</span><b>≥1 ADL compromessa</b></div>
+  <div class="mini-stat"><span>15,5%</span><b>disfagia</b></div>
+</div>
+
+<div class="equation-box">
+  <span class="pill-label">POLYPHARMACY</span>
+  <span class="neq">≠</span>
+  <span class="pill-label danger">INAPPROPRIATE POLYPHARMACY</span>
+</div>
+
+<div class="question">La domanda non è “quanti?”, ma <strong>“appropriati per chi, e per quale obiettivo?”</strong></div>
+
+<div class="ref">Malara et al. Aging Clin Exp Res. 2025;37:291.</div>
+
+
+## Il rischio è nella complessità
+
+<div class="two-col">
+<div>
+
+<div class="big-callout"><span>42,2%</span><small>≥1 DDI potenzialmente clinicamente rilevante</small></div>
+
+</div>
+<div>
+
+<div class="bar-row"><span>≥3 farmaci CNS-active</span><div class="bar"><i style="width:78%"></i></div><b>33,2%</b></div>
+<div class="bar-row"><span>≥2 anticolinergici</span><div class="bar"><i style="width:17%"></i></div><b>7,1%</b></div>
+<div class="bar-row"><span>SSRI + serotonergico</span><div class="bar"><i style="width:10%"></i></div><b>4,1%</b></div>
+<div class="bar-row"><span>≥2 K-sparing</span><div class="bar"><i style="width:8%"></i></div><b>3,5%</b></div>
+
+</div>
+</div>
+
+<div class="bottom-message">Il numero di farmaci è un segnale. <strong>Il rischio è nelle combinazioni, nei burden cumulativi e nel contesto clinico.</strong></div>
+
+<div class="ref">Malara et al. J Gerontol A Biol Sci Med Sci. 2026;81:glag104 · Anrys et al. JAMDA. 2021;22:2121–2133.</div>
+
+
+## Prescrivere ≠ somministrare
+
+<div class="sodf-layout">
+<div class="sodf-flow">
+  <div class="flow-card"><span>20.290</span><small>prescrizioni orali</small></div>
+  <div class="arrow">→</div>
+  <div class="flow-card accent"><span>4.655</span><small>SODF modificate</small></div>
+  <div class="arrow">→</div>
+  <div class="flow-card danger-card"><span>38,7%</span><small>inappropriate / likely inappropriate</small></div>
+</div>
+
+<div class="resident-badge"><span>31,7%</span><small>dei residenti riceve ≥1 SODF modificata in modo potenzialmente inappropriato</small></div>
+</div>
+
+<div class="ref">Prescription Day LTCFs — analisi SODF, manuscript.</div>
+
+
+## Crushing is prescribing
+
+<div class="two-col pill-slide">
+<div>
+  <img src="sodf.svg" class="sodf-img" alt="Schema di una compressa gastroresistente e triturazione">
+</div>
+<div>
+  <div class="check-title">Prima di modificare una SODF:</div>
+  <div class="source-grid">
+    <div>SIFO</div>
+    <div>Do Not Crush lists</div>
+    <div>SmPC / RCP</div>
+    <div>Farmacista / farmacologo</div>
+  </div>
+
+  <div class="formulation-msg">La <strong>formulazione</strong><br>fa parte della prescrizione.</div>
+</div>
+</div>
+
+<div class="ref">SIFO · FVG/ISMP-derived list · Therapeutic Research Center “Do Not Crush” Update 2025.</div>
+
+
+## Un esempio che resta in mente
+
+<div class="pantoprazole">
+  <div class="drug-name">PANTOPRAZOLO</div>
+  <div class="drug-sub">formulazione gastroresistente / delayed-release</div>
+
+  <div class="drug-steps">
+    <div><span class="circle">1</span><b>Rivestimento</b><small>protegge il principio attivo dall'ambiente gastrico</small></div>
+    <div class="arrow2">→</div>
+    <div><span class="circle">2</span><b>Triturazione</b><small>può compromettere il rivestimento</small></div>
+    <div class="arrow2">→</div>
+    <div><span class="circle">3</span><b>Effetto</b><small>stabilità / rilascio / efficacia possono cambiare</small></div>
+  </div>
+
+  <div class="not-molecule">Non è solo la molecola. <strong>È la formulazione.</strong></div>
+</div>
+
+<div class="ref">Prescription Day LTCFs — SODF analysis · Blaszczyk et al. Drugs Aging. 2023;40:895–907.</div>
+
+
+## Medication review ≠ togliere farmaci
+
+<div class="action-row">
+  <div class="action">CONTINUE</div>
+  <div class="action">START</div>
+  <div class="action">ADJUST</div>
+  <div class="action">MONITOR</div>
+  <div class="action stop">STOP</div>
+</div>
+
+<div class="review-target">
+  <span>Obiettivo</span>
+  <strong>APPROPRIATEZZA</strong>
+  <small>non il minor numero possibile di farmaci</small>
+</div>
+
+
+## Funziona sulla prescrizione?
+
+<div class="evidence-head">
+  <span>Systematic review & meta-analysis</span>
+  <strong>38 studi · 22 RCT</strong>
+</div>
+
+<table class="effect-table">
+<thead><tr><th>Outcome</th><th>Effetto pooled</th></tr></thead>
+<tbody>
+<tr><td>Farmaci / residente, &lt;12 mesi</td><td class="good">−0,89 <small>(95% CI −1,46; −0,32)</small></td></tr>
+<tr><td>Farmaci / residente, ≥12 mesi</td><td class="good">−1,60 <small>(−2,68; −0,52)</small></td></tr>
+<tr><td>PIM / residente, 6 mesi</td><td class="good">−0,48 <small>(−0,74; −0,22)</small></td></tr>
+<tr><td>PIM / residente, ≥12 mesi</td><td class="good">−0,26 <small>(−0,40; −0,13)</small></td></tr>
+</tbody>
+</table>
+
+<div class="bottom-message compact"><strong>Sì:</strong> medication review e deprescribing modificano gli outcome prescrittivi.</div>
+
+<div class="ref">Carollo et al. Age Ageing. 2026;55:afag084.</div>
+
+
+## E sugli outcome clinici?
+
+<div class="forest-mini">
+  <div class="forest-row">
+    <div class="forest-label"><b>Cadute</b><small>3–6 mesi</small></div>
+    <div class="forest-line"><i class="ci" style="left:30%;width:42%"></i><i class="null"></i><i class="dot" style="left:51%"></i></div>
+    <div class="forest-value">RR 1,02 <small>0,85–1,23</small></div>
+  </div>
+
+  <div class="forest-row">
+    <div class="forest-label"><b>Ricoveri</b><small>3–6 mesi</small></div>
+    <div class="forest-line"><i class="ci" style="left:22%;width:49%"></i><i class="null"></i><i class="dot" style="left:50%"></i></div>
+    <div class="forest-value">RR 1,00 <small>0,81–1,23</small></div>
+  </div>
+
+  <div class="forest-row">
+    <div class="forest-label"><b>Mortalità</b><small>1–6 mesi</small></div>
+    <div class="forest-line"><i class="ci" style="left:37%;width:30%"></i><i class="null"></i><i class="dot" style="left:51%"></i></div>
+    <div class="forest-value">RR 1,01 <small>0,90–1,13</small></div>
+  </div>
+</div>
+
+<div class="clinical-message">Nessuna riduzione significativa consistente degli <strong>hard outcomes</strong>.</div>
+
+<div class="ref">Carollo et al. Age Ageing. 2026;55:afag084.</div>
+
+
+## Non è un fallimento della review
+
+<div class="causal-chain">
+  <div class="chain-box strong">Medication review</div>
+  <div class="chain-arrow">→</div>
+  <div class="chain-box strong">Appropriatezza</div>
+  <div class="chain-arrow">→</div>
+  <div class="chain-box">Burden / esposizione</div>
+  <div class="chain-arrow">→</div>
+  <div class="chain-box">ADE</div>
+  <div class="chain-arrow">→</div>
+  <div class="chain-box muted">Cadute · ricoveri · mortalità</div>
+</div>
+
+<div class="determinants">
+  <span>fragilità</span><span>malattie acute</span><span>ambiente</span><span>nutrizione</span><span>riabilitazione</span><span>assistenza</span>
+</div>
+
+<div class="bottom-message">La review agisce direttamente a monte. Gli hard outcomes sono <strong>molto più a valle</strong>.</div>
+
+
+## AI: un secondo lettore?
+
+<div class="ai-grid">
+  <div class="ai-stat"><span>27,7%</span><small>accordo con il team clinico</small></div>
+  <div class="ai-stat goodbox"><span>19</span><small>interventi validi aggiuntivi</small></div>
+  <div class="ai-stat badbox"><span>84</span><small>interventi errati</small></div>
+  <div class="ai-stat"><span>86,4%</span><small>diagnosi ↔ farmaco corretti</small></div>
+</div>
+
+<div class="ai-message">
+  <div><b>AI / CDSS</b><small>screening · DDI/PIM · riconciliazione · lista problemi</small></div>
+  <div class="ai-arrow">→</div>
+  <div><b>HUMAN REVIEW</b><small>contesto · prognosi · obiettivi · preferenze · decisione</small></div>
+</div>
+
+<div class="bmc-note"><strong>2026 BMC Geriatrics:</strong> buone performance sui criteri espliciti; la qualità e la prioritizzazione clinica restano model-dependent.</div>
+
+<div class="ref">Hoope et al. J Am Geriatr Soc. 2026; doi:10.1111/jgs.70415 · Alpay et al. BMC Geriatr. 2026; doi:10.1186/s12877-026-08253-5.</div>
+
+
+## La review dentro la cura
+
+<div class="care-loop">
+  <div class="care-box">VMD + obiettivi</div>
+  <div class="care-arrow">→</div>
+  <div class="care-box highlight">MEDICATION REVIEW</div>
+  <div class="care-arrow">→</div>
+  <div class="care-box">Decisione</div>
+  <div class="care-arrow">→</div>
+  <div class="care-box">Somministrazione</div>
+  <div class="care-arrow">→</div>
+  <div class="care-box">Monitoraggio</div>
+</div>
+
+<div class="reassess">↺ rivalutazione</div>
+
+<div class="team-strip">medico <span>·</span> infermiere <span>·</span> farmacista <span>·</span> residente/caregiver</div>
+
+<div class="bottom-message compact">Non un intervento stand-alone: <strong>una pratica longitudinale e coerente.</strong></div>
+
+
+## Tre messaggi da portare a casa
+
+<div class="takehome">
+  <div><span>1</span><p><strong>Politerapia ≠ inappropriatezza.</strong><br>Il numero segnala complessità.</p></div>
+  <div><span>2</span><p><strong>La review migliora soprattutto la prescrizione.</strong><br>Non necessariamente gli hard outcomes.</p></div>
+  <div><span>3</span><p><strong>Appropriatezza = prescrizione + somministrazione + contesto.</strong><br>AI può supportare; la decisione resta clinica.</p></div>
+</div>
