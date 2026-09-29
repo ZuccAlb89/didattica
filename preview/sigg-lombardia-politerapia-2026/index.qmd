@@ -1,7 +1,4 @@
 ---
-title: "Sfide e gestione della politerapia in RSA"
-subtitle: "Dal numero di farmaci all'appropriatezza della cura"
-author: "Alberto Zucchelli"
 format:
   clean-revealjs:
     css: styles.css
@@ -23,35 +20,17 @@ SIGG Lombardia 2026
 
 ## 1. La politerapia è la norma
 
-:::: {.columns}
+| Indicatore | Prescription Day LTCFs 2024 |
+|---|---:|
+| Farmaci per residente | **7,7** |
+| Residenti con ≥5 farmaci | **84,8%** |
+| Residenti con ≥10 farmaci | **24,0%** |
+| Strutture partecipanti | **82** |
+| Residenti inclusi | **3.400** |
 
-::: {.column width="33%"}
-
-# 7,7
-
-farmaci per residente
-
+::: {.keyline}
+In RSA la politerapia è il punto di partenza della pratica clinica, non automaticamente un errore prescrittivo.
 :::
-
-::: {.column width="33%"}
-
-# 84,8%
-
-residenti con ≥5 farmaci
-
-:::
-
-::: {.column width="33%"}
-
-# 24,0%
-
-residenti con ≥10 farmaci
-
-:::
-
-::::
-
-**Prescription Day LTCFs 2024:** 3.400 residenti, 82 strutture italiane.
 
 ::: {.ref}
 Malara et al. Aging Clin Exp Res 2025;37:291.
@@ -116,29 +95,19 @@ Prescription Day LTCFs — analisi SODF.
 
 ## 5. Modificare una SODF è una decisione terapeutica
 
-:::: {.columns}
-
-::: {.column width="42%"}
-
-![](sodf.svg){.illustration}
-
-:::
-
-::: {.column width="58%"}
-
 Triturare una compressa o aprire una capsula può modificare:
 
-- rilascio
-- biodisponibilità
-- efficacia
-- sicurezza
-- esposizione degli operatori
+| Dimensione | Rischio potenziale |
+|---|---|
+| Rilascio | perdita del profilo previsto dalla formulazione |
+| Biodisponibilità | esposizione diversa da quella attesa |
+| Efficacia | riduzione o imprevedibilità dell'effetto |
+| Sicurezza | eventi avversi o tossicità |
+| Operatori | esposizione professionale durante la manipolazione |
 
-**La formulazione fa parte della prescrizione.**
-
+::: {.keyline}
+La formulazione fa parte della prescrizione.
 :::
-
-::::
 
 ::: {.ref}
 Blaszczyk et al. Drugs Aging 2023; SODF Prescription Day analysis.
