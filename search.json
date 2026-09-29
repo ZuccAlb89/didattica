@@ -35,18 +35,578 @@
     "text": "Un dataset, più linee di ricerca\n\n\n\nPattern di politerapia e multimorbidità\nPIM e interazioni clinicamente rilevanti\nComplessità del regime terapeutico\nModifica delle forme orali solide\n\n\n\nDisfagia, nutrizione e somministrazione\nFarmaci e BPSD nelle persone con demenza\nVariabilità tra strutture e territori\nProfili fenotipici e analisi di rete\n\n\n\nLa domanda per il gruppo: quale quesito clinico è abbastanza importante, definito e fattibile da diventare il prossimo progetto?\n\n\nContatti Alberto Zucchelli · alberto.zucchelli@unibs.it Gruppo YES · gruppoyes@sigg.it Alba Malara · albamalara@gmail.com"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#orientarsi-nella-documentazione-sanitaria",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#orientarsi-nella-documentazione-sanitaria",
     "title": "Didattica",
-    "section": "",
-    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
+    "section": "Orientarsi nella documentazione sanitaria",
+    "text": "Orientarsi nella documentazione sanitaria\n\nLa documentazione nasce dalla cura.Ne lascia traccia e la collega nel tempo.\n\n\nTempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e sulla localizzazione delle informazioni. Non si chiede di interpretare i dati clinici. La durata complessiva è 120 minuti; scansione: avvio/icebreaker 10′, prima parte frontale 35′, attività 1 e debrief 23′, pausa 5′, seconda parte frontale 22′, attività 2 e debrief 20′, wrap-up 5′. I tempi restano nelle note, non nelle slide."
   },
   {
-    "objectID": "index.html#corsi",
-    "href": "index.html#corsi",
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
     "title": "Didattica",
+    "section": "Che cosa sto guardando?",
+    "text": "Che cosa sto guardando?\n\nRompi ghiaccio · osserva, pensa, confronta\n\n\n\nEstratto A Leucociti 14,8 ×10⁹/LPCR 137 mg/LCreatinina 1,42 mg/dL\n\n\nEstratto B Quesito clinico: dispnea e ipossiemia.Reperti: consolidamento basale destro.Conclusioni: assenza di embolia…\n\n\nEstratto C Ceftriaxone2 g EV ogni 24 ore, ore 16Dal 10/09 al 14/09\n\n\nEstratto D 13/09, ore 09:20Cammina senza dispnea rilevante.Possibile dimissione domani.\n\n\n\nCercate: dati misurati · descrizioni o osservazioni · decisioni o prescrizioni · riferimenti temporali\n\n\nIn coppia: indicate che cosa vedete e le parole che vi hanno aiutato. Poi ipotizzate il documento.\n\n\nTempo: 9 minuti; avvio totale 10′ contando la slide titolo. Gli estratti sono adattati dal fac-simile didattico. Un minuto per osservare; due per sottolineare un dato, una descrizione, una decisione o un riferimento temporale; tre per il confronto a coppie; tre per raccogliere le ipotesi sui documenti. Più categorie possono comparire nello stesso estratto. Rivelare alla fine: laboratorio, referto TC, foglio di terapia, diario clinico. Non chiedere se i valori siano normali, se la TC sia grave o se la terapia sia appropriata."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-nasce-da-ciò-che-facciamo",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-nasce-da-ciò-che-facciamo",
+    "title": "Didattica",
+    "section": "La documentazione nasce da ciò che facciamo",
+    "text": "La documentazione nasce da ciò che facciamo\n\n\nOsservare\n\n\n→\n\n\nValutare\n\n\n→\n\n\nDecidere o agire\n\n\n→\n\n\nRegistrare\n\n\n\nPrima c’è un processo di cura.Il documento ne conserva una traccia.\n\n\nTempo: 6 minuti. Spiegare il legame generativo: il professionista compie o riceve un’attività di cura e registra l’informazione nel documento previsto dal processo o dal sistema locale. Fare un esempio semplice, senza contenuti medici: una richiesta genera un referto; una prescrizione genera una registrazione terapeutica; un’osservazione nel tempo genera una nota datata. La documentazione non è un testo unico scritto tutto insieme. Il documento rende ritrovabile la traccia anche per chi interviene dopo."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#a-ogni-passaggio-una-traccia-diversa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#a-ogni-passaggio-una-traccia-diversa",
+    "title": "Didattica",
+    "section": "A ogni passaggio, una traccia diversa",
+    "text": "A ogni passaggio, una traccia diversa\n\n\nAccessoVerbale di PSMotivo e disposizione\n\n\n→\n\n\nIngressoAnamnesi ed esame obiettivoStoria e condizioni iniziali\n\n\n→\n\n\nAccertamentoECG, laboratorio, TCRisultato dell’esame\n\n\n→\n\n\nAssistenzaTerapia e diarioOrdini, attività, osservazioni\n\n\n→\n\n\nConclusioneLettera di dimissioneSintesi e continuità\n\n\n\nTempo: 7 minuti. Guidare la lettura da sinistra a destra come mappa dei processi, non come esercizio di ricostruzione clinica. Per ciascuna tappa chiedere: “Che cosa è successo nel lavoro assistenziale che può aver generato questo documento?” Evidenziare che referto, diario e lettera di dimissione rispondono a domande e momenti diversi. La visita specialistica ambulatoriale è un altro processo: produce un referto di visita con valutazione, terapia e follow-up."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-traccia-ha-un-tempo-e-una-fonte",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-traccia-ha-un-tempo-e-una-fonte",
+    "title": "Didattica",
+    "section": "La traccia ha un tempo e una fonte",
+    "text": "La traccia ha un tempo e una fonte\n\n\nChiQuale professionista o servizio registra?\n\n\nQuandoIn quale momento del percorso?\n\n\nChe cosaQuale osservazione, decisione o attività?\n\n\nDoveIn quale documento o sezione?\n\n\n\nData, ora, autore e intestazioni aiutano a collocare l’informazione.\n\n\nTempo: 5 minuti. Mostrare che una registrazione è interpretabile come traccia del processo anche grazie a data, ora, autore e sezione. Un diario contiene annotazioni successive; il referto indica quando l’esame è stato eseguito e quando il risultato è stato validato; la scheda terapeutica distingue la prescrizione dalle somministrazioni registrate. Non entrare in obblighi o responsabilità medico-legali."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-collega-professionisti",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-collega-professionisti",
+    "title": "Didattica",
+    "section": "La documentazione collega professionisti",
+    "text": "La documentazione collega professionisti\n\n\nChi registra\n\n\n→\n\n\nDocumento condiviso\n\n\n→\n\n\nChi prosegue l’assistenza\n\n\n\nLa traccia rende comunicabile ciò che è stato fatto e ciò che serve dopo.\n\n\nTempo: 5 minuti. Usare un passaggio semplice: PS → reparto → domicilio/medico curante; o prescrizione → somministrazione registrata → comunicazione alla dimissione. Sottolineare che la documentazione aiuta la continuità tra persone, professionisti e setting. Il medesimo fascicolo è consultato con domande diverse. Non fare una lezione sui ruoli professionali."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#il-processo-orienta-linformazione-attesa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#il-processo-orienta-linformazione-attesa",
+    "title": "Didattica",
+    "section": "Il processo orienta l’informazione attesa",
+    "text": "Il processo orienta l’informazione attesa\n\n\n\n\n\n\n\n\nProcesso di cura\nDocumento tipico\nInformazioni che ci cerco per prime\n\n\n\n\nAccesso urgente\nVerbale di pronto soccorso\nMotivo, valutazione, esito dell’accesso\n\n\nValutazione all’ingresso\nAnamnesi, esame obiettivo\nStoria riportata, condizioni iniziali\n\n\nEsecuzione di un esame\nReferto ECG, laboratorio o radiologia\nRisultato, reperti, conclusione\n\n\nAssistenza durante il ricovero\nDiario clinico\nAnnotazioni datate e successive\n\n\nPrescrizione e somministrazione\nFoglio/scheda di terapia\nOrdine, dose, orario, somministrazione registrata\n\n\nVisita specialistica\nReferto di visita\nValutazione, terapia, controlli\n\n\nConclusione del ricovero\nLettera di dimissione\nSintesi, terapia a domicilio, follow-up\n\n\n\n\nTempo: 7 minuti. Leggere la tabella dall’alto verso il basso e associare ogni riga al processo che la genera. Il documento contiene informazioni pertinenti a quel processo: un referto descrive il risultato dell’esame; non sostituisce il diario, la scheda terapeutica o la sintesi di dimissione. Precisare che alcuni elementi possono essere ripresi altrove: ciò che cambia è il momento, la funzione e il livello di sintesi."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#anche-la-stessa-informazione-cambia-funzione",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#anche-la-stessa-informazione-cambia-funzione",
+    "title": "Didattica",
+    "section": "Anche la stessa informazione cambia funzione",
+    "text": "Anche la stessa informazione cambia funzione\n\n\nFarmaci abitualiRiferiti o riconciliati all’ingresso\n\n\nFarmaci prescrittiOrdini nella scheda di terapia\n\n\nFarmaci somministratiRegistrazioni di somministrazione\n\n\nFarmaci a domicilioIndicazioni nella lettera di dimissione\n\n\n\n“Terapia” può comparire in più luoghi: chiediti quale momento vuoi conoscere.\n\n\nTempo: 5 minuti. Questo esempio fissa l’idea che una categoria informativa può ricomparire. “Che cosa assumeva prima?”, “che cosa è stato prescritto in reparto?”, “che cosa è stato somministrato?”, “che cosa deve assumere dopo?” sono domande differenti e portano a documenti o sezioni differenti. Non discutere se la terapia sia appropriata."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#attività-1-dagli-estratti-al-processo",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#attività-1-dagli-estratti-al-processo",
+    "title": "Didattica",
+    "section": "Attività 1 Dagli estratti al processo",
+    "text": "Attività 1 Dagli estratti al processo\n\nGruppi di 3–4 · due estratti per gruppo\n\n\n\nEstratto A “Motivo di accesso: dispnea e febbre da circa tre giorni.”“Ore 13:20: disposto ricovero in Medicina interna.”\n\n\nEstratto B “PA 112/68 mmHg, FC 99/min.”“Torace: ridotta espansione della base destra, crepitii inspiratori.”\n\n\nEstratto C “Quesito clinico: dispnea e ipossiemia.”“Conclusioni: assenza di embolia; addensamento del lobo inferiore destro.”\n\n\nEstratto D “Ceftriaxone: 2 g EV ogni 24 ore, ore 16.”“10/09–14/09; rivalutazione quotidiana.”\n\n\nEstratto E “13/09, ore 09:20. Cammina in corridoio senza dispnea rilevante.”“Possibile dimissione domani.”\n\n\nEstratto F “Terapia alla dimissione: ramipril 5 mg al mattino.”“Valutazione dal MMG entro 5–7 giorni.”\n\n\n\nProcessi: accesso urgente · valutazione all’ingresso · esecuzione di un esame · prescrizione terapeutica · osservazione nel ricovero · dimissioneDocumenti: verbale PS · esame obiettivo · referto TC · foglio di terapia · diario clinico · lettera di dimissione\n\n\nCompilate: informazioni visibili → processo → documento. Usate: motivo/esito · parametri/reperti · quesito/conclusioni · farmaco/dose · data/evoluzione/piano · terapia/follow-up.\n\n\nTempo: 14 minuti. Estratti abbreviati dal fac-simile, tutti fittizi. Assegnare A–B, C–D o E–F ai gruppi: 2 minuti di lettura individuale; 6 minuti per compilare le tre colonne “informazioni visibili → processo → documento”; 4 minuti per confrontarsi con un gruppo che ha estratti diversi; 2 minuti per preparare una risposta. Il repertorio visibile evita che la conoscenza del lessico sia un prerequisito nascosto. Se emergono più categorie informative, far scegliere quelle esplicitamente presenti. Non valutare diagnosi o terapia."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-avete-abbinato",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-avete-abbinato",
+    "title": "Didattica",
+    "section": "Che cosa avete abbinato?",
+    "text": "Che cosa avete abbinato?\n\nDebrief · processo → documento → informazione\n\n\n\n\n\n\n\n\n\n\nEstratto\nProcesso\nDocumento\nInformazioni visibili\n\n\n\n\nA\nAccesso urgente\nVerbale di PS\nMotivo ed esito\n\n\nB\nValutazione all’ingresso\nEsame obiettivo\nParametri e reperti\n\n\nC\nEsecuzione di un esame\nReferto TC\nQuesito e conclusioni\n\n\nD\nPrescrizione terapeutica\nFoglio di terapia\nFarmaco, dose, periodo\n\n\nE\nOsservazione nel ricovero\nDiario clinico\nData, evoluzione, piano\n\n\nF\nDimissione\nLettera di dimissione\nTerapia e follow-up\n\n\n\n\nTempo: 9 minuti. Chiedere una risposta a ciascun gruppo e rivelare progressivamente la riga corrispondente. Prima far nominare l’indizio, poi processo e documento. Accettare sinonimi locali. Ribadire che un’informazione può essere ripresa altrove, mentre il processo indica la fonte più diretta. Domanda di controllo: “Se cerco l’esito originale di una TC, quale documento apro per primo e perché?”"
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#pausa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#pausa",
+    "title": "Didattica",
+    "section": "Pausa",
+    "text": "Pausa\n\nRiprendiamo tra poco\n\n\nPausa di 5 minuti. Al rientro riprendere con domande concrete: “Che farmaci prende questa persona?” e “Ha mai avuto una malattia cardiaca?”."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-domanda-concreta-indica-dove-guardare",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#una-domanda-concreta-indica-dove-guardare",
+    "title": "Didattica",
+    "section": "Una domanda concreta indica dove guardare",
+    "text": "Una domanda concreta indica dove guardare\n\n\n\n\n\n\n\nMi serve sapere…\nDove guardo preferibilmente?\n\n\n\n\nche cosa assume abitualmente\nanamnesi farmacologica / ultima visita ambulatoriale\n\n\nche cosa è stato prescritto in reparto\nfoglio o scheda di terapia\n\n\nche cosa è stato somministrato\nregistro delle somministrazioni\n\n\nche cosa assume a domicilio dopo il ricovero\nterapia nella lettera di dimissione\n\n\nse ha una cardiopatia già nota\nanamnesi patologica remota; lettere precedenti\n\n\n\n\nTempo: 6 minuti. Leggere ogni domanda e far anticipare una risposta con alzata di mano. Dire “preferibilmente” o “per prima cosa”: non esiste una sola collocazione universale e la stessa informazione può essere riportata in più punti. La storia remota è il primo luogo per patologie pregresse; una lettera di dimissione può riportare diagnosi rilevanti di episodi precedenti. Non trasformare l’esempio in verifica della completezza o della verità della cartella: questo sarà un obiettivo successivo."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#il-lessico-è-una-mappa",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#il-lessico-è-una-mappa",
+    "title": "Didattica",
+    "section": "Il lessico è una mappa",
+    "text": "Il lessico è una mappa\n\n\n\n\n\n\n\nSe leggo…\nMi aspetto di trovare…\n\n\n\n\nAnamnesi patologica remota\nPatologie e condizioni precedenti riferite o documentate\n\n\nAnamnesi patologica prossima\nInformazioni sul problema che ha portato all’accesso\n\n\nEsame obiettivo d’ingresso\nOsservazioni registrate alla valutazione iniziale\n\n\nReferto\nRisultato strutturato di un esame o di una visita\n\n\nDiario clinico\nAnnotazioni successive collocate nel tempo\n\n\nFoglio di terapia\nPrescrizioni e, secondo il sistema, somministrazioni registrate\n\n\nLettera di dimissione\nSintesi e indicazioni alla conclusione del ricovero\n\n\n\n\nTempo: 6 minuti. Leggere i termini come segnaletica documentale. Non insegnare a interpretare l’anamnesi o l’esame obiettivo; gli studenti devono riconoscere il titolo e capire il genere di informazione che quella sezione ospita. Precisare che formati e denominazioni possono variare tra sistemi e servizi."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#prescritto-non-significa-somministrato",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#prescritto-non-significa-somministrato",
+    "title": "Didattica",
+    "section": "Prescritto non significa somministrato",
+    "text": "Prescritto non significa somministrato\n\n\nOrdine del prescrittore\n\n\n→\n\n\nScheda di terapia\n\n\n→\n\n\nRegistrazione della somministrazione\n\n\n\nPer la terapia a domicilio dopo il ricovero, cerca la sezione dedicata nella lettera di dimissione.\n\n\nTempo: 5 minuti. Mostrare perché la parola “farmaco” non basta a individuare la fonte: una prescrizione, una dose somministrata e una terapia alla dimissione sono tracce di processi diversi. La domanda definisce il documento di partenza. Evitare dettagli su farmacologia e sicurezza."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-primo-metodo-per-navigare",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#un-primo-metodo-per-navigare",
+    "title": "Didattica",
+    "section": "Un primo metodo per navigare",
+    "text": "Un primo metodo per navigare\n\n\nChe cosa cerco?\n\n\n→\n\n\nQuale processo lo produce?\n\n\n→\n\n\nQuale documento lo registra?\n\n\n→\n\n\nQuale sezione apro?\n\n\n\nPrima individua la destinazione. Poi leggi il dettaglio.\n\n\nTempo: 5 minuti. Fare un esempio di 30 secondi: “Voglio sapere il risultato della TC” → processo di esecuzione dell’esame → referto radiologico → reperti/conclusioni. Un secondo esempio: “Ha mai avuto una malattia cardiaca?” → storia clinica precedente → anamnesi patologica remota. Qui si conclude la mappa di consultazione prima dell’esercizio."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#attività-2-trova-la-destinazione-nel-fascicolo",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#attività-2-trova-la-destinazione-nel-fascicolo",
+    "title": "Didattica",
+    "section": "Attività 2 Trova la destinazione nel fascicolo",
+    "text": "Attività 2 Trova la destinazione nel fascicolo\n\nScavenger hunt · gruppi di 3–4\n\n\n\n\nPer ogni domanda: documento · sezione · pagina · breve frase trovata\n\n\n\n\nDove è registrato l’elenco delle patologie già note? Riportatene una.\n\n\nQuale documento registra direttamente il motivo del primo accesso? Riportatelo.\n\n\nNel referto originale dell’angio-TC, quale sezione sintetizza i risultati? Riportate una conclusione.\n\n\nDove compare la prescrizione originale del ceftriaxone? Riportate dose e via.\n\n\nQuale nota di diario registra la sospensione dell’ossigeno? Annotate data e ora.\n\n\nDove sono indicate terapia a domicilio e controlli successivi? Riportate un’indicazione.\n\n\n\n\n\nFac-simile \n\nApri il PDF\n\n\nCaso A · pagine 2–6\n\n\n\n\nTempo di lavoro: 15 minuti. Lasciare il tempo di aprire il PDF tramite QR o link; indicare il caso A, pagine 2–6. Modellare il formato senza risolvere una delle sei domande: “documento → sezione → pagina → parole trovate”. Gli studenti riportano contenuto esplicito e posizione. “Direttamente” e “originale” indicano la fonte prodotta dal processo, anche quando l’informazione è ripresa altrove. Se discutono il significato clinico, riportarli a “dove e con quali parole lo avete trovato?”."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#confrontiamo-le-destinazioni",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#confrontiamo-le-destinazioni",
+    "title": "Didattica",
+    "section": "Confrontiamo le destinazioni",
+    "text": "Confrontiamo le destinazioni\n\nDebrief breve\n\n\n\n1 · Patologie già note · p. 2A2 · Anamnesi patologica remota“Ipertensione… malattia renale… artrosi…”\n\n\n2 · Primo accesso · p. 2A1 · Verbale di PS · Motivo di accesso“Dispnea e febbre…”\n\n\n3 · Angio-TC · p. 4A7 · Referto · Conclusioni“Assenza di embolia… addensamento…”\n\n\n4 · Ceftriaxone · p. 4A8 · Foglio di terapia“2 g EV ogni 24 ore…”\n\n\n5 · Sospensione O₂ · p. 5A9 · Diario · Nota 3“13/09/2026 ore 09:20”\n\n\n6 · Dopo la dimissione · p. 6A10 · Terapia alla dimissioneFollow-up e indicazioni\n\n\n\nTempo: 5 minuti. Chiedere a sei studenti o gruppi una risposta ciascuno nel formato richiesto. Fare nominare l’indizio e leggere poche parole del documento, non soltanto la pagina. Per le informazioni riprese in più luoghi, distinguere la fonte più diretta dalla successiva sintesi o citazione."
+  },
+  {
+    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-mappa-da-portare-con-sé",
+    "href": "medicina-interna/01_documentazione_sanitaria.html#la-mappa-da-portare-con-sé",
+    "title": "Didattica",
+    "section": "La mappa da portare con sé",
+    "text": "La mappa da portare con sé\n\nChe documento sto guardando?Quale processo lo ha prodotto?Che informazione ci cerco?\n\n\nProcesso di cura → documento → traccia → comunicazione tra professionisti\n\n\nTempo: 5 minuti, wrap-up. Raccogliere un esempio di domanda e la destinazione documentale scelta dagli studenti. Ripetere i tre punti di partenza e il legame tra processo, documento e informazione attesa. Specificare il confine: oggi impariamo a orientarci e a localizzare; in lezioni successive si lavorerà sulla lettura, sul riconoscimento di ciò che non si sa e sulla ricerca di informazioni. Chiusura: il documento non è un contenitore neutro; la sua funzione racconta perché e quando cercarlo."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
+    "title": "Valutazione Multidimensionale",
+    "section": "Dalla fragilità ai bisogni",
+    "text": "Dalla fragilità ai bisogni\nUna persona può essere fragile. E poi?\nCome comprendiamo i suoi bisogni e decidiamo che cosa fare?\n\n0–10 min, comprensivi della slide successiva. Riprendere la lezione 1: il modello biopsicosociale descrive dimensioni interagenti; la fragilità segnala vulnerabilità e possibile complessità, non determina da sola bisogni, preferenze e interventi. Chiedere due risposte rapide alla domanda. Transizione: dalla vulnerabilità potenziale alla comprensione della singola persona."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#oggi-cosa-dovrete-sapere",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#oggi-cosa-dovrete-sapere",
+    "title": "Valutazione Multidimensionale",
+    "section": "Oggi: cosa dovrete sapere?",
+    "text": "Oggi: cosa dovrete sapere?\n1. VMD = processo\nValutare → condividere → progettare → rivalutare\n2. Modelli e scale = strumenti\nLe 5M orientano; le scale si scelgono e si imparano a usare.\n3. La persona orienta il progetto\nBisogni, risorse e preferenze guidano obiettivi e interventi.\n\nChiudere l’apertura entro il minuto 10. Esplicitare che i primi due nuclei sono conoscenze fondamentali per l’esame a risposta multipla. Il terzo si esercita nelle attività ed è verificabile anche con brevi casi applicativi. Non richiedere di imparare a memoria ogni scala."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#vmd-una-definizione",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#vmd-una-definizione",
+    "title": "Valutazione Multidimensionale",
+    "section": "VMD: una definizione",
+    "text": "VMD: una definizione\nLa Valutazione Multidimensionale geriatrica è un\nprocesso multidimensionale e multiprofessionale\nche identifica e integra i bisogni della persona, per costruire un progetto personalizzato e coordinato, da rivalutare nel tempo.\n\n10–25 min, insieme alle quattro slide successive. È una formulazione didattica adattata dalla definizione di Comprehensive Geriatric Assessment della British Geriatrics Society: https://www.bgs.org.uk/CGA . Non richiedere la recitazione letterale della frase; per l’esame chiedere di riconoscerne gli elementi costitutivi. «Processo»: non è un singolo test o una fotografia. «Multidimensionale»: salute fisica, psichica, funzionale, sociale e ambiente. «Multiprofessionale»: informazioni e decisioni condivise tra figure con competenze diverse; coinvolgere la persona."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-non-è",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-non-è",
+    "title": "Valutazione Multidimensionale",
+    "section": "La VMD non è…",
+    "text": "La VMD non è…\n\n\nNon solo\n\nUn elenco di problemi\nUna batteria di scale\nUn punteggio finale\n\n\nÈ anche\n\nBisogni e risorse\nDecisioni condivise\nUn progetto da verificare\n\n\n\nChiarire senza svalutare le scale: servono per raccogliere e comunicare informazioni, ma non equivalgono alla VMD. Non contrapporre standardizzazione e personalizzazione: la raccolta può essere standardizzata, mentre l’interpretazione e l’intervento devono essere individualizzati. Chiedere: «Se completiamo sei scale, abbiamo necessariamente completato una VMD?». Risposta: no, se mancano integrazione, pianificazione e follow-up."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-è-un-percorso",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-è-un-percorso",
+    "title": "Valutazione Multidimensionale",
+    "section": "La VMD è un percorso",
+    "text": "La VMD è un percorso\nValutare la persona e il contesto\n↓\nIdentificare e condividere bisogni e risorse\n↓\nConcordare priorità e obiettivi\n↓\nAttuare interventi coordinati\n↓\nRivalutare e adeguare il progetto ↺\n\nUsare il diagramma come mappa per tutte le attività della lezione. La comunicazione avviene durante l’intero percorso e coinvolge équipe, persona e, quando appropriato, caregiver. I passaggi non sono rigidi: nuove informazioni possono richiedere di tornare alla valutazione. Distinguere verificare l’esito dall’adeguare gli interventi. Fonte di riferimento: https://www.bgs.org.uk/CGA ."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#perché-lavorare-insieme",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#perché-lavorare-insieme",
+    "title": "Valutazione Multidimensionale",
+    "section": "Perché lavorare insieme?",
+    "text": "Perché lavorare insieme?\nInformazioni diverse → comprensione condivisa → interventi coordinati\n\nUn bisogno riconosciuto ma non comunicato può non trovare risposta.\n\n\nEsempio accessibile agli studenti: un operatore osserva che una persona non partecipa più alle attività, un altro nota difficoltà a muoversi, la persona riferisce paura di cadere. La comunicazione permette di integrare queste osservazioni e concordare un intervento. Evitare di ridurre il lavoro d’équipe allo scambio di punteggi. Chiudere il blocco definizione al minuto 25."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#multidimensionale-identica-per-tutti",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#multidimensionale-identica-per-tutti",
+    "title": "Valutazione Multidimensionale",
+    "section": "Multidimensionale ≠ identica per tutti",
+    "text": "Multidimensionale ≠ identica per tutti\nQuali dimensioni approfondire?\nDipende dalla persona, dal quesito e dal contesto.\n\n25–33 min, insieme alle due slide successive. La VMD richiede una visione globale, ma intensità e strumenti di approfondimento variano secondo bisogni e setting. «Personalizzata» non significa arbitraria: le scelte vanno motivate e condivise. Collegamento con la prima lezione: un problema biologico può avere componenti psicologiche e sociali interagenti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-5m-una-guida-non-il-modello",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-5m-una-guida-non-il-modello",
+    "title": "Valutazione Multidimensionale",
+    "section": "Le 5M: una guida, non «IL modello»",
+    "text": "Le 5M: una guida, non «IL modello»\n\n\n\nMind · cognizione e umore\nMobility · mobilità e autonomia\nMedications · terapia e rischi\n\n\n\nMulticomplexity · complessità clinica e sociale\nWhat Matters Most · preferenze e obiettivi\n\n\nUna mappa utile. Non un protocollo obbligatorio.\n\nLe 5M sono una cornice mnemonica per le questioni centrali della geriatria, non una check-list esaustiva né l’unico schema per organizzare una VMD. Non serve trovare un problema in ogni M, né forzare ogni elemento in una sola categoria. Fonti: Tinetti et al., The Geriatrics 5Ms, JAGS 2017, https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.14979 ; https://pmc.ncbi.nlm.nih.gov/articles/PMC6347324/ . La M What Matters Most attraversa tutte le decisioni, non è solo una quinta casella."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-1-la-sig.ra-m",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-1-la-sig.ra-m",
+    "title": "Valutazione Multidimensionale",
+    "section": "Attività 1 · La sig.ra M",
+    "text": "Attività 1 · La sig.ra M\n\n\nLeggete il caso.\n\nQuali bisogni e risorse emergono?\nUsate le 5M come guida, non come obbligo.\nQuali 2 informazioni mancano?\nChe cosa approfondireste per primo? Perché?\n\n\n\n\n\n\n\nApri il caso\n\n\n33–53 min: 3 minuti per la consegna, 12 di lavoro in gruppi da 3–5, 5 di restituzione rapida. Usare il caso esistente via QR/link. Non introdurre informazioni non contenute nel caso come se fossero fatti; eventuali nuovi dati emergeranno in una fase successiva chiaramente ipotetica. Richiedere un prodotto minimale: bisogno/risorsa, due informazioni mancanti, priorità motivata. Chiedere agli studenti con background clinico limitato di descrivere ciò che leggono, non formulare diagnosi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#discussione-una-sola-m-corretta",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#discussione-una-sola-m-corretta",
+    "title": "Valutazione Multidimensionale",
+    "section": "Discussione · Una sola «M» corretta?",
+    "text": "Discussione · Una sola «M» corretta?\nGruppi diversi, priorità diverse.\nChi ha ragione?\n\nConta la motivazione, non riempire tutte le caselle.\n\n\n53–60 min, debriefing. Confrontare due gruppi con priorità diverse. Non concludere che ogni risposta vale uguale: coerenza con bisogni, preferenze, sicurezza e contesto va motivata. Sintesi da far verbalizzare: «Le 5M aiutano a non dimenticare dimensioni importanti, ma la VMD è individualizzata». Ricollegare al diagramma del processo: abbiamo identificato bisogni e informazioni da approfondire."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-quale-domanda-devo-affrontare",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-quale-domanda-devo-affrontare",
+    "title": "Valutazione Multidimensionale",
+    "section": "Le scale: quale domanda devo affrontare?",
+    "text": "Le scale: quale domanda devo affrontare?\nPrima il bisogno. Poi lo strumento.\nCosa devo sapere? Perché? Per chi? Dove?\n\n60–70 min, con le tre slide successive. Una scala è utile se risponde al quesito; lo stesso strumento non è automaticamente appropriato a tutti i setting e le persone. Esempi brevi: se voglio approfondire autonomia nelle attività quotidiane, cercherò uno strumento relativo a quella dimensione; se voglio comprendere ciò che è importante per la persona, il dialogo non può essere sostituito da un punteggio. Distinguere le informazioni ottenibili da persona, caregiver, osservazione e cartella."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-un-metodo-in-5-domande",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-un-metodo-in-5-domande",
+    "title": "Valutazione Multidimensionale",
+    "section": "Le scale: un metodo in 5 domande",
+    "text": "Le scale: un metodo in 5 domande\n\nScopo · Che cosa misura?\nApplicabilità · Per chi e in quale setting?\nSomministrazione · Chi, come, con quali fonti?\nInterpretazione · Che cosa significa il risultato?\nUtilizzo · Come informa il progetto o il monitoraggio?\n\n\nQueste domande costituiscono il metodo che gli studenti devono acquisire, anche quando lo strumento è nuovo. Consultare sempre istruzioni/manuale, ed eventuali requisiti di formazione o autorizzazione; non inferire il significato degli item dal solo nome. Cercare versione, popolazione di validazione, eventuali adattamenti per lingua e contesto. Cut-off e punteggi non sono diagnosi autonome; interpretarli secondo indicazioni dello specifico strumento."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#che-cosa-devo-ricordare",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#che-cosa-devo-ricordare",
+    "title": "Valutazione Multidimensionale",
+    "section": "Che cosa devo ricordare?",
+    "text": "Che cosa devo ricordare?\nDivento pratico nelle scale del mio lavoro.\nQuando una scala è nuova:\nconsulto le istruzioni, verifico se è adatta, imparo ad applicarla.\n\nEsplicitare l’aspettativa d’esame: principi di scelta e applicazione, non elenco mnemonico di ogni scala possibile. Le scale più frequenti per un contesto professionale diventeranno progressivamente familiari nella pratica e nella formazione sul campo. Non improvvisare somministrazione o attribuzione dei punteggi. Le istruzioni possono precisare qualifiche o training necessari."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-2-una-scala-sconosciuta",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-2-una-scala-sconosciuta",
+    "title": "Valutazione Multidimensionale",
+    "section": "Attività 2 · Una scala sconosciuta",
+    "text": "Attività 2 · Una scala sconosciuta\n\n\nAprite il manuale e scegliete una scala.\nCercate:\n\nscopo e destinatari;\ncome si somministra e si interpreta;\nun errore da evitare.\n\nRestituzione: 1 scoperta utile / gruppo.\n\n\n\n\nQR per il manuale delle scale\n\n\nApri il manuale (PDF) ↗\n\n\n70–95 min: 3 minuti di consegna, 17 minuti per consultare il PDF e compilare una scheda breve, 5 minuti per le restituzioni lampo. Il QR e il link puntano al medesimo «Manuale di istruzioni per il set minimo di scale» della Regione Emilia-Romagna, contenente schede e indicazioni d’uso. Assegnare a ciascun gruppo una scala effettivamente presente nel PDF ed evitare sovrapposizioni. Tra le scale già discusse vi compaiono IADL, CIRS e SPMSQ; il documento usa BADL di Katz, non Barthel, e non contiene MNA, NECPAL o 4AT. Se si vogliono mantenere questi ultimi strumenti come oggetto dell’esercitazione, occorrono materiali aggiuntivi separati. Ogni gruppo espone soprattutto una regola di utilizzo o un errore che avrebbe potuto commettere senza leggere le istruzioni."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#pausa",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#pausa",
+    "title": "Valutazione Multidimensionale",
+    "section": "PAUSA",
+    "text": "PAUSA\n10 minuti\n\n95–105 min. Pausa reale; riprendere al minuto 105."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-la-scala-non-è-la-vmd",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-la-scala-non-è-la-vmd",
+    "title": "Valutazione Multidimensionale",
+    "section": "Debriefing · La scala non è la VMD",
+    "text": "Debriefing · La scala non è la VMD\nRaccolta standardizzata\n↓\nInterpretazione integrata\n↓\nDecisione personalizzata\n\n105–112 min. Confrontare gli errori evitati grazie alle istruzioni. Chiedere: «Una volta ottenuto il punteggio, chi decide che cosa fare?». Evidenziare ruolo dell’équipe e della persona e necessità di integrare il risultato con il resto delle informazioni. Nessun punteggio, da solo, esaurisce la valutazione o permette automaticamente una diagnosi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#leggere-i-risultati-con-prudenza",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#leggere-i-risultati-con-prudenza",
+    "title": "Valutazione Multidimensionale",
+    "section": "Leggere i risultati: con prudenza",
+    "text": "Leggere i risultati: con prudenza\nUn punteggio aiuta a descrivere una dimensione.\nNon racconta, da solo, tutta la persona.\n\nChe cosa manca? Con chi dobbiamo condividere il risultato?\n\n\n112–119 min, con la slide successiva. Introdurre il profilo comparativo. Spiegare verbalmente le direzioni dei punteggi necessari per il caso, senza richiedere agli studenti di ricordare cut-off numerosi. MNA-SF: valori più bassi segnalano maggiore criticità nutrizionale; MMSE: punteggi più bassi suggeriscono difficoltà cognitive, da interpretare con contesto e caratteristiche della persona; Barthel: valori più bassi indicano minore autonomia; IADL perse: numero più alto indica più attività strumentali perse; Tinetti: valori più bassi segnalano difficoltà di equilibrio/andatura; CIRS-comorbilità: misura distinta dalla disabilità, da interpretare secondo manuale."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-persone-stessa-età",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-persone-stessa-età",
+    "title": "Valutazione Multidimensionale",
+    "section": "Tre persone, stessa età",
+    "text": "Tre persone, stessa età\n\n\n\nDimensione (strumento)\nA · 86 anni\nF · 86 anni\nC · 86 anni\n\n\n\n\nCognizione · MMSE\n16\n4\n28\n\n\nAutonomia · Barthel\n75\n0\n85\n\n\nIADL perse (su 8)\n6\n8\n2\n\n\nNutrizione · MNA-SF\n3\nNV\n14\n\n\nMobilità · Tinetti\n21\n0\n17\n\n\nComorbilità · CIRS\n3\n7\n9\n\n\n\n\nNV = non valutabile. Questa tabella riprende i numeri dell’edizione precedente, come profili didattici ipotetici, non dati clinici sufficienti per diagnosi. MMSE e Tinetti non vanno interpretati meccanicamente; condizioni di test, correzioni e limite dello strumento contano. Se il formato della tabella risulta fitto in proiezione usare la classe smaller già impostata e l’attività successiva come slide separata."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-3-che-cosa-sappiamo",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-3-che-cosa-sappiamo",
+    "title": "Valutazione Multidimensionale",
+    "section": "Attività 3 · Che cosa sappiamo?",
+    "text": "Attività 3 · Che cosa sappiamo?\nConfrontate i tre profili.\n\nQuali differenze emergono?\nQuale informazione manca per ciascuna persona?\nChe cosa riferireste a un altro professionista?\n\n\n119–137 min: 3 consegna, 10 discussione in gruppo, 5 restituzione. Chiedere di non identificare un obiettivo terapeutico sulla base dei soli valori. L’informazione mancante potrebbe riguardare preferenze, abitazione, rete di supporto, condizioni di somministrazione o osservazioni funzionali. Prodotto: sintesi orale di 30 secondi con osservazioni, incertezze e approfondimento richiesto. Valutare il ragionamento, non la rapidità nel classificare i numeri."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-oltre-i-punteggi",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-oltre-i-punteggi",
+    "title": "Valutazione Multidimensionale",
+    "section": "Debriefing · Oltre i punteggi",
+    "text": "Debriefing · Oltre i punteggi\nRisultati + contesto + preferenze + osservazioni dell’équipe\n→ comprensione condivisa dei bisogni\n\n137–144 min. Chiedere a due gruppi che cosa avrebbero comunicato a un collega. Sottolineare la differenza tra osservazione, interpretazione e decisione. Se un dato non è disponibile, dichiararlo invece di inventarlo. Riprendere il diagramma VMD: i risultati servono a identificare e condividere bisogni e risorse, prima di pianificare interventi."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#non-tutti-i-problemi-diventano-obiettivi",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#non-tutti-i-problemi-diventano-obiettivi",
+    "title": "Valutazione Multidimensionale",
+    "section": "Non tutti i problemi diventano obiettivi",
+    "text": "Non tutti i problemi diventano obiettivi\n\nNon tutto è modificabile.\nNon tutto è prioritario.\nNon tutto conta allo stesso modo per la persona.\n\n\n144–152 min, insieme alle due slide successive. Priorità determinate da sicurezza e fattibilità, ma anche dalle preferenze espresse dalla persona e dal suo contesto. What Matters Most non è una dimensione aggiuntiva da compilare alla fine: orienta le scelte lungo il processo. Evitare di sostenere che la preferenza da sola risolva tutti i conflitti; obiettivi e interventi si concordano e si motivano."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#bisogno-obiettivo-intervento",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#bisogno-obiettivo-intervento",
+    "title": "Valutazione Multidimensionale",
+    "section": "Bisogno → obiettivo → intervento",
+    "text": "Bisogno → obiettivo → intervento\nBisogno · Non riesce più a uscire di casa.\nObiettivo · Uscire almeno una volta a settimana, se è ciò che desidera.\nInterventi · Accompagnamento, adattamento dell’ambiente, rete sociale.\n\nDistinguere il problema rilevato dall’esito desiderato e dalle azioni proposte. Gli interventi sono esempi, non prescrizioni da applicare senza valutazione. L’obiettivo deve essere significativo per la sig.ra M, concreto e verificabile. Richiamare la comunicazione con altri professionisti e l’eventuale coinvolgimento della rete sociale."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#cosa-conta-per-la-sig.ra-m",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#cosa-conta-per-la-sig.ra-m",
+    "title": "Valutazione Multidimensionale",
+    "section": "Cosa conta per la sig.ra M?",
+    "text": "Cosa conta per la sig.ra M?\n\n«Vorrei riuscire almeno a tornare a cucire.»\n\nUn obiettivo significativo può orientare più interventi.\n\nLa citazione è già nella versione originale del caso presentato nelle slide; richiamare anche il desiderio di restare a casa e di non gravare sulla nipote, verificando il testo del caso PDF prima di trattarli come dati clinici specifici. Chiedere: «Se puntassimo solo a migliorare un punteggio, quale obiettivo della persona potremmo perdere?». La preferenza può dare ingresso a interventi su attività, autonomia, ambiente e partecipazione."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-4-dalla-vmd-al-progetto",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-4-dalla-vmd-al-progetto",
+    "title": "Valutazione Multidimensionale",
+    "section": "Attività 4 · Dalla VMD al progetto",
+    "text": "Attività 4 · Dalla VMD al progetto\n\n\nRiprendete la sig.ra M.\n\n1 bisogno prioritario e perché;\n1 obiettivo significativo e verificabile;\n2 interventi e chi coinvolgere;\ncome e quando rivalutare.\n\n\n\n\n\n\n\nApri il caso\n\n\n152–164 min: 2 consegna + 10 lavoro. Il progetto richiesto è sintetico, non un piano assistenziale completo. Verificare che la proposta sia coerente con bisogni e preferenze e che gli studenti individuino le informazioni da condividere con altri professionisti. La rivalutazione deve avere un indicatore osservabile e un momento definito, non soltanto «vediamo come va»."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#nuove-informazioni-il-progetto-cambia",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#nuove-informazioni-il-progetto-cambia",
+    "title": "Valutazione Multidimensionale",
+    "section": "Nuove informazioni: il progetto cambia?",
+    "text": "Nuove informazioni: il progetto cambia?\nDopo alcune settimane, l’obiettivo non è raggiunto.\nLa sig.ra M riferisce paura di lasciare la casa incustodita.\nLa nipote non può accompagnarla nei giorni concordati.\nChe cosa modificate? Che cosa verificate?\n\n164–170 min: questa è una nuova informazione IPOTETICA introdotta dal docente per esercitare la rivalutazione, non un dato tratto dal caso originale. In gruppi decidere se modificare obiettivi, interventi, tempi, rete di supporto o approfondimenti. Non assumere che l’obiettivo originario debba essere abbandonato. Stimolare l’individuazione della nuova barriera psicologico-sociale e della risorsa familiare non disponibile."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-rivalutare-ripetere-un-test",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-rivalutare-ripetere-un-test",
+    "title": "Valutazione Multidimensionale",
+    "section": "Debriefing · Rivalutare ≠ ripetere un test",
+    "text": "Debriefing · Rivalutare ≠ ripetere un test\nVerificare i risultati\n↓\nComprendere che cosa è cambiato\n↓\nConcordare gli adeguamenti\n\n170–174 min: 4 minuti di debriefing. Chiedere due decisioni alternative e le relative motivazioni. La VMD non si conclude al primo progetto; la rivalutazione può cambiare la comprensione del bisogno e richiedere interventi diversi. Chiudere il cerchio tornando al processo mostrato all’inizio."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#verifica-finale-3-domande",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#verifica-finale-3-domande",
+    "title": "Valutazione Multidimensionale",
+    "section": "Verifica finale · 3 domande",
+    "text": "Verifica finale · 3 domande\n\nLa VMD è una batteria di scale o un processo?\nLe 5M sono un modello possibile o l’unico modello?\nChe cosa fare quando cambia la situazione della persona?\n\n\n174–180 min: proporre in aula tre brevi domande a risposta multipla: risposta corretta 1 = processo multidimensionale e multiprofessionale che conduce a progetto integrato e rivalutazione; 2 = una guida possibile, non esclusiva; 3 = rivalutare bisogni, risorse, obiettivi e interventi, condividendo le decisioni. Correggere rapidamente eventuali equivoci."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-idee-da-portare-allesame",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-idee-da-portare-allesame",
+    "title": "Valutazione Multidimensionale",
+    "section": "Tre idee da portare all’esame",
+    "text": "Tre idee da portare all’esame\nLa VMD è un PROCESSO.\nLe 5M e le scale sono STRUMENTI.\nIl progetto è PERSONALIZZATO e RIVALUTABILE.\n\nUltima sintesi entro il minuto 180. Esplicitare che lo studente deve riconoscere definizione e finalità del processo, distinguere modello e strumento dalla VMD, conoscere i principi di scelta e applicazione delle scale, e interpretare brevi casi in cui bisogna condividere informazioni e adattare il progetto. Non richiedere memoria indiscriminata di punteggi e cut-off delle scale."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#materiali-e-fonti",
+    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#materiali-e-fonti",
+    "title": "Valutazione Multidimensionale",
+    "section": "Materiali e fonti",
+    "text": "Materiali e fonti\n\nBritish Geriatrics Society · CGA\nGeriatrics 5Ms · articolo di riferimento\nCaso della sig.ra M\n\n\nSlide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
+    "title": "Invecchiamento e fragilità",
+    "section": "Invecchiamento",
+    "text": "Invecchiamento\nPensate a una persona anziana.\nPensate a una o due caratteristiche che la definiscono.\n\nA quale categoria appartengono queste caratteristiche?\n\nCorpo / fisico\nCervello / cognizione\nPsiche / benessere mentale\nSocio-relazionale-economica\nClinica / malattie\nAltro"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
+    "title": "Invecchiamento e fragilità",
+    "section": "Oggi: che cosa dovrete saper fare?",
+    "text": "Oggi: che cosa dovrete saper fare?\n1. Guardare la persona attraverso il modello bio-psico-sociale\n\nRiconoscere gli aspetti biologici, psicologici e sociali di una situazione\nSpiegare come queste componenti possono influenzarsi reciprocamente\n\n2. Comprendere e utilizzare il concetto di fragilità\n\nSpiegare la fragilità come vulnerabilità agli stressor\nRiconoscere che esistono diversi modelli operativi e scegliere lo strumento in base allo scopo\nComprendere perché la fragilità può segnalare bisogni di salute complessi"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
+    "title": "Invecchiamento e fragilità",
+    "section": "Invecchiamento",
+    "text": "Invecchiamento\nL’età è solo una parte…\nL’età cronologica rimane\n\nuno dei principali fattori di rischio non modificabili per malattia e morte\n\n\nMA\n\n\nè uguale per tutti\nnon differenzia i bisogni"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
+    "title": "Invecchiamento e fragilità",
+    "section": "Il modello",
+    "text": "Il modello\nLa lente utilizzata per guardare l’invecchiamento è il modello\nbio-psico-sociale\n\n\nBiologico\n\nCellule, tessuti e organi cambiano con il tempo\nIl danno può accumularsi e favorire malattia\nLa malattia può contribuire a perdita di funzione e disabilità\n\n\nPsicologico\n\nL’invecchiamento modifica la percezione di sé e del mondo\nLa percezione di sé e del mondo può modificare il modo di invecchiare\n\n\nSociale\n\nL’invecchiamento modifica famiglia, lavoro, relazioni e società\nAmbiente e società influenzano a loro volta il modo di invecchiare"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
+    "title": "Invecchiamento e fragilità",
+    "section": "Visione biologica",
+    "text": "Visione biologica\n\n\n\nIl tempo e il fumo danneggiano vie aeree e tessuto polmonare\nSi sviluppano infiammazione cronica, alterazione delle secrezioni e rimodellamento\nIl flusso dell’aria diventa progressivamente più ostacolato\nSi instaura la broncopneumopatia cronica ostruttiva (BPCO)\nUna persona con BPCO può avere dispnea e ridotta tolleranza allo sforzo\nPuò inoltre sviluppare riacutizzazioni e complicanze respiratorie"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
+    "title": "Invecchiamento e fragilità",
+    "section": "Visione psicologica",
+    "text": "Visione psicologica\n\n\n\nUna persona che cade può sviluppare paura di cadere\nPer paura di cadere si muove meno\nLa minore attività favorisce perdita di forza\nPossono comparire riduzione del tono dell’umore e ritiro sociale\nLa persona si muove ancora meno\nIl rischio di una nuova caduta aumenta"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
+    "title": "Invecchiamento e fragilità",
+    "section": "Visione sociale",
+    "text": "Visione sociale\n\n\n\nUna persona anziana vive al terzo piano senza ascensore\nSe cammina con difficoltà, uscire di casa diventa difficile\nSi riducono movimento, attività e relazioni\nAumentano dipendenza e perdita di autonomia\nLe scale diventano un ostacolo sempre maggiore"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività — Il caso di Anna",
+    "text": "Attività — Il caso di Anna\nAnna, 79 anni, vive con il marito, che ha bisogno di aiuto nelle attività quotidiane.\nDa alcuni anni Anna ha uno scompenso cardiaco: il suo cuore fatica a sostenere la circolazione del sangue. Negli ultimi mesi avverte stanchezza e mancanza di fiato anche quando fa la spesa o rifà il letto.\nPer paura di sentirsi male fuori casa, esce sempre meno e ha smesso di incontrare le amiche con cui trascorreva i pomeriggi.\nIl marito si preoccupa quando Anna è affaticata e cerca di aiutarla, ma anche lui ha difficoltà nelle attività domestiche. Anna si sente in colpa perché non riesce più ad aiutarlo come prima.\nDa qualche tempo Anna si sente triste e ha perso interesse per molte delle sue attività abituali.\n\nLeggere il caso senza spiegare ulteriormente la fisiopatologia dello scompenso: gli elementi necessari per l’attività sono tutti descritti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività — Che cosa sta succedendo?",
+    "text": "Attività — Che cosa sta succedendo?\nRileggi il caso di Anna.\nIdentifica almeno un elemento per ciascuna dimensione\n\nBiologica: quali problemi riguardano il corpo e le sue funzioni?\nPsicologica: quali elementi riguardano emozioni, pensieri e percezione di sé?\nSociale: quali elementi riguardano relazioni, ruoli e vita quotidiana?\n\n\n4–5 minuti di lavoro individuale. Non chiedere di formulare nuove diagnosi o di conoscere la fisiopatologia dello scompenso."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività — Costruiamo la rete",
+    "text": "Attività — Costruiamo la rete\nIn gruppo\n\nCollegate con delle frecce gli elementi che possono influenzarsi.\nSpiegate per ogni freccia come un elemento può influenzare l’altro.\nCercate un circolo: una conseguenza può tornare a influenzare il problema iniziale?\n\n\nDomanda guida: come può un problema biologico influenzare la vita psicologica e sociale di Anna? E come possono queste dimensioni influenzare nuovamente il suo benessere fisico?\n\n\n8–10 minuti di discussione in gruppo; 8–10 minuti di restituzione.\nNel debrief costruire una rete con le relazioni proposte dagli studenti. Possibile esempio: mancanza di fiato → paura di uscire → meno incontri con le amiche → tristezza → ulteriore riduzione del movimento. Presentarlo come una possibile relazione, non come diagnosi certa o unica soluzione.\nChiedere: «Se ci occupassimo soltanto dello scompenso cardiaco, quali aspetti della situazione di Anna rischieremmo di trascurare?». Non richiedere ancora un piano assistenziale o una VMD."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
+    "title": "Invecchiamento e fragilità",
+    "section": "Il modello bio-psico-sociale — da ricordare",
+    "text": "Il modello bio-psico-sociale — da ricordare\nLa salute della persona è il risultato dell’interazione tra fattori biologici, psicologici e sociali.\n\nUno stesso problema di salute può avere componenti in tutte e tre le dimensioni\nQueste componenti non sono indipendenti: possono influenzarsi reciprocamente, anche formando circoli\nPer comprendere il problema e prendersi cura della persona dobbiamo considerare anche le interazioni, non soltanto la malattia\n\n\nSlide di consolidamento da mostrare DOPO l’attività: la definizione rende esplicito il principio emerso dalla rete degli studenti."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
+    "title": "Invecchiamento e fragilità",
+    "section": "PAUSA",
+    "text": "PAUSA\n10 minuti…"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "La fragilità",
+    "text": "La fragilità\nOsservazione empirica\nAlcune persone hanno conseguenze molto più gravi di altre davanti allo stesso evento stressante."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
+    "title": "Invecchiamento e fragilità",
+    "section": "La fragilità",
+    "text": "La fragilità\nUno stesso stressor: un’infezione\n\n\nPersona robusta\n\nModesto impatto funzionale\nBuona tolleranza allo stressor\nRecupero relativamente rapido\nRitorno alle attività abituali\n\n\nPersona fragile\n\nImportante perdita funzionale\nMaggiore rischio di complicanze\nPossibile delirium o immobilità\nRecupero più lento o incompleto"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
+    "title": "Invecchiamento e fragilità",
+    "section": "La fragilità",
+    "text": "La fragilità\nUno stato di aumentata vulnerabilità agli stressor, legato alla riduzione delle riserve e della capacità di mantenere o recuperare l’omeostasi\n\nUno stressor può produrre conseguenze sproporzionate\nIl rischio di complicanze, eventi avversi e outcome negativi aumenta"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
+    "title": "Invecchiamento e fragilità",
+    "section": "I problemi",
+    "text": "I problemi\n\nStandardizzare la misura e la definizione nella pratica\nEvitare che la fragilità diventi un criterio automatico di esclusione"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
+    "title": "Invecchiamento e fragilità",
+    "section": "Standardizzare la misura",
+    "text": "Standardizzare la misura\nLa fragilità descrive un rischio.\nCome possiamo misurarla?\n\nSono stati proposti numerosissimi strumenti\nAl di là dello strumento:\n\nè importante conoscere popolazione e validazione\nè importante soprattutto pensare alla fragilità"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
+    "title": "Invecchiamento e fragilità",
+    "section": "Frailty Index",
+    "text": "Frailty Index\nIntuizione:\n\nconsidero numerosi problemi di salute (= deficit)\nattribuisco a ciascun deficit un valore tra 0 e 1\nsommo il danno accumulato\nstandardizzo sul numero di deficit considerati\n\nFI = deficit accumulati / deficit valutati"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
+    "title": "Invecchiamento e fragilità",
+    "section": "Frailty Index — esempio",
+    "text": "Frailty Index — esempio"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "Fenotipo di fragilità",
+    "text": "Fenotipo di fragilità\nModello teorico:\nQuali sono le caratteristiche manifeste della fragilità?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
+    "title": "Invecchiamento e fragilità",
+    "section": "Clinical Frailty Scale (CFS)",
+    "text": "Clinical Frailty Scale (CFS)\nApplicazione pratica"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
+    "title": "Invecchiamento e fragilità",
+    "section": "Dicono la stessa cosa?",
+    "text": "Dicono la stessa cosa?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
+    "title": "Invecchiamento e fragilità",
+    "section": "Una fragilità, diverse prospettive",
+    "text": "Una fragilità, diverse prospettive\n\nFrailty Index: fragilità rappresentata come accumulo di deficit di salute\nFenotipo di Fried: fragilità rappresentata attraverso cinque manifestazioni fisiche\nClinical Frailty Scale: valutazione clinica globale, che considera anche funzione e dipendenza\n\nSono modi diversi di rappresentare e valutare la fragilità: non sono necessariamente intercambiabili.\n\nDistinguere il concetto di fragilità dagli strumenti con cui viene operazionalizzato. Nessuno dei tre costituisce una misura diretta, completa e definitiva della fragilità."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività",
+    "text": "Attività\nConsiderate i tre strumenti per valutare la fragilità:\n\nFI — accumulo di deficit\nFP — cinque criteri fenotipici\nCFS — giudizio clinico gerarchico su funzione e dipendenza\n\n\nIn gruppo, ordinate i tre strumenti in base a:\n\nFacilità di utilizzo in una struttura residenziale\nObiettività\nFacilità di comunicare il risultato al caregiver\n\nPer ogni graduatoria, motivate almeno la prima e l’ultima posizione.\nDomanda finale: usereste necessariamente lo stesso strumento in una ricerca e in una visita in struttura residenziale? Perché?\n\n\nCirca 8 minuti di discussione in gruppo; 7–10 minuti di restituzione.\nNon cercare una graduatoria «corretta»: far emergere vantaggi, limiti e contesto d’uso. La scelta richiede anche di considerare validazione, affidabilità, popolazione e fattibilità."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
+    "title": "Invecchiamento e fragilità",
+    "section": "Qual è il modello giusto?",
+    "text": "Qual è il modello giusto?\nNon esiste un unico modello operativo che rappresenti in modo completo e definitivo la fragilità.\nScegliamo lo strumento in base alla domanda\n\nChe cosa vogliamo conoscere?\nIn quale popolazione e contesto lo utilizzeremo?\nPer quale scopo useremo il risultato?\n\nIl modello è uno strumento per rispondere a una domanda, non la realtà stessa.\n\n«Non esiste il modello vero» non significa che gli strumenti siano equivalenti: validità, affidabilità e proprietà di misura contano. Richiamare il significato prognostico senza trasformarlo in una regola automatica di cura."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "Escludere sulla base della fragilità",
+    "text": "Escludere sulla base della fragilità\nMolti strumenti di fragilità hanno dimostrato capacità prognostica.\nQuesto significa che:\n\nè importante riconoscere la fragilità, non soltanto scegliere una specifica scala\nuna persona più fragile presenta mediamente un rischio maggiore di eventi avversi e morte\n\n\nPredire il rischio non significa decidere automaticamente il trattamento."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
+    "title": "Invecchiamento e fragilità",
+    "section": "Esempio",
+    "text": "Esempio\nUna persona di 78 anni, CFS 7, ha una neoplasia.\nÈ disponibile un trattamento oncologico con possibili benefici, ma anche con importanti effetti avversi.\nL’oncologo decide di non proporlo sulla sola base della fragilità.\nQual è il problema di questo approccio?"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
+    "title": "Invecchiamento e fragilità",
+    "section": "La cura centrata sulla persona",
+    "text": "La cura centrata sulla persona\nPuò essere condivisibile non iniziare uno specifico trattamento, ma rimangono molte possibilità:\n\nproporre un approccio simultaneo-palliativo\nproporre supporto psicologico\neducare sulla possibile evoluzione della malattia e sulle complicanze\nattivare servizi alla persona: SAD, ADI, IFeC, UCpDOM\nrevisionare la terapia\ndiscutere priorità e obiettivi della persona\n…"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività finale",
+    "text": "Attività finale\nStessa età. Stessa malattia. Stessa persona?\n\n\nMario, 82 anni\nHa uno scompenso cardiaco.\n\nvive solo\nfa la spesa e cucina autonomamente\nesce ogni giorno\ngestisce farmaci e appuntamenti\ndopo un’infezione respiratoria torna rapidamente alle attività abituali\n\n\nGiovanni, 82 anni\nHa uno scompenso cardiaco.\n\nvive con la moglie\nnecessita di aiuto per spesa e farmaci\nesce raramente\ncammina lentamente e si affatica facilmente\ndopo un’infezione respiratoria perde autonomia per diverse settimane"
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
+    "title": "Invecchiamento e fragilità",
+    "section": "Attività finale",
+    "text": "Attività finale\nIn gruppo\n\nChe cosa rende diverse queste due persone?\nChi vi sembra più fragile? Perché?\nQuali altre informazioni vorreste conoscere?\n\n\n5 minuti di riflessione individuale o a coppie.\n10 minuti di discussione in gruppo.\n10 minuti di restituzione.\nDurante il debrief raccogliere: mobilità, ADL/IADL, cognizione, umore, nutrizione, farmaci, rete sociale, abitazione, obiettivi della persona.\nQuesto prepara naturalmente la lezione sulla Valutazione Multidimensionale Geriatrica."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
+    "title": "Invecchiamento e fragilità",
+    "section": "Perché valutiamo la fragilità?",
+    "text": "Perché valutiamo la fragilità?\nLa fragilità ci aiuta a riconoscere persone anziane particolarmente vulnerabili, nelle quali possono essere presenti bisogni di salute complessi.\nRiconoscere la fragilità è un punto di partenza, non una conclusione.\nIdentificare una persona fragile può suggerire la necessità di approfondire la valutazione delle diverse dimensioni della sua salute.\nNella prossima lezione: la Valutazione Multidimensionale Geriatrica (VMD).\n\nLa fragilità orienta l’approfondimento, ma non è un criterio esclusivo o obbligatorio per accedere alla VMD. Collegare la domanda dell’attività finale («Quali altre informazioni vorreste conoscere?») alle dimensioni da valutare."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
+    "title": "Invecchiamento e fragilità",
+    "section": "Che cosa porto a casa?",
+    "text": "Che cosa porto a casa?\nVerifica finale individuale — 3 minuti\n\nChe cosa significa usare il modello bio-psico-sociale per comprendere un problema di salute? Spiega anche come interagiscono le sue componenti.\nChe cosa significa che una persona è fragile?\nPerché esistono diversi strumenti per valutare la fragilità? Come sceglieresti quale utilizzare?\n\n\nExit ticket individuale: raccogliere risposte brevi, senza richiedere una nuova analisi del caso. Utilizzare le risposte per verificare l’allineamento con i due obiettivi iniziali."
+  },
+  {
+    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
+    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
+    "title": "Invecchiamento e fragilità",
+    "section": "Conclusione",
+    "text": "Conclusione\nAlla prossima!\n[se possibile, portate tablet o laptop!] {.alert}\n\nalberto.zucchelli@unibs.it"
+  },
+  {
+    "objectID": "geriatria/index.html",
+    "href": "geriatria/index.html",
+    "title": "Geriatria",
     "section": "",
-    "text": "Geriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
+    "text": "Materiale didattico del corso di Geriatria.\n\n\n\n\n\nInvecchiamento e fragilità · PDF per lo studio\nLa valutazione multidimensionale · PDF per lo studio\nDemenza e disturbi del comportamento · PDF per lo studio"
+  },
+  {
+    "objectID": "geriatria/index.html#lezioni",
+    "href": "geriatria/index.html#lezioni",
+    "title": "Geriatria",
+    "section": "",
+    "text": "Invecchiamento e fragilità · PDF per lo studio\nLa valutazione multidimensionale · PDF per lo studio\nDemenza e disturbi del comportamento · PDF per lo studio"
   },
   {
     "objectID": "geriatria/educazione-professionale/03_demenza_BPSD.html#oggi-cosa-dovrete-sapere",
@@ -413,577 +973,115 @@
     "text": "Fonti e materiali\n\nWHO. Dementia fact sheet. https://www.who.int/news-room/fact-sheets/detail/dementia\nNICE NG97. Dementia: assessment, management and support. https://www.nice.org.uk/guidance/ng97\nIPA. Complete Guide to BPSD. https://www.ipa-online.org/UserFiles/file/IPA_BPSD_Specialists_Complete_Guide_Online_2015_Final.pdf\nKales, Gitlin, Lyketsos. DICE approach. https://pmc.ncbi.nlm.nih.gov/articles/PMC4146407/\nNPI-Q italiano. https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf\nSito ufficiale NPI. https://mail.npitest.net/npi/about-npi.html\n\n\nSlide finale di supporto. Ricordare che NPI/NPI-Q sono strumenti coperti da copyright di J.L. Cummings; usare link e non ripubblicare il modulo nel repository pubblico. Verificare condizioni di uso se si intende distribuire copie cartacee."
   },
   {
-    "objectID": "geriatria/index.html",
-    "href": "geriatria/index.html",
-    "title": "Geriatria",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Didattica",
     "section": "",
-    "text": "Materiale didattico del corso di Geriatria.\n\n\n\n\n\nInvecchiamento e fragilità · PDF per lo studio\nLa valutazione multidimensionale · PDF per lo studio\nDemenza e disturbi del comportamento · PDF per lo studio"
+    "text": "Raccolta del materiale didattico e delle presentazioni.\n\n\n\n\n\nGeriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
   },
   {
-    "objectID": "geriatria/index.html#lezioni",
-    "href": "geriatria/index.html#lezioni",
-    "title": "Geriatria",
+    "objectID": "index.html#corsi",
+    "href": "index.html#corsi",
+    "title": "Didattica",
     "section": "",
-    "text": "Invecchiamento e fragilità · PDF per lo studio\nLa valutazione multidimensionale · PDF per lo studio\nDemenza e disturbi del comportamento · PDF per lo studio"
+    "text": "Geriatria\n\n\n\n\n\nPrescription Day LTCFs 2024"
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento",
-    "title": "Invecchiamento e fragilità",
-    "section": "Invecchiamento",
-    "text": "Invecchiamento\nPensate a una persona anziana.\nPensate a una o due caratteristiche che la definiscono.\n\nA quale categoria appartengono queste caratteristiche?\n\nCorpo / fisico\nCervello / cognizione\nPsiche / benessere mentale\nSocio-relazionale-economica\nClinica / malattie\nAltro"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#sfide-e-gestione-della-politerapia-in-rsa",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#sfide-e-gestione-della-politerapia-in-rsa",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Sfide e gestione della politerapia in RSA",
+    "text": "Sfide e gestione della politerapia in RSA\n\nSIGG Lombardia 2026"
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#oggi-che-cosa-dovrete-saper-fare",
-    "title": "Invecchiamento e fragilità",
-    "section": "Oggi: che cosa dovrete saper fare?",
-    "text": "Oggi: che cosa dovrete saper fare?\n1. Guardare la persona attraverso il modello bio-psico-sociale\n\nRiconoscere gli aspetti biologici, psicologici e sociali di una situazione\nSpiegare come queste componenti possono influenzarsi reciprocamente\n\n2. Comprendere e utilizzare il concetto di fragilità\n\nSpiegare la fragilità come vulnerabilità agli stressor\nRiconoscere che esistono diversi modelli operativi e scegliere lo strumento in base allo scopo\nComprendere perché la fragilità può segnalare bisogni di salute complessi"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#la-politerapia-è-la-norma",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#la-politerapia-è-la-norma",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "La politerapia è la norma",
+    "text": "La politerapia è la norma\n\n\n&lt;div class=\"num\"&gt;7,7&lt;/div&gt;\n&lt;div class=\"lab\"&gt;farmaci / residente&lt;/div&gt;\n\n\n&lt;div class=\"num\"&gt;84,8%&lt;/div&gt;\n&lt;div class=\"lab\"&gt;≥ 5 farmaci&lt;/div&gt;\n\n\n&lt;div class=\"num\"&gt;24,0%&lt;/div&gt;\n&lt;div class=\"lab\"&gt;≥ 10 farmaci&lt;/div&gt;\n\n\n\nPrescription Day LTCFs 2024 3.400 residenti 82 strutture età media 84,7 anni\n\n\nMalara et al. Aging Clin Exp Res. 2025;37:291."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#invecchiamento-1",
-    "title": "Invecchiamento e fragilità",
-    "section": "Invecchiamento",
-    "text": "Invecchiamento\nL’età è solo una parte…\nL’età cronologica rimane\n\nuno dei principali fattori di rischio non modificabili per malattia e morte\n\n\nMA\n\n\nè uguale per tutti\nnon differenzia i bisogni"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#farmaci.-ma-in-chi",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#farmaci.-ma-in-chi",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "7,7 farmaci. Ma in chi?",
+    "text": "7,7 farmaci. Ma in chi?\n\n\n49,7%fragilità severa\n\n\n48,2%demenza\n\n\n96,2%≥1 ADL compromessa\n\n\n15,5%disfagia\n\n\n\nPOLYPHARMACY ≠ INAPPROPRIATE POLYPHARMACY\n\n\nLa domanda non è “quanti?”, ma “appropriati per chi, e per quale obiettivo?”\n\n\nMalara et al. Aging Clin Exp Res. 2025;37:291."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello",
-    "title": "Invecchiamento e fragilità",
-    "section": "Il modello",
-    "text": "Il modello\nLa lente utilizzata per guardare l’invecchiamento è il modello\nbio-psico-sociale\n\n\nBiologico\n\nCellule, tessuti e organi cambiano con il tempo\nIl danno può accumularsi e favorire malattia\nLa malattia può contribuire a perdita di funzione e disabilità\n\n\nPsicologico\n\nL’invecchiamento modifica la percezione di sé e del mondo\nLa percezione di sé e del mondo può modificare il modo di invecchiare\n\n\nSociale\n\nL’invecchiamento modifica famiglia, lavoro, relazioni e società\nAmbiente e società influenzano a loro volta il modo di invecchiare"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#il-rischio-è-nella-complessità",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#il-rischio-è-nella-complessità",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Il rischio è nella complessità",
+    "text": "Il rischio è nella complessità\n\n\n\n42,2%≥1 DDI potenzialmente clinicamente rilevante\n\n\n\n\n≥3 farmaci CNS-active\n\n\n\n33,2%\n\n\n≥2 anticolinergici\n\n\n\n7,1%\n\n\nSSRI + serotonergico\n\n\n\n4,1%\n\n\n≥2 K-sparing\n\n\n\n3,5%\n\n\n\n\nIl numero di farmaci è un segnale. Il rischio è nelle combinazioni, nei burden cumulativi e nel contesto clinico.\n\n\nMalara et al. J Gerontol A Biol Sci Med Sci. 2026;81:glag104 · Anrys et al. JAMDA. 2021;22:2121–2133."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-biologica",
-    "title": "Invecchiamento e fragilità",
-    "section": "Visione biologica",
-    "text": "Visione biologica\n\n\n\nIl tempo e il fumo danneggiano vie aeree e tessuto polmonare\nSi sviluppano infiammazione cronica, alterazione delle secrezioni e rimodellamento\nIl flusso dell’aria diventa progressivamente più ostacolato\nSi instaura la broncopneumopatia cronica ostruttiva (BPCO)\nUna persona con BPCO può avere dispnea e ridotta tolleranza allo sforzo\nPuò inoltre sviluppare riacutizzazioni e complicanze respiratorie"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#prescrivere-somministrare",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#prescrivere-somministrare",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Prescrivere ≠ somministrare",
+    "text": "Prescrivere ≠ somministrare\n\n\n\n20.290prescrizioni orali\n\n\n→\n\n\n4.655SODF modificate\n\n\n→\n\n\n38,7%inappropriate / likely inappropriate\n\n\n\n31,7%dei residenti riceve ≥1 SODF modificata in modo potenzialmente inappropriato\n\n\n\nPrescription Day LTCFs — analisi SODF, manuscript."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-psicologica",
-    "title": "Invecchiamento e fragilità",
-    "section": "Visione psicologica",
-    "text": "Visione psicologica\n\n\n\nUna persona che cade può sviluppare paura di cadere\nPer paura di cadere si muove meno\nLa minore attività favorisce perdita di forza\nPossono comparire riduzione del tono dell’umore e ritiro sociale\nLa persona si muove ancora meno\nIl rischio di una nuova caduta aumenta"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#crushing-is-prescribing",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#crushing-is-prescribing",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Crushing is prescribing",
+    "text": "Crushing is prescribing\n\n\n\n\n\n\nPrima di modificare una SODF:\n\n\n&lt;div&gt;SIFO&lt;/div&gt;\n&lt;div&gt;Do Not Crush lists&lt;/div&gt;\n&lt;div&gt;SmPC / RCP&lt;/div&gt;\n&lt;div&gt;Farmacista / farmacologo&lt;/div&gt;\n\n\nLa formulazionefa parte della prescrizione.\n\n\n\n\nSIFO · FVG/ISMP-derived list · Therapeutic Research Center “Do Not Crush” Update 2025."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#visione-sociale",
-    "title": "Invecchiamento e fragilità",
-    "section": "Visione sociale",
-    "text": "Visione sociale\n\n\n\nUna persona anziana vive al terzo piano senza ascensore\nSe cammina con difficoltà, uscire di casa diventa difficile\nSi riducono movimento, attività e relazioni\nAumentano dipendenza e perdita di autonomia\nLe scale diventano un ostacolo sempre maggiore"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#un-esempio-che-resta-in-mente",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#un-esempio-che-resta-in-mente",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Un esempio che resta in mente",
+    "text": "Un esempio che resta in mente\n\n\nPANTOPRAZOLO\n\n\nformulazione gastroresistente / delayed-release\n\n\n&lt;div&gt;&lt;span class=\"circle\"&gt;1&lt;/span&gt;&lt;b&gt;Rivestimento&lt;/b&gt;&lt;small&gt;protegge il principio attivo dall'ambiente gastrico&lt;/small&gt;&lt;/div&gt;\n&lt;div class=\"arrow2\"&gt;→&lt;/div&gt;\n&lt;div&gt;&lt;span class=\"circle\"&gt;2&lt;/span&gt;&lt;b&gt;Triturazione&lt;/b&gt;&lt;small&gt;può compromettere il rivestimento&lt;/small&gt;&lt;/div&gt;\n&lt;div class=\"arrow2\"&gt;→&lt;/div&gt;\n&lt;div&gt;&lt;span class=\"circle\"&gt;3&lt;/span&gt;&lt;b&gt;Effetto&lt;/b&gt;&lt;small&gt;stabilità / rilascio / efficacia possono cambiare&lt;/small&gt;&lt;/div&gt;\n\n\nNon è solo la molecola. È la formulazione.\n\n\n\nPrescription Day LTCFs — SODF analysis · Blaszczyk et al. Drugs Aging. 2023;40:895–907."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-il-caso-di-anna",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività — Il caso di Anna",
-    "text": "Attività — Il caso di Anna\nAnna, 79 anni, vive con il marito, che ha bisogno di aiuto nelle attività quotidiane.\nDa alcuni anni Anna ha uno scompenso cardiaco: il suo cuore fatica a sostenere la circolazione del sangue. Negli ultimi mesi avverte stanchezza e mancanza di fiato anche quando fa la spesa o rifà il letto.\nPer paura di sentirsi male fuori casa, esce sempre meno e ha smesso di incontrare le amiche con cui trascorreva i pomeriggi.\nIl marito si preoccupa quando Anna è affaticata e cerca di aiutarla, ma anche lui ha difficoltà nelle attività domestiche. Anna si sente in colpa perché non riesce più ad aiutarlo come prima.\nDa qualche tempo Anna si sente triste e ha perso interesse per molte delle sue attività abituali.\n\nLeggere il caso senza spiegare ulteriormente la fisiopatologia dello scompenso: gli elementi necessari per l’attività sono tutti descritti."
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#medication-review-togliere-farmaci",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#medication-review-togliere-farmaci",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Medication review ≠ togliere farmaci",
+    "text": "Medication review ≠ togliere farmaci\n\n\nCONTINUE\n\n\nSTART\n\n\nADJUST\n\n\nMONITOR\n\n\nSTOP\n\n\n\nObiettivo APPROPRIATEZZA non il minor numero possibile di farmaci"
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-che-cosa-sta-succedendo",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività — Che cosa sta succedendo?",
-    "text": "Attività — Che cosa sta succedendo?\nRileggi il caso di Anna.\nIdentifica almeno un elemento per ciascuna dimensione\n\nBiologica: quali problemi riguardano il corpo e le sue funzioni?\nPsicologica: quali elementi riguardano emozioni, pensieri e percezione di sé?\nSociale: quali elementi riguardano relazioni, ruoli e vita quotidiana?\n\n\n4–5 minuti di lavoro individuale. Non chiedere di formulare nuove diagnosi o di conoscere la fisiopatologia dello scompenso."
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#funziona-sulla-prescrizione",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#funziona-sulla-prescrizione",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Funziona sulla prescrizione?",
+    "text": "Funziona sulla prescrizione?\n\nSystematic review & meta-analysis 38 studi · 22 RCT\n\n\n\n\n\nOutcome\n\n\nEffetto pooled\n\n\n\n\n\n\nFarmaci / residente, &lt;12 mesi\n\n\n−0,89 (95% CI −1,46; −0,32)\n\n\n\n\nFarmaci / residente, ≥12 mesi\n\n\n−1,60 (−2,68; −0,52)\n\n\n\n\nPIM / residente, 6 mesi\n\n\n−0,48 (−0,74; −0,22)\n\n\n\n\nPIM / residente, ≥12 mesi\n\n\n−0,26 (−0,40; −0,13)\n\n\n\n\n\nSì: medication review e deprescribing modificano gli outcome prescrittivi.\n\n\nCarollo et al. Age Ageing. 2026;55:afag084."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-costruiamo-la-rete",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività — Costruiamo la rete",
-    "text": "Attività — Costruiamo la rete\nIn gruppo\n\nCollegate con delle frecce gli elementi che possono influenzarsi.\nSpiegate per ogni freccia come un elemento può influenzare l’altro.\nCercate un circolo: una conseguenza può tornare a influenzare il problema iniziale?\n\n\nDomanda guida: come può un problema biologico influenzare la vita psicologica e sociale di Anna? E come possono queste dimensioni influenzare nuovamente il suo benessere fisico?\n\n\n8–10 minuti di discussione in gruppo; 8–10 minuti di restituzione.\nNel debrief costruire una rete con le relazioni proposte dagli studenti. Possibile esempio: mancanza di fiato → paura di uscire → meno incontri con le amiche → tristezza → ulteriore riduzione del movimento. Presentarlo come una possibile relazione, non come diagnosi certa o unica soluzione.\nChiedere: «Se ci occupassimo soltanto dello scompenso cardiaco, quali aspetti della situazione di Anna rischieremmo di trascurare?». Non richiedere ancora un piano assistenziale o una VMD."
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#e-sugli-outcome-clinici",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#e-sugli-outcome-clinici",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "E sugli outcome clinici?",
+    "text": "E sugli outcome clinici?\n\n\n&lt;div class=\"forest-label\"&gt;&lt;b&gt;Cadute&lt;/b&gt;&lt;small&gt;3–6 mesi&lt;/small&gt;&lt;/div&gt;\n&lt;div class=\"forest-line\"&gt;&lt;i class=\"ci\" style=\"left:30%;width:42%\"&gt;&lt;/i&gt;&lt;i class=\"null\"&gt;&lt;/i&gt;&lt;i class=\"dot\" style=\"left:51%\"&gt;&lt;/i&gt;&lt;/div&gt;\n&lt;div class=\"forest-value\"&gt;RR 1,02 &lt;small&gt;0,85–1,23&lt;/small&gt;&lt;/div&gt;\n\n\n&lt;div class=\"forest-label\"&gt;&lt;b&gt;Ricoveri&lt;/b&gt;&lt;small&gt;3–6 mesi&lt;/small&gt;&lt;/div&gt;\n&lt;div class=\"forest-line\"&gt;&lt;i class=\"ci\" style=\"left:22%;width:49%\"&gt;&lt;/i&gt;&lt;i class=\"null\"&gt;&lt;/i&gt;&lt;i class=\"dot\" style=\"left:50%\"&gt;&lt;/i&gt;&lt;/div&gt;\n&lt;div class=\"forest-value\"&gt;RR 1,00 &lt;small&gt;0,81–1,23&lt;/small&gt;&lt;/div&gt;\n\n\n&lt;div class=\"forest-label\"&gt;&lt;b&gt;Mortalità&lt;/b&gt;&lt;small&gt;1–6 mesi&lt;/small&gt;&lt;/div&gt;\n&lt;div class=\"forest-line\"&gt;&lt;i class=\"ci\" style=\"left:37%;width:30%\"&gt;&lt;/i&gt;&lt;i class=\"null\"&gt;&lt;/i&gt;&lt;i class=\"dot\" style=\"left:51%\"&gt;&lt;/i&gt;&lt;/div&gt;\n&lt;div class=\"forest-value\"&gt;RR 1,01 &lt;small&gt;0,90–1,13&lt;/small&gt;&lt;/div&gt;\n\n\n\nNessuna riduzione significativa consistente degli hard outcomes.\n\n\nCarollo et al. Age Ageing. 2026;55:afag084."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#il-modello-bio-psico-sociale-da-ricordare",
-    "title": "Invecchiamento e fragilità",
-    "section": "Il modello bio-psico-sociale — da ricordare",
-    "text": "Il modello bio-psico-sociale — da ricordare\nLa salute della persona è il risultato dell’interazione tra fattori biologici, psicologici e sociali.\n\nUno stesso problema di salute può avere componenti in tutte e tre le dimensioni\nQueste componenti non sono indipendenti: possono influenzarsi reciprocamente, anche formando circoli\nPer comprendere il problema e prendersi cura della persona dobbiamo considerare anche le interazioni, non soltanto la malattia\n\n\nSlide di consolidamento da mostrare DOPO l’attività: la definizione rende esplicito il principio emerso dalla rete degli studenti."
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#non-è-un-fallimento-della-review",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#non-è-un-fallimento-della-review",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Non è un fallimento della review",
+    "text": "Non è un fallimento della review\n\n\nMedication review\n\n\n→\n\n\nAppropriatezza\n\n\n→\n\n\nBurden / esposizione\n\n\n→\n\n\nADE\n\n\n→\n\n\nCadute · ricoveri · mortalità\n\n\n\nfragilitàmalattie acuteambientenutrizioneriabilitazioneassistenza\n\n\nLa review agisce direttamente a monte. Gli hard outcomes sono molto più a valle."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#pausa",
-    "title": "Invecchiamento e fragilità",
-    "section": "PAUSA",
-    "text": "PAUSA\n10 minuti…"
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#ai-un-secondo-lettore",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#ai-un-secondo-lettore",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "AI: un secondo lettore?",
+    "text": "AI: un secondo lettore?\n\n\n27,7%accordo con il team clinico\n\n\n19interventi validi aggiuntivi\n\n\n84interventi errati\n\n\n86,4%diagnosi ↔︎ farmaco corretti\n\n\n\n\nAI / CDSSscreening · DDI/PIM · riconciliazione · lista problemi\n\n\n→\n\n\nHUMAN REVIEWcontesto · prognosi · obiettivi · preferenze · decisione\n\n\n\n2026 BMC Geriatrics: buone performance sui criteri espliciti; la qualità e la prioritizzazione clinica restano model-dependent.\n\n\nHoope et al. J Am Geriatr Soc. 2026; doi:10.1111/jgs.70415 · Alpay et al. BMC Geriatr. 2026; doi:10.1186/s12877-026-08253-5."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "La fragilità",
-    "text": "La fragilità\nOsservazione empirica\nAlcune persone hanno conseguenze molto più gravi di altre davanti allo stesso evento stressante."
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#la-review-dentro-la-cura",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#la-review-dentro-la-cura",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "La review dentro la cura",
+    "text": "La review dentro la cura\n\n\nVMD + obiettivi\n\n\n→\n\n\nMEDICATION REVIEW\n\n\n→\n\n\nDecisione\n\n\n→\n\n\nSomministrazione\n\n\n→\n\n\nMonitoraggio\n\n\n\n↺ rivalutazione\n\n\nmedico · infermiere · farmacista · residente/caregiver\n\n\nNon un intervento stand-alone: una pratica longitudinale e coerente."
   },
   {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-1",
-    "title": "Invecchiamento e fragilità",
-    "section": "La fragilità",
-    "text": "La fragilità\nUno stesso stressor: un’infezione\n\n\nPersona robusta\n\nModesto impatto funzionale\nBuona tolleranza allo stressor\nRecupero relativamente rapido\nRitorno alle attività abituali\n\n\nPersona fragile\n\nImportante perdita funzionale\nMaggiore rischio di complicanze\nPossibile delirium o immobilità\nRecupero più lento o incompleto"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-fragilità-2",
-    "title": "Invecchiamento e fragilità",
-    "section": "La fragilità",
-    "text": "La fragilità\nUno stato di aumentata vulnerabilità agli stressor, legato alla riduzione delle riserve e della capacità di mantenere o recuperare l’omeostasi\n\nUno stressor può produrre conseguenze sproporzionate\nIl rischio di complicanze, eventi avversi e outcome negativi aumenta"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#i-problemi",
-    "title": "Invecchiamento e fragilità",
-    "section": "I problemi",
-    "text": "I problemi\n\nStandardizzare la misura e la definizione nella pratica\nEvitare che la fragilità diventi un criterio automatico di esclusione"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#standardizzare-la-misura",
-    "title": "Invecchiamento e fragilità",
-    "section": "Standardizzare la misura",
-    "text": "Standardizzare la misura\nLa fragilità descrive un rischio.\nCome possiamo misurarla?\n\nSono stati proposti numerosissimi strumenti\nAl di là dello strumento:\n\nè importante conoscere popolazione e validazione\nè importante soprattutto pensare alla fragilità"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index",
-    "title": "Invecchiamento e fragilità",
-    "section": "Frailty Index",
-    "text": "Frailty Index\nIntuizione:\n\nconsidero numerosi problemi di salute (= deficit)\nattribuisco a ciascun deficit un valore tra 0 e 1\nsommo il danno accumulato\nstandardizzo sul numero di deficit considerati\n\nFI = deficit accumulati / deficit valutati"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#frailty-index-esempio",
-    "title": "Invecchiamento e fragilità",
-    "section": "Frailty Index — esempio",
-    "text": "Frailty Index — esempio"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#fenotipo-di-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "Fenotipo di fragilità",
-    "text": "Fenotipo di fragilità\nModello teorico:\nQuali sono le caratteristiche manifeste della fragilità?"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#clinical-frailty-scale-cfs",
-    "title": "Invecchiamento e fragilità",
-    "section": "Clinical Frailty Scale (CFS)",
-    "text": "Clinical Frailty Scale (CFS)\nApplicazione pratica"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#dicono-la-stessa-cosa",
-    "title": "Invecchiamento e fragilità",
-    "section": "Dicono la stessa cosa?",
-    "text": "Dicono la stessa cosa?"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#una-fragilità-diverse-prospettive",
-    "title": "Invecchiamento e fragilità",
-    "section": "Una fragilità, diverse prospettive",
-    "text": "Una fragilità, diverse prospettive\n\nFrailty Index: fragilità rappresentata come accumulo di deficit di salute\nFenotipo di Fried: fragilità rappresentata attraverso cinque manifestazioni fisiche\nClinical Frailty Scale: valutazione clinica globale, che considera anche funzione e dipendenza\n\nSono modi diversi di rappresentare e valutare la fragilità: non sono necessariamente intercambiabili.\n\nDistinguere il concetto di fragilità dagli strumenti con cui viene operazionalizzato. Nessuno dei tre costituisce una misura diretta, completa e definitiva della fragilità."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività",
-    "text": "Attività\nConsiderate i tre strumenti per valutare la fragilità:\n\nFI — accumulo di deficit\nFP — cinque criteri fenotipici\nCFS — giudizio clinico gerarchico su funzione e dipendenza\n\n\nIn gruppo, ordinate i tre strumenti in base a:\n\nFacilità di utilizzo in una struttura residenziale\nObiettività\nFacilità di comunicare il risultato al caregiver\n\nPer ogni graduatoria, motivate almeno la prima e l’ultima posizione.\nDomanda finale: usereste necessariamente lo stesso strumento in una ricerca e in una visita in struttura residenziale? Perché?\n\n\nCirca 8 minuti di discussione in gruppo; 7–10 minuti di restituzione.\nNon cercare una graduatoria «corretta»: far emergere vantaggi, limiti e contesto d’uso. La scelta richiede anche di considerare validazione, affidabilità, popolazione e fattibilità."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#qual-è-il-modello-giusto",
-    "title": "Invecchiamento e fragilità",
-    "section": "Qual è il modello giusto?",
-    "text": "Qual è il modello giusto?\nNon esiste un unico modello operativo che rappresenti in modo completo e definitivo la fragilità.\nScegliamo lo strumento in base alla domanda\n\nChe cosa vogliamo conoscere?\nIn quale popolazione e contesto lo utilizzeremo?\nPer quale scopo useremo il risultato?\n\nIl modello è uno strumento per rispondere a una domanda, non la realtà stessa.\n\n«Non esiste il modello vero» non significa che gli strumenti siano equivalenti: validità, affidabilità e proprietà di misura contano. Richiamare il significato prognostico senza trasformarlo in una regola automatica di cura."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#escludere-sulla-base-della-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "Escludere sulla base della fragilità",
-    "text": "Escludere sulla base della fragilità\nMolti strumenti di fragilità hanno dimostrato capacità prognostica.\nQuesto significa che:\n\nè importante riconoscere la fragilità, non soltanto scegliere una specifica scala\nuna persona più fragile presenta mediamente un rischio maggiore di eventi avversi e morte\n\n\nPredire il rischio non significa decidere automaticamente il trattamento."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#esempio",
-    "title": "Invecchiamento e fragilità",
-    "section": "Esempio",
-    "text": "Esempio\nUna persona di 78 anni, CFS 7, ha una neoplasia.\nÈ disponibile un trattamento oncologico con possibili benefici, ma anche con importanti effetti avversi.\nL’oncologo decide di non proporlo sulla sola base della fragilità.\nQual è il problema di questo approccio?"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#la-cura-centrata-sulla-persona",
-    "title": "Invecchiamento e fragilità",
-    "section": "La cura centrata sulla persona",
-    "text": "La cura centrata sulla persona\nPuò essere condivisibile non iniziare uno specifico trattamento, ma rimangono molte possibilità:\n\nproporre un approccio simultaneo-palliativo\nproporre supporto psicologico\neducare sulla possibile evoluzione della malattia e sulle complicanze\nattivare servizi alla persona: SAD, ADI, IFeC, UCpDOM\nrevisionare la terapia\ndiscutere priorità e obiettivi della persona\n…"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività finale",
-    "text": "Attività finale\nStessa età. Stessa malattia. Stessa persona?\n\n\nMario, 82 anni\nHa uno scompenso cardiaco.\n\nvive solo\nfa la spesa e cucina autonomamente\nesce ogni giorno\ngestisce farmaci e appuntamenti\ndopo un’infezione respiratoria torna rapidamente alle attività abituali\n\n\nGiovanni, 82 anni\nHa uno scompenso cardiaco.\n\nvive con la moglie\nnecessita di aiuto per spesa e farmaci\nesce raramente\ncammina lentamente e si affatica facilmente\ndopo un’infezione respiratoria perde autonomia per diverse settimane"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#attività-finale-1",
-    "title": "Invecchiamento e fragilità",
-    "section": "Attività finale",
-    "text": "Attività finale\nIn gruppo\n\nChe cosa rende diverse queste due persone?\nChi vi sembra più fragile? Perché?\nQuali altre informazioni vorreste conoscere?\n\n\n5 minuti di riflessione individuale o a coppie.\n10 minuti di discussione in gruppo.\n10 minuti di restituzione.\nDurante il debrief raccogliere: mobilità, ADL/IADL, cognizione, umore, nutrizione, farmaci, rete sociale, abitazione, obiettivi della persona.\nQuesto prepara naturalmente la lezione sulla Valutazione Multidimensionale Geriatrica."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#perché-valutiamo-la-fragilità",
-    "title": "Invecchiamento e fragilità",
-    "section": "Perché valutiamo la fragilità?",
-    "text": "Perché valutiamo la fragilità?\nLa fragilità ci aiuta a riconoscere persone anziane particolarmente vulnerabili, nelle quali possono essere presenti bisogni di salute complessi.\nRiconoscere la fragilità è un punto di partenza, non una conclusione.\nIdentificare una persona fragile può suggerire la necessità di approfondire la valutazione delle diverse dimensioni della sua salute.\nNella prossima lezione: la Valutazione Multidimensionale Geriatrica (VMD).\n\nLa fragilità orienta l’approfondimento, ma non è un criterio esclusivo o obbligatorio per accedere alla VMD. Collegare la domanda dell’attività finale («Quali altre informazioni vorreste conoscere?») alle dimensioni da valutare."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#che-cosa-porto-a-casa",
-    "title": "Invecchiamento e fragilità",
-    "section": "Che cosa porto a casa?",
-    "text": "Che cosa porto a casa?\nVerifica finale individuale — 3 minuti\n\nChe cosa significa usare il modello bio-psico-sociale per comprendere un problema di salute? Spiega anche come interagiscono le sue componenti.\nChe cosa significa che una persona è fragile?\nPerché esistono diversi strumenti per valutare la fragilità? Come sceglieresti quale utilizzare?\n\n\nExit ticket individuale: raccogliere risposte brevi, senza richiedere una nuova analisi del caso. Utilizzare le risposte per verificare l’allineamento con i due obiettivi iniziali."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
-    "href": "geriatria/educazione-professionale/01_invecchiamento_fragilita.html#conclusione",
-    "title": "Invecchiamento e fragilità",
-    "section": "Conclusione",
-    "text": "Conclusione\nAlla prossima!\n[se possibile, portate tablet o laptop!] {.alert}\n\nalberto.zucchelli@unibs.it"
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#dalla-fragilità-ai-bisogni",
-    "title": "Valutazione Multidimensionale",
-    "section": "Dalla fragilità ai bisogni",
-    "text": "Dalla fragilità ai bisogni\nUna persona può essere fragile. E poi?\nCome comprendiamo i suoi bisogni e decidiamo che cosa fare?\n\n0–10 min, comprensivi della slide successiva. Riprendere la lezione 1: il modello biopsicosociale descrive dimensioni interagenti; la fragilità segnala vulnerabilità e possibile complessità, non determina da sola bisogni, preferenze e interventi. Chiedere due risposte rapide alla domanda. Transizione: dalla vulnerabilità potenziale alla comprensione della singola persona."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#oggi-cosa-dovrete-sapere",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#oggi-cosa-dovrete-sapere",
-    "title": "Valutazione Multidimensionale",
-    "section": "Oggi: cosa dovrete sapere?",
-    "text": "Oggi: cosa dovrete sapere?\n1. VMD = processo\nValutare → condividere → progettare → rivalutare\n2. Modelli e scale = strumenti\nLe 5M orientano; le scale si scelgono e si imparano a usare.\n3. La persona orienta il progetto\nBisogni, risorse e preferenze guidano obiettivi e interventi.\n\nChiudere l’apertura entro il minuto 10. Esplicitare che i primi due nuclei sono conoscenze fondamentali per l’esame a risposta multipla. Il terzo si esercita nelle attività ed è verificabile anche con brevi casi applicativi. Non richiedere di imparare a memoria ogni scala."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#vmd-una-definizione",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#vmd-una-definizione",
-    "title": "Valutazione Multidimensionale",
-    "section": "VMD: una definizione",
-    "text": "VMD: una definizione\nLa Valutazione Multidimensionale geriatrica è un\nprocesso multidimensionale e multiprofessionale\nche identifica e integra i bisogni della persona, per costruire un progetto personalizzato e coordinato, da rivalutare nel tempo.\n\n10–25 min, insieme alle quattro slide successive. È una formulazione didattica adattata dalla definizione di Comprehensive Geriatric Assessment della British Geriatrics Society: https://www.bgs.org.uk/CGA . Non richiedere la recitazione letterale della frase; per l’esame chiedere di riconoscerne gli elementi costitutivi. «Processo»: non è un singolo test o una fotografia. «Multidimensionale»: salute fisica, psichica, funzionale, sociale e ambiente. «Multiprofessionale»: informazioni e decisioni condivise tra figure con competenze diverse; coinvolgere la persona."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-non-è",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-non-è",
-    "title": "Valutazione Multidimensionale",
-    "section": "La VMD non è…",
-    "text": "La VMD non è…\n\n\nNon solo\n\nUn elenco di problemi\nUna batteria di scale\nUn punteggio finale\n\n\nÈ anche\n\nBisogni e risorse\nDecisioni condivise\nUn progetto da verificare\n\n\n\nChiarire senza svalutare le scale: servono per raccogliere e comunicare informazioni, ma non equivalgono alla VMD. Non contrapporre standardizzazione e personalizzazione: la raccolta può essere standardizzata, mentre l’interpretazione e l’intervento devono essere individualizzati. Chiedere: «Se completiamo sei scale, abbiamo necessariamente completato una VMD?». Risposta: no, se mancano integrazione, pianificazione e follow-up."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-è-un-percorso",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#la-vmd-è-un-percorso",
-    "title": "Valutazione Multidimensionale",
-    "section": "La VMD è un percorso",
-    "text": "La VMD è un percorso\nValutare la persona e il contesto\n↓\nIdentificare e condividere bisogni e risorse\n↓\nConcordare priorità e obiettivi\n↓\nAttuare interventi coordinati\n↓\nRivalutare e adeguare il progetto ↺\n\nUsare il diagramma come mappa per tutte le attività della lezione. La comunicazione avviene durante l’intero percorso e coinvolge équipe, persona e, quando appropriato, caregiver. I passaggi non sono rigidi: nuove informazioni possono richiedere di tornare alla valutazione. Distinguere verificare l’esito dall’adeguare gli interventi. Fonte di riferimento: https://www.bgs.org.uk/CGA ."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#perché-lavorare-insieme",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#perché-lavorare-insieme",
-    "title": "Valutazione Multidimensionale",
-    "section": "Perché lavorare insieme?",
-    "text": "Perché lavorare insieme?\nInformazioni diverse → comprensione condivisa → interventi coordinati\n\nUn bisogno riconosciuto ma non comunicato può non trovare risposta.\n\n\nEsempio accessibile agli studenti: un operatore osserva che una persona non partecipa più alle attività, un altro nota difficoltà a muoversi, la persona riferisce paura di cadere. La comunicazione permette di integrare queste osservazioni e concordare un intervento. Evitare di ridurre il lavoro d’équipe allo scambio di punteggi. Chiudere il blocco definizione al minuto 25."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#multidimensionale-identica-per-tutti",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#multidimensionale-identica-per-tutti",
-    "title": "Valutazione Multidimensionale",
-    "section": "Multidimensionale ≠ identica per tutti",
-    "text": "Multidimensionale ≠ identica per tutti\nQuali dimensioni approfondire?\nDipende dalla persona, dal quesito e dal contesto.\n\n25–33 min, insieme alle due slide successive. La VMD richiede una visione globale, ma intensità e strumenti di approfondimento variano secondo bisogni e setting. «Personalizzata» non significa arbitraria: le scelte vanno motivate e condivise. Collegamento con la prima lezione: un problema biologico può avere componenti psicologiche e sociali interagenti."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-5m-una-guida-non-il-modello",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-5m-una-guida-non-il-modello",
-    "title": "Valutazione Multidimensionale",
-    "section": "Le 5M: una guida, non «IL modello»",
-    "text": "Le 5M: una guida, non «IL modello»\n\n\n\nMind · cognizione e umore\nMobility · mobilità e autonomia\nMedications · terapia e rischi\n\n\n\nMulticomplexity · complessità clinica e sociale\nWhat Matters Most · preferenze e obiettivi\n\n\nUna mappa utile. Non un protocollo obbligatorio.\n\nLe 5M sono una cornice mnemonica per le questioni centrali della geriatria, non una check-list esaustiva né l’unico schema per organizzare una VMD. Non serve trovare un problema in ogni M, né forzare ogni elemento in una sola categoria. Fonti: Tinetti et al., The Geriatrics 5Ms, JAGS 2017, https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.14979 ; https://pmc.ncbi.nlm.nih.gov/articles/PMC6347324/ . La M What Matters Most attraversa tutte le decisioni, non è solo una quinta casella."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-1-la-sig.ra-m",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-1-la-sig.ra-m",
-    "title": "Valutazione Multidimensionale",
-    "section": "Attività 1 · La sig.ra M",
-    "text": "Attività 1 · La sig.ra M\n\n\nLeggete il caso.\n\nQuali bisogni e risorse emergono?\nUsate le 5M come guida, non come obbligo.\nQuali 2 informazioni mancano?\nChe cosa approfondireste per primo? Perché?\n\n\n\n\n\n\n\nApri il caso\n\n\n33–53 min: 3 minuti per la consegna, 12 di lavoro in gruppi da 3–5, 5 di restituzione rapida. Usare il caso esistente via QR/link. Non introdurre informazioni non contenute nel caso come se fossero fatti; eventuali nuovi dati emergeranno in una fase successiva chiaramente ipotetica. Richiedere un prodotto minimale: bisogno/risorsa, due informazioni mancanti, priorità motivata. Chiedere agli studenti con background clinico limitato di descrivere ciò che leggono, non formulare diagnosi."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#discussione-una-sola-m-corretta",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#discussione-una-sola-m-corretta",
-    "title": "Valutazione Multidimensionale",
-    "section": "Discussione · Una sola «M» corretta?",
-    "text": "Discussione · Una sola «M» corretta?\nGruppi diversi, priorità diverse.\nChi ha ragione?\n\nConta la motivazione, non riempire tutte le caselle.\n\n\n53–60 min, debriefing. Confrontare due gruppi con priorità diverse. Non concludere che ogni risposta vale uguale: coerenza con bisogni, preferenze, sicurezza e contesto va motivata. Sintesi da far verbalizzare: «Le 5M aiutano a non dimenticare dimensioni importanti, ma la VMD è individualizzata». Ricollegare al diagramma del processo: abbiamo identificato bisogni e informazioni da approfondire."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-quale-domanda-devo-affrontare",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-quale-domanda-devo-affrontare",
-    "title": "Valutazione Multidimensionale",
-    "section": "Le scale: quale domanda devo affrontare?",
-    "text": "Le scale: quale domanda devo affrontare?\nPrima il bisogno. Poi lo strumento.\nCosa devo sapere? Perché? Per chi? Dove?\n\n60–70 min, con le tre slide successive. Una scala è utile se risponde al quesito; lo stesso strumento non è automaticamente appropriato a tutti i setting e le persone. Esempi brevi: se voglio approfondire autonomia nelle attività quotidiane, cercherò uno strumento relativo a quella dimensione; se voglio comprendere ciò che è importante per la persona, il dialogo non può essere sostituito da un punteggio. Distinguere le informazioni ottenibili da persona, caregiver, osservazione e cartella."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-un-metodo-in-5-domande",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#le-scale-un-metodo-in-5-domande",
-    "title": "Valutazione Multidimensionale",
-    "section": "Le scale: un metodo in 5 domande",
-    "text": "Le scale: un metodo in 5 domande\n\nScopo · Che cosa misura?\nApplicabilità · Per chi e in quale setting?\nSomministrazione · Chi, come, con quali fonti?\nInterpretazione · Che cosa significa il risultato?\nUtilizzo · Come informa il progetto o il monitoraggio?\n\n\nQueste domande costituiscono il metodo che gli studenti devono acquisire, anche quando lo strumento è nuovo. Consultare sempre istruzioni/manuale, ed eventuali requisiti di formazione o autorizzazione; non inferire il significato degli item dal solo nome. Cercare versione, popolazione di validazione, eventuali adattamenti per lingua e contesto. Cut-off e punteggi non sono diagnosi autonome; interpretarli secondo indicazioni dello specifico strumento."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#che-cosa-devo-ricordare",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#che-cosa-devo-ricordare",
-    "title": "Valutazione Multidimensionale",
-    "section": "Che cosa devo ricordare?",
-    "text": "Che cosa devo ricordare?\nDivento pratico nelle scale del mio lavoro.\nQuando una scala è nuova:\nconsulto le istruzioni, verifico se è adatta, imparo ad applicarla.\n\nEsplicitare l’aspettativa d’esame: principi di scelta e applicazione, non elenco mnemonico di ogni scala possibile. Le scale più frequenti per un contesto professionale diventeranno progressivamente familiari nella pratica e nella formazione sul campo. Non improvvisare somministrazione o attribuzione dei punteggi. Le istruzioni possono precisare qualifiche o training necessari."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-2-una-scala-sconosciuta",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-2-una-scala-sconosciuta",
-    "title": "Valutazione Multidimensionale",
-    "section": "Attività 2 · Una scala sconosciuta",
-    "text": "Attività 2 · Una scala sconosciuta\n\n\nAprite il manuale e scegliete una scala.\nCercate:\n\nscopo e destinatari;\ncome si somministra e si interpreta;\nun errore da evitare.\n\nRestituzione: 1 scoperta utile / gruppo.\n\n\n\n\nQR per il manuale delle scale\n\n\nApri il manuale (PDF) ↗\n\n\n70–95 min: 3 minuti di consegna, 17 minuti per consultare il PDF e compilare una scheda breve, 5 minuti per le restituzioni lampo. Il QR e il link puntano al medesimo «Manuale di istruzioni per il set minimo di scale» della Regione Emilia-Romagna, contenente schede e indicazioni d’uso. Assegnare a ciascun gruppo una scala effettivamente presente nel PDF ed evitare sovrapposizioni. Tra le scale già discusse vi compaiono IADL, CIRS e SPMSQ; il documento usa BADL di Katz, non Barthel, e non contiene MNA, NECPAL o 4AT. Se si vogliono mantenere questi ultimi strumenti come oggetto dell’esercitazione, occorrono materiali aggiuntivi separati. Ogni gruppo espone soprattutto una regola di utilizzo o un errore che avrebbe potuto commettere senza leggere le istruzioni."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#pausa",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#pausa",
-    "title": "Valutazione Multidimensionale",
-    "section": "PAUSA",
-    "text": "PAUSA\n10 minuti\n\n95–105 min. Pausa reale; riprendere al minuto 105."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-la-scala-non-è-la-vmd",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-la-scala-non-è-la-vmd",
-    "title": "Valutazione Multidimensionale",
-    "section": "Debriefing · La scala non è la VMD",
-    "text": "Debriefing · La scala non è la VMD\nRaccolta standardizzata\n↓\nInterpretazione integrata\n↓\nDecisione personalizzata\n\n105–112 min. Confrontare gli errori evitati grazie alle istruzioni. Chiedere: «Una volta ottenuto il punteggio, chi decide che cosa fare?». Evidenziare ruolo dell’équipe e della persona e necessità di integrare il risultato con il resto delle informazioni. Nessun punteggio, da solo, esaurisce la valutazione o permette automaticamente una diagnosi."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#leggere-i-risultati-con-prudenza",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#leggere-i-risultati-con-prudenza",
-    "title": "Valutazione Multidimensionale",
-    "section": "Leggere i risultati: con prudenza",
-    "text": "Leggere i risultati: con prudenza\nUn punteggio aiuta a descrivere una dimensione.\nNon racconta, da solo, tutta la persona.\n\nChe cosa manca? Con chi dobbiamo condividere il risultato?\n\n\n112–119 min, con la slide successiva. Introdurre il profilo comparativo. Spiegare verbalmente le direzioni dei punteggi necessari per il caso, senza richiedere agli studenti di ricordare cut-off numerosi. MNA-SF: valori più bassi segnalano maggiore criticità nutrizionale; MMSE: punteggi più bassi suggeriscono difficoltà cognitive, da interpretare con contesto e caratteristiche della persona; Barthel: valori più bassi indicano minore autonomia; IADL perse: numero più alto indica più attività strumentali perse; Tinetti: valori più bassi segnalano difficoltà di equilibrio/andatura; CIRS-comorbilità: misura distinta dalla disabilità, da interpretare secondo manuale."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-persone-stessa-età",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-persone-stessa-età",
-    "title": "Valutazione Multidimensionale",
-    "section": "Tre persone, stessa età",
-    "text": "Tre persone, stessa età\n\n\n\nDimensione (strumento)\nA · 86 anni\nF · 86 anni\nC · 86 anni\n\n\n\n\nCognizione · MMSE\n16\n4\n28\n\n\nAutonomia · Barthel\n75\n0\n85\n\n\nIADL perse (su 8)\n6\n8\n2\n\n\nNutrizione · MNA-SF\n3\nNV\n14\n\n\nMobilità · Tinetti\n21\n0\n17\n\n\nComorbilità · CIRS\n3\n7\n9\n\n\n\n\nNV = non valutabile. Questa tabella riprende i numeri dell’edizione precedente, come profili didattici ipotetici, non dati clinici sufficienti per diagnosi. MMSE e Tinetti non vanno interpretati meccanicamente; condizioni di test, correzioni e limite dello strumento contano. Se il formato della tabella risulta fitto in proiezione usare la classe smaller già impostata e l’attività successiva come slide separata."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-3-che-cosa-sappiamo",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-3-che-cosa-sappiamo",
-    "title": "Valutazione Multidimensionale",
-    "section": "Attività 3 · Che cosa sappiamo?",
-    "text": "Attività 3 · Che cosa sappiamo?\nConfrontate i tre profili.\n\nQuali differenze emergono?\nQuale informazione manca per ciascuna persona?\nChe cosa riferireste a un altro professionista?\n\n\n119–137 min: 3 consegna, 10 discussione in gruppo, 5 restituzione. Chiedere di non identificare un obiettivo terapeutico sulla base dei soli valori. L’informazione mancante potrebbe riguardare preferenze, abitazione, rete di supporto, condizioni di somministrazione o osservazioni funzionali. Prodotto: sintesi orale di 30 secondi con osservazioni, incertezze e approfondimento richiesto. Valutare il ragionamento, non la rapidità nel classificare i numeri."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-oltre-i-punteggi",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-oltre-i-punteggi",
-    "title": "Valutazione Multidimensionale",
-    "section": "Debriefing · Oltre i punteggi",
-    "text": "Debriefing · Oltre i punteggi\nRisultati + contesto + preferenze + osservazioni dell’équipe\n→ comprensione condivisa dei bisogni\n\n137–144 min. Chiedere a due gruppi che cosa avrebbero comunicato a un collega. Sottolineare la differenza tra osservazione, interpretazione e decisione. Se un dato non è disponibile, dichiararlo invece di inventarlo. Riprendere il diagramma VMD: i risultati servono a identificare e condividere bisogni e risorse, prima di pianificare interventi."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#non-tutti-i-problemi-diventano-obiettivi",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#non-tutti-i-problemi-diventano-obiettivi",
-    "title": "Valutazione Multidimensionale",
-    "section": "Non tutti i problemi diventano obiettivi",
-    "text": "Non tutti i problemi diventano obiettivi\n\nNon tutto è modificabile.\nNon tutto è prioritario.\nNon tutto conta allo stesso modo per la persona.\n\n\n144–152 min, insieme alle due slide successive. Priorità determinate da sicurezza e fattibilità, ma anche dalle preferenze espresse dalla persona e dal suo contesto. What Matters Most non è una dimensione aggiuntiva da compilare alla fine: orienta le scelte lungo il processo. Evitare di sostenere che la preferenza da sola risolva tutti i conflitti; obiettivi e interventi si concordano e si motivano."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#bisogno-obiettivo-intervento",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#bisogno-obiettivo-intervento",
-    "title": "Valutazione Multidimensionale",
-    "section": "Bisogno → obiettivo → intervento",
-    "text": "Bisogno → obiettivo → intervento\nBisogno · Non riesce più a uscire di casa.\nObiettivo · Uscire almeno una volta a settimana, se è ciò che desidera.\nInterventi · Accompagnamento, adattamento dell’ambiente, rete sociale.\n\nDistinguere il problema rilevato dall’esito desiderato e dalle azioni proposte. Gli interventi sono esempi, non prescrizioni da applicare senza valutazione. L’obiettivo deve essere significativo per la sig.ra M, concreto e verificabile. Richiamare la comunicazione con altri professionisti e l’eventuale coinvolgimento della rete sociale."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#cosa-conta-per-la-sig.ra-m",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#cosa-conta-per-la-sig.ra-m",
-    "title": "Valutazione Multidimensionale",
-    "section": "Cosa conta per la sig.ra M?",
-    "text": "Cosa conta per la sig.ra M?\n\n«Vorrei riuscire almeno a tornare a cucire.»\n\nUn obiettivo significativo può orientare più interventi.\n\nLa citazione è già nella versione originale del caso presentato nelle slide; richiamare anche il desiderio di restare a casa e di non gravare sulla nipote, verificando il testo del caso PDF prima di trattarli come dati clinici specifici. Chiedere: «Se puntassimo solo a migliorare un punteggio, quale obiettivo della persona potremmo perdere?». La preferenza può dare ingresso a interventi su attività, autonomia, ambiente e partecipazione."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-4-dalla-vmd-al-progetto",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#attività-4-dalla-vmd-al-progetto",
-    "title": "Valutazione Multidimensionale",
-    "section": "Attività 4 · Dalla VMD al progetto",
-    "text": "Attività 4 · Dalla VMD al progetto\n\n\nRiprendete la sig.ra M.\n\n1 bisogno prioritario e perché;\n1 obiettivo significativo e verificabile;\n2 interventi e chi coinvolgere;\ncome e quando rivalutare.\n\n\n\n\n\n\n\nApri il caso\n\n\n152–164 min: 2 consegna + 10 lavoro. Il progetto richiesto è sintetico, non un piano assistenziale completo. Verificare che la proposta sia coerente con bisogni e preferenze e che gli studenti individuino le informazioni da condividere con altri professionisti. La rivalutazione deve avere un indicatore osservabile e un momento definito, non soltanto «vediamo come va»."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#nuove-informazioni-il-progetto-cambia",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#nuove-informazioni-il-progetto-cambia",
-    "title": "Valutazione Multidimensionale",
-    "section": "Nuove informazioni: il progetto cambia?",
-    "text": "Nuove informazioni: il progetto cambia?\nDopo alcune settimane, l’obiettivo non è raggiunto.\nLa sig.ra M riferisce paura di lasciare la casa incustodita.\nLa nipote non può accompagnarla nei giorni concordati.\nChe cosa modificate? Che cosa verificate?\n\n164–170 min: questa è una nuova informazione IPOTETICA introdotta dal docente per esercitare la rivalutazione, non un dato tratto dal caso originale. In gruppi decidere se modificare obiettivi, interventi, tempi, rete di supporto o approfondimenti. Non assumere che l’obiettivo originario debba essere abbandonato. Stimolare l’individuazione della nuova barriera psicologico-sociale e della risorsa familiare non disponibile."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-rivalutare-ripetere-un-test",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#debriefing-rivalutare-ripetere-un-test",
-    "title": "Valutazione Multidimensionale",
-    "section": "Debriefing · Rivalutare ≠ ripetere un test",
-    "text": "Debriefing · Rivalutare ≠ ripetere un test\nVerificare i risultati\n↓\nComprendere che cosa è cambiato\n↓\nConcordare gli adeguamenti\n\n170–174 min: 4 minuti di debriefing. Chiedere due decisioni alternative e le relative motivazioni. La VMD non si conclude al primo progetto; la rivalutazione può cambiare la comprensione del bisogno e richiedere interventi diversi. Chiudere il cerchio tornando al processo mostrato all’inizio."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#verifica-finale-3-domande",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#verifica-finale-3-domande",
-    "title": "Valutazione Multidimensionale",
-    "section": "Verifica finale · 3 domande",
-    "text": "Verifica finale · 3 domande\n\nLa VMD è una batteria di scale o un processo?\nLe 5M sono un modello possibile o l’unico modello?\nChe cosa fare quando cambia la situazione della persona?\n\n\n174–180 min: proporre in aula tre brevi domande a risposta multipla: risposta corretta 1 = processo multidimensionale e multiprofessionale che conduce a progetto integrato e rivalutazione; 2 = una guida possibile, non esclusiva; 3 = rivalutare bisogni, risorse, obiettivi e interventi, condividendo le decisioni. Correggere rapidamente eventuali equivoci."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-idee-da-portare-allesame",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#tre-idee-da-portare-allesame",
-    "title": "Valutazione Multidimensionale",
-    "section": "Tre idee da portare all’esame",
-    "text": "Tre idee da portare all’esame\nLa VMD è un PROCESSO.\nLe 5M e le scale sono STRUMENTI.\nIl progetto è PERSONALIZZATO e RIVALUTABILE.\n\nUltima sintesi entro il minuto 180. Esplicitare che lo studente deve riconoscere definizione e finalità del processo, distinguere modello e strumento dalla VMD, conoscere i principi di scelta e applicazione delle scale, e interpretare brevi casi in cui bisogna condividere informazioni e adattare il progetto. Non richiedere memoria indiscriminata di punteggi e cut-off delle scale."
-  },
-  {
-    "objectID": "geriatria/educazione-professionale/02_valutazione_multidim.html#materiali-e-fonti",
-    "href": "geriatria/educazione-professionale/02_valutazione_multidim.html#materiali-e-fonti",
-    "title": "Valutazione Multidimensionale",
-    "section": "Materiali e fonti",
-    "text": "Materiali e fonti\n\nBritish Geriatrics Society · CGA\nGeriatrics 5Ms · articolo di riferimento\nCaso della sig.ra M\n\n\nSlide di supporto opzionale da lasciare dopo la chiusura per approfondimenti e accesso ai materiali."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#orientarsi-nella-documentazione-sanitaria",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#orientarsi-nella-documentazione-sanitaria",
-    "title": "Didattica",
-    "section": "Orientarsi nella documentazione sanitaria",
-    "text": "Orientarsi nella documentazione sanitaria\n\nLa documentazione nasce dalla cura.Ne lascia traccia e la collega nel tempo.\n\n\nTempo: 1 minuto. Apertura: anticipare che oggi si lavorerà sul riconoscimento e sulla localizzazione delle informazioni. Non si chiede di interpretare i dati clinici. La durata complessiva è 120 minuti; scansione: avvio/icebreaker 10′, prima parte frontale 35′, attività 1 e debrief 23′, pausa 5′, seconda parte frontale 22′, attività 2 e debrief 20′, wrap-up 5′. I tempi restano nelle note, non nelle slide."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-sto-guardando",
-    "title": "Didattica",
-    "section": "Che cosa sto guardando?",
-    "text": "Che cosa sto guardando?\n\nRompi ghiaccio · osserva, pensa, confronta\n\n\n\nEstratto A Leucociti 14,8 ×10⁹/LPCR 137 mg/LCreatinina 1,42 mg/dL\n\n\nEstratto B Quesito clinico: dispnea e ipossiemia.Reperti: consolidamento basale destro.Conclusioni: assenza di embolia…\n\n\nEstratto C Ceftriaxone2 g EV ogni 24 ore, ore 16Dal 10/09 al 14/09\n\n\nEstratto D 13/09, ore 09:20Cammina senza dispnea rilevante.Possibile dimissione domani.\n\n\n\nCercate: dati misurati · descrizioni o osservazioni · decisioni o prescrizioni · riferimenti temporali\n\n\nIn coppia: indicate che cosa vedete e le parole che vi hanno aiutato. Poi ipotizzate il documento.\n\n\nTempo: 9 minuti; avvio totale 10′ contando la slide titolo. Gli estratti sono adattati dal fac-simile didattico. Un minuto per osservare; due per sottolineare un dato, una descrizione, una decisione o un riferimento temporale; tre per il confronto a coppie; tre per raccogliere le ipotesi sui documenti. Più categorie possono comparire nello stesso estratto. Rivelare alla fine: laboratorio, referto TC, foglio di terapia, diario clinico. Non chiedere se i valori siano normali, se la TC sia grave o se la terapia sia appropriata."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-nasce-da-ciò-che-facciamo",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-nasce-da-ciò-che-facciamo",
-    "title": "Didattica",
-    "section": "La documentazione nasce da ciò che facciamo",
-    "text": "La documentazione nasce da ciò che facciamo\n\n\nOsservare\n\n\n→\n\n\nValutare\n\n\n→\n\n\nDecidere o agire\n\n\n→\n\n\nRegistrare\n\n\n\nPrima c’è un processo di cura.Il documento ne conserva una traccia.\n\n\nTempo: 6 minuti. Spiegare il legame generativo: il professionista compie o riceve un’attività di cura e registra l’informazione nel documento previsto dal processo o dal sistema locale. Fare un esempio semplice, senza contenuti medici: una richiesta genera un referto; una prescrizione genera una registrazione terapeutica; un’osservazione nel tempo genera una nota datata. La documentazione non è un testo unico scritto tutto insieme. Il documento rende ritrovabile la traccia anche per chi interviene dopo."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#a-ogni-passaggio-una-traccia-diversa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#a-ogni-passaggio-una-traccia-diversa",
-    "title": "Didattica",
-    "section": "A ogni passaggio, una traccia diversa",
-    "text": "A ogni passaggio, una traccia diversa\n\n\nAccessoVerbale di PSMotivo e disposizione\n\n\n→\n\n\nIngressoAnamnesi ed esame obiettivoStoria e condizioni iniziali\n\n\n→\n\n\nAccertamentoECG, laboratorio, TCRisultato dell’esame\n\n\n→\n\n\nAssistenzaTerapia e diarioOrdini, attività, osservazioni\n\n\n→\n\n\nConclusioneLettera di dimissioneSintesi e continuità\n\n\n\nTempo: 7 minuti. Guidare la lettura da sinistra a destra come mappa dei processi, non come esercizio di ricostruzione clinica. Per ciascuna tappa chiedere: “Che cosa è successo nel lavoro assistenziale che può aver generato questo documento?” Evidenziare che referto, diario e lettera di dimissione rispondono a domande e momenti diversi. La visita specialistica ambulatoriale è un altro processo: produce un referto di visita con valutazione, terapia e follow-up."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-traccia-ha-un-tempo-e-una-fonte",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#la-traccia-ha-un-tempo-e-una-fonte",
-    "title": "Didattica",
-    "section": "La traccia ha un tempo e una fonte",
-    "text": "La traccia ha un tempo e una fonte\n\n\nChiQuale professionista o servizio registra?\n\n\nQuandoIn quale momento del percorso?\n\n\nChe cosaQuale osservazione, decisione o attività?\n\n\nDoveIn quale documento o sezione?\n\n\n\nData, ora, autore e intestazioni aiutano a collocare l’informazione.\n\n\nTempo: 5 minuti. Mostrare che una registrazione è interpretabile come traccia del processo anche grazie a data, ora, autore e sezione. Un diario contiene annotazioni successive; il referto indica quando l’esame è stato eseguito e quando il risultato è stato validato; la scheda terapeutica distingue la prescrizione dalle somministrazioni registrate. Non entrare in obblighi o responsabilità medico-legali."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-collega-professionisti",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#la-documentazione-collega-professionisti",
-    "title": "Didattica",
-    "section": "La documentazione collega professionisti",
-    "text": "La documentazione collega professionisti\n\n\nChi registra\n\n\n→\n\n\nDocumento condiviso\n\n\n→\n\n\nChi prosegue l’assistenza\n\n\n\nLa traccia rende comunicabile ciò che è stato fatto e ciò che serve dopo.\n\n\nTempo: 5 minuti. Usare un passaggio semplice: PS → reparto → domicilio/medico curante; o prescrizione → somministrazione registrata → comunicazione alla dimissione. Sottolineare che la documentazione aiuta la continuità tra persone, professionisti e setting. Il medesimo fascicolo è consultato con domande diverse. Non fare una lezione sui ruoli professionali."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#il-processo-orienta-linformazione-attesa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#il-processo-orienta-linformazione-attesa",
-    "title": "Didattica",
-    "section": "Il processo orienta l’informazione attesa",
-    "text": "Il processo orienta l’informazione attesa\n\n\n\n\n\n\n\n\nProcesso di cura\nDocumento tipico\nInformazioni che ci cerco per prime\n\n\n\n\nAccesso urgente\nVerbale di pronto soccorso\nMotivo, valutazione, esito dell’accesso\n\n\nValutazione all’ingresso\nAnamnesi, esame obiettivo\nStoria riportata, condizioni iniziali\n\n\nEsecuzione di un esame\nReferto ECG, laboratorio o radiologia\nRisultato, reperti, conclusione\n\n\nAssistenza durante il ricovero\nDiario clinico\nAnnotazioni datate e successive\n\n\nPrescrizione e somministrazione\nFoglio/scheda di terapia\nOrdine, dose, orario, somministrazione registrata\n\n\nVisita specialistica\nReferto di visita\nValutazione, terapia, controlli\n\n\nConclusione del ricovero\nLettera di dimissione\nSintesi, terapia a domicilio, follow-up\n\n\n\n\nTempo: 7 minuti. Leggere la tabella dall’alto verso il basso e associare ogni riga al processo che la genera. Il documento contiene informazioni pertinenti a quel processo: un referto descrive il risultato dell’esame; non sostituisce il diario, la scheda terapeutica o la sintesi di dimissione. Precisare che alcuni elementi possono essere ripresi altrove: ciò che cambia è il momento, la funzione e il livello di sintesi."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#anche-la-stessa-informazione-cambia-funzione",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#anche-la-stessa-informazione-cambia-funzione",
-    "title": "Didattica",
-    "section": "Anche la stessa informazione cambia funzione",
-    "text": "Anche la stessa informazione cambia funzione\n\n\nFarmaci abitualiRiferiti o riconciliati all’ingresso\n\n\nFarmaci prescrittiOrdini nella scheda di terapia\n\n\nFarmaci somministratiRegistrazioni di somministrazione\n\n\nFarmaci a domicilioIndicazioni nella lettera di dimissione\n\n\n\n“Terapia” può comparire in più luoghi: chiediti quale momento vuoi conoscere.\n\n\nTempo: 5 minuti. Questo esempio fissa l’idea che una categoria informativa può ricomparire. “Che cosa assumeva prima?”, “che cosa è stato prescritto in reparto?”, “che cosa è stato somministrato?”, “che cosa deve assumere dopo?” sono domande differenti e portano a documenti o sezioni differenti. Non discutere se la terapia sia appropriata."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#attività-1-dagli-estratti-al-processo",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#attività-1-dagli-estratti-al-processo",
-    "title": "Didattica",
-    "section": "Attività 1 Dagli estratti al processo",
-    "text": "Attività 1 Dagli estratti al processo\n\nGruppi di 3–4 · due estratti per gruppo\n\n\n\nEstratto A “Motivo di accesso: dispnea e febbre da circa tre giorni.”“Ore 13:20: disposto ricovero in Medicina interna.”\n\n\nEstratto B “PA 112/68 mmHg, FC 99/min.”“Torace: ridotta espansione della base destra, crepitii inspiratori.”\n\n\nEstratto C “Quesito clinico: dispnea e ipossiemia.”“Conclusioni: assenza di embolia; addensamento del lobo inferiore destro.”\n\n\nEstratto D “Ceftriaxone: 2 g EV ogni 24 ore, ore 16.”“10/09–14/09; rivalutazione quotidiana.”\n\n\nEstratto E “13/09, ore 09:20. Cammina in corridoio senza dispnea rilevante.”“Possibile dimissione domani.”\n\n\nEstratto F “Terapia alla dimissione: ramipril 5 mg al mattino.”“Valutazione dal MMG entro 5–7 giorni.”\n\n\n\nProcessi: accesso urgente · valutazione all’ingresso · esecuzione di un esame · prescrizione terapeutica · osservazione nel ricovero · dimissioneDocumenti: verbale PS · esame obiettivo · referto TC · foglio di terapia · diario clinico · lettera di dimissione\n\n\nCompilate: informazioni visibili → processo → documento. Usate: motivo/esito · parametri/reperti · quesito/conclusioni · farmaco/dose · data/evoluzione/piano · terapia/follow-up.\n\n\nTempo: 14 minuti. Estratti abbreviati dal fac-simile, tutti fittizi. Assegnare A–B, C–D o E–F ai gruppi: 2 minuti di lettura individuale; 6 minuti per compilare le tre colonne “informazioni visibili → processo → documento”; 4 minuti per confrontarsi con un gruppo che ha estratti diversi; 2 minuti per preparare una risposta. Il repertorio visibile evita che la conoscenza del lessico sia un prerequisito nascosto. Se emergono più categorie informative, far scegliere quelle esplicitamente presenti. Non valutare diagnosi o terapia."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-avete-abbinato",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#che-cosa-avete-abbinato",
-    "title": "Didattica",
-    "section": "Che cosa avete abbinato?",
-    "text": "Che cosa avete abbinato?\n\nDebrief · processo → documento → informazione\n\n\n\n\n\n\n\n\n\n\nEstratto\nProcesso\nDocumento\nInformazioni visibili\n\n\n\n\nA\nAccesso urgente\nVerbale di PS\nMotivo ed esito\n\n\nB\nValutazione all’ingresso\nEsame obiettivo\nParametri e reperti\n\n\nC\nEsecuzione di un esame\nReferto TC\nQuesito e conclusioni\n\n\nD\nPrescrizione terapeutica\nFoglio di terapia\nFarmaco, dose, periodo\n\n\nE\nOsservazione nel ricovero\nDiario clinico\nData, evoluzione, piano\n\n\nF\nDimissione\nLettera di dimissione\nTerapia e follow-up\n\n\n\n\nTempo: 9 minuti. Chiedere una risposta a ciascun gruppo e rivelare progressivamente la riga corrispondente. Prima far nominare l’indizio, poi processo e documento. Accettare sinonimi locali. Ribadire che un’informazione può essere ripresa altrove, mentre il processo indica la fonte più diretta. Domanda di controllo: “Se cerco l’esito originale di una TC, quale documento apro per primo e perché?”"
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#pausa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#pausa",
-    "title": "Didattica",
-    "section": "Pausa",
-    "text": "Pausa\n\nRiprendiamo tra poco\n\n\nPausa di 5 minuti. Al rientro riprendere con domande concrete: “Che farmaci prende questa persona?” e “Ha mai avuto una malattia cardiaca?”."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#una-domanda-concreta-indica-dove-guardare",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#una-domanda-concreta-indica-dove-guardare",
-    "title": "Didattica",
-    "section": "Una domanda concreta indica dove guardare",
-    "text": "Una domanda concreta indica dove guardare\n\n\n\n\n\n\n\nMi serve sapere…\nDove guardo preferibilmente?\n\n\n\n\nche cosa assume abitualmente\nanamnesi farmacologica / ultima visita ambulatoriale\n\n\nche cosa è stato prescritto in reparto\nfoglio o scheda di terapia\n\n\nche cosa è stato somministrato\nregistro delle somministrazioni\n\n\nche cosa assume a domicilio dopo il ricovero\nterapia nella lettera di dimissione\n\n\nse ha una cardiopatia già nota\nanamnesi patologica remota; lettere precedenti\n\n\n\n\nTempo: 6 minuti. Leggere ogni domanda e far anticipare una risposta con alzata di mano. Dire “preferibilmente” o “per prima cosa”: non esiste una sola collocazione universale e la stessa informazione può essere riportata in più punti. La storia remota è il primo luogo per patologie pregresse; una lettera di dimissione può riportare diagnosi rilevanti di episodi precedenti. Non trasformare l’esempio in verifica della completezza o della verità della cartella: questo sarà un obiettivo successivo."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#il-lessico-è-una-mappa",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#il-lessico-è-una-mappa",
-    "title": "Didattica",
-    "section": "Il lessico è una mappa",
-    "text": "Il lessico è una mappa\n\n\n\n\n\n\n\nSe leggo…\nMi aspetto di trovare…\n\n\n\n\nAnamnesi patologica remota\nPatologie e condizioni precedenti riferite o documentate\n\n\nAnamnesi patologica prossima\nInformazioni sul problema che ha portato all’accesso\n\n\nEsame obiettivo d’ingresso\nOsservazioni registrate alla valutazione iniziale\n\n\nReferto\nRisultato strutturato di un esame o di una visita\n\n\nDiario clinico\nAnnotazioni successive collocate nel tempo\n\n\nFoglio di terapia\nPrescrizioni e, secondo il sistema, somministrazioni registrate\n\n\nLettera di dimissione\nSintesi e indicazioni alla conclusione del ricovero\n\n\n\n\nTempo: 6 minuti. Leggere i termini come segnaletica documentale. Non insegnare a interpretare l’anamnesi o l’esame obiettivo; gli studenti devono riconoscere il titolo e capire il genere di informazione che quella sezione ospita. Precisare che formati e denominazioni possono variare tra sistemi e servizi."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#prescritto-non-significa-somministrato",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#prescritto-non-significa-somministrato",
-    "title": "Didattica",
-    "section": "Prescritto non significa somministrato",
-    "text": "Prescritto non significa somministrato\n\n\nOrdine del prescrittore\n\n\n→\n\n\nScheda di terapia\n\n\n→\n\n\nRegistrazione della somministrazione\n\n\n\nPer la terapia a domicilio dopo il ricovero, cerca la sezione dedicata nella lettera di dimissione.\n\n\nTempo: 5 minuti. Mostrare perché la parola “farmaco” non basta a individuare la fonte: una prescrizione, una dose somministrata e una terapia alla dimissione sono tracce di processi diversi. La domanda definisce il documento di partenza. Evitare dettagli su farmacologia e sicurezza."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#un-primo-metodo-per-navigare",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#un-primo-metodo-per-navigare",
-    "title": "Didattica",
-    "section": "Un primo metodo per navigare",
-    "text": "Un primo metodo per navigare\n\n\nChe cosa cerco?\n\n\n→\n\n\nQuale processo lo produce?\n\n\n→\n\n\nQuale documento lo registra?\n\n\n→\n\n\nQuale sezione apro?\n\n\n\nPrima individua la destinazione. Poi leggi il dettaglio.\n\n\nTempo: 5 minuti. Fare un esempio di 30 secondi: “Voglio sapere il risultato della TC” → processo di esecuzione dell’esame → referto radiologico → reperti/conclusioni. Un secondo esempio: “Ha mai avuto una malattia cardiaca?” → storia clinica precedente → anamnesi patologica remota. Qui si conclude la mappa di consultazione prima dell’esercizio."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#attività-2-trova-la-destinazione-nel-fascicolo",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#attività-2-trova-la-destinazione-nel-fascicolo",
-    "title": "Didattica",
-    "section": "Attività 2 Trova la destinazione nel fascicolo",
-    "text": "Attività 2 Trova la destinazione nel fascicolo\n\nScavenger hunt · gruppi di 3–4\n\n\n\n\nPer ogni domanda: documento · sezione · pagina · breve frase trovata\n\n\n\n\nDove è registrato l’elenco delle patologie già note? Riportatene una.\n\n\nQuale documento registra direttamente il motivo del primo accesso? Riportatelo.\n\n\nNel referto originale dell’angio-TC, quale sezione sintetizza i risultati? Riportate una conclusione.\n\n\nDove compare la prescrizione originale del ceftriaxone? Riportate dose e via.\n\n\nQuale nota di diario registra la sospensione dell’ossigeno? Annotate data e ora.\n\n\nDove sono indicate terapia a domicilio e controlli successivi? Riportate un’indicazione.\n\n\n\n\n\nFac-simile \n\nApri il PDF\n\n\nCaso A · pagine 2–6\n\n\n\n\nTempo di lavoro: 15 minuti. Lasciare il tempo di aprire il PDF tramite QR o link; indicare il caso A, pagine 2–6. Modellare il formato senza risolvere una delle sei domande: “documento → sezione → pagina → parole trovate”. Gli studenti riportano contenuto esplicito e posizione. “Direttamente” e “originale” indicano la fonte prodotta dal processo, anche quando l’informazione è ripresa altrove. Se discutono il significato clinico, riportarli a “dove e con quali parole lo avete trovato?”."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#confrontiamo-le-destinazioni",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#confrontiamo-le-destinazioni",
-    "title": "Didattica",
-    "section": "Confrontiamo le destinazioni",
-    "text": "Confrontiamo le destinazioni\n\nDebrief breve\n\n\n\n1 · Patologie già note · p. 2A2 · Anamnesi patologica remota“Ipertensione… malattia renale… artrosi…”\n\n\n2 · Primo accesso · p. 2A1 · Verbale di PS · Motivo di accesso“Dispnea e febbre…”\n\n\n3 · Angio-TC · p. 4A7 · Referto · Conclusioni“Assenza di embolia… addensamento…”\n\n\n4 · Ceftriaxone · p. 4A8 · Foglio di terapia“2 g EV ogni 24 ore…”\n\n\n5 · Sospensione O₂ · p. 5A9 · Diario · Nota 3“13/09/2026 ore 09:20”\n\n\n6 · Dopo la dimissione · p. 6A10 · Terapia alla dimissioneFollow-up e indicazioni\n\n\n\nTempo: 5 minuti. Chiedere a sei studenti o gruppi una risposta ciascuno nel formato richiesto. Fare nominare l’indizio e leggere poche parole del documento, non soltanto la pagina. Per le informazioni riprese in più luoghi, distinguere la fonte più diretta dalla successiva sintesi o citazione."
-  },
-  {
-    "objectID": "medicina-interna/01_documentazione_sanitaria.html#la-mappa-da-portare-con-sé",
-    "href": "medicina-interna/01_documentazione_sanitaria.html#la-mappa-da-portare-con-sé",
-    "title": "Didattica",
-    "section": "La mappa da portare con sé",
-    "text": "La mappa da portare con sé\n\nChe documento sto guardando?Quale processo lo ha prodotto?Che informazione ci cerco?\n\n\nProcesso di cura → documento → traccia → comunicazione tra professionisti\n\n\nTempo: 5 minuti, wrap-up. Raccogliere un esempio di domanda e la destinazione documentale scelta dagli studenti. Ripetere i tre punti di partenza e il legame tra processo, documento e informazione attesa. Specificare il confine: oggi impariamo a orientarci e a localizzare; in lezioni successive si lavorerà sulla lettura, sul riconoscimento di ciò che non si sa e sulla ricerca di informazioni. Chiusura: il documento non è un contenitore neutro; la sua funzione racconta perché e quando cercarlo."
+    "objectID": "preview/sigg-lombardia-politerapia-2026/index.html#tre-messaggi-da-portare-a-casa",
+    "href": "preview/sigg-lombardia-politerapia-2026/index.html#tre-messaggi-da-portare-a-casa",
+    "title": "Sfide e gestione della politerapia in RSA",
+    "section": "Tre messaggi da portare a casa",
+    "text": "Tre messaggi da portare a casa\n\n\n1\n\nPoliterapia ≠ inappropriatezza.Il numero segnala complessità.\n\n\n\n2\n\nLa review migliora soprattutto la prescrizione.Non necessariamente gli hard outcomes.\n\n\n\n3\n\nAppropriatezza = prescrizione + somministrazione + contesto.AI può supportare; la decisione resta clinica."
   }
 ]
