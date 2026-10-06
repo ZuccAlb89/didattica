@@ -603,20 +603,486 @@ Un biomarcatore positivo documenta **biologia di Alzheimer**: non dimostra, da s
 La linea guida Alzheimer's Association 2025 riguarda persone con impairment cognitivo oggettivo valutate in setting specialistici. I test ematici devono avere prestazioni validate e vanno interpretati dopo una valutazione clinica completa, considerando la probabilità pre-test. I criteri 2024 raccomandano di non eseguire test biomarcatori in persone cognitivamente integre fuori da studi di ricerca, in assenza di trattamenti approvati per la fase preclinica.
 :::
 
-## Dove siamo arrivati
 
-Ora sappiamo distinguere:
+# BPSD / sintomi neuropsichiatrici
 
-- **funzioni cognitive** e loro domini;
-- deficit cognitivo e **perdita di indipendenza**;
-- MCI, DNC minore e DNC maggiore;
-- segnale di allarme, screening e diagnosi;
-- principali pattern di presentazione ed evoluzione.
+## Maria, cinque anni dopo
 
-### La parte su BPSD, osservazione e progettazione dell'intervento verrà reintegrata nella prossima revisione.
+**Maria, 83 anni.**  
+Malattia di Alzheimer in fase moderata. Vive in RSA da quattro mesi.
+
+Tra le **17 e le 19** cammina ripetutamente nel corridoio, prova ad aprire la porta di uscita e dice:
+
+### «Devo andare a casa, i bambini mi aspettano.»
+
+Se qualcuno cerca di fermarla può alzare la voce e allontanare con forza la mano dell'operatore.
+
+Al mattino è generalmente tranquilla e partecipa volentieri ad alcune attività.
+
+### Che cosa stiamo osservando?
 
 ::: {.notes}
-Chiusura provvisoria della bozza. La versione precedente completa resta conservata nel repository ma non è collegata dall'indice. Nella revisione successiva raccordare questo blocco con delirium, BPSD/NPS, NPI-Q, bisogni non soddisfatti, ABC e DICE.
+Non chiedere ancora “perché lo fa?”. Chiedere solo di descrivere ciò che è osservabile: movimento ripetitivo/exit-seeking, agitazione, possibile aggressività reattiva, contenuto verbale, andamento circadiano e variabilità contestuale.
+:::
+
+## BPSD / sintomi neuropsichiatrici
+
+**BPSD** = *Behavioural and Psychological Symptoms of Dementia*  
+**NPS** = *Neuropsychiatric Symptoms*
+
+Insieme eterogeneo di manifestazioni che possono riguardare:
+
+**percezione · pensiero · umore · motivazione · comportamento · sonno · appetito**
+
+### Non sono una diagnosi. Non hanno una causa unica.
+
+Possono emergere dall'interazione tra **malattia**, **stato fisico**, **persona** e **contesto**.
+
+<small>Fonti: International Psychogeriatric Association; Linea guida italiana demenza/MCI, 2024.</small>
+
+::: {.notes}
+BPSD è un termine storico molto diffuso; NPS è frequente nella letteratura contemporanea. Evitare di trattare “BPSD” come una singola entità clinica. Il comportamento osservato richiede descrizione e interpretazione contestuale.
+:::
+
+## Una mappa, non la realtà: NPI / NPI-Q {.smaller}
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Psicosi / percezione**
+
+- deliri
+- allucinazioni
+
+**Umore**
+
+- depressione/disforia
+- ansia
+- euforia
+:::
+
+::: {.column width="33%"}
+**Motivazione / controllo**
+
+- apatia
+- disinibizione
+- irritabilità/labilità
+- agitazione/aggressività
+:::
+
+::: {.column width="34%"}
+**Comportamento / ritmi**
+
+- comportamento motorio aberrante
+- disturbi del sonno/notturni
+- appetito e alimentazione
+:::
+
+::::
+
+> Il NPI **descrive e misura** domini di sintomi. Non spiega perché compaiono.
+
+<small>Fonte: Kaufer et al. Validation of the NPI-Q. J Neuropsychiatry Clin Neurosci. 2000.</small>
+
+::: {.notes}
+Il NPI-Q è una forma breve derivata dal Neuropsychiatric Inventory e valuta presenza/severità di 12 domini e distress del caregiver. Usarlo qui come mappa concettuale, non come tassonomia biologica.
+:::
+
+## Maria: come la classifichereste?
+
+Quali domini NPI sono **plausibili** sulla base delle sole informazioni disponibili?
+
+- agitazione/aggressività?
+- comportamento motorio aberrante?
+- ansia?
+- disturbo del sonno?
+- delirio?
+
+### Attenzione: una frase non basta per classificare un sintomo.
+
+«I bambini mi aspettano» **non dimostra da sola un delirio**.
+
+::: {.notes}
+Chiedere agli studenti di distinguere ciò che è osservato da ciò che viene inferito. Il contenuto verbale può riflettere disorientamento temporale, memoria autobiografica, bisogno di ruolo, ansia, confabulazione o convinzione delirante: servono ulteriori dati.
+:::
+
+## Perché compaiono? Un modello multifattoriale
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Cervello / malattia
+- neurodegenerazione;
+- deficit cognitivi;
+- alterazioni percettive;
+- ridotta capacità di autoregolazione.
+
+### Corpo
+- dolore;
+- delirium;
+- stipsi / ritenzione;
+- fame, sete, sonno;
+- farmaci e comorbilità.
+:::
+
+::: {.column width="50%"}
+### Persona / biografia
+- abitudini e ruoli;
+- preferenze;
+- storia di vita;
+- modalità abituali di coping.
+
+### Ambiente / interazioni
+- rumore e sovrastimolazione;
+- richieste troppo complesse;
+- cambiamenti di routine;
+- tono, fretta, confronto o correzione.
+:::
+
+::::
+
+### Spesso più fattori agiscono contemporaneamente.
+
+<small>Fonti: Kales et al., JAGS 2014; Linea guida italiana demenza/MCI, 2024; NICE NG97.</small>
+
+::: {.notes}
+Questa slide è il ponte tra descrizione e comprensione. Evitare “un comportamento = una causa”. Le linee guida raccomandano una valutazione strutturata delle possibili cause cliniche e ambientali prima di decidere il trattamento.
+:::
+
+## Unmet needs: un modello utile, non una spiegazione universale
+
+### Il comportamento può essere un modo di **esprimere o soddisfare un bisogno** quando comunicarlo diventa difficile.
+
+Il modello *Need-Driven Dementia-Compromised Behavior* distingue:
+
+**fattori di fondo**  
+biografia · personalità · capacità cognitive · salute cronica
+
+**fattori prossimali**  
+dolore · fame · bisogno di toilette · solitudine · noia · rumore · interazione
+
+> La domanda diventa: **«che cosa potrebbe esprimere questo comportamento?»**
+
+Ma non ogni BPSD è necessariamente un bisogno non soddisfatto.
+
+<small>Fonti: Whall & Kolanowski, Aging Ment Health 2004; Song et al., Int J Nurs Stud 2026.</small>
+
+::: {.notes}
+Presentare unmet needs come lente interpretativa, non dogma. La meta-analisi 2026 sugli interventi coerenti con il modello NDB suggerisce riduzioni modeste di BPSD complessivi, agitazione e depressione, con eterogeneità e necessità di personalizzazione.
+:::
+
+## Maria: nuove informazioni
+
+Gli episodi sono più frequenti:
+
+- durante il **cambio turno**, quando il corridoio è rumoroso;
+- poco prima della cena;
+- quando un operatore le dice: «Maria, questa è casa sua adesso. I suoi figli sono adulti».
+
+Dalla figlia sappiamo che Maria, per molti anni, verso le **17:30** lasciava il lavoro per occuparsi dei figli e preparare la cena.
+
+Le piace ancora **apparecchiare** e **piegare la biancheria**.
+
+La valutazione clinica non mostra delirium, dolore evidente o nuova malattia acuta.
+
+### Adesso quali ipotesi diventano plausibili?
+
+::: {.notes}
+Non presentare la biografia come “la soluzione”. Serve a generare ipotesi: routine autobiografica, bisogno di ruolo/scopo, sovrastimolazione, confronto verbale che aumenta distress, fame o stanchezza serale. La valutazione clinica riduce ma non elimina la possibilità di fattori fisici.
+:::
+
+## ABC: descrivere l'episodio prima di interpretarlo {.smaller}
+
+|  | Domanda | Maria |
+|---|---|---|
+| **A · Antecedent** | Che cosa accade **prima**? | cambio turno, rumore, avvicinarsi della cena, richiesta di restare |
+| **B · Behaviour** | Che cosa fa **concretamente**? | cammina verso l'uscita, prova la porta, dice che deve andare dai bambini |
+| **C · Consequence** | Che cosa accade **subito dopo**? | viene fermata/corretta → alza la voce → viene riaccompagnata → riprova |
+
+### ABC aiuta a vedere pattern, trigger e conseguenze che possono mantenere o amplificare l'episodio.
+
+<small>Fonte: Moniz Cook et al. Functional analysis-based interventions for challenging behaviour in dementia. Cochrane, 2012.</small>
+
+::: {.notes}
+“Consequence” non significa punizione: descrive ciò che segue il comportamento, incluse risposte dello staff e modifiche ambientali. L'ABC è uno strumento di osservazione funzionale; non obbliga a trovare una singola causa.
+:::
+
+## DICE: dal comportamento al piano
+
+:::: {.columns}
+
+::: {.column width="25%"}
+### D
+**Describe**
+
+Che cosa succede?  
+Quando? Quanto? Con chi?
+:::
+
+::: {.column width="25%"}
+### I
+**Investigate**
+
+Cause cliniche?  
+Bisogni? Ambiente? Interazioni?
+:::
+
+::: {.column width="25%"}
+### C
+**Create**
+
+Costruire un piano **personalizzato**, realistico e condiviso.
+:::
+
+::: {.column width="25%"}
+### E
+**Evaluate**
+
+Ha funzionato?  
+Per chi? A quale costo? Va modificato?
+:::
+
+::::
+
+### ABC può aiutare soprattutto nelle fasi **Describe** e **Investigate**.
+
+<small>Fonte: Kales, Gitlin, Lyketsos. J Am Geriatr Soc. 2014;62:762–769.</small>
+
+::: {.notes}
+DICE è stato proposto da un panel multidisciplinare per la gestione clinica dei sintomi neuropsichiatrici. Il valore didattico è soprattutto imporre una sequenza: descrivere, investigare, creare, rivalutare.
+:::
+
+## Investigate: prima di dire «è la demenza» {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Persona / corpo
+- dolore o discomfort;
+- delirium / infezione / malattia acuta;
+- stipsi, ritenzione, fame, sete;
+- sonno;
+- vista e udito;
+- effetti o modifiche dei farmaci.
+:::
+
+::: {.column width="50%"}
+### Contesto
+- ambiente rumoroso o poco leggibile;
+- sovra- o sottostimolazione;
+- attività senza significato;
+- compito troppo difficile;
+- cambio di caregiver/routine;
+- comunicazione, tono, fretta, confronto.
+:::
+
+::::
+
+> **Un nuovo comportamento richiede una nuova valutazione.**
+
+<small>Fonti: Linea guida italiana demenza/MCI 2024, raccomandazioni 132–133; NICE NG97, 1.7.1–1.7.2.</small>
+
+::: {.notes}
+La linea guida italiana dà raccomandazione forte alla valutazione strutturata delle cause del distress e agli interventi psicosociali/ambientali come gestione iniziale e continuativa.
+:::
+
+## Attività: formulate ipotesi, non una diagnosi
+
+Per Maria, in piccoli gruppi:
+
+1. descrivete **un episodio** con ABC;
+2. formulate **2–3 ipotesi** che potrebbero contribuire;
+3. indicate quale informazione aggiuntiva cerchereste;
+4. per ogni ipotesi proponete **un intervento coerente**.
+
+### Non chiedetevi «qual è la causa?»
+
+Chiedetevi:
+
+### «quali spiegazioni sono plausibili e come possiamo verificarle?»
+
+::: {.notes}
+10–12 minuti. La qualità del ragionamento conta più del numero di interventi. Chiedere esplicitamente di collegare ogni strategia a una ipotesi: evita il catalogo di tecniche applicate senza criterio.
+:::
+
+## Create: cosa ha più supporto EBM? {.smaller}
+
+### Principi con maggiore sostegno nelle linee guida
+
+- **interventi psicosociali e ambientali** come approccio iniziale e continuativo;
+- **attività personalizzate e significative** per agitazione/aggressività;
+- adattare ambiente, richieste e comunicazione;
+- correggere dolore, delirium e altri fattori clinici modificabili;
+- formazione dello staff e coerenza del piano assistenziale.
+
+### Interventi che si possono considerare in casi selezionati
+
+**musicoterapia · giardini terapeutici · companion/therapeutic robots**
+
+L'evidenza è meno robusta e l'effetto non è universale.
+
+<small>Fonti: Linea guida italiana demenza/MCI 2024, raccomandazioni 132–140; NICE NG97.</small>
+
+::: {.notes}
+La linea guida italiana raccomanda fortemente attività personalizzate per promuovere engagement, piacere e interesse. Musicoterapia, giardini terapeutici e robot interattivi sono raccomandazioni deboli/“consider”. Non trasformare una raccomandazione debole in un trattamento standard.
+:::
+
+## Tecniche utili, ma non tutte hanno la stessa evidenza {.smaller}
+
+| Strategia | Come pensarla |
+|---|---|
+| **Attività ponte** | attività significativa legata a interessi/ruoli, proposta prima del momento critico; applicazione pratica delle *personalised activities* |
+| **Distrazione / redirection** | spostare attenzione verso un'attività o stimolo accettabile; utile se riduce distress, senza forzare |
+| **Interazione gentile / validante** | tono calmo, non-confrontativo, riconoscere l'emozione prima di correggere i fatti |
+| **Pet / animal-assisted therapy** | possibile attività gradita in persone selezionate; evidenza su agitazione/BPSD complessivi ancora incerta |
+
+### Sono strumenti da testare nel piano, non «ricette per la demenza».
+
+<small>Fonti: NICE NG97; Linea guida italiana 2024; Cochrane/Alzheimer's Society per interventi individualizzati e animal-assisted therapy.</small>
+
+::: {.notes}
+“Attività ponte” non è una categoria terapeutica formalmente validata: la usiamo come traduzione operativa di attività personalizzata e significativa. Gentle care/validation/redirection sono modalità relazionali e componenti di un approccio person-centred: è difficile isolare il loro effetto come singolo trattamento. Per animal-assisted therapy l'evidenza sui BPSD, in particolare agitazione, è limitata e incerta.
+:::
+
+## Maria: un possibile piano
+
+**Prima delle 17:00**
+- verificare toilette, fame/sete, dolore/discomfort;
+- ridurre per quanto possibile il rumore del cambio turno.
+
+**17:15–18:00**
+- proporre una **attività ponte** coerente con la sua biografia: apparecchiare, piegare biancheria, preparare qualcosa per la cena;
+- se cerca l'uscita, accompagnarla e **reindirizzare** senza confronto fattuale.
+
+**Comunicazione**
+- evitare «i suoi figli sono adulti»;
+- riconoscere l'emozione: «Si sta preoccupando per loro. Venga, mi aiuta un momento?»
+
+### Ogni elemento del piano corrisponde a una ipotesi.
+
+::: {.notes}
+Questa non è la “soluzione corretta” del caso, ma un esempio di piano coerente con le ipotesi generate. Valutare sempre preferenze, sicurezza e risposta individuale.
+:::
+
+## Evaluate: decidere prima che cosa significa «funziona»
+
+Possibili esiti:
+
+- numero di episodi / settimana;
+- durata;
+- intensità del distress;
+- necessità di intervento fisico dello staff;
+- rischio per Maria o altri;
+- partecipazione/gradimento dell'attività;
+- distress del caregiver/staff.
+
+### «Sembra più tranquilla» è un'impressione. Serve una misura ripetibile.
+
+NPI-Q o strumenti specifici possono essere utili **se usati longitudinalmente nello stesso modo**.
+
+<small>Fonti: Kales et al. DICE, 2014; Kaufer et al. NPI-Q, 2000.</small>
+
+::: {.notes}
+Non trasformare la pratica in ricerca, ma definire un outcome osservabile prima dell'intervento riduce bias di conferma e permette di decidere se mantenere, modificare o interrompere il piano.
+:::
+
+## Antipsicotici: pochi casi, obiettivi chiari {.smaller}
+
+### Non sono il trattamento standard dei BPSD.
+
+Considerarli quando la persona:
+
+- è a rischio di **danneggiare sé o altri**, oppure
+- presenta **agitazione, allucinazioni o deliri con grave distress**.
+
+Se utilizzati:
+
+**dose minima efficace · tempo più breve possibile · rivalutazione almeno ogni 4 settimane**
+
+- discutere benefici e rischi;
+- interrompere se non c'è beneficio chiaro;
+- cautela particolare in **DLB/PDD** per possibili gravi reazioni di sensibilità.
+
+> Anche durante il trattamento farmacologico devono continuare gli interventi psicosociali e ambientali.
+
+<small>Fonte: Linea guida italiana demenza/MCI 2024, raccomandazioni 142–145; NICE NG97.</small>
+
+::: {.notes}
+Messaggio di sicurezza: beneficio medio modesto e rischi clinicamente rilevanti, inclusi eventi cerebrovascolari, sedazione, parkinsonismo e aumento della mortalità in popolazioni con demenza. Non entrare in schemi prescrittivi specifici in questa lezione.
+:::
+
+## Memantina e citalopram: non scorciatoie per l'agitazione {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Memantina
+
+Ha indicazione nel trattamento sintomatico dell'Alzheimer **moderato–severo**.
+
+Può migliorare alcuni esiti comportamentali nel contesto del trattamento della malattia.
+
+Ma un RCT dedicato all'**agitazione clinicamente significativa** non ha mostrato beneficio sull'endpoint primario.
+
+### Non iniziarla semplicemente «per l'agitazione».
+:::
+
+::: {.column width="50%"}
+### Citalopram
+
+Nel trial **CitAD**, 30 mg/die + intervento psicosociale ha ridotto l'agitazione rispetto al placebo.
+
+Ma ha anche prodotto:
+
+- **peggioramento cognitivo**;
+- **prolungamento del QT**.
+
+Nei pazienti anziani la dose massima raccomandata è **20 mg/die**.
+
+### Segnale di efficacia ≠ trattamento routinario.
+:::
+
+::::
+
+<small>Fonti: Fox et al., PLoS One 2012; Porsteinsson et al., JAMA 2014; AIFA comunicazione di sicurezza citalopram.</small>
+
+::: {.notes}
+Per memantina distinguere l'indicazione per Alzheimer dal trattamento specifico dell'agitazione. CitAD è importante perché mostra sia un segnale di efficacia sia un limite di trasferibilità: la dose di 30 mg/die è superiore alla dose massima oggi raccomandata negli anziani per il rischio QT.
+:::
+
+## BPSD: cosa portarsi a casa
+
+### 1. **NPI** → dà una mappa e un linguaggio comune
+
+### 2. **ABC** → descrive l'episodio e cerca pattern
+
+### 3. **DICE** → organizza il percorso dal problema al piano
+
+### 4. **Intervento personalizzato** → parte da cause, bisogni, biografia e contesto
+
+### 5. **Evaluate** → il piano va verificato e modificato
+
+> Lo stesso comportamento può avere significati diversi in persone diverse — o nella stessa persona in momenti diversi.
+
+::: {.notes}
+Chiudere tornando a Maria: classificare il comportamento non equivale a comprenderlo. Il passaggio educativo fondamentale è da “che farmaco?” a “che cosa stiamo osservando, che cosa può contribuire, che cosa possiamo modificare e come sapremo se ha funzionato?”.
+:::
+
+## Dove siamo arrivati
+
+Ora sappiamo:
+
+- distinguere **funzioni cognitive**, deficit e perdita di indipendenza;
+- orientarci tra le principali sindromi;
+- interpretare screening, biomarcatori e trattamenti sintomatici;
+- descrivere i **BPSD/NPS** senza confondere osservazione e spiegazione;
+- usare **NPI, ABC e DICE** per passare dal comportamento a un piano;
+- scegliere interventi personalizzati e **valutarne l'effetto**.
+
+### La domanda non è solo «che comportamento è?», ma «che cosa può significare qui, per questa persona?»
+
+::: {.notes}
+Chiusura dell'intera bozza. Collegare la prima parte cognitiva alla seconda: la demenza modifica capacità cognitive e comunicative, ma il comportamento emerge sempre nell'interazione fra persona, corpo, malattia e contesto.
 :::
 
 ## Fonti principali {.smaller}
@@ -632,6 +1098,15 @@ Chiusura provvisoria della bozza. La versione precedente completa resta conserva
 - Rascovsky K, et al. Diagnostic criteria for behavioural variant FTD. *Brain*. <https://doi.org/10.1093/brain/awr179>
 - Sachdev P, et al. VASCOG statement on vascular cognitive disorders. <https://doi.org/10.1097/WAD.0000000000000034>
 - USPSTF. Cognitive impairment in older adults: screening. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cognitive-impairment-in-older-adults-screening>
+- Kaufer DI, et al. Validation of the NPI-Q. *J Neuropsychiatry Clin Neurosci*. 2000;12:233–239. <https://doi.org/10.1176/jnp.12.2.233>
+- Kales HC, Gitlin LN, Lyketsos CG. Management of neuropsychiatric symptoms of dementia: the DICE approach. *J Am Geriatr Soc*. 2014;62:762–769. <https://doi.org/10.1111/jgs.12730>
+- Whall AL, Kolanowski AM. Need-driven dementia-compromised behavior model. *Aging Ment Health*. 2004;8:106–108. <https://doi.org/10.1080/13607860410001649590>
+- Song JA, et al. Need-Driven Dementia-Compromised Behavior model-based interventions: systematic review and meta-analysis. *Int J Nurs Stud*. 2026;176:105337. <https://doi.org/10.1016/j.ijnurstu.2026.105337>
+- Moniz Cook ED, et al. Functional analysis-based interventions for challenging behaviour in dementia. *Cochrane Database Syst Rev*. 2012;CD006929. <https://doi.org/10.1002/14651858.CD006929.pub2>
+- NICE. *Dementia: assessment, management and support for people living with dementia and their carers* (NG97). <https://www.nice.org.uk/guidance/ng97>
+- Fox C, et al. Efficacy of memantine for agitation in Alzheimer's dementia. *PLoS One*. 2012;7:e35185. <https://doi.org/10.1371/journal.pone.0035185>
+- Porsteinsson AP, et al. Effect of citalopram on agitation in Alzheimer disease: CitAD. *JAMA*. 2014;311:682–691. <https://doi.org/10.1001/jama.2014.93>
+- AIFA. Citalopram: aggiornamento di sicurezza sul prolungamento del QT e dose massima negli anziani. <https://www.aifa.gov.it/>
 
 ::: {.notes}
 Fonti di riferimento della bozza. Prima della versione definitiva si potrà aggiungere una bibliografia completa e uniforme. Il DSM-5-TR è la fonte nosografica per DNC minore/maggiore; le linee guida italiana e Alzheimer's Association sostengono il percorso diagnostico integrato e la valutazione cognitivo-funzionale.
