@@ -649,7 +649,9 @@ Il caso è volutamente descrittivo. Non nominare ancora agitazione, ansia, delir
 
 ### Aprite la scheda NPI-Q
 
-**[NPI-Q · scheda completa, Alzheimer's Association](https://www.alz.org/media/documents/npiq-questionnaire.pdf)**
+**[NPI-Q · versione italiana, PDF](https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf)**
+
+<small>[NPItest.net · sito originale dello strumento e condizioni d'uso](https://www.npitest.net/npi/about-npi.html)</small>
 
 Sul caso di Maria:
 
@@ -660,7 +662,7 @@ Sul caso di Maria:
 ### 5 minuti
 
 ::: {.notes}
-Non mostrare prima l'elenco dei domini. L'obiettivo è far usare realmente lo strumento. L'NPI-Q è compilato da un informatore e considera i sintomi nell'ultimo mese; per i domini presenti valuta anche severità e distress del caregiver. In questo caso non chiedere di forzare punteggi di severità/distress se le informazioni non sono disponibili.
+Non mostrare prima l'elenco dei domini. L'obiettivo è far usare realmente lo strumento. Il link principale porta a una versione italiana del NPI-Q direttamente accessibile. Lo strumento originale è copyright © Jeffrey L. Cummings; NPItest.net riporta provenienza, versioni e condizioni d'uso. L'NPI-Q è compilato da un informatore e considera i sintomi nell'ultimo mese; per i domini presenti valuta anche severità e distress del caregiver. In questo caso non chiedere di forzare punteggi di severità/distress se le informazioni non sono disponibili.
 :::
 
 ## NPI / NPI-Q: una mappa dei sintomi {.smaller}
@@ -1125,7 +1127,8 @@ Chiusura dell'intera bozza. Collegare la prima parte cognitiva alla seconda: la 
 - Sachdev P, et al. VASCOG statement on vascular cognitive disorders. <https://doi.org/10.1097/WAD.0000000000000034>
 - USPSTF. Cognitive impairment in older adults: screening. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cognitive-impairment-in-older-adults-screening>
 - Kaufer DI, et al. Validation of the NPI-Q. *J Neuropsychiatry Clin Neurosci*. 2000;12:233–239. <https://doi.org/10.1176/jnp.12.2.233>
-- NPI-Q · Alzheimer's Association: scheda completa. <https://www.alz.org/media/documents/npiq-questionnaire.pdf>
+- NPI-Q · versione italiana disponibile online. <https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf>
+- NPItest.net. Sito originale dello strumento, versioni e condizioni d'uso. <https://www.npitest.net/npi/about-npi.html>
 - Cohen-Mansfield J. Nonpharmacologic interventions for inappropriate behaviors in dementia: a review, summary, and critique. *Am J Geriatr Psychiatry*. 2001;9:361–381. <https://pubmed.ncbi.nlm.nih.gov/11739063/>
 - Smith M, et al. History, development, and future of the progressively lowered stress threshold. *J Gerontol Nurs*. 2004;30:22–31. <https://pubmed.ncbi.nlm.nih.gov/15450057/>
 - Spector A, Orrell M. Using a biopsychosocial model of dementia as a tool to guide clinical practice. *Int Psychogeriatr*. 2010;22:957–965. <https://doi.org/10.1017/S1041610210000840>
