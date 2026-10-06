@@ -107,7 +107,7 @@ Evitare “memoria a breve termine”, espressione ambigua. Distinguere memoria 
 
 ## Dove sono, grossolanamente?
 
-![](images/cervello_didattico.svg){fig-alt="Schema didattico dell'anatomia cerebrale con lobi, corteccia prefrontale, ippocampo, cervelletto e tronco encefalico" width="90%"}
+![](images/neuroanatomia.png){fig-alt="Schema didattico dell'anatomia cerebrale con lobi, corteccia prefrontale, ippocampo, cervelletto e tronco encefalico" width="90%"}
 
 ::: {.notes}
 Schema volutamente semplificato per orientarsi anatomicamente. Non suggerisce una corrispondenza uno-a-uno tra area e funzione: le funzioni cognitive emergono da reti distribuite.
