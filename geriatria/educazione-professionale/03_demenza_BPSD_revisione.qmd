@@ -15,16 +15,14 @@ format:
     preview-links: true
 ---
 
-## Prima di parlare di demenza
-
-### Dobbiamo capire tre cose
+## Di cosa parliamo
 
 1. **Che cosa sono le funzioni cognitive**
 2. **Come dipendono dal cervello e dalle sue reti**
 3. **Quando un cambiamento cognitivo diventa una sindrome clinica**
 
 ::: {.notes}
-Aprire chiarendo che la lezione non parte dalle singole malattie. Prima serve un modello semplice della cognizione, del funzionamento cerebrale e del rapporto tra deficit cognitivo e vita quotidiana. Questa prima parte è volutamente più frontale.
+Presentare brevemente il percorso della lezione: prima un modello semplice della cognizione e del funzionamento cerebrale, poi il rapporto tra deficit cognitivo e vita quotidiana, infine le principali sindromi e alcuni strumenti diagnostici e terapeutici.
 :::
 
 # Funzioni cognitive
@@ -41,36 +39,36 @@ e di **guidare il comportamento** nella vita quotidiana.
 Esempi orali: riconoscere una persona, ricordare cosa abbiamo fatto ieri, comprendere una frase, orientarci, organizzare una spesa, usare un oggetto. Primo messaggio da fissare: cognizione non coincide con memoria.
 :::
 
-## La cognizione non è una sola funzione
+## La cognizione non è una sola funzione {.smaller}
 
 :::: {.columns}
 
-::: {.column width="33%"}
-**Attenzione**
+::: {.column width="50%"}
+**Attenzione**  
+seguire una conversazione in un ambiente rumoroso
 
-**Funzioni esecutive**
+**Funzioni esecutive**  
+organizzare una spesa, pianificare, cambiare strategia
 
-**Memoria e apprendimento**
+**Memoria e apprendimento**  
+imparare nuove informazioni, ricordare un appuntamento
 :::
 
-::: {.column width="33%"}
-**Linguaggio**
+::: {.column width="50%"}
+**Linguaggio**  
+trovare una parola, comprendere una frase
 
-**Percezione e movimento**
+**Percezione e movimento**  
+orientarsi, riconoscere un volto, usare un oggetto
 
-**Cognizione sociale**
-:::
-
-::: {.column width="34%"}
-### Idea chiave
-
-Funzioni diverse possono essere compromesse **in modo diverso**.
+**Cognizione sociale**  
+comprendere emozioni, intenzioni e norme sociali
 :::
 
 ::::
 
 ::: {.notes}
-Questi sono i sei domini cognitivi utilizzati dal DSM-5-TR. Non chiedere ancora definizioni dettagliate. Sottolineare che non tutte le demenze iniziano con un deficit di memoria.
+Questi sono i sei domini cognitivi utilizzati dal DSM-5-TR. Gli esempi servono a tradurre i domini in comportamenti osservabili. Sottolineare che non tutte le demenze iniziano con un deficit di memoria.
 :::
 
 ## I domini cognitivi {.smaller}
@@ -88,7 +86,7 @@ Questi sono i sei domini cognitivi utilizzati dal DSM-5-TR. Non chiedere ancora 
 Slide di riferimento, non da memorizzare parola per parola. La classificazione segue il DSM-5-TR; le funzioni elencate traducono i domini in esempi osservabili. L'orientamento è clinicamente importante, ma non è un settimo dominio DSM autonomo: integra memoria, attenzione e rappresentazione spaziale.
 :::
 
-## Alcune parole che incontreremo {.smaller}
+## Alcune parole che potreste incontrare {.smaller}
 
 | Termine | Significato essenziale |
 |---|---|
@@ -100,13 +98,20 @@ Slide di riferimento, non da memorizzare parola per parola. La classificazione s
 | **Prosopagnosia** | difficoltà specifica nel riconoscere i volti |
 | **Abilità visuospaziali** | elaborare posizione, distanza e relazioni nello spazio |
 
-### Non sono tutte “funzioni separate”: sono modi utili per descrivere ciò che osserviamo.
 
 ::: {.notes}
 Evitare “memoria a breve termine”, espressione ambigua. Distinguere memoria di lavoro, apprendimento e richiamo recente. Prosopagnosia e prassia non sono domini DSM autonomi, ma manifestazioni dell'area percettivo-motoria.
 :::
 
 # Dal cervello alle funzioni
+
+## Dove sono, grossolanamente?
+
+![](images/cervello_didattico.jpg){fig-alt="Schema didattico dell'anatomia cerebrale con lobi, corteccia prefrontale, ippocampo, cervelletto e tronco encefalico" width="90%"}
+
+::: {.notes}
+Schema volutamente semplificato per orientarsi anatomicamente. Non suggerisce una corrispondenza uno-a-uno tra area e funzione: le funzioni cognitive emergono da reti distribuite.
+:::
 
 ## Sistemi diversi contribuiscono a funzioni diverse
 
@@ -206,7 +211,6 @@ Slide di sintesi e passaggio alla sindrome clinica. Le diverse malattie coinvolg
 | **Indipendenza** | **conservata** | **interferenza** con l'indipendenza |
 | **Nella pratica** | più tempo, sforzo, strategie o adattamenti | aiuto necessario almeno nelle attività complesse |
 
-### La differenza non è soltanto “quanto è basso il test”.
 
 ::: {.notes}
 Sintesi didattica dei criteri DSM-5-TR. “Preoccupazione documentata” può provenire dalla persona, da un informatore o dal clinico; la prestazione è preferibilmente documentata con test standardizzati o altra valutazione quantitativa. Il quadro non deve comparire esclusivamente nel delirium e non deve essere spiegato meglio da un altro disturbo mentale. DNC maggiore corrisponde in larga misura alla sindrome tradizionalmente chiamata demenza.
@@ -331,14 +335,14 @@ Questo è il messaggio principale del caso. Non appiccicare un'etichetta sulla b
 | Ambito | Condizioni o fattori da considerare | Possibili effetti |
 |---|---|---|
 | **Psiche e umore** | depressione, ansia | concentrazione, attenzione, rallentamento, memoria |
-| **Endocrino / metabolico** | ipotiroidismo e altre alterazioni metaboliche | rallentamento e difficoltà cognitive |
+| **Endocrino / metabolico** | ipotiroidismo; disnatriemie; ipo/iperglicemia; ipercalcemia; uremia; disfunzione epatica | rallentamento, alterazioni attentive/cognitive, possibile delirium |
 | **Farmaci e sostanze** | benzodiazepine, anticolinergici, sedativi; consumo eccessivo di alcol | sedazione, attenzione, memoria, delirium |
 | **Carenze nutrizionali** | vitamina B12; deficit di tiamina/B1 | deficit cognitivo; encefalopatia di Wernicke nel contesto appropriato |
 
 > Possono **causare, mimare o aggravare** un disturbo cognitivo e possono coesistere con una neurodegenerazione.
 
 ::: {.notes}
-Evitare il titolo “cause reversibili di demenza”: spesso sono fattori contribuenti o diagnosi alternative, non spiegazioni complete di una sindrome neurodegenerativa tipica. TSH e vitamina B12 rientrano negli accertamenti di base raccomandati, interpretati nel contesto clinico. Wernicke è legata a carenza di tiamina, soprattutto in malnutrizione, consumo problematico di alcol o malassorbimento; la triade classica può essere incompleta. Non usare “pseudodemenza” in modo semplicistico.
+Evitare il titolo “cause reversibili di demenza”: spesso sono fattori contribuenti o diagnosi alternative, non spiegazioni complete di una sindrome neurodegenerativa tipica. TSH e vitamina B12 rientrano negli accertamenti di base raccomandati, insieme a un pannello metabolico che può evidenziare disnatriemie, alterazioni glicemiche, ipercalcemia, uremia e disfunzione epatica. Queste condizioni sono più spesso fattori contribuenti o cause di peggioramento acuto/subacuto che spiegazioni complete di una sindrome neurodegenerativa progressiva. Wernicke è legata a carenza di tiamina, soprattutto in malnutrizione, consumo problematico di alcol o malassorbimento; la triade classica può essere incompleta. Non usare “pseudodemenza” in modo semplicistico.
 :::
 
 ## MMSE, MoCA e SPMSQ: test di screening {.smaller}
@@ -370,7 +374,7 @@ Il risultato dipende anche da:
 Evitare l'equazione “MMSE sotto una soglia = demenza”. Un test positivo non identifica da solo né la sindrome né la causa; un risultato nei limiti non esclude deficit sottili o circoscritti. La valutazione breve serve a decidere se e come approfondire.
 :::
 
-# Principali sindromi dementigene
+# Principali sindromi
 
 ## Malattia di Alzheimer {.smaller}
 
@@ -543,6 +547,62 @@ Smontare l'equazione “vascolare = sempre a gradini”. Il profilo dipende dal 
 La sovrapposizione è comune, soprattutto nelle persone anziane. Le copatologie neurodegenerative e vascolari possono modificare presentazione ed evoluzione. Questa tabella serve a organizzare le informazioni, non a permettere una diagnosi per riconoscimento superficiale.
 :::
 
+## Farmaci sintomatici nella malattia di Alzheimer {.smaller}
+
+| Farmaco | Come agisce | Rimborsabilità SSN in Italia · Nota 85 |
+|---|---|---|
+| **Donepezil** | inibisce l'acetilcolinesterasi → aumenta la disponibilità di acetilcolina | Alzheimer **lieve** (MMSE 21–26) e **moderato** (10–20) |
+| **Rivastigmina** | inibisce acetil- e butirrilcolinesterasi → aumenta la trasmissione colinergica | Alzheimer **lieve** (21–26) e **moderato** (10–20) |
+| **Memantina** | antagonista NMDA non competitivo → modula l'eccessiva trasmissione glutamatergica | Alzheimer **moderato** (10–20) e **severo** (<10) |
+
+**Diagnosi e Piano Terapeutico dei CDCD** sono richiesti per la rimborsabilità SSN.
+
+> Sono trattamenti **sintomatici**: possono produrre benefici modesti su cognizione e/o funzionamento, ma non arrestano la neurodegenerazione.
+
+<small>Nota: la rivastigmina orale ha anche indicazione autorizzata nella demenza lieve–moderatamente severa associata a malattia di Parkinson idiopatica; questa indicazione non è quella disciplinata dalla Nota 85.</small>
+
+<small>Fonti: AIFA Nota 85 e Piano Terapeutico, aggiornamento 05/03/2026; EMA, RCP/EPAR rivastigmina.</small>
+
+::: {.notes}
+Distinguere indicazione autorizzata da rimborsabilità SSN. La Nota 85 2026 riguarda la malattia di Alzheimer e richiede diagnosi e Piano Terapeutico dei CDCD. Donepezil e rivastigmina sono inibitori colinesterasici; memantina modula la trasmissione glutamatergica tramite recettori NMDA. Non presentare questi farmaci come disease-modifying.
+:::
+
+## Biomarcatori: utili in alcuni setting, non come screening {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Già utilizzati in centri specialistici
+
+- **Liquor:** Aβ42/40, p-tau, t-tau e rapporti
+- **Amyloid PET**
+- in casi selezionati, **tau PET**
+
+Possono aumentare la certezza eziologica quando il risultato **cambia diagnosi, prognosi o gestione**.
+:::
+
+::: {.column width="50%"}
+### Biomarcatori ematici: rapida evoluzione
+
+- soprattutto **p-tau217**
+- anche p-tau181 / p-tau231
+- Aβ42/40 plasmatico
+
+Test ad alte prestazioni possono essere usati come **triage** e, in setting specialistici selezionati, anche come test di conferma.
+:::
+
+::::
+
+> **Non sono raccomandati come screening della popolazione cognitivamente normale.**
+
+Un biomarcatore positivo documenta **biologia di Alzheimer**: non dimostra, da solo, che quella biologia spieghi tutti i sintomi della persona.
+
+<small>Fonti: Alzheimer's Association CPG sui blood-based biomarkers, 2025; Revised Criteria for Diagnosis and Staging of Alzheimer's Disease, 2024.</small>
+
+::: {.notes}
+La linea guida Alzheimer's Association 2025 riguarda persone con impairment cognitivo oggettivo valutate in setting specialistici. I test ematici devono avere prestazioni validate e vanno interpretati dopo una valutazione clinica completa, considerando la probabilità pre-test. I criteri 2024 raccomandano di non eseguire test biomarcatori in persone cognitivamente integre fuori da studi di ricerca, in assenza di trattamenti approvati per la fase preclinica.
+:::
+
 ## Dove siamo arrivati
 
 Ora sappiamo distinguere:
@@ -564,7 +624,10 @@ Chiusura provvisoria della bozza. La versione precedente completa resta conserva
 - American Psychiatric Association. *DSM-5-TR*: domini e criteri dei disturbi neurocognitivi.
 - Alzheimer's Association. DETeCD-ADRD Clinical Practice Guideline. *Alzheimer's & Dementia*. <https://doi.org/10.1002/alz.14333>
 - Linea guida italiana su diagnosi e trattamento di demenza e MCI. *Age and Ageing*. <https://doi.org/10.1093/ageing/afae250>
-- Atri A, et al. Revised criteria for diagnosis and staging of Alzheimer's disease. <https://doi.org/10.1002/alz.14337>
+- Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease. *Alzheimer's & Dementia*. <https://doi.org/10.1002/alz.13859>
+- Palmqvist S, et al. Alzheimer's Association Clinical Practice Guideline on blood-based biomarkers in specialized care. *Alzheimer's & Dementia*. <https://pubmed.ncbi.nlm.nih.gov/40729527/>
+- AIFA. Nota 85 e Piano Terapeutico per i farmaci per la malattia di Alzheimer, aggiornamento 05/03/2026. <https://www.aifa.gov.it/nota-85>
+- EMA. Rivastigmine (Exelon): EPAR e informazioni di prodotto. <https://www.ema.europa.eu/en/medicines/human/EPAR/exelon>
 - McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. *Neurology*. <https://doi.org/10.1212/WNL.0000000000004058>
 - Rascovsky K, et al. Diagnostic criteria for behavioural variant FTD. *Brain*. <https://doi.org/10.1093/brain/awr179>
 - Sachdev P, et al. VASCOG statement on vascular cognitive disorders. <https://doi.org/10.1097/WAD.0000000000000034>
