@@ -1,6 +1,6 @@
 ---
 title: "Disturbi neurocognitivi e demenze"
-subtitle: "Bozza parziale · Corso di geriatria – Educazione Professionale"
+subtitle: "Corso di geriatria – Educazione Professionale"
 author: "Alberto Zucchelli"
 lang: it
 format:
@@ -11,7 +11,7 @@ format:
     width: 1280
     height: 720
     margin: 0.06
-    footer: "alberto.zucchelli@unibs.it · bozza in revisione"
+    footer: "alberto.zucchelli@unibs.it"
     preview-links: true
 ---
 
@@ -619,7 +619,7 @@ Insieme eterogeneo di manifestazioni che possono riguardare:
 
 Possono emergere dall'interazione tra **malattia**, **stato fisico**, **persona** e **contesto**.
 
-<small>Fonti: International Psychogeriatric Association; Linea guida italiana demenza/MCI, 2024.</small>
+<small>Fonti: Finkel et al., Int Psychogeriatr 2000; IPA Complete Guides to BPSD; Linea guida italiana demenza/MCI, 2024.</small>
 
 ::: {.notes}
 BPSD è un termine storico molto diffuso; NPS è frequente nella letteratura contemporanea. Il punto didattico è che “BPSD” non identifica una singola entità clinica: prima descriviamo ciò che accade, poi proviamo a comprenderlo.
@@ -696,7 +696,7 @@ Non mostrare prima l'elenco dei domini. L'obiettivo è far usare realmente lo st
 
 > Il NPI **descrive e misura**. Non spiega la causa.
 
-<small>Fonte: Kaufer et al., 2000; Alzheimer's Association DETeCD-ADRD instruments guideline.</small>
+<small>Fonti: Kaufer et al., 2000; Atri et al., DETeCD-ADRD Validated Clinical Assessment Instruments, 2025.</small>
 
 ::: {.notes}
 Debrief dell'attività. Riprendere le scelte degli studenti e discutere soprattutto le zone di incertezza. Una frase isolata non basta, ad esempio, per concludere automaticamente che sia presente un delirio.
@@ -966,7 +966,7 @@ La linea guida italiana raccomanda attività personalizzate per promuovere engag
 | **Interazione gentile / validante** | tono calmo e non-confrontativo; riconoscere l'emozione prima di correggere i fatti |
 | **Pet / animal-assisted therapy** | possibile attività gradita in persone selezionate; evidenza su agitazione/BPSD complessivi ancora incerta |
 
-<small>Fonti: NICE NG97; Linea guida italiana 2024; revisioni sistematiche sugli interventi non farmacologici.</small>
+<small>Fonti: NICE NG97; Linea guida italiana 2024; van der Steen et al., Cochrane 2025; Lai et al., Cochrane 2019.</small>
 
 ::: {.notes}
 “Attività ponte” non è una categoria terapeutica formalmente validata: è una traduzione operativa di attività personalizzata e significativa. Gentle care/validation/redirection sono componenti relazionali difficili da isolare come singoli trattamenti. L'evidenza sull'animal-assisted therapy per agitazione/BPSD rimane limitata.
@@ -1065,14 +1065,14 @@ Ma ha anche prodotto:
 - **peggioramento cognitivo**;
 - **prolungamento del QT**.
 
-Nei pazienti anziani la dose massima raccomandata è **20 mg/die**.
+Negli **>65 anni**, le restrizioni di sicurezza europee indicano una dose massima di **20 mg/die**.
 
 ### Segnale di efficacia ≠ trattamento routinario.
 :::
 
 ::::
 
-<small>Fonti: Fox et al., PLoS One 2012; Porsteinsson et al., JAMA 2014; AIFA.</small>
+<small>Fonti: Fox et al., PLoS One 2012; Porsteinsson et al., JAMA 2014; MHRA Drug Safety Update dopo revisione europea su citalopram/escitalopram.</small>
 
 ::: {.notes}
 Per memantina distinguere l'indicazione per Alzheimer dal trattamento specifico dell'agitazione. CitAD è importante perché mostra sia un segnale di efficacia sia un limite di trasferibilità: la dose di 30 mg/die è superiore alla dose massima oggi raccomandata negli anziani per il rischio QT.
@@ -1113,36 +1113,76 @@ Ora sappiamo:
 Chiusura dell'intera bozza. Collegare la prima parte cognitiva alla seconda: la demenza modifica capacità cognitive e comunicative, ma il comportamento emerge sempre nell'interazione fra persona, corpo, malattia e contesto.
 :::
 
-## Fonti principali {.smaller}
+## Fonti principali · diagnosi e sindromi {.smaller}
 
-- American Psychiatric Association. *DSM-5-TR*: domini e criteri dei disturbi neurocognitivi.
-- Alzheimer's Association. DETeCD-ADRD Clinical Practice Guideline. *Alzheimer's & Dementia*. <https://doi.org/10.1002/alz.14333>
-- Linea guida italiana su diagnosi e trattamento di demenza e MCI. *Age and Ageing*. <https://doi.org/10.1093/ageing/afae250>
-- Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease. *Alzheimer's & Dementia*. <https://doi.org/10.1002/alz.13859>
-- Palmqvist S, et al. Alzheimer's Association Clinical Practice Guideline on blood-based biomarkers in specialized care. *Alzheimer's & Dementia*. <https://pubmed.ncbi.nlm.nih.gov/40729527/>
-- AIFA. Nota 85 e Piano Terapeutico per i farmaci per la malattia di Alzheimer, aggiornamento 05/03/2026. <https://www.aifa.gov.it/nota-85>
-- EMA. Rivastigmine (Exelon): EPAR e informazioni di prodotto. <https://www.ema.europa.eu/en/medicines/human/EPAR/exelon>
-- McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. *Neurology*. <https://doi.org/10.1212/WNL.0000000000004058>
-- Rascovsky K, et al. Diagnostic criteria for behavioural variant FTD. *Brain*. <https://doi.org/10.1093/brain/awr179>
-- Sachdev P, et al. VASCOG statement on vascular cognitive disorders. <https://doi.org/10.1097/WAD.0000000000000034>
-- USPSTF. Cognitive impairment in older adults: screening. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cognitive-impairment-in-older-adults-screening>
-- Kaufer DI, et al. Validation of the NPI-Q. *J Neuropsychiatry Clin Neurosci*. 2000;12:233–239. <https://doi.org/10.1176/jnp.12.2.233>
-- NPI-Q · versione italiana disponibile online. <https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf>
-- NPItest.net. Sito originale dello strumento, versioni e condizioni d'uso. <https://www.npitest.net/npi/about-npi.html>
-- Cohen-Mansfield J. Nonpharmacologic interventions for inappropriate behaviors in dementia: a review, summary, and critique. *Am J Geriatr Psychiatry*. 2001;9:361–381. <https://pubmed.ncbi.nlm.nih.gov/11739063/>
-- Smith M, et al. History, development, and future of the progressively lowered stress threshold. *J Gerontol Nurs*. 2004;30:22–31. <https://pubmed.ncbi.nlm.nih.gov/15450057/>
-- Spector A, Orrell M. Using a biopsychosocial model of dementia as a tool to guide clinical practice. *Int Psychogeriatr*. 2010;22:957–965. <https://doi.org/10.1017/S1041610210000840>
-- Alzheimer's Society. *This is me*: support tool for person-centred care. <https://www.alzheimers.org.uk/get-support/publications-factsheets/this-is-me>
-- *This is me* · Alzheimer's Society: pagina ufficiale e download della scheda. <https://www.alzheimers.org.uk/get-support/publications-factsheets/this-is-me>
-- Kales HC, Gitlin LN, Lyketsos CG. Management of neuropsychiatric symptoms of dementia: the DICE approach. *J Am Geriatr Soc*. 2014;62:762–769. <https://doi.org/10.1111/jgs.12730>
-- Whall AL, Kolanowski AM. Need-driven dementia-compromised behavior model. *Aging Ment Health*. 2004;8:106–108. <https://doi.org/10.1080/13607860410001649590>
-- Song JA, et al. Need-Driven Dementia-Compromised Behavior model-based interventions: systematic review and meta-analysis. *Int J Nurs Stud*. 2026;176:105337. <https://doi.org/10.1016/j.ijnurstu.2026.105337>
-- Moniz Cook ED, et al. Functional analysis-based interventions for challenging behaviour in dementia. *Cochrane Database Syst Rev*. 2012;CD006929. <https://doi.org/10.1002/14651858.CD006929.pub2>
-- NICE. *Dementia: assessment, management and support for people living with dementia and their carers* (NG97). <https://www.nice.org.uk/guidance/ng97>
-- Fox C, et al. Efficacy of memantine for agitation in Alzheimer's dementia. *PLoS One*. 2012;7:e35185. <https://doi.org/10.1371/journal.pone.0035185>
-- Porsteinsson AP, et al. Effect of citalopram on agitation in Alzheimer disease: CitAD. *JAMA*. 2014;311:682–691. <https://doi.org/10.1001/jama.2014.93>
-- AIFA. Citalopram: aggiornamento di sicurezza sul prolungamento del QT e dose massima negli anziani. <https://www.aifa.gov.it/>
+- American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR).* 2022.
+- Atri A, et al. Alzheimer's Association DETeCD-ADRD: executive summary of recommendations for primary care. *Alzheimer's Dement.* 2025;21:e14333. <https://doi.org/10.1002/alz.14333>
+- Atri A, et al. DETeCD-ADRD: validated clinical assessment instruments. *Alzheimer's Dement.* 2025;21:e14335. <https://doi.org/10.1002/alz.14335>
+- Fabrizi E, et al. The Italian guideline on diagnosis and treatment of dementia and mild cognitive impairment. *Age Ageing.* 2024;53:afae250. <https://doi.org/10.1093/ageing/afae250>
+- Jack CR Jr, et al. Revised criteria for diagnosis and staging of Alzheimer's disease. *Alzheimer's Dement.* 2024;20:5143–5169. <https://doi.org/10.1002/alz.13859>
+- Palmqvist S, et al. Alzheimer's Association Clinical Practice Guideline on blood-based biomarkers in specialized care. *Alzheimer's Dement.* 2025;21:e70535. <https://doi.org/10.1002/alz.70535>
+- AIFA. Nota 85 e Piano Terapeutico, aggiornamento 05/03/2026. <https://www.aifa.gov.it/nota-85>
+- EMA. Exelon (rivastigmina): EPAR e informazioni di prodotto. <https://www.ema.europa.eu/en/medicines/human/EPAR/exelon>
 
 ::: {.notes}
-Fonti di riferimento della bozza. Prima della versione definitiva si potrà aggiungere una bibliografia completa e uniforme. Il DSM-5-TR è la fonte nosografica per DNC minore/maggiore; le linee guida italiana e Alzheimer's Association sostengono il percorso diagnostico integrato e la valutazione cognitivo-funzionale.
+Riferimenti verificati rispetto alle fonti editoriali o istituzionali. DETeCD-ADRD è citata in due articoli distinti: raccomandazioni per primary care e strumenti clinici validati.
+:::
+
+## Fonti principali · principali sindromi {.smaller}
+
+- McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. *Neurology.* 2017;89:88–100. <https://doi.org/10.1212/WNL.0000000000004058>
+- Rascovsky K, et al. Sensitivity of revised diagnostic criteria for the behavioural variant of frontotemporal dementia. *Brain.* 2011;134:2456–2477. <https://doi.org/10.1093/brain/awr179>
+- Sachdev P, et al. Diagnostic criteria for vascular cognitive disorders: a VASCOG statement. *Alzheimer Dis Assoc Disord.* 2014;28:206–218. <https://doi.org/10.1097/WAD.0000000000000034>
+- USPSTF. Cognitive impairment in older adults: screening. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cognitive-impairment-in-older-adults-screening>
+
+::: {.notes}
+Questi riferimenti sostengono le slide sui pattern clinici. Le tabelle della lezione sono semplificazioni didattiche e non sostituiscono i criteri diagnostici completi.
+:::
+
+## Fonti principali · BPSD e modelli {.smaller}
+
+- Finkel SI, Burns A, Cohen G. Overview. *Int Psychogeriatr.* 2000;12(S1):13–18. <https://doi.org/10.1017/S1041610200006700>
+- Kaufer DI, et al. Validation of the NPI-Q, a brief clinical form of the Neuropsychiatric Inventory. *J Neuropsychiatry Clin Neurosci.* 2000;12:233–239. <https://doi.org/10.1176/jnp.12.2.233>
+- Cohen-Mansfield J. Nonpharmacologic interventions for inappropriate behaviors in dementia: a review, summary, and critique. *Am J Geriatr Psychiatry.* 2001;9:361–381. <https://pubmed.ncbi.nlm.nih.gov/11739063/>
+- Smith M, Gerdner LA, Hall GR, Buckwalter KC. History, development, and future of the progressively lowered stress threshold: a conceptual model for dementia care. *J Am Geriatr Soc.* 2004;52:1755–1760. <https://doi.org/10.1111/j.1532-5415.2004.52473.x>
+- Whall AL, Kolanowski AM. The need-driven dementia-compromised behavior model—a framework for understanding the behavioral symptoms of dementia. *Aging Ment Health.* 2004;8:106–108. <https://doi.org/10.1080/13607860410001649590>
+- Spector A, Orrell M. Using a biopsychosocial model of dementia as a tool to guide clinical practice. *Int Psychogeriatr.* 2010;22:957–965. <https://doi.org/10.1017/S1041610210000840>
+
+::: {.notes}
+Corretto il riferimento al PLST: Smith et al. è pubblicato nel Journal of the American Geriatrics Society, non nel Journal of Gerontological Nursing.
+:::
+
+## Fonti principali · approccio e interventi {.smaller}
+
+- Kales HC, Gitlin LN, Lyketsos CG. Management of neuropsychiatric symptoms of dementia in clinical settings: recommendations from a multidisciplinary expert panel. *J Am Geriatr Soc.* 2014;62:762–769. <https://doi.org/10.1111/jgs.12730>
+- Moniz Cook ED, et al. Functional analysis-based interventions for challenging behaviour in dementia. *Cochrane Database Syst Rev.* 2012;(2):CD006929. <https://doi.org/10.1002/14651858.CD006929.pub2>
+- Song JA, et al. Effectiveness of Need-Driven Dementia-Compromised Behavior model-based interventions on behavioral and psychological symptoms of dementia: a systematic review and meta-analysis. *Int J Nurs Stud.* 2026;176:105337. <https://doi.org/10.1016/j.ijnurstu.2026.105337>
+- van der Steen JT, et al. Music-based therapeutic interventions for people with dementia. *Cochrane Database Syst Rev.* 2025;(3):CD003477. <https://doi.org/10.1002/14651858.CD003477.pub5>
+- Lai NM, et al. Animal-assisted therapy for dementia. *Cochrane Database Syst Rev.* 2019;(11):CD013243. <https://doi.org/10.1002/14651858.CD013243.pub2>
+- NICE. *Dementia: assessment, management and support for people living with dementia and their carers* (NG97). <https://www.nice.org.uk/guidance/ng97>
+
+::: {.notes}
+La functional analysis è una componente di interventi multicomponente e l'efficacia isolata rimane incerta. Le revisioni Cochrane sono usate per qualificare l'evidenza su musica e animal-assisted therapy.
+:::
+
+## Fonti principali · farmaci {.smaller}
+
+- Fox C, et al. Efficacy of memantine for agitation in Alzheimer's dementia: a randomised double-blind placebo controlled trial. *PLoS One.* 2012;7:e35185. <https://doi.org/10.1371/journal.pone.0035185>
+- Porsteinsson AP, et al. Effect of citalopram on agitation in Alzheimer disease: the CitAD randomized clinical trial. *JAMA.* 2014;311:682–691. <https://doi.org/10.1001/jama.2014.93>
+- MHRA. Citalopram and escitalopram: QT interval prolongation; safety restrictions following Europe-wide review. <https://www.gov.uk/drug-safety-update/citalopram-and-escitalopram-qt-interval-prolongation>
+- AIFA. Nota 85 e Piano Terapeutico per donepezil, galantamina, rivastigmina e memantina. <https://www.aifa.gov.it/nota-85>
+
+::: {.notes}
+La fonte MHRA è usata perché documenta esplicitamente l'esito della revisione europea e la restrizione della dose massima di citalopram negli anziani.
+:::
+
+## Risorse utilizzate in aula {.smaller}
+
+- **NPI-Q italiano** — scheda consultabile online: <https://www.demenzemedicinagenerale.net/images/test/NPI-Q_12-11-2016_SITO.pdf>
+- **NPItest.net** — sito dello strumento originale, versioni e condizioni d'uso: <https://www.npitest.net/npi/about-npi.html>
+- **This is me** — Alzheimer's Society, 4ª edizione, pagina ufficiale e download: <https://www.alzheimers.org.uk/get-support/publications-factsheets/this-is-me>
+- **IPA Complete Guides to BPSD** — International Psychogeriatric Association: <https://www.ipa-online.org/publications/guides-to-bpsd>
+
+::: {.notes}
+NPI e relative traduzioni sono protetti da copyright; NPItest.net specifica le condizioni d'uso. Il link italiano viene fornito come risorsa didattica consultabile. “This is me” è uno strumento di comunicazione per person-centred care, non un trattamento dei BPSD.
 :::
