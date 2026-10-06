@@ -1,0 +1,575 @@
+---
+title: "Disturbi neurocognitivi e demenze"
+subtitle: "Bozza parziale · Corso di geriatria – Educazione Professionale"
+author: "Alberto Zucchelli"
+lang: it
+format:
+  clean-revealjs:
+    slide-number: c/t
+    transition: fade
+    incremental: false
+    width: 1280
+    height: 720
+    margin: 0.06
+    footer: "alberto.zucchelli@unibs.it · bozza in revisione"
+    preview-links: true
+---
+
+## Prima di parlare di demenza
+
+### Dobbiamo capire tre cose
+
+1. **Che cosa sono le funzioni cognitive**
+2. **Come dipendono dal cervello e dalle sue reti**
+3. **Quando un cambiamento cognitivo diventa una sindrome clinica**
+
+::: {.notes}
+Aprire chiarendo che la lezione non parte dalle singole malattie. Prima serve un modello semplice della cognizione, del funzionamento cerebrale e del rapporto tra deficit cognitivo e vita quotidiana. Questa prima parte è volutamente più frontale.
+:::
+
+# Funzioni cognitive
+
+## Che cosa sono le funzioni cognitive?
+
+Processi che ci permettono di:
+
+### ricevere → comprendere → ricordare → usare informazioni
+
+e di **guidare il comportamento** nella vita quotidiana.
+
+::: {.notes}
+Esempi orali: riconoscere una persona, ricordare cosa abbiamo fatto ieri, comprendere una frase, orientarci, organizzare una spesa, usare un oggetto. Primo messaggio da fissare: cognizione non coincide con memoria.
+:::
+
+## La cognizione non è una sola funzione
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Attenzione**
+
+**Funzioni esecutive**
+
+**Memoria e apprendimento**
+:::
+
+::: {.column width="33%"}
+**Linguaggio**
+
+**Percezione e movimento**
+
+**Cognizione sociale**
+:::
+
+::: {.column width="34%"}
+### Idea chiave
+
+Funzioni diverse possono essere compromesse **in modo diverso**.
+:::
+
+::::
+
+::: {.notes}
+Questi sono i sei domini cognitivi utilizzati dal DSM-5-TR. Non chiedere ancora definizioni dettagliate. Sottolineare che non tutte le demenze iniziano con un deficit di memoria.
+:::
+
+## I domini cognitivi {.smaller}
+
+| Dominio | Alcune funzioni | Esempio quotidiano |
+|---|---|---|
+| **Attenzione complessa** | sostenuta, selettiva, divisa; velocità di elaborazione | seguire una conversazione in un ambiente rumoroso |
+| **Funzioni esecutive** | pianificazione, decisione, inibizione, flessibilità, memoria di lavoro | organizzare una spesa o cambiare strategia |
+| **Apprendimento e memoria** | apprendere, ricordare eventi e conoscenze | ricordare cosa è successo ieri; sapere cos'è un oggetto |
+| **Linguaggio** | produzione, denominazione, comprensione | trovare una parola o capire una frase |
+| **Percettivo-motorio** | visuospaziale, riconoscimento, prassia | orientarsi, riconoscere un volto, usare un oggetto |
+| **Cognizione sociale** | emozioni, intenzioni, norme sociali | capire che qualcuno è ironico o arrabbiato |
+
+::: {.notes}
+Slide di riferimento, non da memorizzare parola per parola. La classificazione segue il DSM-5-TR; le funzioni elencate traducono i domini in esempi osservabili. L'orientamento è clinicamente importante, ma non è un settimo dominio DSM autonomo: integra memoria, attenzione e rappresentazione spaziale.
+:::
+
+## Alcune parole che incontreremo {.smaller}
+
+| Termine | Significato essenziale |
+|---|---|
+| **Memoria episodica** | eventi vissuti, collocati nel tempo e nello spazio |
+| **Memoria semantica** | conoscenze, concetti e significati |
+| **Memoria di lavoro** | mantenere e manipolare temporaneamente informazioni |
+| **Prassia** | eseguire gesti e azioni apprese |
+| **Gnosia** | riconoscere ciò che viene percepito |
+| **Prosopagnosia** | difficoltà specifica nel riconoscere i volti |
+| **Abilità visuospaziali** | elaborare posizione, distanza e relazioni nello spazio |
+
+### Non sono tutte “funzioni separate”: sono modi utili per descrivere ciò che osserviamo.
+
+::: {.notes}
+Evitare “memoria a breve termine”, espressione ambigua. Distinguere memoria di lavoro, apprendimento e richiamo recente. Prosopagnosia e prassia non sono domini DSM autonomi, ma manifestazioni dell'area percettivo-motoria.
+:::
+
+# Dal cervello alle funzioni
+
+## Sistemi diversi contribuiscono a funzioni diverse
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Temporale mediale / ippocampo**  
+apprendere nuovi ricordi
+
+**Aree temporali**  
+linguaggio e conoscenze semantiche
+:::
+
+::: {.column width="50%"}
+**Aree frontali**  
+pianificazione e controllo
+
+**Aree parietali e occipitali**  
+elaborazione visuospaziale
+:::
+
+::::
+
+### Ma nessuna area “fa tutto” da sola.
+
+::: {.notes}
+1–2 minuti, senza trasformare la lezione in neuroanatomia. Dire “contribuisce maggiormente”, non “è la sede esclusiva”. Le funzioni complesse emergono dall'attività coordinata di più regioni.
+:::
+
+## Il cervello funziona attraverso reti
+
+### Per riconoscere una persona dobbiamo:
+
+**vedere il volto** → **riconoscerlo** → **associarlo a informazioni** → **recuperare il nome**
+
+Una funzione può alterarsi perché:
+
+- è danneggiata una regione;
+- si interrompono i **collegamenti** tra regioni.
+
+::: {.notes}
+Usare questo esempio per superare l'idea “un punto del cervello = una funzione”. Il prodotto osservabile dipende da una rete. Questo prepara sia alle malattie neurodegenerative sia al danno vascolare e ai diversi fenotipi clinici.
+:::
+
+## Che cosa significa neurodegenerazione?
+
+### Perdita progressiva della struttura e della funzione dei neuroni
+
+**neurone funzionante** → **disfunzione** → **perdita di connessioni e neuroni**
+
+Nel cervello adulto la sostituzione dei neuroni perduti è **insufficiente** a compensare il danno.
+
+> Se si deteriora una rete, diventano meno efficienti le funzioni che quella rete sostiene.
+
+::: {.notes}
+Evitare l'affermazione assoluta “i neuroni non si rimpiazzano mai”. Il messaggio corretto e sufficiente è che la sostituzione non compensa una perdita neuronale patologica progressiva. Ricordare che non tutte le demenze sono esclusivamente neurodegenerative: il danno vascolare può causare o contribuire al quadro.
+:::
+
+## Reti diverse, segnali iniziali diversi
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**Reti della memoria**
+
+difficoltà ad apprendere nuove informazioni
+:::
+
+::: {.column width="33%"}
+**Reti frontali**
+
+pianificazione o comportamento
+:::
+
+::: {.column width="34%"}
+**Reti linguistiche**
+
+produzione o comprensione delle parole
+:::
+
+::::
+
+### “Demenza” non significa semplicemente “perdere la memoria”.
+
+::: {.notes}
+Slide di sintesi e passaggio alla sindrome clinica. Le diverse malattie coinvolgono reti differenti, soprattutto nelle fasi iniziali; con l'evoluzione il coinvolgimento tende ad ampliarsi.
+:::
+
+# Cognizione e funzionamento quotidiano
+
+## Disturbo neurocognitivo: servono cognizione **e** funzione {.smaller}
+
+|  | **DNC minore** | **DNC maggiore** |
+|---|---|---|
+| **Cognizione** | declino **modesto** in ≥1 dominio | declino **significativo** in ≥1 dominio |
+| **Evidenza** | preoccupazione documentata + valutazione cognitiva | preoccupazione documentata + valutazione cognitiva |
+| **Indipendenza** | **conservata** | **interferenza** con l'indipendenza |
+| **Nella pratica** | più tempo, sforzo, strategie o adattamenti | aiuto necessario almeno nelle attività complesse |
+
+### La differenza non è soltanto “quanto è basso il test”.
+
+::: {.notes}
+Sintesi didattica dei criteri DSM-5-TR. “Preoccupazione documentata” può provenire dalla persona, da un informatore o dal clinico; la prestazione è preferibilmente documentata con test standardizzati o altra valutazione quantitativa. Il quadro non deve comparire esclusivamente nel delirium e non deve essere spiegato meglio da un altro disturbo mentale. DNC maggiore corrisponde in larga misura alla sindrome tradizionalmente chiamata demenza.
+:::
+
+## Perché dobbiamo valutare il funzionamento?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Attività complesse · IADL
+
+- gestire farmaci e denaro;
+- spesa e preparazione dei pasti;
+- telefono e tecnologia;
+- trasporti;
+- organizzare la giornata.
+:::
+
+::: {.column width="50%"}
+### Attività di base · BADL
+
+- vestirsi;
+- lavarsi;
+- alimentarsi;
+- usare il bagno;
+- muoversi nella quotidianità.
+:::
+
+::::
+
+> Dobbiamo stabilire **se e quanto il deficit cognitivo** interferisce con la vita quotidiana.
+
+::: {.notes}
+Parlare di funzionamento quotidiano o autonomia funzionale, non semplicemente di “funzione fisica”. Il criterio diagnostico riguarda la perdita di indipendenza dovuta al deficit cognitivo. Una limitazione motoria isolata non trasforma un DNC minore in maggiore. Le IADL complesse tendono a essere coinvolte prima delle BADL.
+:::
+
+## Mild Cognitive Impairment · MCI
+
+### Un deficit cognitivo senza demenza
+
+**declino rispetto a prima**  
++ **deficit cognitivo oggettivabile**  
++ **indipendenza sostanzialmente conservata**
+
+La persona può essere più lenta, fare più fatica o usare strategie compensative.
+
+### MCI e DNC minore sono concetti vicini, non sinonimi perfetti.
+
+::: {.notes}
+MCI nasce da un diverso framework rispetto al DNC minore del DSM, ma i costrutti sono largamente sovrapposti. Non ridurre MCI a un singolo punteggio: servono cambiamento rispetto al precedente funzionamento, evidenza oggettiva e conservazione sostanziale dell'indipendenza.
+:::
+
+## MCI non significa inevitabilmente demenza
+
+:::: {.columns}
+
+::: {.column width="33%"}
+### ↗ Migliora
+
+Alla rivalutazione non soddisfa più i criteri
+:::
+
+::: {.column width="33%"}
+### → Rimane stabile
+
+Il deficit persiste senza progressione evidente
+:::
+
+::: {.column width="34%"}
+### ↘ Progredisce
+
+Il declino aumenta e può compromettere l'indipendenza
+:::
+
+::::
+
+### MCI è uno stato clinico, non un destino.
+
+::: {.notes}
+La reversione significa che alla valutazione successiva i criteri non sono più soddisfatti; non dimostra necessariamente la scomparsa di un processo neurodegenerativo. Possono contribuire variabilità della misurazione, depressione, farmaci, sonno, patologie acute, fattori sensoriali o altre condizioni modificabili. Non mostrare percentuali: variano molto tra campioni clinici e di popolazione.
+:::
+
+# Dal segnale alla valutazione
+
+## Caso guida: Maria
+
+**Maria, 78 anni.**
+
+Da circa un anno dimentica alcuni appuntamenti.
+
+Usa molti promemoria.
+
+La figlia riferisce qualche errore recente nelle bollette.
+
+### Che cosa possiamo concludere?
+
+::: {.notes}
+Chiedere agli studenti di identificare: possibile cambiamento cognitivo, compensazione con promemoria, possibile impatto su una IADL. Non chiedere ancora di scegliere tra MCI e demenza.
+:::
+
+## Maria: segnali di allarme, non una diagnosi
+
+**Dimentica appuntamenti** → possibile cambiamento cognitivo
+
+**Usa promemoria** → possibile compensazione
+
+**Errori nelle bollette** → possibile impatto funzionale
+
+Ma dobbiamo ancora capire:
+
+**è un vero declino? · è oggettivabile? · compromette l'indipendenza? · qual è la causa?**
+
+### “Ha problemi cognitivi” ≠ “ha una demenza”
+
+::: {.notes}
+Questo è il messaggio principale del caso. Non appiccicare un'etichetta sulla base di pochi segnali. Servono anamnesi ed eteroanamnesi, valutazione cognitiva e funzionale, esame clinico, ricerca di fattori contribuenti e follow-up.
+:::
+
+## Non tutto ciò che modifica la cognizione è demenza {.smaller}
+
+| Ambito | Condizioni o fattori da considerare | Possibili effetti |
+|---|---|---|
+| **Psiche e umore** | depressione, ansia | concentrazione, attenzione, rallentamento, memoria |
+| **Endocrino / metabolico** | ipotiroidismo e altre alterazioni metaboliche | rallentamento e difficoltà cognitive |
+| **Farmaci e sostanze** | benzodiazepine, anticolinergici, sedativi; consumo eccessivo di alcol | sedazione, attenzione, memoria, delirium |
+| **Carenze nutrizionali** | vitamina B12; deficit di tiamina/B1 | deficit cognitivo; encefalopatia di Wernicke nel contesto appropriato |
+
+> Possono **causare, mimare o aggravare** un disturbo cognitivo e possono coesistere con una neurodegenerazione.
+
+::: {.notes}
+Evitare il titolo “cause reversibili di demenza”: spesso sono fattori contribuenti o diagnosi alternative, non spiegazioni complete di una sindrome neurodegenerativa tipica. TSH e vitamina B12 rientrano negli accertamenti di base raccomandati, interpretati nel contesto clinico. Wernicke è legata a carenza di tiamina, soprattutto in malnutrizione, consumo problematico di alcol o malassorbimento; la triade classica può essere incompleta. Non usare “pseudodemenza” in modo semplicistico.
+:::
+
+## MMSE, MoCA e SPMSQ: test di screening {.smaller}
+
+|  | **MMSE** | **MoCA** | **SPMSQ** |
+|---|---|---|---|
+| **Tipo** | screening breve | screening breve | screening molto breve |
+| **Campiona** | orientamento, memoria, attenzione/calcolo, linguaggio, prassia | memoria, attenzione, esecutivo, visuospaziale, linguaggio, astrazione, orientamento | orientamento, memoria/conoscenze, calcolo semplice |
+| **Punto di forza** | diffuso; impairment più evidente | più sensibile alle alterazioni lievi ed esecutive | rapido e semplice |
+| **Limite** | meno sensibile a MCI/esecutivo | rimane uno screening | copertura cognitiva limitata |
+
+::: {.notes}
+Sono esempi di test brevi che campionano più domini in modo superficiale. Non sono equivalenti e non sostituiscono una valutazione neuropsicologica approfondita quando indicata. Lo SPMSQ è già noto agli studenti: usarlo come esempio di strumento rapido con copertura limitata.
+:::
+
+## Un test cognitivo non fa diagnosi di demenza
+
+### test alterato → **approfondire**
+
+### test normale ≠ **sicuramente normale**
+
+Il risultato dipende anche da:
+
+**età · scolarità · lingua e cultura · vista e udito · stato emotivo · condizioni acute**
+
+> La diagnosi integra cognizione, funzionamento quotidiano, storia, clinica e andamento nel tempo.
+
+::: {.notes}
+Evitare l'equazione “MMSE sotto una soglia = demenza”. Un test positivo non identifica da solo né la sindrome né la causa; un risultato nei limiti non esclude deficit sottili o circoscritti. La valutazione breve serve a decidere se e come approfondire.
+:::
+
+# Principali sindromi dementigene
+
+## Malattia di Alzheimer {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Presentazione
+
+**Esordio insidioso e progressivo**
+
+Forma tipica:
+
+- difficoltà ad apprendere e ricordare **nuove informazioni**;
+- domande ripetute;
+- appuntamenti e oggetti dimenticati;
+- disorientamento.
+
+Possibili anche esordi linguistici, visuospaziali o esecutivi.
+:::
+
+::: {.column width="50%"}
+### Evoluzione
+
+Progressivo coinvolgimento di più domini:
+
+**memoria**  
+→ linguaggio, orientamento, visuospaziale, esecutivo  
+→ perdita delle IADL  
+→ BADL e dipendenza crescente
+:::
+
+::::
+
+> La presentazione amnestica è la più comune, ma Alzheimer non significa “solo memoria”.
+
+::: {.notes}
+Descrivere un pattern orientativo, non criteri diagnostici completi. La diagnosi eziologica richiede integrazione clinica e, quando indicato, imaging e biomarcatori. Il decorso varia tra persone e le copatologie sono frequenti.
+:::
+
+## Demenza a corpi di Lewy {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Presentazione
+
+Spesso precocemente:
+
+- attenzione/esecutivo e visuopercezione;
+- **fluttuazioni cognitive**;
+- **allucinazioni visive** ricorrenti e ben strutturate;
+- disturbo comportamentale del sonno REM;
+- parkinsonismo spontaneo.
+
+La memoria può essere meno compromessa all'inizio.
+:::
+
+::: {.column width="50%"}
+### Evoluzione
+
+Malattia progressiva con marcate **fluttuazioni**.
+
+Nel tempo possono aumentare:
+
+- deficit cognitivi e di memoria;
+- parkinsonismo e cadute;
+- disturbi autonomici e del sonno;
+- sintomi neuropsichiatrici.
+:::
+
+::::
+
+> Importante la possibile sensibilità grave agli antipsicotici.
+
+::: {.notes}
+Le quattro caratteristiche cliniche centrali sono fluttuazioni, allucinazioni visive, disturbo comportamentale del sonno REM e parkinsonismo. La sensibilità agli antipsicotici è una caratteristica di supporto e un punto di sicurezza clinica, non un invito agli studenti a gestire la terapia.
+:::
+
+## Demenza frontotemporale {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Presentazione
+
+**Comportamento / personalità · bvFTD**
+
+disinibizione · apatia · perdita di empatia · rituali · alterazioni alimentari · deficit esecutivi
+
+oppure
+
+**Linguaggio · afasie primarie progressive**
+
+produzione o comprensione progressivamente compromesse
+:::
+
+::: {.column width="50%"}
+### Evoluzione
+
+Il deficit inizialmente più circoscritto coinvolge progressivamente altre funzioni e compromette:
+
+- relazioni;
+- decisioni;
+- attività quotidiane;
+- autonomia.
+
+In alcune forme compaiono disturbi motori.
+:::
+
+::::
+
+> La memoria episodica può essere relativamente conservata nelle fasi iniziali.
+
+::: {.notes}
+Non ridurre la FTD alla sola disinibizione. Nella variante comportamentale sono centrali comportamento, personalità e funzioni esecutive; le sindromi linguistiche progressive costituiscono un'altra porta d'ingresso. La diagnosi differenziale psichiatrica può essere complessa.
+:::
+
+## Deterioramento cognitivo vascolare {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Presentazione
+
+**Molto eterogenea:** dipende da sede ed estensione del danno.
+
+Frequenti:
+
+- rallentamento cognitivo;
+- deficit di attenzione;
+- difficoltà esecutive e di pianificazione;
+- deficit focali, apatia o alterazioni del cammino.
+
+La memoria non deve predominare.
+:::
+
+::: {.column width="50%"}
+### Evoluzione
+
+**Ictus / infarto strategico**  
+→ esordio relativamente brusco
+
+**Eventi ripetuti**  
+→ possibile andamento a gradini
+
+**Malattia dei piccoli vasi**  
+→ deterioramento anche lento e progressivo
+:::
+
+::::
+
+> “Vascolare” descrive una causa, non un unico profilo clinico.
+
+::: {.notes}
+Smontare l'equazione “vascolare = sempre a gradini”. Il profilo dipende dal tipo, dalla sede e dall'estensione del danno cerebrovascolare. Il danno vascolare può essere causa primaria o contribuire a una sindrome mista.
+:::
+
+## Quattro pattern per orientarsi {.smaller}
+
+| Sindrome | Segnale iniziale da ricordare | Decorso caratteristico |
+|---|---|---|
+| **Alzheimer** | nuove informazioni / memoria episodica | insidioso e progressivo |
+| **Corpi di Lewy** | fluttuazioni + visuopercezione ± allucinazioni/parkinsonismo | progressivo, ma molto fluttuante |
+| **Frontotemporale** | comportamento oppure linguaggio | ampliamento progressivo ad altre funzioni |
+| **Vascolare** | esecutivo/rallentamento, ma variabile | brusco, a gradini o lentamente progressivo |
+
+### Pattern utili per orientarsi, non scatole diagnostiche.
+
+::: {.notes}
+La sovrapposizione è comune, soprattutto nelle persone anziane. Le copatologie neurodegenerative e vascolari possono modificare presentazione ed evoluzione. Questa tabella serve a organizzare le informazioni, non a permettere una diagnosi per riconoscimento superficiale.
+:::
+
+## Dove siamo arrivati
+
+Ora sappiamo distinguere:
+
+- **funzioni cognitive** e loro domini;
+- deficit cognitivo e **perdita di indipendenza**;
+- MCI, DNC minore e DNC maggiore;
+- segnale di allarme, screening e diagnosi;
+- principali pattern di presentazione ed evoluzione.
+
+### La parte su BPSD, osservazione e progettazione dell'intervento verrà reintegrata nella prossima revisione.
+
+::: {.notes}
+Chiusura provvisoria della bozza. La versione precedente completa resta conservata nel repository ma non è collegata dall'indice. Nella revisione successiva raccordare questo blocco con delirium, BPSD/NPS, NPI-Q, bisogni non soddisfatti, ABC e DICE.
+:::
+
+## Fonti principali {.smaller}
+
+- American Psychiatric Association. *DSM-5-TR*: domini e criteri dei disturbi neurocognitivi.
+- Alzheimer's Association. DETeCD-ADRD Clinical Practice Guideline. *Alzheimer's & Dementia*. <https://doi.org/10.1002/alz.14333>
+- Linea guida italiana su diagnosi e trattamento di demenza e MCI. *Age and Ageing*. <https://doi.org/10.1093/ageing/afae250>
+- Atri A, et al. Revised criteria for diagnosis and staging of Alzheimer's disease. <https://doi.org/10.1002/alz.14337>
+- McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies. *Neurology*. <https://doi.org/10.1212/WNL.0000000000004058>
+- Rascovsky K, et al. Diagnostic criteria for behavioural variant FTD. *Brain*. <https://doi.org/10.1093/brain/awr179>
+- Sachdev P, et al. VASCOG statement on vascular cognitive disorders. <https://doi.org/10.1097/WAD.0000000000000034>
+- USPSTF. Cognitive impairment in older adults: screening. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cognitive-impairment-in-older-adults-screening>
+
+::: {.notes}
+Fonti di riferimento della bozza. Prima della versione definitiva si potrà aggiungere una bibliografia completa e uniforme. Il DSM-5-TR è la fonte nosografica per DNC minore/maggiore; le linee guida italiana e Alzheimer's Association sostengono il percorso diagnostico integrato e la valutazione cognitivo-funzionale.
+:::
