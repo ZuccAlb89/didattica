@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<html lang="it"><head>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.19">
+
+  <meta name="author" content="Alberto Zucchelli">
+  <title>Didattica – Ripasso ed esame: ragionamento multidimensionale</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-b2736e9fcda83c748fd63b6e579550ef.css">
+  <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+<script src="mathjax-config.js"></script>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Ripasso ed esame: ragionamento multidimensionale</h1>
+  <p class="subtitle">Geriatria · Educazione Professionale</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Alberto Zucchelli
+</div>
+</div>
+</div>
+
+</section>
+<section id="dalle-lezioni-allesame" class="slide level2">
+<h2>Dalle lezioni all’esame</h2>
+<h3 id="tre-idee-da-portare-con-noi">Tre idee da portare con noi</h3>
+<p><strong>Comprendere la persona</strong> → <strong>raccogliere e integrare informazioni</strong> → <strong>comunicare bisogni e risorse</strong></p>
+<aside class="notes">
+<p>Modulo di ripasso e trasparenza della valutazione. I contenuti teorici riprendono le tre lezioni precedenti; l’attività finale simula le due domande dell’esame. Non anticipare la seconda parte del caso prima della risposta alla prima.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="modello-bio-psico-sociale" class="slide level2">
+<h2>Modello bio-psico-sociale</h2>
+<p>Una situazione non si spiega con le sole malattie.</p>
+<div class="columns">
+<div class="column" style="width:33%;">
+<h3 id="biologico">Biologico</h3>
+<p>Patologie, sintomi, capacità fisiche e cognitive</p>
+</div><div class="column" style="width:33%;">
+<h3 id="psicologico">Psicologico</h3>
+<p>Emozioni, percezioni, motivazioni e comportamenti</p>
+</div><div class="column" style="width:34%;">
+<h3 id="sociale">Sociale</h3>
+<p>Relazioni, sostegni, ambiente, opportunità e barriere</p>
+</div></div>
+<p><strong>Le dimensioni interagiscono:</strong> una caduta può produrre paura, ridurre le uscite e indebolire le relazioni.</p>
+</section>
+<section id="vmd-un-processo-non-una-batteria-di-test" class="slide level2">
+<h2>VMD: un processo, non una batteria di test</h2>
+<p><strong>Valutare</strong> → <strong>integrare e condividere</strong> → <strong>concordare obiettivi</strong> → <strong>intervenire</strong> → <strong>rivalutare</strong></p>
+<ul>
+<li>Le scale <em>contribuiscono</em> alla valutazione: non coincidono con la VMD.</li>
+<li>Il progetto nasce da <strong>bisogni, capacità, risorse e preferenze</strong>.</li>
+<li>La valutazione cambia nel tempo e richiede collaborazione multiprofessionale.</li>
+</ul>
+<aside class="notes">
+<p>Richiamare la distinzione fra misurazione e interpretazione; la VMD è un processo multiprofessionale e dinamico. Riferimento: https://www.bgs.org.uk/CGA</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="demenza-e-bpsd-due-messaggi" class="slide level2">
+<h2>Demenza e BPSD: due messaggi</h2>
+<ul>
+<li><strong>Demenza / disturbo neurocognitivo maggiore:</strong> il cambiamento cognitivo interferisce con l’autonomia; una dimenticanza o un punteggio di screening <strong>non bastano per una diagnosi</strong>.</li>
+<li><strong>BPSD:</strong> cambiamenti di comportamento e sintomi psicologici da <strong>descrivere e comprendere nel contesto</strong>, non da etichettare soltanto.</li>
+</ul>
+<p><strong>Prima chiedersi:</strong> che cosa accade, quando, con chi e quali bisogni, fattori ambientali, fisici o emotivi possono contribuire?</p>
+<aside class="notes">
+<p>Richiamare ABC/DICE senza pretendere diagnosi sulla base di un singolo comportamento. NPI-Q come possibile descrizione dei sintomi, non spiegazione della loro causa.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section>
+<section id="come-sarà-valutato-lesame" class="title-slide slide level1 center">
+<h1>Come sarà valutato l’esame</h1>
+
+</section>
+<section id="due-domande-aperte-10-punti" class="slide level2">
+<h2>Due domande aperte · 10 punti</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<h3 id="domanda-1-5-punti">Domanda 1 — 5 punti</h3>
+<p><strong>Esplorare il caso</strong></p>
+<ul>
+<li>Cosa sappiamo?</li>
+<li>Cosa manca?</li>
+<li>Perché approfondirlo?</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<h3 id="domanda-2-5-punti">Domanda 2 — 5 punti</h3>
+<p><strong>Comprendere la VMD</strong></p>
+<ul>
+<li>Che cosa significano i risultati?</li>
+<li>Come si collegano?</li>
+<li>Come descriviamo la persona all’équipe?</li>
+</ul>
+</div></div>
+<p><strong>Non si valuta il numero di scale citate, ma la pertinenza del ragionamento.</strong></p>
+</section>
+<section id="rubrica-come-leggere-i-livelli" class="slide level2 smaller">
+<h2>Rubrica: come leggere i livelli</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th>Significato</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 · Eccellente</strong></td>
+<td>Completo, accurato, collegato e motivato</td>
+</tr>
+<tr class="even">
+<td><strong>3 · Buono</strong></td>
+<td>Corretto e coerente, con omissioni minori</td>
+</tr>
+<tr class="odd">
+<td><strong>2 · Essenziale</strong></td>
+<td>Nucleo della competenza presente, ma poco approfondito</td>
+</tr>
+<tr class="even">
+<td><strong>1 · Carente</strong></td>
+<td>Frammentario, generico o con errori rilevanti</td>
+</tr>
+<tr class="odd">
+<td><strong>0 · Non dimostrato</strong></td>
+<td>Risposta assente o non pertinente</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ogni criterio è valutato separatamente.</strong> Il livello corrisponde al 100%, 75%, 50%, 25% o 0% dei punti del criterio.</p>
+</section>
+<section id="domanda-1-criteri-e-pesi" class="slide level2 smaller">
+<h2>Domanda 1 · criteri e pesi</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterio</th>
+<th style="text-align: right;">Max</th>
+<th>Che cosa cerchiamo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>1. Informazioni disponibili</strong></td>
+<td style="text-align: right;"><strong>1</strong></td>
+<td>Riconoscere e organizzare i dati con le 5M</td>
+</tr>
+<tr class="even">
+<td><strong>2. Informazioni da approfondire</strong></td>
+<td style="text-align: right;"><strong>2</strong></td>
+<td>Formulare domande pertinenti e specifiche</td>
+</tr>
+<tr class="odd">
+<td><strong>3. Motivazione degli approfondimenti</strong></td>
+<td style="text-align: right;"><strong>2</strong></td>
+<td>Spiegare perché servono; collegare dimensioni e riconoscere incertezze</td>
+</tr>
+<tr class="even">
+<td><strong>Totale</strong></td>
+<td style="text-align: right;"><strong>5</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<aside class="notes">
+<p>La presenza delle 5M non richiede di riempire in modo artificiale tutte le caselle; conta l’uso sensato per il caso.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="d1-criterio-1-dati-disponibili-1-punto" class="slide level2 smaller">
+<h2>D1 · Criterio 1: dati disponibili (1 punto)</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th style="text-align: right;">Punti</th>
+<th>Descrittore</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 Eccellente</strong></td>
+<td style="text-align: right;">1</td>
+<td>Organizza accuratamente i dati nelle 5M e riconosce le interazioni</td>
+</tr>
+<tr class="even">
+<td><strong>3 Buono</strong></td>
+<td style="text-align: right;">0,75</td>
+<td>Classifica correttamente quasi tutte le informazioni</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Essenziale</strong></td>
+<td style="text-align: right;">0,50</td>
+<td>Riconosce i dati principali, con alcune omissioni</td>
+</tr>
+<tr class="even">
+<td><strong>1 Carente</strong></td>
+<td style="text-align: right;">0,25</td>
+<td>Riconosce pochi dati o li organizza confusamente</td>
+</tr>
+<tr class="odd">
+<td><strong>0 Non dimostrato</strong></td>
+<td style="text-align: right;">0</td>
+<td>Non identifica informazioni pertinenti</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="d1-criterio-2-domande-da-porre-2-punti" class="slide level2 smaller">
+<h2>D1 · Criterio 2: domande da porre (2 punti)</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th style="text-align: right;">Punti</th>
+<th>Descrittore</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 Eccellente</strong></td>
+<td style="text-align: right;">2</td>
+<td>Approfondimenti specifici e pertinenti nelle dimensioni rilevanti</td>
+</tr>
+<tr class="even">
+<td><strong>3 Buono</strong></td>
+<td style="text-align: right;">1,5</td>
+<td>Approfondimenti pertinenti con poche omissioni</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Essenziale</strong></td>
+<td style="text-align: right;">1</td>
+<td>Approfondimenti essenziali, talvolta generici</td>
+</tr>
+<tr class="even">
+<td><strong>1 Carente</strong></td>
+<td style="text-align: right;">0,5</td>
+<td>Domande generiche o scarsamente pertinenti</td>
+</tr>
+<tr class="odd">
+<td><strong>0 Non dimostrato</strong></td>
+<td style="text-align: right;">0</td>
+<td>Non individua approfondimenti pertinenti</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="d1-criterio-3-il-perché-2-punti" class="slide level2 smaller">
+<h2>D1 · Criterio 3: il perché (2 punti)</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th style="text-align: right;">Punti</th>
+<th>Descrittore</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 Eccellente</strong></td>
+<td style="text-align: right;">2</td>
+<td>Motiva le scelte, collega problemi e risorse, considera preferenze e incertezze</td>
+</tr>
+<tr class="even">
+<td><strong>3 Buono</strong></td>
+<td style="text-align: right;">1,5</td>
+<td>Motiva adeguatamente e riconosce le principali incertezze</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Essenziale</strong></td>
+<td style="text-align: right;">1</td>
+<td>Motivazioni pertinenti ma semplici; collegamenti limitati</td>
+</tr>
+<tr class="even">
+<td><strong>1 Carente</strong></td>
+<td style="text-align: right;">0,5</td>
+<td>Motivazioni deboli e conclusioni poco giustificate</td>
+</tr>
+<tr class="odd">
+<td><strong>0 Non dimostrato</strong></td>
+<td style="text-align: right;">0</td>
+<td>Non fornisce motivazioni pertinenti</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="domanda-2-criteri-e-pesi" class="slide level2 smaller">
+<h2>Domanda 2 · criteri e pesi</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterio</th>
+<th style="text-align: right;">Max</th>
+<th>Che cosa cerchiamo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4. Interpretare la VMD</strong></td>
+<td style="text-align: right;"><strong>2</strong></td>
+<td>Comprendere risultati, cambiamenti e limiti delle scale</td>
+</tr>
+<tr class="even">
+<td><strong>5. Integrare in una sintesi</strong></td>
+<td style="text-align: right;"><strong>2</strong></td>
+<td>Descrivere la persona in modo coerente e professionale</td>
+</tr>
+<tr class="odd">
+<td><strong>6. Bisogni, risorse e preferenze</strong></td>
+<td style="text-align: right;"><strong>1</strong></td>
+<td>Riconoscere difficoltà, capacità conservate, sostegni e obiettivi</td>
+</tr>
+<tr class="even">
+<td><strong>Totale</strong></td>
+<td style="text-align: right;"><strong>5</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="d2-criterio-4-interpretare-2-punti" class="slide level2 smaller">
+<h2>D2 · Criterio 4: interpretare (2 punti)</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th style="text-align: right;">Punti</th>
+<th>Descrittore</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 Eccellente</strong></td>
+<td style="text-align: right;">2</td>
+<td>Interpreta risultati ed evoluzione, distinguendo screening e diagnosi</td>
+</tr>
+<tr class="even">
+<td><strong>3 Buono</strong></td>
+<td style="text-align: right;">1,5</td>
+<td>Interpreta i dati principali e ne riconosce i limiti</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Essenziale</strong></td>
+<td style="text-align: right;">1</td>
+<td>Comprende i dati fondamentali senza errori gravi</td>
+</tr>
+<tr class="even">
+<td><strong>1 Carente</strong></td>
+<td style="text-align: right;">0,5</td>
+<td>Interpretazione superficiale o errori rilevanti</td>
+</tr>
+<tr class="odd">
+<td><strong>0 Non dimostrato</strong></td>
+<td style="text-align: right;">0</td>
+<td>Non comprende i risultati o ne altera il significato</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="d2-criterio-5-integrare-e-descrivere-2-punti" class="slide level2 smaller">
+<h2>D2 · Criterio 5: integrare e descrivere (2 punti)</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th style="text-align: right;">Punti</th>
+<th>Descrittore</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 Eccellente</strong></td>
+<td style="text-align: right;">2</td>
+<td>Sintesi chiara, integrata e professionale delle dimensioni rilevanti</td>
+</tr>
+<tr class="even">
+<td><strong>3 Buono</strong></td>
+<td style="text-align: right;">1,5</td>
+<td>Sintesi coerente, con buoni collegamenti</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Essenziale</strong></td>
+<td style="text-align: right;">1</td>
+<td>Descrive i problemi principali, ma con integrazione limitata</td>
+</tr>
+<tr class="even">
+<td><strong>1 Carente</strong></td>
+<td style="text-align: right;">0,5</td>
+<td>Elenco di dati e punteggi senza vera sintesi</td>
+</tr>
+<tr class="odd">
+<td><strong>0 Non dimostrato</strong></td>
+<td style="text-align: right;">0</td>
+<td>Non produce una descrizione pertinente</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="d2-criterio-6-la-persona-1-punto" class="slide level2 smaller">
+<h2>D2 · Criterio 6: la persona (1 punto)</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Livello</th>
+<th style="text-align: right;">Punti</th>
+<th>Descrittore</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>4 Eccellente</strong></td>
+<td style="text-align: right;">1</td>
+<td>Collega bisogni, risorse e capacità conservate agli obiettivi della persona</td>
+</tr>
+<tr class="even">
+<td><strong>3 Buono</strong></td>
+<td style="text-align: right;">0,75</td>
+<td>Identifica bisogni e risorse, considerando le preferenze</td>
+</tr>
+<tr class="odd">
+<td><strong>2 Essenziale</strong></td>
+<td style="text-align: right;">0,50</td>
+<td>Riconosce bisogni e alcune risorse, con attenzione limitata agli obiettivi</td>
+</tr>
+<tr class="even">
+<td><strong>1 Carente</strong></td>
+<td style="text-align: right;">0,25</td>
+<td>Quasi solo deficit; risorse e preferenze trascurate</td>
+</tr>
+<tr class="odd">
+<td><strong>0 Non dimostrato</strong></td>
+<td style="text-align: right;">0</td>
+<td>Non identifica bisogni o risorse pertinenti</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dalla-rubrica-al-voto" class="slide level2 smaller">
+<h2>Dalla rubrica al voto</h2>
+<h3 id="punti-5-punti-10-punti">5 punti + 5 punti = 10 punti</h3>
+<ul>
+<li>Ogni criterio riceve un punteggio <strong>indipendente</strong> dagli altri.</li>
+<li>Il risultato è la somma dei sei criteri.</li>
+<li><strong>Soglia proposta per la prova:</strong> 6/10 complessivi, con almeno 2,5/5 in ciascuna domanda.</li>
+</ul>
+<p><strong>Un errore tipico:</strong> considerare un punteggio di screening come una diagnosi.</p>
+<aside class="notes">
+<p>La soglia minima per singola domanda è proposta didattica da confermare rispetto alle regole ufficiali dell’insegnamento integrato. Illustrare i livelli prima della simulazione.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="tre-esempi-lo-stesso-dato-risposte-diverse" class="slide level2 smaller">
+<h2>Tre esempi: lo stesso dato, risposte diverse</h2>
+<p><strong>Dato: SPMSQ con 3 errori</strong></p>
+<p><strong>Carente</strong> — «Ha una demenza.»</p>
+<p><strong>Essenziale</strong> — «Emergono possibili difficoltà cognitive da approfondire.»</p>
+<p><strong>Eccellente</strong> — «Le dimenticanze riportate e lo screening suggeriscono possibili difficoltà cognitive, da interpretare alla luce del funzionamento precedente, del contesto emotivo e delle ripercussioni quotidiane.»</p>
+<p><strong>La differenza è nel ragionamento, non nella quantità di parole.</strong></p>
+</section></section>
+<section>
+<section id="simulazione-desame" class="title-slide slide level1 center">
+<h1>Simulazione d’esame</h1>
+
+</section>
+<section id="caso-clinico-anna-84-anni" class="slide level2 smaller">
+<h2>Caso clinico · Anna, 84 anni</h2>
+<p>Anna è vedova da sei anni e vive sola al secondo piano di un condominio. C’è un ascensore, che occasionalmente non funziona. La figlia abita a circa 20 minuti e passa due volte alla settimana.</p>
+<p>Anna ha lavorato come impiegata e ha frequentato la scuola fino alla terza media. Ha diabete tipo 2, ipertensione e artrosi delle ginocchia. Assume diversi farmaci ogni giorno, ma non ricorda tutti i nomi.</p>
+<aside class="notes">
+<p>Prima parte del caso. Evitare di mostrare in anticipo le slide VMD.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="caso-clinico-che-cosa-è-cambiato" class="slide level2 smaller">
+<h2>Caso clinico · Che cosa è cambiato?</h2>
+<p>Fino a qualche mese fa Anna faceva acquisti e frequentava ogni settimana un gruppo di lettura. Tre mesi fa è caduta sul marciapiede, senza fratture. Da allora esce sempre meno.</p>
+<p>In casa svolge ancora diverse attività, anche se alcune sono faticose. La figlia nota appuntamenti dimenticati e compresse rimaste nei blister; ha iniziato ad aiutare Anna nella terapia e in alcune incombenze.</p>
+<p>Anna non è molto preoccupata per le dimenticanze, ma si sente meno sicura fuori casa e trascorre molto tempo sola.</p>
+</section>
+<section id="caso-clinico-due-punti-di-vista" class="slide level2">
+<h2>Caso clinico · Due punti di vista</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<h3 id="anna">Anna</h3>
+<blockquote>
+<p>«Mi piacerebbe tornare al gruppo di lettura. Non voglio che mia figlia debba occuparsi di tutto. A casa mia sto bene.»</p>
+</blockquote>
+</div><div class="column" style="width:45%;">
+<h3 id="la-figlia">La figlia</h3>
+<p>Teme che vivere da sola <strong>non sia più sicuro</strong>.</p>
+</div></div>
+<p><strong>Una differenza di prospettive è un dato da esplorare, non una decisione già presa.</strong></p>
+</section>
+<section id="domanda-1-esplorare-il-caso-5-punti" class="slide level2">
+<h2>Domanda 1 · Esplorare il caso (5 punti)</h2>
+<p>Usando le <strong>5M geriatriche</strong>, identificate:</p>
+<ol type="1">
+<li><strong>Che cosa sappiamo già</strong> per ciascuna dimensione?</li>
+<li><strong>Quali informazioni mancano</strong> per comprendere la situazione?</li>
+<li><strong>Perché</strong> sarebbe utile raccoglierle?</li>
+</ol>
+<p>Potete indicare strumenti appropriati (es. BADL, IADL, SPMSQ, GDS, CIRS, PC-FI), quando pertinenti.</p>
+<p><strong>Non formulate diagnosi o un piano dettagliato.</strong></p>
+<aside class="notes">
+<p>Fermarsi qui e far lavorare gli studenti prima di passare alla slide seguente. Richiedere ragionamento, non mero elenco di scale.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section>
+<section id="secondo-momento-arriva-la-vmd" class="title-slide slide level1 center">
+<h1>Secondo momento: arriva la VMD</h1>
+
+</section>
+<section id="risultati-vmd-salute-e-cognizione" class="slide level2 smaller">
+<h2>Risultati VMD · Salute e cognizione</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensione</th>
+<th>Informazioni raccolte</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Comorbilità</strong></td>
+<td>Diabete tipo 2, ipertensione, artrosi alle ginocchia, ipoacusia. CIRS-G: quattro apparati ≥2; nessuno =4</td>
+</tr>
+<tr class="even">
+<td><strong>Cognizione</strong></td>
+<td>SPMSQ: <strong>3 errori/10</strong>. Dimenticanze graduali nell’ultimo anno secondo la figlia. Anna partecipa e comprende il colloquio</td>
+</tr>
+<tr class="odd">
+<td><strong>Umore</strong></td>
+<td>GDS-15: <strong>6/15</strong>. Riferisce solitudine, paura delle cadute e riduzione d’interesse</td>
+</tr>
+<tr class="even">
+<td><strong>Farmaci</strong></td>
+<td>Sei farmaci regolari e un ipnotico al bisogno. La figlia prepara il portapillole; omissioni occasionali. Assunzione effettiva da verificare</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="risultati-vmd-autonomia-e-mobilità" class="slide level2 smaller">
+<h2>Risultati VMD · Autonomia e mobilità</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensione</th>
+<th>Informazioni raccolte</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>BADL (Katz)</strong></td>
+<td><strong>5/6</strong>: autonoma tranne che per bagno/doccia, che richiede assistenza</td>
+</tr>
+<tr class="even">
+<td><strong>IADL (Lawton)</strong></td>
+<td><strong>4/8</strong>: autonoma per telefono, pasti, piccole faccende e bucato; necessita di aiuto per acquisti, trasporti, terapia e denaro</td>
+</tr>
+<tr class="odd">
+<td><strong>Sei mesi fa</strong></td>
+<td>Indipendente nelle BADL e autonoma in <strong>7/8 IADL</strong>, secondo la figlia</td>
+</tr>
+<tr class="even">
+<td><strong>Mobilità</strong></td>
+<td>Cammina in casa autonomamente; all’esterno usa bastone, è lenta e teme le cadute. Una caduta in tre mesi</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="risultati-vmd-ambiente-relazioni-desideri" class="slide level2 smaller">
+<h2>Risultati VMD · Ambiente, relazioni, desideri</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensione</th>
+<th>Informazioni raccolte</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Casa</strong></td>
+<td>Ordinata; doccia senza maniglioni; ascensore occasionalmente non funzionante</td>
+</tr>
+<tr class="even">
+<td><strong>Rete sociale</strong></td>
+<td>Figlia presente due volte a settimana; vicina disponibile per piccoli aiuti</td>
+</tr>
+<tr class="odd">
+<td><strong>Partecipazione</strong></td>
+<td>Interrotti gruppo di lettura e contatti sociali connessi</td>
+</tr>
+<tr class="even">
+<td><strong>Preferenze</strong></td>
+<td>Vuole restare a casa, conservare le capacità quotidiane e tornare al gruppo di lettura</td>
+</tr>
+<tr class="odd">
+<td><strong>Aiuti</strong></td>
+<td>È disponibile a discuterli, purché non sostituiscano inutilmente ciò che sa ancora fare</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="domanda-2-scrivere-per-léquipe-5-punti" class="slide level2">
+<h2>Domanda 2 · Scrivere per l’équipe (5 punti)</h2>
+<p><strong>Redigete una descrizione professionale di Anna</strong> (circa 150–200 parole), usando storia iniziale e risultati VMD.</p>
+<p>La sintesi deve rendere comprensibili:</p>
+<ul>
+<li>le <strong>difficoltà</strong> e la loro evoluzione;</li>
+<li>le <strong>autonomie e risorse conservate</strong>;</li>
+<li>i <strong>bisogni rilevanti</strong> per un progetto educativo-assistenziale;</li>
+<li>le <strong>preferenze</strong> di Anna e ciò che rimane incerto.</li>
+</ul>
+<p><strong>Non basta elencare le scale. Non è richiesto un progetto dettagliato.</strong></p>
+<aside class="notes">
+<p>Seconda consegna: la VMD si presenta dopo la risposta alla domanda 1. È una sintesi professionale per équipe sociosanitaria, non un compito diagnostico.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="prima-di-consegnare" class="slide level2">
+<h2>Prima di consegnare</h2>
+<h3 id="controllo-rapido">Controllo rapido</h3>
+<ol type="1">
+<li>Ho distinto <strong>dati, ipotesi e informazioni mancanti</strong>?</li>
+<li>Ho spiegato <strong>perché</strong> approfondire certi aspetti?</li>
+<li>Ho tradotto i punteggi in <strong>funzionamento quotidiano</strong>?</li>
+<li>Ho descritto <strong>capacità e risorse</strong>, oltre alle difficoltà?</li>
+<li>Si capisce <strong>che cosa conta per Anna</strong>?</li>
+</ol>
+</section>
+<section id="materiali-di-riferimento" class="slide level2 smaller">
+<h2>Materiali di riferimento</h2>
+<ul>
+<li><a href="../../geriatria/educazione-professionale/01_invecchiamento_fragilita.html">Invecchiamento, modello bio-psico-sociale e fragilità</a></li>
+<li><a href="../../geriatria/educazione-professionale/02_valutazione_multidim.html">La valutazione multidimensionale</a></li>
+<li><a href="../../geriatria/educazione-professionale/03_demenza_BPSD.html">Disturbi neurocognitivi, demenze e BPSD</a></li>
+<li><a href="https://www.bgs.org.uk/CGA">British Geriatrics Society — Comprehensive Geriatric Assessment</a></li>
+</ul>
+<aside class="notes">
+<p>La simulazione riprende principi e strumenti già discussi nelle tre lezioni. Non distribuire un’interpretazione diagnostica automatica delle scale.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+
+
+</section></section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<div class="footer footer-default">
+<p>alberto.zucchelli@unibs.it</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="../../site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: true,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'fade',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1280,
+
+        height: 720,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 6.0e-2,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copiato!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copiato!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/ZuccAlb89\.github\.io\/didattica\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>
