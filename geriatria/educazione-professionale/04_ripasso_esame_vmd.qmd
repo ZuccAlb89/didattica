@@ -1,0 +1,346 @@
+---
+title: "Ripasso ed esame: ragionamento multidimensionale"
+subtitle: "Geriatria · Educazione Professionale"
+author: "Alberto Zucchelli"
+lang: it
+format:
+  clean-revealjs:
+    slide-number: c/t
+    transition: fade
+    incremental: false
+    width: 1280
+    height: 720
+    margin: 0.06
+    footer: "alberto.zucchelli@unibs.it"
+    preview-links: true
+---
+
+## Dalle lezioni all'esame
+
+### Tre idee da portare con noi
+
+**Comprendere la persona** → **raccogliere e integrare informazioni** → **comunicare bisogni e risorse**
+
+::: {.notes}
+Modulo di ripasso e trasparenza della valutazione. I contenuti teorici riprendono le tre lezioni precedenti; l'attività finale simula le due domande dell'esame. Non anticipare la seconda parte del caso prima della risposta alla prima.
+:::
+
+## Modello bio-psico-sociale
+
+Una situazione non si spiega con le sole malattie.
+
+:::: {.columns}
+
+::: {.column width="33%"}
+### Biologico
+Patologie, sintomi, capacità fisiche e cognitive
+:::
+
+::: {.column width="33%"}
+### Psicologico
+Emozioni, percezioni, motivazioni e comportamenti
+:::
+
+::: {.column width="34%"}
+### Sociale
+Relazioni, sostegni, ambiente, opportunità e barriere
+:::
+
+::::
+
+**Le dimensioni interagiscono:** una caduta può produrre paura, ridurre le uscite e indebolire le relazioni.
+
+## VMD: un processo, non una batteria di test
+
+**Valutare** → **integrare e condividere** → **concordare obiettivi** → **intervenire** → **rivalutare**
+
+- Le scale *contribuiscono* alla valutazione: non coincidono con la VMD.
+- Il progetto nasce da **bisogni, capacità, risorse e preferenze**.
+- La valutazione cambia nel tempo e richiede collaborazione multiprofessionale.
+
+::: {.notes}
+Richiamare la distinzione fra misurazione e interpretazione; la VMD è un processo multiprofessionale e dinamico. Riferimento: https://www.bgs.org.uk/CGA
+:::
+
+## Demenza e BPSD: due messaggi
+
+- **Demenza / disturbo neurocognitivo maggiore:** il cambiamento cognitivo interferisce con l'autonomia; una dimenticanza o un punteggio di screening **non bastano per una diagnosi**.
+- **BPSD:** cambiamenti di comportamento e sintomi psicologici da **descrivere e comprendere nel contesto**, non da etichettare soltanto.
+
+**Prima chiedersi:** che cosa accade, quando, con chi e quali bisogni, fattori ambientali, fisici o emotivi possono contribuire?
+
+::: {.notes}
+Richiamare ABC/DICE senza pretendere diagnosi sulla base di un singolo comportamento. NPI-Q come possibile descrizione dei sintomi, non spiegazione della loro causa.
+:::
+
+# Come sarà valutato l'esame
+
+## Due domande aperte · 10 punti
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Domanda 1 — 5 punti
+**Esplorare il caso**
+
+- Cosa sappiamo?
+- Cosa manca?
+- Perché approfondirlo?
+:::
+
+::: {.column width="50%"}
+### Domanda 2 — 5 punti
+**Comprendere la VMD**
+
+- Che cosa significano i risultati?
+- Come si collegano?
+- Come descriviamo la persona all'équipe?
+:::
+
+::::
+
+**Non si valuta il numero di scale citate, ma la pertinenza del ragionamento.**
+
+## Rubrica: come leggere i livelli {.smaller}
+
+| Livello | Significato |
+|---|---|
+| **4 · Eccellente** | Completo, accurato, collegato e motivato |
+| **3 · Buono** | Corretto e coerente, con omissioni minori |
+| **2 · Essenziale** | Nucleo della competenza presente, ma poco approfondito |
+| **1 · Carente** | Frammentario, generico o con errori rilevanti |
+| **0 · Non dimostrato** | Risposta assente o non pertinente |
+
+**Ogni criterio è valutato separatamente.** Il livello corrisponde al 100%, 75%, 50%, 25% o 0% dei punti del criterio.
+
+## Domanda 1 · criteri e pesi {.smaller}
+
+| Criterio | Max | Che cosa cerchiamo |
+|---|---:|---|
+| **1. Informazioni disponibili** | **1** | Riconoscere e organizzare i dati con le 5M |
+| **2. Informazioni da approfondire** | **2** | Formulare domande pertinenti e specifiche |
+| **3. Motivazione degli approfondimenti** | **2** | Spiegare perché servono; collegare dimensioni e riconoscere incertezze |
+| **Totale** | **5** | |
+
+::: {.notes}
+La presenza delle 5M non richiede di riempire in modo artificiale tutte le caselle; conta l'uso sensato per il caso.
+:::
+
+## D1 · Criterio 1: dati disponibili (1 punto) {.smaller}
+
+| Livello | Punti | Descrittore |
+|---|---:|---|
+| **4 Eccellente** | 1 | Organizza accuratamente i dati nelle 5M e riconosce le interazioni |
+| **3 Buono** | 0,75 | Classifica correttamente quasi tutte le informazioni |
+| **2 Essenziale** | 0,50 | Riconosce i dati principali, con alcune omissioni |
+| **1 Carente** | 0,25 | Riconosce pochi dati o li organizza confusamente |
+| **0 Non dimostrato** | 0 | Non identifica informazioni pertinenti |
+
+## D1 · Criterio 2: domande da porre (2 punti) {.smaller}
+
+| Livello | Punti | Descrittore |
+|---|---:|---|
+| **4 Eccellente** | 2 | Approfondimenti specifici e pertinenti nelle dimensioni rilevanti |
+| **3 Buono** | 1,5 | Approfondimenti pertinenti con poche omissioni |
+| **2 Essenziale** | 1 | Approfondimenti essenziali, talvolta generici |
+| **1 Carente** | 0,5 | Domande generiche o scarsamente pertinenti |
+| **0 Non dimostrato** | 0 | Non individua approfondimenti pertinenti |
+
+## D1 · Criterio 3: il perché (2 punti) {.smaller}
+
+| Livello | Punti | Descrittore |
+|---|---:|---|
+| **4 Eccellente** | 2 | Motiva le scelte, collega problemi e risorse, considera preferenze e incertezze |
+| **3 Buono** | 1,5 | Motiva adeguatamente e riconosce le principali incertezze |
+| **2 Essenziale** | 1 | Motivazioni pertinenti ma semplici; collegamenti limitati |
+| **1 Carente** | 0,5 | Motivazioni deboli e conclusioni poco giustificate |
+| **0 Non dimostrato** | 0 | Non fornisce motivazioni pertinenti |
+
+## Domanda 2 · criteri e pesi {.smaller}
+
+| Criterio | Max | Che cosa cerchiamo |
+|---|---:|---|
+| **4. Interpretare la VMD** | **2** | Comprendere risultati, cambiamenti e limiti delle scale |
+| **5. Integrare in una sintesi** | **2** | Descrivere la persona in modo coerente e professionale |
+| **6. Bisogni, risorse e preferenze** | **1** | Riconoscere difficoltà, capacità conservate, sostegni e obiettivi |
+| **Totale** | **5** | |
+
+## D2 · Criterio 4: interpretare (2 punti) {.smaller}
+
+| Livello | Punti | Descrittore |
+|---|---:|---|
+| **4 Eccellente** | 2 | Interpreta risultati ed evoluzione, distinguendo screening e diagnosi |
+| **3 Buono** | 1,5 | Interpreta i dati principali e ne riconosce i limiti |
+| **2 Essenziale** | 1 | Comprende i dati fondamentali senza errori gravi |
+| **1 Carente** | 0,5 | Interpretazione superficiale o errori rilevanti |
+| **0 Non dimostrato** | 0 | Non comprende i risultati o ne altera il significato |
+
+## D2 · Criterio 5: integrare e descrivere (2 punti) {.smaller}
+
+| Livello | Punti | Descrittore |
+|---|---:|---|
+| **4 Eccellente** | 2 | Sintesi chiara, integrata e professionale delle dimensioni rilevanti |
+| **3 Buono** | 1,5 | Sintesi coerente, con buoni collegamenti |
+| **2 Essenziale** | 1 | Descrive i problemi principali, ma con integrazione limitata |
+| **1 Carente** | 0,5 | Elenco di dati e punteggi senza vera sintesi |
+| **0 Non dimostrato** | 0 | Non produce una descrizione pertinente |
+
+## D2 · Criterio 6: la persona (1 punto) {.smaller}
+
+| Livello | Punti | Descrittore |
+|---|---:|---|
+| **4 Eccellente** | 1 | Collega bisogni, risorse e capacità conservate agli obiettivi della persona |
+| **3 Buono** | 0,75 | Identifica bisogni e risorse, considerando le preferenze |
+| **2 Essenziale** | 0,50 | Riconosce bisogni e alcune risorse, con attenzione limitata agli obiettivi |
+| **1 Carente** | 0,25 | Quasi solo deficit; risorse e preferenze trascurate |
+| **0 Non dimostrato** | 0 | Non identifica bisogni o risorse pertinenti |
+
+## Dalla rubrica al voto {.smaller}
+
+### 5 punti + 5 punti = 10 punti
+
+- Ogni criterio riceve un punteggio **indipendente** dagli altri.
+- Il risultato è la somma dei sei criteri.
+- **Soglia proposta per la prova:** 6/10 complessivi, con almeno 2,5/5 in ciascuna domanda.
+
+**Un errore tipico:** considerare un punteggio di screening come una diagnosi.
+
+::: {.notes}
+La soglia minima per singola domanda è proposta didattica da confermare rispetto alle regole ufficiali dell'insegnamento integrato. Illustrare i livelli prima della simulazione.
+:::
+
+## Tre esempi: lo stesso dato, risposte diverse {.smaller}
+
+**Dato: SPMSQ con 3 errori**
+
+**Carente** — «Ha una demenza.»
+
+**Essenziale** — «Emergono possibili difficoltà cognitive da approfondire.»
+
+**Eccellente** — «Le dimenticanze riportate e lo screening suggeriscono possibili difficoltà cognitive, da interpretare alla luce del funzionamento precedente, del contesto emotivo e delle ripercussioni quotidiane.»
+
+**La differenza è nel ragionamento, non nella quantità di parole.**
+
+# Simulazione d'esame
+
+## Caso clinico · Anna, 84 anni {.smaller}
+
+Anna è vedova da sei anni e vive sola al secondo piano di un condominio. C'è un ascensore, che occasionalmente non funziona. La figlia abita a circa 20 minuti e passa due volte alla settimana.
+
+Anna ha lavorato come impiegata e ha frequentato la scuola fino alla terza media. Ha diabete tipo 2, ipertensione e artrosi delle ginocchia. Assume diversi farmaci ogni giorno, ma non ricorda tutti i nomi.
+
+::: {.notes}
+Prima parte del caso. Evitare di mostrare in anticipo le slide VMD.
+:::
+
+## Caso clinico · Che cosa è cambiato? {.smaller}
+
+Fino a qualche mese fa Anna faceva acquisti e frequentava ogni settimana un gruppo di lettura. Tre mesi fa è caduta sul marciapiede, senza fratture. Da allora esce sempre meno.
+
+In casa svolge ancora diverse attività, anche se alcune sono faticose. La figlia nota appuntamenti dimenticati e compresse rimaste nei blister; ha iniziato ad aiutare Anna nella terapia e in alcune incombenze.
+
+Anna non è molto preoccupata per le dimenticanze, ma si sente meno sicura fuori casa e trascorre molto tempo sola.
+
+## Caso clinico · Due punti di vista
+
+:::: {.columns}
+
+::: {.column width="55%"}
+### Anna
+
+> «Mi piacerebbe tornare al gruppo di lettura. Non voglio che mia figlia debba occuparsi di tutto. A casa mia sto bene.»
+:::
+
+::: {.column width="45%"}
+### La figlia
+
+Teme che vivere da sola **non sia più sicuro**.
+:::
+
+::::
+
+**Una differenza di prospettive è un dato da esplorare, non una decisione già presa.**
+
+## Domanda 1 · Esplorare il caso (5 punti)
+
+Usando le **5M geriatriche**, identificate:
+
+1. **Che cosa sappiamo già** per ciascuna dimensione?
+2. **Quali informazioni mancano** per comprendere la situazione?
+3. **Perché** sarebbe utile raccoglierle?
+
+Potete indicare strumenti appropriati (es. BADL, IADL, SPMSQ, GDS, CIRS, PC-FI), quando pertinenti.
+
+**Non formulate diagnosi o un piano dettagliato.**
+
+::: {.notes}
+Fermarsi qui e far lavorare gli studenti prima di passare alla slide seguente. Richiedere ragionamento, non mero elenco di scale.
+:::
+
+# Secondo momento: arriva la VMD
+
+## Risultati VMD · Salute e cognizione {.smaller}
+
+| Dimensione | Informazioni raccolte |
+|---|---|
+| **Comorbilità** | Diabete tipo 2, ipertensione, artrosi alle ginocchia, ipoacusia. CIRS-G: quattro apparati ≥2; nessuno =4 |
+| **Cognizione** | SPMSQ: **3 errori/10**. Dimenticanze graduali nell'ultimo anno secondo la figlia. Anna partecipa e comprende il colloquio |
+| **Umore** | GDS-15: **6/15**. Riferisce solitudine, paura delle cadute e riduzione d'interesse |
+| **Farmaci** | Sei farmaci regolari e un ipnotico al bisogno. La figlia prepara il portapillole; omissioni occasionali. Assunzione effettiva da verificare |
+
+## Risultati VMD · Autonomia e mobilità {.smaller}
+
+| Dimensione | Informazioni raccolte |
+|---|---|
+| **BADL (Katz)** | **5/6**: autonoma tranne che per bagno/doccia, che richiede assistenza |
+| **IADL (Lawton)** | **4/8**: autonoma per telefono, pasti, piccole faccende e bucato; necessita di aiuto per acquisti, trasporti, terapia e denaro |
+| **Sei mesi fa** | Indipendente nelle BADL e autonoma in **7/8 IADL**, secondo la figlia |
+| **Mobilità** | Cammina in casa autonomamente; all'esterno usa bastone, è lenta e teme le cadute. Una caduta in tre mesi |
+
+## Risultati VMD · Ambiente, relazioni, desideri {.smaller}
+
+| Dimensione | Informazioni raccolte |
+|---|---|
+| **Casa** | Ordinata; doccia senza maniglioni; ascensore occasionalmente non funzionante |
+| **Rete sociale** | Figlia presente due volte a settimana; vicina disponibile per piccoli aiuti |
+| **Partecipazione** | Interrotti gruppo di lettura e contatti sociali connessi |
+| **Preferenze** | Vuole restare a casa, conservare le capacità quotidiane e tornare al gruppo di lettura |
+| **Aiuti** | È disponibile a discuterli, purché non sostituiscano inutilmente ciò che sa ancora fare |
+
+## Domanda 2 · Scrivere per l'équipe (5 punti)
+
+**Redigete una descrizione professionale di Anna** (circa 150–200 parole), usando storia iniziale e risultati VMD.
+
+La sintesi deve rendere comprensibili:
+
+- le **difficoltà** e la loro evoluzione;
+- le **autonomie e risorse conservate**;
+- i **bisogni rilevanti** per un progetto educativo-assistenziale;
+- le **preferenze** di Anna e ciò che rimane incerto.
+
+**Non basta elencare le scale. Non è richiesto un progetto dettagliato.**
+
+::: {.notes}
+Seconda consegna: la VMD si presenta dopo la risposta alla domanda 1. È una sintesi professionale per équipe sociosanitaria, non un compito diagnostico.
+:::
+
+## Prima di consegnare
+
+### Controllo rapido
+
+1. Ho distinto **dati, ipotesi e informazioni mancanti**?
+2. Ho spiegato **perché** approfondire certi aspetti?
+3. Ho tradotto i punteggi in **funzionamento quotidiano**?
+4. Ho descritto **capacità e risorse**, oltre alle difficoltà?
+5. Si capisce **che cosa conta per Anna**?
+
+## Materiali di riferimento {.smaller}
+
+- [Invecchiamento, modello bio-psico-sociale e fragilità](01_invecchiamento_fragilita.qmd)
+- [La valutazione multidimensionale](02_valutazione_multidim.qmd)
+- [Disturbi neurocognitivi, demenze e BPSD](03_demenza_BPSD.qmd)
+- [British Geriatrics Society — Comprehensive Geriatric Assessment](https://www.bgs.org.uk/CGA)
+
+::: {.notes}
+La simulazione riprende principi e strumenti già discussi nelle tre lezioni. Non distribuire un'interpretazione diagnostica automatica delle scale.
+:::
