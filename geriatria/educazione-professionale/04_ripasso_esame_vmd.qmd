@@ -67,7 +67,7 @@ Richiamare la distinzione fra misurazione e interpretazione; la VMD è un proces
 - **Demenza / disturbo neurocognitivo maggiore:** il cambiamento cognitivo interferisce con l'autonomia; una dimenticanza o un punteggio di screening **non bastano per una diagnosi**.
 - **BPSD:** cambiamenti di comportamento e sintomi psicologici da **descrivere e comprendere nel contesto**, non da etichettare soltanto.
 
-**Prima chiedersi:** che cosa accade, quando, con chi e quali bisogni, fattori ambientali, fisici o emotivi possono contribuire?
+**Prima chiedersi:** che cosa accade, quando, con chi e quali bisogni, fattori ambientali, fisici o emotivi possono contribuire? (ABC/DICE)
 
 ::: {.notes}
 Richiamare ABC/DICE senza pretendere diagnosi sulla base di un singolo comportamento. NPI-Q come possibile descrizione dei sintomi, non spiegazione della loro causa.
@@ -111,7 +111,7 @@ Richiamare ABC/DICE senza pretendere diagnosi sulla base di un singolo comportam
 | **1 · Carente** | Frammentario, generico o con errori rilevanti |
 | **0 · Non dimostrato** | Risposta assente o non pertinente |
 
-**Ogni criterio è valutato separatamente.** Il livello corrisponde al 100%, 75%, 50%, 25% o 0% dei punti del criterio.
+**Ogni criterio è valutato separatamente.**
 
 ## Domanda 1 · criteri e pesi {.smaller}
 
@@ -150,10 +150,9 @@ La presenza delle 5M non richiede di riempire in modo artificiale tutte le casel
 
 | Livello | Punti | Descrittore |
 |---|---:|---|
-| **4 Eccellente** | 2 | Motiva le scelte, collega problemi e risorse, considera preferenze e incertezze |
-| **3 Buono** | 1,5 | Motiva adeguatamente e riconosce le principali incertezze |
+| **4 Eccellente** | 2 | Motiva adeguatamente e riconosce le principali incertezze |
 | **2 Essenziale** | 1 | Motivazioni pertinenti ma semplici; collegamenti limitati |
-| **1 Carente** | 0,5 | Motivazioni deboli e conclusioni poco giustificate |
+| **1 Carente** | 0,5 | Motivazioni deboli e conclusioni non giustificate |
 | **0 Non dimostrato** | 0 | Non fornisce motivazioni pertinenti |
 
 ## Domanda 2 · criteri e pesi {.smaller}
@@ -169,8 +168,7 @@ La presenza delle 5M non richiede di riempire in modo artificiale tutte le casel
 
 | Livello | Punti | Descrittore |
 |---|---:|---|
-| **4 Eccellente** | 2 | Interpreta risultati ed evoluzione, distinguendo screening e diagnosi |
-| **3 Buono** | 1,5 | Interpreta i dati principali e ne riconosce i limiti |
+| **4 Eccellente** | 2 | Interpreta i dati principali e ne riconosce i limiti |
 | **2 Essenziale** | 1 | Comprende i dati fondamentali senza errori gravi |
 | **1 Carente** | 0,5 | Interpretazione superficiale o errori rilevanti |
 | **0 Non dimostrato** | 0 | Non comprende i risultati o ne altera il significato |
@@ -180,7 +178,6 @@ La presenza delle 5M non richiede di riempire in modo artificiale tutte le casel
 | Livello | Punti | Descrittore |
 |---|---:|---|
 | **4 Eccellente** | 2 | Sintesi chiara, integrata e professionale delle dimensioni rilevanti |
-| **3 Buono** | 1,5 | Sintesi coerente, con buoni collegamenti |
 | **2 Essenziale** | 1 | Descrive i problemi principali, ma con integrazione limitata |
 | **1 Carente** | 0,5 | Elenco di dati e punteggi senza vera sintesi |
 | **0 Non dimostrato** | 0 | Non produce una descrizione pertinente |
@@ -189,10 +186,9 @@ La presenza delle 5M non richiede di riempire in modo artificiale tutte le casel
 
 | Livello | Punti | Descrittore |
 |---|---:|---|
-| **4 Eccellente** | 1 | Collega bisogni, risorse e capacità conservate agli obiettivi della persona |
-| **3 Buono** | 0,75 | Identifica bisogni e risorse, considerando le preferenze |
+| **4 Eccellente** | 1 | Identifica bisogni e risorse, considerando le preferenze |
 | **2 Essenziale** | 0,50 | Riconosce bisogni e alcune risorse, con attenzione limitata agli obiettivi |
-| **1 Carente** | 0,25 | Quasi solo deficit; risorse e preferenze trascurate |
+| **1 Carente** | 0,25 | Riconosce solo deficit; risorse e preferenze trascurate |
 | **0 Non dimostrato** | 0 | Non identifica bisogni o risorse pertinenti |
 
 ## Dalla rubrica al voto {.smaller}
@@ -203,7 +199,7 @@ La presenza delle 5M non richiede di riempire in modo artificiale tutte le casel
 - Il risultato è la somma dei sei criteri.
 - **Soglia proposta per la prova:** 6/10 complessivi, con almeno 2,5/5 in ciascuna domanda.
 
-**Un errore tipico:** considerare un punteggio di screening come una diagnosi.
+
 
 ::: {.notes}
 La soglia minima per singola domanda è proposta didattica da confermare rispetto alle regole ufficiali dell'insegnamento integrato. Illustrare i livelli prima della simulazione.
@@ -219,7 +215,17 @@ La soglia minima per singola domanda è proposta didattica da confermare rispett
 
 **Eccellente** — «Le dimenticanze riportate e lo screening suggeriscono possibili difficoltà cognitive, da interpretare alla luce del funzionamento precedente, del contesto emotivo e delle ripercussioni quotidiane.»
 
-**La differenza è nel ragionamento, non nella quantità di parole.**
+
+## Tre esempi: lo stesso dato, risposte diverse {.smaller}
+
+**Dato: Anna ha BADL 5/6, IADL 4/8, vive sola e desidera tornare al gruppo di lettura.**
+
+**Carente** — «Anna non è più autonoma e necessita di maggiore assistenza domiciliare.»
+
+**Essenziale** — «Anna presenta difficoltà in alcune attività quotidiane, ma conserva diverse autonomie. Vorrebbe tornare al gruppo di lettura.»
+
+**Eccellente** — «Anna conserva gran parte delle autonomie di base, ma necessita di supporto in alcune attività strumentali. Il sostegno della figlia e le capacità conservate rappresentano risorse da valorizzare. Riprendere il gruppo di lettura costituisce un obiettivo significativo per Anna, da considerare nella definizione dei supporti necessari»
+
 
 # Simulazione d'esame
 
@@ -259,8 +265,6 @@ Teme che vivere da sola **non sia più sicuro**.
 
 ::::
 
-**Una differenza di prospettive è un dato da esplorare, non una decisione già presa.**
-
 ## Domanda 1 · Esplorare il caso (5 punti)
 
 Usando le **5M geriatriche**, identificate:
@@ -269,15 +273,14 @@ Usando le **5M geriatriche**, identificate:
 2. **Quali informazioni mancano** per comprendere la situazione?
 3. **Perché** sarebbe utile raccoglierle?
 
-Potete indicare strumenti appropriati (es. BADL, IADL, SPMSQ, GDS, CIRS, PC-FI), quando pertinenti.
+Potete indicare strumenti appropriati (es. BADL, IADL, SPMSQ, GDS, CIRS, PC-FI), quando pertinenti. Non è necessario.
 
-**Non formulate diagnosi o un piano dettagliato.**
 
 ::: {.notes}
 Fermarsi qui e far lavorare gli studenti prima di passare alla slide seguente. Richiedere ragionamento, non mero elenco di scale.
 :::
 
-# Secondo momento: arriva la VMD
+# Secondo momento:  la VMD
 
 ## Risultati VMD · Salute e cognizione {.smaller}
 
@@ -309,7 +312,7 @@ Fermarsi qui e far lavorare gli studenti prima di passare alla slide seguente. R
 
 ## Domanda 2 · Scrivere per l'équipe (5 punti)
 
-**Redigete una descrizione professionale di Anna** (circa 150–200 parole), usando storia iniziale e risultati VMD.
+**Redigete una descrizione professionale di Anna** (circa 200 parole), usando storia iniziale e risultati VMD.
 
 La sintesi deve rendere comprensibili:
 
